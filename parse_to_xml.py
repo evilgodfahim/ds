@@ -26,7 +26,7 @@ SOURCES = {
     "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
     "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
     "todays_news": {"html": "todays-news.html", "xml": "todays_news.xml"},
-    "business": {"html": "business.html", "xml": "business.xml"},
+    "business": {"html": "businesss.html", "xml": "business.xml"},
     "deep_dive": {"html": "deep_dive.html", "xml": "deep_dive.xml"},
     "diplomacy": {"html": "diplomacy.html", "xml": "diplomacy.xml"},
     "printversion": {"html": "printversion.html", "xml": "printversion.xml"},
