@@ -7,6 +7,7 @@ Parse Daily Sun saved HTML files to XML.
 - All subcategory HTMLs for printversion are included dynamically.
 - Only new articles are added.
 - Existing XMLs are preserved.
+- Strict URL filtering for printversion subcategories.
 """
 
 import os
@@ -207,28 +208,48 @@ def write_feed(xml_file, channel_title, channel_link, articles):
     return new_count, len(channel.findall("item"))
 
 
-def matches_printversion_url_pattern(url: str, subcategory_name: str) -> bool:
+def matches_printversion_url_pattern(url: str, subcategory_href: str) -> bool:
     """
-    Check if URL contains the correct pattern for printversion subcategory.
-    Single word: /name/
-    Multiple words: /subcategory-name/
-    """
-    words = subcategory_name.strip().split()
-    if len(words) == 1:
-        # Single word: /name/
-        pattern = f"/{words[0].lower()}/"
-    else:
-        # Multiple words: /word1-word2-word3/
-        pattern = "/" + "-".join(word.lower() for word in words) + "/"
+    Check if URL STRICTLY contains the subcategory path from the href.
+    Extracts the path segment from href and checks if it appears in the article URL.
     
-    return pattern in url.lower()
+    Examples:
+        href="/front-page" -> checks for "/front-page/" in URL
+        href="https://www.daily-sun.com/metropolis" -> checks for "/metropolis/" in URL
+        href="/my-districts" -> checks for "/my-districts/" in URL
+    """
+    if not subcategory_href:
+        return False
+    
+    # Extract path from href (remove domain if present, get the path part)
+    path = subcategory_href.strip()
+    
+    # Remove query parameters
+    path = path.split('?')[0]
+    
+    # If it contains the domain, extract just the path
+    if 'daily-sun.com' in path:
+        parts = path.split('daily-sun.com/')
+        if len(parts) > 1:
+            path = '/' + parts[-1]
+        else:
+            path = '/'
+    
+    # Ensure path starts and ends with /
+    if not path.startswith('/'):
+        path = '/' + path
+    if not path.endswith('/'):
+        path = path + '/'
+    
+    # STRICT check: path must be present in URL
+    return path.lower() in url.lower()
 
 
 def main():
     total_new = 0
     for key, cfg in SOURCES.items():
         html_files = [cfg["html"]]
-        subcategory_names = {}  # Map html_file to subcategory_name for printversion
+        subcategory_hrefs = {}  # Map html_file to href path for printversion
 
         if key == "printversion":
             if os.path.exists(cfg["html"]):
@@ -237,11 +258,12 @@ def main():
                 subcats = soup.select(".desktopSubCategoryDiv li a")
                 for link in subcats:
                     label = link.get_text(strip=True)
-                    if not label:
+                    href = link.get("href", "")
+                    if not label or not href:
                         continue
                     sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
                     html_files.append(sub_html)
-                    subcategory_names[sub_html] = label
+                    subcategory_hrefs[sub_html] = href
 
         articles_collected = []
 
@@ -253,10 +275,14 @@ def main():
                 html = fh.read()
             arts = extract_articles_from_html_string(html)
             
-            # Filter articles for printversion subcategories
-            if key == "printversion" and html_file in subcategory_names:
-                subcat_name = subcategory_names[html_file]
-                arts = [a for a in arts if matches_printversion_url_pattern(a["url"], subcat_name)]
+            # Filter articles for printversion subcategories - STRICT matching only
+            if key == "printversion" and html_file in subcategory_hrefs:
+                subcat_href = subcategory_hrefs[html_file]
+                filtered_arts = []
+                for a in arts:
+                    if matches_printversion_url_pattern(a["url"], subcat_href):
+                        filtered_arts.append(a)
+                arts = filtered_arts
             
             for a in arts:
                 if a["url"] not in {x["url"] for x in articles_collected}:
