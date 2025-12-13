@@ -279,7 +279,6 @@ def main():
                 with open(cfg["html"], "r", encoding="utf-8") as fh:
                     soup = BeautifulSoup(fh.read(), "html.parser")
 
-                # Extract only true printversion subcategories
                 subcats = soup.select(".desktopSubCategoryDiv li a")
                 for link in subcats:
                     label = link.get_text(strip=True)
@@ -287,15 +286,16 @@ def main():
                     if not label or not href:
                         continue
 
-                    # Ignore header menu links
                     if link.find_parent(class_="stickyHeaderMenuDiv"):
                         continue
-
-                    # Ignore topic links
                     if link.find_parent(class_="text-muted"):
                         continue
 
-                    sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
+                    if "/business-print/" in href:
+                        sub_html = "business_printversion.html"
+                    else:
+                        sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
+
                     norm = normalize_path_from_href(href)
                     if not norm or norm == "/":
                         continue
