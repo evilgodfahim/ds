@@ -4,7 +4,7 @@
 Parse Daily Sun saved HTML files to XML.
 
 - Fully matches your repo HTML filenames.
-- All subcategory HTMLs for printversion are included.
+- All subcategory HTMLs for printversion are included dynamically.
 - Only new articles are added.
 - Existing XMLs are preserved.
 """
@@ -25,22 +25,7 @@ SOURCES = {
     "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
     "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
     "todays_news": {"html": "todays-news.html", "xml": "todays_news.xml"},
-    "printversion": {
-        "html": "printversion.html",
-        "xml": "printversion.xml",
-        "sub_htmls": [
-            "front_page.html",
-            "back_page.html",
-            "metropolis.html",
-            "winner.html",
-            "editorial.html",
-            "my_districts.html",
-            "news.html",
-            "world.html",
-            "culturetainment.html",
-            "post_logue.html"
-        ],
-    },
+    "printversion": {"html": "printversion.html", "xml": "printversion.xml"},
 }
 
 
@@ -215,8 +200,19 @@ def main():
     total_new = 0
     for key, cfg in SOURCES.items():
         html_files = [cfg["html"]]
+
+        # Dynamic subcategory discovery for printversion
         if key == "printversion":
-            html_files.extend(cfg.get("sub_htmls", []))
+            if os.path.exists(cfg["html"]):
+                with open(cfg["html"], "r", encoding="utf-8") as fh:
+                    soup = BeautifulSoup(fh.read(), "html.parser")
+                subcats = soup.select(".desktopSubCategoryDiv li a")
+                for link in subcats:
+                    label = link.get_text(strip=True)
+                    if not label:
+                        continue
+                    sub_html = re.sub(r'\W+', '_', label.lower()) + ".html"
+                    html_files.append(sub_html)
 
         articles_collected = []
 
