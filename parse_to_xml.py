@@ -207,10 +207,28 @@ def write_feed(xml_file, channel_title, channel_link, articles):
     return new_count, len(channel.findall("item"))
 
 
+def matches_printversion_url_pattern(url: str, subcategory_name: str) -> bool:
+    """
+    Check if URL contains the correct pattern for printversion subcategory.
+    Single word: /name/
+    Multiple words: /subcategory-name/
+    """
+    words = subcategory_name.strip().split()
+    if len(words) == 1:
+        # Single word: /name/
+        pattern = f"/{words[0].lower()}/"
+    else:
+        # Multiple words: /word1-word2-word3/
+        pattern = "/" + "-".join(word.lower() for word in words) + "/"
+    
+    return pattern in url.lower()
+
+
 def main():
     total_new = 0
     for key, cfg in SOURCES.items():
         html_files = [cfg["html"]]
+        subcategory_names = {}  # Map html_file to subcategory_name for printversion
 
         if key == "printversion":
             if os.path.exists(cfg["html"]):
@@ -223,6 +241,7 @@ def main():
                         continue
                     sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
                     html_files.append(sub_html)
+                    subcategory_names[sub_html] = label
 
         articles_collected = []
 
@@ -233,6 +252,12 @@ def main():
             with open(html_file, "r", encoding="utf-8") as fh:
                 html = fh.read()
             arts = extract_articles_from_html_string(html)
+            
+            # Filter articles for printversion subcategories
+            if key == "printversion" and html_file in subcategory_names:
+                subcat_name = subcategory_names[html_file]
+                arts = [a for a in arts if matches_printversion_url_pattern(a["url"], subcat_name)]
+            
             for a in arts:
                 if a["url"] not in {x["url"] for x in articles_collected}:
                     articles_collected.append(a)
