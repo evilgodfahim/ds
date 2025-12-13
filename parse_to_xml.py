@@ -5,6 +5,7 @@ Parse Daily Sun saved HTML files to XML (offline only).
 
 - Works strictly on local HTML files; no network fetching.
 - Subcategory filtering for printversion is strict and segment-based.
+- Header menu and topic links are ignored for printversion.
 - Only articles under valid subcategory paths are accepted.
 - Existing XML files are preserved; only new items are appended.
 """
@@ -277,16 +278,28 @@ def main():
             if os.path.exists(cfg["html"]):
                 with open(cfg["html"], "r", encoding="utf-8") as fh:
                     soup = BeautifulSoup(fh.read(), "html.parser")
+
+                # Extract only true printversion subcategories
                 subcats = soup.select(".desktopSubCategoryDiv li a")
                 for link in subcats:
                     label = link.get_text(strip=True)
                     href = link.get("href", "")
                     if not label or not href:
                         continue
+
+                    # Ignore header menu links
+                    if link.find_parent(class_="stickyHeaderMenuDiv"):
+                        continue
+
+                    # Ignore topic links
+                    if link.find_parent(class_="text-muted"):
+                        continue
+
                     sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
                     norm = normalize_path_from_href(href)
                     if not norm or norm == "/":
                         continue
+
                     html_files.append(sub_html)
                     subcategory_hrefs[sub_html] = href
 
