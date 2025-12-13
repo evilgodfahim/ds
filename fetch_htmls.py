@@ -21,7 +21,6 @@ FLARESOLVERR_URL = "http://localhost:8191/v1"  # Optional, only if JS rendering 
 def fetch_html(url, local_name):
     """Fetch HTML using FlareSolverr if available, else requests."""
     try:
-        # Try FlareSolverr first
         payload = {"cmd": "request.get", "url": url, "maxTimeout": 60000}
         r = requests.post(FLARESOLVERR_URL, json=payload, timeout=70)
         data = r.json()
@@ -31,13 +30,12 @@ def fetch_html(url, local_name):
             r2 = requests.get(url, timeout=30)
             html = r2.text
     except Exception:
-        # fallback to simple requests
         r2 = requests.get(url, timeout=30)
         html = r2.text
 
-    # Save HTML locally
     with open(local_name, "w", encoding="utf-8") as f:
         f.write(html)
+
     print(f"[+] Saved HTML: {local_name}")
     return html
 
@@ -53,7 +51,6 @@ if not os.path.exists(PRINT_HTML):
     print(f"[!] {PRINT_HTML} not found. Fetch it manually first or via your previous script.")
     sys.exit(1)
 
-# Parse main printversion.html to find subcategory links
 with open(PRINT_HTML, "r", encoding="utf-8") as f:
     soup = BeautifulSoup(f.read(), "html.parser")
 
@@ -64,11 +61,18 @@ for link in subcats:
     url = link.get("href", "").strip()
     if not url:
         continue
-    # file name based on subcategory text
-    name = slugify(link.get_text(strip=True)) + ".html"
+
+    base_name = slugify(link.get_text(strip=True))
+
+    # printversion business special-case to avoid duplicity
+    if "/business-print/" in url:
+        name = "business_printversion.html"
+    else:
+        name = f"{base_name}.html"
+
     html_files.append(name)
     fetch_html(url, name)
-    time.sleep(1)  # polite delay to avoid hammering server
+    time.sleep(1)
 
 # Always include printversion.html itself
 html_files.append(PRINT_HTML)
