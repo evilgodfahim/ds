@@ -116,14 +116,11 @@ def extract_articles_from_html_string(html: str) -> list:
             {"url": url, "title": title, "desc": desc, "pub": pub, "img": img}
         )
 
-    # catch-all: any link with text, excluding navigation/header areas
+    # catch-all: any link with text (title must be more than 3 words)
     for a in soup.find_all("a", href=True):
-        if a.find_parent(class_=re.compile(r"(header|menu|nav|sticky)", re.I)):
-            continue
-
         url = _abs(BASE, a["href"])
         title = a.get_text(strip=True)
-        if not title:
+        if not title or len(title.split()) <= 3:
             continue
 
         collected.append(
