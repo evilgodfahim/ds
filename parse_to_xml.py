@@ -1,46 +1,33 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Parse saved Daily Sun HTML files into per-source XML feeds.
+Parse Daily Sun saved HTML files to XML.
 
-- Works with underscores (_) filenames for subcategories.
-- Adds only new articles to XML.
-- Preserves existing XML structure.
-- Trims feeds to MAX_ITEMS.
+- Fully matches your repo HTML filenames.
+- All subcategory HTMLs for printversion are included.
+- Only new articles are added.
+- Existing XMLs are preserved.
 """
 
 import os
 import re
 from datetime import datetime, timezone
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import mimetypes
 
-# ---- CONFIG ----
 BASE = "https://www.daily-sun.com"
 MAX_ITEMS = 500
 
+# Map source keys to html and xml files
 SOURCES = {
-    "opinion": {
-        "html": "opinion.html",
-        "xml": "opinion.xml",
-        "url_contains": "/opinion/"
-    },
-    "editorial": {
-        "html": "editorial.html",
-        "xml": "editorial.xml",
-        "url_contains": "/editorial/"
-    },
-    "todays_news": {
-        "html": "todays_news.html",
-        "xml": "todays_news.xml",
-        "url_contains": None
-    },
+    "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
+    "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
+    "todays_news": {"html": "todays-news.html", "xml": "todays_news.xml"},
     "printversion": {
         "html": "printversion.html",
         "xml": "printversion.xml",
-        "url_contains": None,
         "sub_htmls": [
             "front_page.html",
             "back_page.html",
@@ -49,25 +36,15 @@ SOURCES = {
             "editorial.html",
             "my_districts.html",
             "news.html",
-            "world_print.html",
+            "world.html",
             "culturetainment.html",
             "post_logue.html"
-        ]
-    }
+        ],
+    },
 }
 
-# ---- Utilities ----
-def slugify(text: str) -> str:
-    s = text.strip().lower()
-    s = re.sub(r"[^\w\s]", "", s)
-    s = re.sub(r"\s+", "_", s)
-    s = re.sub(r"_+", "_", s)
-    s = s.strip("_")
-    if not s:
-        s = "subpage"
-    return s + ".html"
 
-
+# --- Utilities ---
 def _abs(base: str, href: str) -> str:
     return urljoin(base, href.strip()) if href else ""
 
@@ -82,10 +59,6 @@ def _pick_image_url(img_tag, base: str) -> str:
 def _pick_title(container) -> str:
     if container is None:
         return ""
-    for sel in [".title26Latest", ".title10", ".title1", ".desktopSectionTitle", ".desktopCategoryTitle", ".title1_7"]:
-        el = container.select_one(sel)
-        if el and el.get_text(strip=True):
-            return el.get_text(strip=True)
     for h in container.find_all(["h1", "h2", "h3"]):
         t = h.get_text(strip=True)
         if t:
@@ -102,10 +75,6 @@ def _pick_title(container) -> str:
 def _pick_description(container) -> str:
     if container is None:
         return ""
-    for cls in ("desktopSummary", "summary", "CatDesc", "desktopSubTitle"):
-        p = container.find("p", class_=cls)
-        if p and p.get_text(strip=True):
-            return p.get_text(strip=True)
     p = container.find("p")
     if p and p.get_text(strip=True):
         return p.get_text(strip=True)
@@ -119,9 +88,6 @@ def _pick_pub(container) -> str:
         el = container.find(class_=cls)
         if el and el.get_text(strip=True):
             return el.get_text(strip=True)
-    span = container.find("span", class_=lambda c: c and "paddingR8" in c)
-    if span and span.get_text(strip=True):
-        return span.get_text(strip=True)
     return ""
 
 
@@ -140,30 +106,37 @@ def try_parse_rfc822(pub_text: str) -> str:
     return None
 
 
-def extract_articles_from_html_string(html: str, base: str, url_contains=None):
+def extract_articles_from_html_string(html: str) -> list:
     soup = BeautifulSoup(html, "html.parser")
     collected = []
 
-    for block in soup.select("div.media.positionRelative, div.media"):
-        link = block.select_one("a.linkOverlay") or block.find("a", href=True)
-        if not link or not link.get("href"):
+    # look for div.media or any a[href] with content
+    for block in soup.select("div.media, div.media.positionRelative"):
+        link = block.find("a", href=True)
+        if not link:
             continue
-        url = _abs(base, link.get("href"))
-        if url_contains and url_contains not in url:
-            continue
+        url = _abs(BASE, link["href"])
         title = _pick_title(block) or link.get_text(strip=True)
         if not title:
             continue
         desc = _pick_description(block)
         pub = _pick_pub(block)
-        img = _pick_image_url(block.find("img"), base)
+        img = _pick_image_url(block.find("img"), BASE)
         collected.append({"url": url, "title": title, "desc": desc, "pub": pub, "img": img})
+
+    # catch-all: any link with text
+    for a in soup.find_all("a", href=True):
+        url = _abs(BASE, a["href"])
+        title = a.get_text(strip=True)
+        if not title:
+            continue
+        collected.append({"url": url, "title": title, "desc": "", "pub": "", "img": ""})
 
     # dedupe
     seen = set()
     unique = []
     for a in collected:
-        if a.get("url") and a["url"] not in seen:
+        if a["url"] not in seen:
             seen.add(a["url"])
             unique.append(a)
     return unique
@@ -192,7 +165,7 @@ def ensure_channel(root: ET.Element, title_text: str, link_text: str, descriptio
     return channel
 
 
-def write_feed(xml_file: str, channel_title: str, channel_link: str, articles):
+def write_feed(xml_file: str, channel_title: str, channel_link: str, articles: list):
     tree, root = load_or_create_tree(xml_file)
     channel = ensure_channel(root, channel_title, channel_link, channel_title)
 
@@ -241,13 +214,9 @@ def write_feed(xml_file: str, channel_title: str, channel_link: str, articles):
 def main():
     total_new = 0
     for key, cfg in SOURCES.items():
-        html_files = []
+        html_files = [cfg["html"]]
         if key == "printversion":
-            # main + subpages
-            html_files.append(cfg["html"])
             html_files.extend(cfg.get("sub_htmls", []))
-        else:
-            html_files.append(cfg["html"])
 
         articles_collected = []
 
@@ -257,7 +226,7 @@ def main():
                 continue
             with open(html_file, "r", encoding="utf-8") as fh:
                 html = fh.read()
-            arts = extract_articles_from_html_string(html, BASE, cfg.get("url_contains"))
+            arts = extract_articles_from_html_string(html)
             for a in arts:
                 if a["url"] not in {x["url"] for x in articles_collected}:
                     articles_collected.append(a)
@@ -265,7 +234,7 @@ def main():
         print(f"[{key}] collected {len(articles_collected)} unique articles to consider")
 
         channel_title = "Daily Sun " + key.replace("_", " ").title()
-        channel_link = BASE + (cfg.get("url_contains") or "/")
+        channel_link = BASE + "/"
         new_count, total_items = write_feed(cfg["xml"], channel_title, channel_link, articles_collected)
         print(f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}")
         total_new += new_count
