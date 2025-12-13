@@ -80,7 +80,12 @@ def try_parse_rfc822(pub_text: str) -> str:
     if not pub_text:
         return None
     s = pub_text.replace("\u00A0", " ").strip()
-    formats = ["%d %b %Y, %I:%M %p", "%d %b %Y, %H:%M", "%d %b %Y %I:%M %p", "%d %b %Y %H:%M"]
+    formats = [
+        "%d %b %Y, %I:%M %p",
+        "%d %b %Y, %H:%M",
+        "%d %b %Y %I:%M %p",
+        "%d %b %Y %H:%M",
+    ]
     for fmt in formats:
         try:
             dt = datetime.strptime(s, fmt)
@@ -107,15 +112,23 @@ def extract_articles_from_html_string(html: str) -> list:
         desc = _pick_description(block)
         pub = _pick_pub(block)
         img = _pick_image_url(block.find("img"), BASE)
-        collected.append({"url": url, "title": title, "desc": desc, "pub": pub, "img": img})
+        collected.append(
+            {"url": url, "title": title, "desc": desc, "pub": pub, "img": img}
+        )
 
-    # catch-all: any link with text
+    # catch-all: any link with text, excluding navigation/header areas
     for a in soup.find_all("a", href=True):
+        if a.find_parent(class_=re.compile(r"(header|menu|nav|sticky)", re.I)):
+            continue
+
         url = _abs(BASE, a["href"])
         title = a.get_text(strip=True)
         if not title:
             continue
-        collected.append({"url": url, "title": title, "desc": "", "pub": "", "img": ""})
+
+        collected.append(
+            {"url": url, "title": title, "desc": "", "pub": "", "img": ""}
+        )
 
     # dedupe
     seen = set()
@@ -140,7 +153,9 @@ def load_or_create_tree(xml_file: str):
     return tree, root
 
 
-def ensure_channel(root: ET.Element, title_text: str, link_text: str, description_text: str) -> ET.Element:
+def ensure_channel(
+    root: ET.Element, title_text: str, link_text: str, description_text: str
+) -> ET.Element:
     channel = root.find("channel")
     if channel is None:
         channel = ET.SubElement(root, "channel")
@@ -170,7 +185,11 @@ def write_feed(xml_file: str, channel_title: str, channel_link: str, articles: l
         ET.SubElement(item, "description").text = art.get("desc") or ""
         pub_rfc = try_parse_rfc822(art.get("pub"))
         if not pub_rfc:
-            pub_rfc = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+            pub_rfc = (
+                datetime.utcnow()
+                .replace(tzinfo=timezone.utc)
+                .strftime("%a, %d %b %Y %H:%M:%S +0000")
+            )
         ET.SubElement(item, "pubDate").text = pub_rfc
         img = art.get("img") or ""
         if img:
@@ -211,7 +230,7 @@ def main():
                     label = link.get_text(strip=True)
                     if not label:
                         continue
-                    sub_html = re.sub(r'\W+', '_', label.lower()) + ".html"
+                    sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
                     html_files.append(sub_html)
 
         articles_collected = []
@@ -227,12 +246,18 @@ def main():
                 if a["url"] not in {x["url"] for x in articles_collected}:
                     articles_collected.append(a)
 
-        print(f"[{key}] collected {len(articles_collected)} unique articles to consider")
+        print(
+            f"[{key}] collected {len(articles_collected)} unique articles to consider"
+        )
 
         channel_title = "Daily Sun " + key.replace("_", " ").title()
         channel_link = BASE + "/"
-        new_count, total_items = write_feed(cfg["xml"], channel_title, channel_link, articles_collected)
-        print(f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}")
+        new_count, total_items = write_feed(
+            cfg["xml"], channel_title, channel_link, articles_collected
+        )
+        print(
+            f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}"
+        )
         total_new += new_count
 
     print(f"Total new articles added across all feeds: {total_new}")
