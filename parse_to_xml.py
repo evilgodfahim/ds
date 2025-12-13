@@ -25,6 +25,9 @@ SOURCES = {
     "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
     "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
     "todays_news": {"html": "todays-news.html", "xml": "todays_news.xml"},
+    "business": {"html": "business.html", "xml": "business.xml"},
+    "deep_dive": {"html": "deep_dive.html", "xml": "deep_dive.xml"},
+    "diplomacy": {"html": "diplomacy.html", "xml": "diplomacy.xml"},
     "printversion": {"html": "printversion.html", "xml": "printversion.xml"},
 }
 
@@ -100,7 +103,6 @@ def extract_articles_from_html_string(html: str) -> list:
     soup = BeautifulSoup(html, "html.parser")
     collected = []
 
-    # look for div.media or any a[href] with content
     for block in soup.select("div.media, div.media.positionRelative"):
         link = block.find("a", href=True)
         if not link:
@@ -116,18 +118,15 @@ def extract_articles_from_html_string(html: str) -> list:
             {"url": url, "title": title, "desc": desc, "pub": pub, "img": img}
         )
 
-    # catch-all: any link with text (title must be more than 3 words)
     for a in soup.find_all("a", href=True):
         url = _abs(BASE, a["href"])
         title = a.get_text(strip=True)
         if not title or len(title.split()) <= 3:
             continue
-
         collected.append(
             {"url": url, "title": title, "desc": "", "pub": "", "img": ""}
         )
 
-    # dedupe
     seen = set()
     unique = []
     for a in collected:
@@ -150,9 +149,7 @@ def load_or_create_tree(xml_file: str):
     return tree, root
 
 
-def ensure_channel(
-    root: ET.Element, title_text: str, link_text: str, description_text: str
-) -> ET.Element:
+def ensure_channel(root, title_text, link_text, description_text):
     channel = root.find("channel")
     if channel is None:
         channel = ET.SubElement(root, "channel")
@@ -162,7 +159,7 @@ def ensure_channel(
     return channel
 
 
-def write_feed(xml_file: str, channel_title: str, channel_link: str, articles: list):
+def write_feed(xml_file, channel_title, channel_link, articles):
     tree, root = load_or_create_tree(xml_file)
     channel = ensure_channel(root, channel_title, channel_link, channel_title)
 
@@ -199,8 +196,7 @@ def write_feed(xml_file: str, channel_title: str, channel_link: str, articles: l
 
     items = channel.findall("item")
     if len(items) > MAX_ITEMS:
-        to_remove = len(items) - MAX_ITEMS
-        for old in items[:to_remove]:
+        for old in items[: len(items) - MAX_ITEMS]:
             channel.remove(old)
 
     try:
@@ -211,13 +207,11 @@ def write_feed(xml_file: str, channel_title: str, channel_link: str, articles: l
     return new_count, len(channel.findall("item"))
 
 
-# ---- Main workflow ----
 def main():
     total_new = 0
     for key, cfg in SOURCES.items():
         html_files = [cfg["html"]]
 
-        # Dynamic subcategory discovery for printversion
         if key == "printversion":
             if os.path.exists(cfg["html"]):
                 with open(cfg["html"], "r", encoding="utf-8") as fh:
@@ -243,18 +237,14 @@ def main():
                 if a["url"] not in {x["url"] for x in articles_collected}:
                     articles_collected.append(a)
 
-        print(
-            f"[{key}] collected {len(articles_collected)} unique articles to consider"
-        )
+        print(f"[{key}] collected {len(articles_collected)} unique articles to consider")
 
         channel_title = "Daily Sun " + key.replace("_", " ").title()
         channel_link = BASE + "/"
         new_count, total_items = write_feed(
             cfg["xml"], channel_title, channel_link, articles_collected
         )
-        print(
-            f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}"
-        )
+        print(f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}")
         total_new += new_count
 
     print(f"Total new articles added across all feeds: {total_new}")
