@@ -7,7 +7,7 @@ TARGETS = {
     "opinion.html": "https://www.daily-sun.com/opinion",
     "editorial.html": "https://www.daily-sun.com/editorial",
     "todays-news.html": "https://www.daily-sun.com/todays-news",
-    "businesss.html": "https://www.daily-sun.com/business",
+    "business.html": "https://www.daily-sun.com/business",
     "deep_dive.html": "https://www.daily-sun.com/deep_dive",
     "diplomacy.html": "https://www.daily-sun.com/diplomacy",
     "printversion.html": "https://www.daily-sun.com/printversion",
