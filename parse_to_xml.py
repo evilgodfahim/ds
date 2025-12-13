@@ -1,27 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Parse Daily Sun saved HTML files to XML.
+Parse Daily Sun saved HTML files to XML (offline only).
 
-- Fully matches your repo HTML filenames.
-- All subcategory HTMLs for printversion are included dynamically.
-- Only new articles are added.
-- Existing XMLs are preserved.
-- Strict URL filtering for printversion subcategories.
+- Works strictly on local HTML files; no network fetching.
+- Subcategory filtering for printversion is strict and segment-based.
+- Only articles under valid subcategory paths are accepted.
+- Existing XML files are preserved; only new items are appended.
 """
 
 import os
 import re
 from datetime import datetime, timezone
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import mimetypes
 
 BASE = "https://www.daily-sun.com"
+DOMAIN = "daily-sun.com"
 MAX_ITEMS = 500
 
-# Map source keys to html and xml files
 SOURCES = {
     "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
     "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
@@ -33,9 +32,20 @@ SOURCES = {
 }
 
 
-# --- Utilities ---
 def _abs(base: str, href: str) -> str:
-    return urljoin(base, href.strip()) if href else ""
+    if not href:
+        return ""
+    return urljoin(base, href.strip())
+
+
+def _is_same_domain(url: str) -> bool:
+    if not url:
+        return False
+    try:
+        p = urlparse(url)
+        return DOMAIN in (p.netloc or "")
+    except Exception:
+        return False
 
 
 def _pick_image_url(img_tag, base: str) -> str:
@@ -104,7 +114,10 @@ def extract_articles_from_html_string(html: str) -> list:
     soup = BeautifulSoup(html, "html.parser")
     collected = []
 
-    for block in soup.select("div.media, div.media.positionRelative"):
+    blocks = soup.select("div.media") + soup.select("div.media.positionRelative") + soup.find_all("article")
+    blocks = list(dict.fromkeys(blocks))
+
+    for block in blocks:
         link = block.find("a", href=True)
         if not link:
             continue
@@ -115,25 +128,27 @@ def extract_articles_from_html_string(html: str) -> list:
         desc = _pick_description(block)
         pub = _pick_pub(block)
         img = _pick_image_url(block.find("img"), BASE)
-        collected.append(
-            {"url": url, "title": title, "desc": desc, "pub": pub, "img": img}
-        )
+        collected.append({"url": url, "title": title, "desc": desc, "pub": pub, "img": img})
 
     for a in soup.find_all("a", href=True):
-        url = _abs(BASE, a["href"])
+        href = a["href"]
+        url = _abs(BASE, href)
+        if not _is_same_domain(url):
+            continue
         title = a.get_text(strip=True)
         if not title or len(title.split()) <= 3:
             continue
-        collected.append(
-            {"url": url, "title": title, "desc": "", "pub": "", "img": ""}
-        )
+        collected.append({"url": url, "title": title, "desc": "", "pub": "", "img": ""})
 
     seen = set()
     unique = []
     for a in collected:
-        if a["url"] not in seen:
-            seen.add(a["url"])
-            unique.append(a)
+        if not a.get("url"):
+            continue
+        if a["url"] in seen:
+            continue
+        seen.add(a["url"])
+        unique.append(a)
     return unique
 
 
@@ -180,11 +195,7 @@ def write_feed(xml_file, channel_title, channel_link, articles):
         ET.SubElement(item, "description").text = art.get("desc") or ""
         pub_rfc = try_parse_rfc822(art.get("pub"))
         if not pub_rfc:
-            pub_rfc = (
-                datetime.utcnow()
-                .replace(tzinfo=timezone.utc)
-                .strftime("%a, %d %b %Y %H:%M:%S +0000")
-            )
+            pub_rfc = datetime.utcnow().replace(tzinfo=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
         ET.SubElement(item, "pubDate").text = pub_rfc
         img = art.get("img") or ""
         if img:
@@ -208,48 +219,59 @@ def write_feed(xml_file, channel_title, channel_link, articles):
     return new_count, len(channel.findall("item"))
 
 
+def normalize_path_from_href(href: str) -> str:
+    if not href:
+        return ""
+    href = href.strip()
+    if href.lower().startswith("javascript:") or href.startswith("#"):
+        return ""
+    parsed = urlparse(href)
+    path = parsed.path or href
+    if not path:
+        return ""
+    path = re.sub(r"/+", "/", path)
+    path = path.rstrip("/")
+    if path == "":
+        return "/"
+    if not path.startswith("/"):
+        path = "/" + path
+    return path
+
+
+def path_segments(path: str):
+    if not path or path == "/":
+        return []
+    return [seg for seg in path.split("/") if seg]
+
+
 def matches_printversion_url_pattern(url: str, subcategory_href: str) -> bool:
-    """
-    Check if URL STRICTLY contains the subcategory path from the href.
-    Extracts the path segment from href and checks if it appears in the article URL.
-    
-    Examples:
-        href="/front-page" -> checks for "/front-page/" in URL
-        href="https://www.daily-sun.com/metropolis" -> checks for "/metropolis/" in URL
-        href="/my-districts" -> checks for "/my-districts/" in URL
-    """
-    if not subcategory_href:
+    if not url or not subcategory_href:
         return False
-    
-    # Extract path from href (remove domain if present, get the path part)
-    path = subcategory_href.strip()
-    
-    # Remove query parameters
-    path = path.split('?')[0]
-    
-    # If it contains the domain, extract just the path
-    if 'daily-sun.com' in path:
-        parts = path.split('daily-sun.com/')
-        if len(parts) > 1:
-            path = '/' + parts[-1]
-        else:
-            path = '/'
-    
-    # Ensure path starts and ends with /
-    if not path.startswith('/'):
-        path = '/' + path
-    if not path.endswith('/'):
-        path = path + '/'
-    
-    # STRICT check: path must be present in URL
-    return path.lower() in url.lower()
+    sub_path = normalize_path_from_href(subcategory_href)
+    if not sub_path or sub_path == "/":
+        return False
+    try:
+        u = urlparse(url)
+        url_path = u.path or ""
+    except Exception:
+        return False
+    url_path = re.sub(r"/+", "/", url_path).rstrip("/")
+    if url_path == "":
+        url_path = "/"
+    sub_segs = path_segments(sub_path)
+    url_segs = path_segments(url_path)
+    if not sub_segs:
+        return False
+    if len(url_segs) < len(sub_segs):
+        return False
+    return url_segs[: len(sub_segs)] == sub_segs
 
 
 def main():
     total_new = 0
     for key, cfg in SOURCES.items():
         html_files = [cfg["html"]]
-        subcategory_hrefs = {}  # Map html_file to href path for printversion
+        subcategory_hrefs = {}
 
         if key == "printversion":
             if os.path.exists(cfg["html"]):
@@ -262,10 +284,14 @@ def main():
                     if not label or not href:
                         continue
                     sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
+                    norm = normalize_path_from_href(href)
+                    if not norm or norm == "/":
+                        continue
                     html_files.append(sub_html)
                     subcategory_hrefs[sub_html] = href
 
         articles_collected = []
+        seen_urls = set()
 
         for html_file in html_files:
             if not os.path.exists(html_file):
@@ -274,27 +300,40 @@ def main():
             with open(html_file, "r", encoding="utf-8") as fh:
                 html = fh.read()
             arts = extract_articles_from_html_string(html)
-            
-            # Filter articles for printversion subcategories - STRICT matching only
-            if key == "printversion" and html_file in subcategory_hrefs:
-                subcat_href = subcategory_hrefs[html_file]
-                filtered_arts = []
+
+            if key == "printversion":
+                filtered = []
+                sub_hrefs = list(subcategory_hrefs.values())
                 for a in arts:
-                    if matches_printversion_url_pattern(a["url"], subcat_href):
-                        filtered_arts.append(a)
-                arts = filtered_arts
-            
+                    url = a.get("url", "")
+                    if not url or not _is_same_domain(url):
+                        continue
+                    matched = False
+                    for sh in sub_hrefs:
+                        if matches_printversion_url_pattern(url, sh):
+                            matched = True
+                            break
+                    if html_file in subcategory_hrefs and matches_printversion_url_pattern(url, subcategory_hrefs[html_file]):
+                        matched = True
+                    if matched:
+                        filtered.append(a)
+                arts = filtered
+            else:
+                arts = [a for a in arts if a.get("url") and _is_same_domain(a.get("url"))]
+
             for a in arts:
-                if a["url"] not in {x["url"] for x in articles_collected}:
-                    articles_collected.append(a)
+                u = a.get("url")
+                if not u:
+                    continue
+                if u in seen_urls:
+                    continue
+                seen_urls.add(u)
+                articles_collected.append(a)
 
         print(f"[{key}] collected {len(articles_collected)} unique articles to consider")
-
         channel_title = "Daily Sun " + key.replace("_", " ").title()
         channel_link = BASE + "/"
-        new_count, total_items = write_feed(
-            cfg["xml"], channel_title, channel_link, articles_collected
-        )
+        new_count, total_items = write_feed(cfg["xml"], channel_title, channel_link, articles_collected)
         print(f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}")
         total_new += new_count
 
