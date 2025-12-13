@@ -5,9 +5,12 @@ FLARESOLVERR_URL = "http://localhost:8191/v1"
 
 TARGETS = {
     "opinion.html": "https://www.daily-sun.com/opinion",
-    "printversion.html": "https://www.daily-sun.com/printversion",
     "editorial.html": "https://www.daily-sun.com/editorial",
     "todays-news.html": "https://www.daily-sun.com/todays-news",
+    "business.html": "https://www.daily-sun.com/business",
+    "deep_dive.html": "https://www.daily-sun.com/deep_dive",
+    "diplomacy.html": "https://www.daily-sun.com/diplomacy",
+    "printversion.html": "https://www.daily-sun.com/printversion",
 }
 
 for filename, url in TARGETS.items():
