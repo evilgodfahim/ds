@@ -2,7 +2,7 @@ name: Fetch & Parse Daily Sun
 
 on:
   schedule:
-    - cron: "15 * * * *"  # Adjust as needed
+    - cron: "*/5 * * * *"  # Adjust as needed
   workflow_dispatch:
 
 jobs:
