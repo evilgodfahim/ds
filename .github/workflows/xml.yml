@@ -1,12 +1,12 @@
-name: Parse Opinion to XML
+name: Fetch & Parse Daily Sun
 
 on:
   schedule:
-    - cron: "15 * * * *"
+    - cron: "15 * * * *"  # Adjust as needed
   workflow_dispatch:
 
 jobs:
-  parse:
+  fetch_and_parse:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,13 +21,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Parse HTML to XML
+      - name: Fetch Print Version & Subcategories HTMLs
+        run: python fetch_htmls.py
+
+      - name: Parse HTMLs to XML
         run: python parse_to_xml.py
 
-      - name: Commit changes
+      - name: Commit all HTML and XML files
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add *.xml
-          git commit -m "Daily XML update" || echo "No changes"
+          git add *.html *.xml
+          git commit -m "Daily update of HTMLs & XMLs" || echo "No changes to commit"
           git push
