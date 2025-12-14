@@ -2,7 +2,7 @@ name: Fetch Samakal Opinion
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - crongh: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
