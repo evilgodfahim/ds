@@ -1,0 +1,60 @@
+name: Fetch & Parse Daily Sun Articles
+
+on:
+  schedule:
+    # Runs every 5 minutes. Adjust the cron expression if needed.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub Actions tab
+
+jobs:
+  fetch_and_parse:
+    runs-on: ubuntu-latest
+    
+    # Define a single environment variable for FlareSolverr URL
+    env:
+      FLARESOLVERR_URL: http://localhost:8191/v1
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run FlareSolverr Container (Background Service)
+        # This step is critical for handling Cloudflare protection.
+        run: |
+          # Start the container detached (-d) and expose port 8191
+          docker run -d --name flaresolverr -p 8191:8191 ghcr.io/flaresolverr/flaresolverr:latest
+          # Wait 10 seconds for the service to fully start up
+          sleep 10
+
+      - name: Fetch Print Version & Subcategories HTMLs
+        # This assumes your fetching logic is in 'fetch_htmls.py'
+        # The script will use the FLARESOLVERR_URL environment variable defined above.
+        run: python fetch_htmls.py
+
+      - name: Parse HTMLs to XML
+        # This assumes your parsing logic is in 'parse_to_xml.py'
+        run: python parse_to_xml.py
+
+      - name: Commit all HTML and XML files
+        run: |
+          # Configure Git user details
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          
+          # Add all created/modified .html and .xml files
+          git add *.html *.xml
+          
+          # Commit only if there are changes (suppress error if no changes)
+          git commit -m "Daily update of HTMLs & XMLs" || echo "No changes to commit"
+          
+          # Push the changes back to the repository
+          git push
