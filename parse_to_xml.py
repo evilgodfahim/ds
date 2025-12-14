@@ -3,11 +3,11 @@
 """
 Parse Daily Sun saved HTML files to XML (offline only).
 
-- Works strictly on local HTML files; no network fetching.
-- Subcategory filtering for printversion is strict and segment-based.
-- Header menu and topic links are ignored for printversion.
-- Only articles under valid subcategory paths are accepted.
-- Existing XML files are preserved; only new items are appended.
+FINAL VERSION:
+- Strict path filtering for specific categories (Opinion, Business, etc.).
+- LENOIENT filtering for "Todays News" (accepts mixed categories).
+- Specific handling for "Business" (Online) vs "Business" (Print) to avoid mix-ups.
+- Preserves existing XML data.
 """
 
 import os
@@ -22,14 +22,47 @@ BASE = "https://www.daily-sun.com"
 DOMAIN = "daily-sun.com"
 MAX_ITEMS = 500
 
+# CONFIGURATION
+# strict_segment: 
+#   - String: The URL *must* contain this segment to be accepted (e.g. "opinion").
+#   - None: No segment filtering; accept all valid article links found on the page (used for compilations like Todays News).
 SOURCES = {
-    "opinion": {"html": "opinion.html", "xml": "opinion.xml"},
-    "editorial": {"html": "editorial.html", "xml": "editorial.xml"},
-    "todays_news": {"html": "todays-news.html", "xml": "todays_news.xml"},
-    "business": {"html": "business.html", "xml": "business.xml"},
-    "deep_dive": {"html": "deep_dive.html", "xml": "deep_dive.xml"},
-    "diplomacy": {"html": "diplomacy.html", "xml": "diplomacy.xml"},
-    "printversion": {"html": "printversion.html", "xml": "printversion.xml"},
+    "opinion": {
+        "html": "opinion.html", 
+        "xml": "opinion.xml", 
+        "strict_segment": "opinion"
+    },
+    "editorial": {
+        "html": "editorial.html", 
+        "xml": "editorial.xml", 
+        "strict_segment": "editorial"
+    },
+    "todays_news": {
+        "html": "todays-news.html", 
+        "xml": "todays_news.xml", 
+        "strict_segment": None  # Compilation page: accepts /politics, /national, etc.
+    },
+    "business": {
+        "html": "business.html", 
+        "xml": "business.xml", 
+        "strict_segment": "business"
+    },
+    "deep_dive": {
+        "html": "deep_dive.html", 
+        "xml": "deep_dive.xml", 
+        "strict_segment": "deep-dive"
+    },
+    "diplomacy": {
+        "html": "diplomacy.html", 
+        "xml": "diplomacy.xml", 
+        "strict_segment": "diplomacy"
+    },
+    # Printversion uses special logic below, ignores strict_segment key here.
+    "printversion": {
+        "html": "printversion.html", 
+        "xml": "printversion.xml", 
+        "strict_segment": None 
+    },
 }
 
 
@@ -115,6 +148,7 @@ def extract_articles_from_html_string(html: str) -> list:
     soup = BeautifulSoup(html, "html.parser")
     collected = []
 
+    # Strategy 1: Look for common article blocks
     blocks = soup.select("div.media") + soup.select("div.media.positionRelative") + soup.find_all("article")
     blocks = list(dict.fromkeys(blocks))
 
@@ -131,16 +165,18 @@ def extract_articles_from_html_string(html: str) -> list:
         img = _pick_image_url(block.find("img"), BASE)
         collected.append({"url": url, "title": title, "desc": desc, "pub": pub, "img": img})
 
+    # Strategy 2: Look for all internal links (fallback)
     for a in soup.find_all("a", href=True):
         href = a["href"]
         url = _abs(BASE, href)
         if not _is_same_domain(url):
             continue
         title = a.get_text(strip=True)
-        if not title or len(title.split()) <= 3:
+        if not title or len(title.split()) <= 3: # Filter out short links like "Read More"
             continue
         collected.append({"url": url, "title": title, "desc": "", "pub": "", "img": ""})
 
+    # Deduplicate
     seen = set()
     unique = []
     for a in collected:
@@ -263,6 +299,7 @@ def matches_printversion_url_pattern(url: str, subcategory_href: str) -> bool:
     url_segs = path_segments(url_path)
     if not sub_segs:
         return False
+    # Check if URL starts with the subcategory segments
     if len(url_segs) < len(sub_segs):
         return False
     return url_segs[: len(sub_segs)] == sub_segs
@@ -274,6 +311,9 @@ def main():
         html_files = [cfg["html"]]
         subcategory_hrefs = {}
 
+        # ---------------------------------------------------------
+        # 1. SETUP: Detect extra files (Only for Printversion)
+        # ---------------------------------------------------------
         if key == "printversion":
             if os.path.exists(cfg["html"]):
                 with open(cfg["html"], "r", encoding="utf-8") as fh:
@@ -285,14 +325,18 @@ def main():
                     href = link.get("href", "")
                     if not label or not href:
                         continue
-
                     if link.find_parent(class_="stickyHeaderMenuDiv"):
                         continue
                     if link.find_parent(class_="text-muted"):
                         continue
 
-                    if "/business-print/" in href:
-                        sub_html = "business_printversion.html"
+                    # SPECIAL FIX: Handle Business Print Link
+                    # If the link href contains 'business', map it to business_printversion.html
+                    # This keeps it separate from the standard business.html
+                    if "business" in href.lower() and "print" in href.lower():
+                         sub_html = "business_printversion.html"
+                    elif "/business/" in href.lower(): # Fallback if URL is just /business/ but inside print menu
+                         sub_html = "business_printversion.html"
                     else:
                         sub_html = re.sub(r"\W+", "_", label.lower()) + ".html"
 
@@ -306,51 +350,94 @@ def main():
         articles_collected = []
         seen_urls = set()
 
+        # ---------------------------------------------------------
+        # 2. PROCESSING: Extract and Filter
+        # ---------------------------------------------------------
         for html_file in html_files:
             if not os.path.exists(html_file):
-                print(f"[{key}] no html for {html_file}")
+                print(f"[{key}] No file found: {html_file}")
                 continue
+            
             with open(html_file, "r", encoding="utf-8") as fh:
                 html = fh.read()
+            
+            # Raw extraction
             arts = extract_articles_from_html_string(html)
+            filtered = []
 
+            # --- FILTER STRATEGY ---
             if key == "printversion":
-                filtered = []
+                # LOGIC A: Print Version (Strict Subcategory Matching)
                 sub_hrefs = list(subcategory_hrefs.values())
                 for a in arts:
                     url = a.get("url", "")
                     if not url or not _is_same_domain(url):
                         continue
+                    
                     matched = False
-                    for sh in sub_hrefs:
-                        if matches_printversion_url_pattern(url, sh):
-                            matched = True
-                            break
-                    if html_file in subcategory_hrefs and matches_printversion_url_pattern(url, subcategory_hrefs[html_file]):
-                        matched = True
+                    # 1. Does it match the specific subcategory file we are parsing?
+                    if html_file in subcategory_hrefs:
+                         if matches_printversion_url_pattern(url, subcategory_hrefs[html_file]):
+                             matched = True
+                    
+                    # 2. If not, does it match ANY known print subcategory? 
+                    # (Fallback for main print page listing mixed items)
+                    if not matched:
+                        for sh in sub_hrefs:
+                            if matches_printversion_url_pattern(url, sh):
+                                matched = True
+                                break
+                    
                     if matched:
                         filtered.append(a)
-                arts = filtered
-            else:
-                arts = [a for a in arts if a.get("url") and _is_same_domain(a.get("url"))]
 
-            for a in arts:
+            else:
+                # LOGIC B: Standard Categories (Strict vs Compiled)
+                req_seg = cfg.get("strict_segment")
+                
+                if req_seg is None:
+                    # CASE: Compilation (e.g. Todays News)
+                    # Accept ALL valid articles found on the page, regardless of path
+                    for a in arts:
+                        if a.get("url") and _is_same_domain(a.get("url")):
+                            filtered.append(a)
+                else:
+                    # CASE: Strict Category (e.g. Business, Opinion)
+                    # URL must contain the specific segment
+                    for a in arts:
+                        url = a.get("url", "")
+                        if not url or not _is_same_domain(url):
+                            continue
+                        
+                        # Parse path segments for strict checking
+                        u_path = urlparse(url).path
+                        segments = path_segments(u_path)
+                        
+                        if req_seg in segments:
+                            filtered.append(a)
+            
+            # Deduplicate results from this file
+            for a in filtered:
                 u = a.get("url")
-                if not u:
-                    continue
-                if u in seen_urls:
-                    continue
+                if not u: continue
+                if u in seen_urls: continue
                 seen_urls.add(u)
                 articles_collected.append(a)
 
-        print(f"[{key}] collected {len(articles_collected)} unique articles to consider")
-        channel_title = "Daily Sun " + key.replace("_", " ").title()
-        channel_link = BASE + "/"
-        new_count, total_items = write_feed(cfg["xml"], channel_title, channel_link, articles_collected)
-        print(f"[{key}] added {new_count} new articles; total in {cfg['xml']}: {total_items}")
-        total_new += new_count
+        # ---------------------------------------------------------
+        # 3. SAVE XML
+        # ---------------------------------------------------------
+        if articles_collected:
+            print(f"[{key}] Processing {len(articles_collected)} valid items...")
+            channel_title = "Daily Sun " + key.replace("_", " ").title()
+            channel_link = BASE + "/"
+            new_count, total_items = write_feed(cfg["xml"], channel_title, channel_link, articles_collected)
+            print(f"[{key}] Added {new_count} new. Total: {total_items}")
+            total_new += new_count
+        else:
+            print(f"[{key}] No valid articles found.")
 
-    print(f"Total new articles added across all feeds: {total_new}")
+    print(f"Done. Total new articles across all feeds: {total_new}")
 
 
 if __name__ == "__main__":
