@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>World</title>
-      <link>https://www.daily-sun.com/world</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Diplomacy</title>
       <link>https://www.daily-sun.com/diplomacy</link>
       <description />
@@ -3466,6 +3460,13 @@
       <description>A Dhaka court on Wednesday acquitted 45 people, including BNP Standing Committee members Mirza Abbas and Gayeshwar Chandra Roy, in</description>
       <pubDate>Wed, 17 Dec 2025 11:35:46 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Name-It-(1)-69429490c292d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Man City star Doku sidelined until new year</title>
+      <link>https://www.daily-sun.com/sports/846550/man-city-star-doku-sidelined-until-new-year</link>
+      <description>Pep Guardiola said Manchester City will be without injured Belgium winger Jeremy Doku until the new year.</description>
+      <pubDate>Wed, 17 Dec 2025 11:46:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/666170-01-02-694296208bdf8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
