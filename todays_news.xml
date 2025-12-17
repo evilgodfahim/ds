@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>COMMENT POLICY</title>
-      <link>https://www.daily-sun.com/comment-policy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>ADVERTISEMENT</title>
-      <link>https://www.daily-sun.com/advertisement</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>CONTACT</title>
       <link>https://www.daily-sun.com/contact</link>
       <description />
@@ -3489,6 +3477,20 @@
       <description>The accord signed in December 1997, with the declared aim of ending the long-standing conflict in the hill regions, was</description>
       <pubDate>Wed, 17 Dec 2025 13:44:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Name-It-6942ac10f0cf3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BNP MP candidate Qayyum gets bail in attempted murder case</title>
+      <link>https://www.daily-sun.com/bangladesh/846574/bnp-mp-candidate-qayyum-gets-bail-in-attempted-murder-case</link>
+      <description>Dhaka Chief Metropolitan Magistrate Mohammad Mostafizur Rahman passed the order after Qayyum surrendered before the court.</description>
+      <pubDate>Wed, 17 Dec 2025 13:57:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Court-UNB-6942b5a73b26f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Norwegian Embassy supports reimagining Ibsen through theatre at DU</title>
+      <link>https://www.daily-sun.com/sun-campus/846573/norwegian-embassy-supports-reimagining-ibsen-through-theatre-in-dhaka</link>
+      <description>The Norwegian Embassy in Dhaka has signed an agreement with the Department of Theatre and Performance Studies of Dhaka University</description>
+      <pubDate>Wed, 17 Dec 2025 13:57:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Name-It-6942b59b7503c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
