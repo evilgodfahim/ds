@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Diplomacy</title>
-      <link>https://www.daily-sun.com/diplomacy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sports</title>
-      <link>https://www.daily-sun.com/sports</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Opinion</title>
       <link>https://www.daily-sun.com/opinion</link>
       <description />
@@ -3467,6 +3455,20 @@
       <description>Pep Guardiola said Manchester City will be without injured Belgium winger Jeremy Doku until the new year.</description>
       <pubDate>Wed, 17 Dec 2025 11:46:52 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/666170-01-02-694296208bdf8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Plastic factory fire at Islambagh under control</title>
+      <link>https://www.daily-sun.com/bangladesh/846552/plastic-factory-fire-at-islambagh-under-control</link>
+      <description>The cause of the fire and the extent of the damage could not be determined immediately.</description>
+      <pubDate>Wed, 17 Dec 2025 12:19:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Plastic-factory-fire-Islambagh-Collected-69429ee2e2a66.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Midland Bank, Meena IVF sign MoU</title>
+      <link>https://www.daily-sun.com/business/846551/midland-bank-meena-ivf-sign-mou</link>
+      <description>Md. Abed-Ur-Rahman of Midland Bank and Mehmud Hasan Joy of Meena IVF were present at the event, along with officials</description>
+      <pubDate>Wed, 17 Dec 2025 12:19:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/Meena-Ivp-69429de522631.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
