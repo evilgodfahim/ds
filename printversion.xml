@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Metropolis</title>
-      <link>https://www.daily-sun.com/metropolis</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Winner</title>
       <link>https://www.daily-sun.com/winner</link>
       <description />
@@ -3434,6 +3428,12 @@ PHOTO</title>
       <description>The whole world is competing to excel in research and innovation to further their economic, technological, scientific and social development.</description>
       <pubDate>Wed, 17 Dec 2025 18:59:42 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/11/27/medium/NDS-'11'27-71-69273e570b172.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>View from the Inside: A Diplomat’s Recollections</title>
+      <link>https://daily-sun.com/editorial/845517</link>
+      <description />
+      <pubDate>Thu, 18 Dec 2025 11:46:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
