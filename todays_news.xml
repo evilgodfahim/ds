@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Women’s league returns on 29 Dec without player pool</title>
-      <link>https://www.daily-sun.com/sports/845832/women-s-league-returns-on-29-dec-without-player-pool</link>
-      <description>After a year-long hiatus, the Bangladesh Women’s Football League is set to make its return, with the seventh edition scheduled</description>
-      <pubDate>Sat, 13 Dec 2025 17:09:03 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/13/medium/afafw-693d99280522c.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh condemns terrorist attack on peacekeepers in Sudan</title>
       <link>https://www.daily-sun.com/diplomacy/845843/bangladesh-condemns-terrorist-attack-on-peacekeepers-in-sudan</link>
       <description>The interim government has strongly condemned Saturday’s attack on Bangladeshi peacekeepers at a UN facility in Sudan.</description>
@@ -3493,6 +3486,13 @@
       <description>Bangladesh currently operates 82 mission offices across the world</description>
       <pubDate>Thu, 18 Dec 2025 10:48:52 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/18/medium/Advisory-Council-6943d794b929d.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Bayern hit with 116,000 euros fine and partial stadium closure by UEFA</title>
+      <link>https://www.daily-sun.com/sports/846745/bayern-hit-with-116-000-euros-fine-and-partial-stadium-closure-by-uefa</link>
+      <description>Bayern Munich were the most heavily sanctioned club in UEFA's latest disciplinary measures announced on Wednesday</description>
+      <pubDate>Thu, 18 Dec 2025 10:59:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/18/medium/dl-6943dd479cded.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
