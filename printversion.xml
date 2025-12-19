@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>‘Total embarrassment’</title>
-      <link>https://www.daily-sun.com/world-print/845902</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 19:46:25 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Russian strikes disrupt Ukraine’s medical supply chain</title>
       <link>https://www.daily-sun.com/world-print/845901</link>
       <description />
@@ -3501,6 +3494,13 @@ PHOTO</title>
       <description>The progress of a nation, the establishment of justice and the effective operation of state administration rely heavily on government</description>
       <pubDate>Fri, 19 Dec 2025 18:18:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/10/medium/Ds-4--10--12-2025-693859c24e108.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>From China to Bangladesh: Building Our Future, Our Way</title>
+      <link>https://www.daily-sun.com/post-logu/845050</link>
+      <description>Of late, I spent twelve days in China visiting Sichuan, Shanghai and Guangdong provinces. There, I attended a specialised official</description>
+      <pubDate>Fri, 19 Dec 2025 23:33:10 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/10/medium/Ds-5--10--12-2025-693859c217da7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
