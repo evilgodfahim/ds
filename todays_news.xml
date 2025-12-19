@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DU pays tribute to martyred intellectuals</title>
-      <link>https://www.daily-sun.com/bangladesh/846018/du-pays-tribute-to-martyred-intellectuals</link>
-      <description>Registrar Munshi Shams Uddin Ahmed moderated the discussion</description>
-      <pubDate>Sun, 14 Dec 2025 13:40:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/14/medium/DU-693ebdb945fcc.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Dengue: Five dead, 387 hospitalised in 24hrs</title>
       <link>https://www.daily-sun.com/health/846017/dengue-five-dead-387-hospitalised-in-24hrs</link>
       <description>Currently, 637 dengue patients are receiving treatment at hospitals in Dhaka, while 2,189 patients are hospitalised nationwide</description>
@@ -3492,6 +3485,13 @@
       <description>the US Embassy said it joined the people of Bangladesh in mourning the loss and conveyed its deepest sympathies to</description>
       <pubDate>Fri, 19 Dec 2025 06:49:46 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/19/medium/Iran-Tehran-(18)-6944f19f5e262.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dhaka University postpones science unit admission test</title>
+      <link>https://www.daily-sun.com/bangladesh/846921/dhaka-university-postpones-science-unit-admission-test</link>
+      <description>The press release said Dhaka University would observe a day of mourning on Saturday following the death of former student</description>
+      <pubDate>Fri, 19 Dec 2025 07:29:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/19/medium/Iran-Tehran-(19)-6944f9e088e9d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
