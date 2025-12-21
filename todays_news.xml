@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Man City star Doku sidelined until new year</title>
-      <link>https://www.daily-sun.com/sports/846550/man-city-star-doku-sidelined-until-new-year</link>
-      <description>Pep Guardiola said Manchester City will be without injured Belgium winger Jeremy Doku until the new year.</description>
-      <pubDate>Wed, 17 Dec 2025 11:46:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/17/medium/666170-01-02-694296208bdf8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Plastic factory fire at Islambagh under control</title>
       <link>https://www.daily-sun.com/bangladesh/846552/plastic-factory-fire-at-islambagh-under-control</link>
       <description>The cause of the fire and the extent of the damage could not be determined immediately.</description>
@@ -3495,6 +3488,13 @@
       <description>Israeli Foreign Minister Gideon Saar called on Sunday for Jews in Western countries to move to Israel to escape rising</description>
       <pubDate>Sun, 21 Dec 2025 22:50:33 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/22/medium/Name-It-6948782f98f8f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Japan prepares to restart world's biggest nuclear plant, 15 years after Fukushima</title>
+      <link>https://www.daily-sun.com/world/847467/japan-prepares-to-restart-world-s-biggest-nuclear-plant-15-years-after-fukushima</link>
+      <description>The Japanese region of Niigata is expected to endorse a decision to restart the world's largest nuclear power plant on</description>
+      <pubDate>Sun, 21 Dec 2025 22:57:38 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/22/medium/japan-nuclear-plant-69487aee1b930.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
