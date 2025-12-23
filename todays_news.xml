@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump signs $1 trillion annual defence bill without fanfare</title>
-      <link>https://www.daily-sun.com/world/846925/trump-signs-1-trillion-annual-defence-bill-without-fanfare</link>
-      <description>NDAA includes $800 million aid for Ukraine over two years</description>
-      <pubDate>Fri, 19 Dec 2025 08:28:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/19/medium/Donald_Trump_Reuters-694509a3dde55.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Students block Science Lab Intersection</title>
-      <link>https://www.daily-sun.com/bangladesh/846924/students-block-science-lab-intersection</link>
-      <description>Students from different colleges have blocked the Science Lab intersection in Dhaka to protest the killing of Sharif Osman Hadi,</description>
-      <pubDate>Fri, 19 Dec 2025 08:28:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/19/medium/Name-It-(5)-694508150f354.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Govt urges citizens to resist mob violence</title>
       <link>https://www.daily-sun.com/bangladesh/846923/govt-urges-citizens-to-resist-mob-violence</link>
       <description>The government has urged all citizens of Bangladesh to resist all forms of mob violence carried out by a handful</description>
@@ -3497,6 +3483,20 @@
       <description>The Chief Adviser’s Office issued a gazette notification Tuesday on the rules and regulations for the security of very important</description>
       <pubDate>Tue, 23 Dec 2025 16:49:09 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/23/medium/Bangladesh_Government_Monogram-694ac310d261e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Major Russian drone and missile attack on Ukraine kills three, cuts power</title>
+      <link>https://www.daily-sun.com/world/847742/major-russian-drone-and-missile-attack-on-ukraine-kills-three-cuts-power</link>
+      <description>A merchant ship and over 120 homes were damaged</description>
+      <pubDate>Tue, 23 Dec 2025 17:02:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/23/medium/Ukraine-strike-on-Russia-held-part-of-Kherson-region-kills-four-694ac99802933.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two men found guilty of UK plot to kill hundreds of Jews</title>
+      <link>https://www.daily-sun.com/world/847741/two-men-found-guilty-of-uk-plot-to-kill-hundreds-of-jews</link>
+      <description>Two men were found guilty on Tuesday of plotting to kill hundreds in an Islamic State-inspired gun rampage against the</description>
+      <pubDate>Tue, 23 Dec 2025 17:02:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/23/medium/IS_in_London-694ac80bd15c0.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
