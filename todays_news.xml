@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Mirza Fakhrul falls ill</title>
-      <link>https://www.daily-sun.com/politics/847108/mirza-fakhrul-falls-ill</link>
-      <description>BNP Secretary General Mirza Fakhrul Islam Alamgir suddenly fell ill on Friday night and is currently receiving treatment at home</description>
-      <pubDate>Sat, 20 Dec 2025 10:18:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/20/medium/Fakhrul-694676ecd3ece.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Can Aston Villa beat Arsenal and Man City to Premier League title?</title>
       <link>https://www.daily-sun.com/sports/847107/can-aston-villa-beat-arsenal-and-man-city-to-premier-league-title</link>
       <description>Aston Villa are the Premier League's form side, with Unai Emery's men surging into Premier League title contention alongside Arsenal</description>
@@ -3493,6 +3486,13 @@
       <description>Tarique Rahman said Christmas is the biggest religious festival of the Christian community and wished happiness.</description>
       <pubDate>Wed, 24 Dec 2025 17:33:14 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/24/medium/Tarique-694c216d5ccd2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dhaka court orders ballistic examination of Hadi murder</title>
+      <link>https://www.daily-sun.com/bangladesh/847953/dhaka-court-orders-ballistic-examination-of-hadi-murder</link>
+      <description>Dhaka Additional Metropolitan Magistrate Awlad Hossain Mohammad Junaid issued the order today after an application was filed by the investigation</description>
+      <pubDate>Wed, 24 Dec 2025 17:45:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/24/medium/Hadi-694c263942d6f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
