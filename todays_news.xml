@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Oil prices climb as US blocks Venezuelan tankers, eyes on Russia-Ukraine talks</title>
-      <link>https://www.daily-sun.com/business/847275/oil-prices-climb-as-us-blocks-venezuelan-tankers-eyes-on-russia-ukraine-talks</link>
-      <description>Brent and WTI prices rise amid Venezuelan tanker blockade</description>
-      <pubDate>Sun, 21 Dec 2025 06:54:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/21/medium/Brent_Oil-694795873e401.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Arsenal regain Premier League lead with win at Everton</title>
       <link>https://www.daily-sun.com/sports/847281/arsenal-regain-premier-league-lead-with-win-at-everton</link>
       <description>Arsenal will spend Christmas atop the Premier League after a 1-0 win at Everton on Saturday.</description>
@@ -3492,6 +3485,13 @@
       <description>Riva said she believes Tarique Rahman’s return is politically very significant</description>
       <pubDate>Thu, 25 Dec 2025 14:57:09 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/25/medium/Riva-694d4ed530ed6.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>3 killed as train runs over them in Gazipur</title>
+      <link>https://www.daily-sun.com/bangladesh/848108/3-killed-as-train-runs-over-them-in-gazipur</link>
+      <description>Three women were killed after a train ran over them in Kaliganj upazila of Gazipur on Thursday afternoon.</description>
+      <pubDate>Thu, 25 Dec 2025 15:16:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/25/medium/Train-wheel-694d546f01c09.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
