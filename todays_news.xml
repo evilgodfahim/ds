@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Yamal strikes as Barcelona punish 10-man Villarreal</title>
-      <link>https://www.daily-sun.com/sports/847477/yamal-strikes-as-barcelona-punish-10-man-villarreal</link>
-      <description>Barcelona triumphed 2-0 over Villarreal in LaLiga, securing the top spot in the standings as Raphinha and Lamine Yamal scored</description>
-      <pubDate>Mon, 22 Dec 2025 05:42:10 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/22/medium/Screenshot-2025-12-22-113000-6948d76c8cc17.png" type="image/png" />
-    </item>
-    <item>
       <title>Shakib finds his touch as MI Emirates cruise past Vipers</title>
       <link>https://www.daily-sun.com/sports/847476/shakib-finds-his-touch-as-mi-emirates-cruise-past-vipers</link>
       <description>Shakib Al Hasan rediscovered his rhythm in the ILT20 with a decisive all-round display for MI Emirates against Desert Vipers</description>
@@ -3491,6 +3484,13 @@
       <description>The concert was scheduled to begin around 9:30pm on the school grounds</description>
       <pubDate>Fri, 26 Dec 2025 21:15:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/27/medium/Untitled-design---2025-12-27T025517-694ef733277c0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Shahbagh blockade continues as women, children and elderly join overnight protest</title>
+      <link>https://www.daily-sun.com/sun-campus/848347/shahbagh-blockade-continues-as-women-children-and-elderly-join-overnight-protest</link>
+      <description>Protesters have continued their blockade at Shahbagh intersection, with women, children and elderly people joining the sit-in to demand justice</description>
+      <pubDate>Fri, 26 Dec 2025 21:31:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/27/medium/Untitled-design---2025-12-27T032621-694efe7bb4697.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
