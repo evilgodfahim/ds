@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Chhatra Dal vows to resist mob violence fuelled by religious exploitation</title>
-      <link>https://www.daily-sun.com/bangladesh/847298/chhatra-dal-vows-to-resist-mob-violence-fuelled-by-religious-exploitation</link>
-      <description>The march protested the burning to death of garment worker Dipu Chandra Das in Bhaluka of Mymensingh</description>
-      <pubDate>Sun, 21 Dec 2025 09:54:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/21/medium/JCD-6947c31b12845.gif" type="image/gif" />
-    </item>
-    <item>
       <title>‘Thief’ killed in B’baria lynch-mob attack: 4 held</title>
       <link>https://www.daily-sun.com/bangladesh/847297/thief-killed-in-b-baria-lynch-mob-attack-4-held</link>
       <description>The deceased was identified as Shahed Ali, 60, son of Millat Ali of Semantaghar village in the upazila.</description>
@@ -3492,6 +3485,13 @@
       <description>Gas pressure will remain low for 18 hours in areas under Titas Gas Transmission and Distribution PLC due to emergency</description>
       <pubDate>Thu, 25 Dec 2025 20:37:05 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/26/medium/Titas_Gas-694d825604914.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Govt rejects communal link in Rajbari lynching incident</title>
+      <link>https://www.daily-sun.com/bangladesh/848184/govt-rejects-communal-link-in-rajbari-lynching-incident</link>
+      <description>The government has refuted claims of communal links in a mob lynching incident in Rajbari, saying the incident was rather</description>
+      <pubDate>Fri, 26 Dec 2025 01:43:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/26/medium/mob_Rajbari-694de6ce71da3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
