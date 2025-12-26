@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Two siblings die in Hatirjheel; police suspect food poisoning</title>
-      <link>https://www.daily-sun.com/bangladesh/847307/two-siblings-die-in-hatirjheel-police-suspect-food-poisoning</link>
-      <description>Two siblings have died in the capital’s Hatirjheel area, with police suspecting food poisoning as the preliminary cause of death.</description>
-      <pubDate>Sun, 21 Dec 2025 10:42:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/21/medium/Ilham-6947cd3839f2c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Orphans and underprivileged families get winter relief in Swarupkathi</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/847306/orphans-and-underprivileged-families-get-winter-relief-in-swarupkathi</link>
-      <description>The programme began in the morning at the Swarupkathi Government Primary School ground</description>
-      <pubDate>Sun, 21 Dec 2025 10:42:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/21/medium/Iran-Tehran-(30)-6947cc6b98746.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Kyrgios to make tour return at Brisbane International</title>
       <link>https://www.daily-sun.com/sports/847305/kyrgios-to-make-tour-return-at-brisbane-international</link>
       <description>Nick Kyrgios receives a wildcard for the Brisbane International as he aims for a comeback at the Australian Open, following</description>
@@ -3491,6 +3477,20 @@
       <link>https://www.daily-sun.com/world/848192/heavy-rain-flash-floods-hit-california</link>
       <description />
       <pubDate>Fri, 26 Dec 2025 03:15:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>North Korea's Kim Jong Un signals continued missile development in next 5 years</title>
+      <link>https://www.daily-sun.com/world/848194/north-korea-s-kim-jong-un-signals-continued-missile-development-in-next-5-years</link>
+      <description>North Korean leader Kim Jong Un signaled the country will continue to develop missiles in the next five years</description>
+      <pubDate>Fri, 26 Dec 2025 04:06:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/26/medium/Mayanmar-11-(2)-694e02583d289.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pangaon to be handed over to foreign operator in January</title>
+      <link>https://www.daily-sun.com/business/848193/pangaon-to-be-handed-over-to-foreign-operator-in-january</link>
+      <description>The Pangaon Container Terminal was built in 2013 by the Chattogram Port Authority</description>
+      <pubDate>Fri, 26 Dec 2025 04:06:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/26/medium/Sun-694e02043efc7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
