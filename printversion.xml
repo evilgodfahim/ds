@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Why Has Television Lost Its Appeal?</title>
-      <link>https://www.daily-sun.com/yOUTH-voice/843099</link>
-      <description>I recall my father bragging to us about how he had received a television at the time of his marriage</description>
-      <pubDate>Sat, 20 Dec 2025 18:55:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/11/30/medium/NDS-'11'30-71-692b33dd39078.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>AK Khandaker laid to rest</title>
       <link>https://www.daily-sun.com/front-page/847377</link>
       <description>AK Khandaker laid to rest</description>
@@ -3540,6 +3533,13 @@ DAILY SUN PHOTO</title>
       <description>Laboni Akter Kobita, Student, Department of Public Administration, Jagannath University</description>
       <pubDate>Sat, 27 Dec 2025 19:38:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/07/medium/NDS-'12'07-72-69346fbdac039.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Unfair Pricing Devastating Agriculture, Rural Economy</title>
+      <link>https://www.daily-sun.com/yOUTH-voice/844487</link>
+      <description>Progga Das, Student, Department of Economics, Eden Mohila College</description>
+      <pubDate>Sat, 27 Dec 2025 19:44:59 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/07/medium/NDS-'12'07-73-69346fbd7e545.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
