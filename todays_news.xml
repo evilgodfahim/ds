@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Court asks CID to preserve DNA of Osman Hadi</title>
-      <link>https://www.daily-sun.com/bangladesh/847531/court-asks-cid-to-preserve-dna-of-osman-hadi</link>
-      <description>Sharif Osman Hadi, 33, was shot by miscreants on 12 December in the city</description>
-      <pubDate>Mon, 22 Dec 2025 13:10:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/22/medium/Osman-Hadi-(1)-69493c9fdb952.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh, ADB ink $688m loan deals to upgrade Ctg-Dohazari railway</title>
       <link>https://www.daily-sun.com/bangladesh/847530/bangladesh-adb-ink-688m-loan-deals-to-upgrade-ctg-dohazari-railway</link>
       <description>A 2.5-kilometer bypass enabling direct train services from Dhaka to Cox’s Bazar without stopping at Chattogram station will be constructed</description>
@@ -3492,6 +3485,13 @@
       <description>Depositors of the five banks currently undergoing a merger will have to wait longer to withdraw their funds.</description>
       <pubDate>Sat, 27 Dec 2025 14:45:34 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/27/medium/Five-banks-Merger-694ff0b8e0b64.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Grand opening of Zulcan Indoor Arena at Bashundhara Sports City</title>
+      <link>https://www.daily-sun.com/sports/848405/grand-opening-of-zulcan-indoor-arena-at-bashundhara-sports-city</link>
+      <description>ulcan Indoor Arena, was officially inaugurated with a grand opening ceremony on Saturday at Bashundhara Sports City.</description>
+      <pubDate>Sat, 27 Dec 2025 14:52:40 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/27/medium/Ratan-_9567-(1)_1920x1080-694ff1505a648.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
