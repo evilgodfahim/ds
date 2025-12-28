@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Fire breaks out at multi-storey building near Dhaka’s Babubazar</title>
-      <link>https://www.daily-sun.com/bangladesh/847658/fire-breaks-out-at-multi-storey-building-near-dhaka-s-babubazar</link>
-      <description>A fire broke out at a 14-storey building in the Babubazar Bridge area of the capital on Tuesday (23 December).</description>
-      <pubDate>Tue, 23 Dec 2025 03:18:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/23/medium/Untitled-design---2025-12-23T083427-6949ffce0a6a7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Cambodia asks Thailand to move border talks to Malaysia</title>
       <link>https://www.daily-sun.com/world/847665/cambodia-asks-thailand-to-move-border-talks-to-malaysia</link>
       <description>Cambodia said Thailand launched air strikes on its territory on Monday</description>
@@ -3492,6 +3485,13 @@
       <description>Previously, the NBR had moved the original deadline from 30 November to 31 December</description>
       <pubDate>Sun, 28 Dec 2025 05:31:10 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/28/medium/1766896814-cdc679bebbe282e170ab6fe0dca8445e-6950bc0bf3f7b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Israel seals off Palestinian village after deadly attack</title>
+      <link>https://www.daily-sun.com/world/848501/israel-seals-off-palestinian-village-after-deadly-attack</link>
+      <description>In the attack on Friday a 34-year-old Palestinian man killed two people in northern Israel.</description>
+      <pubDate>Sun, 28 Dec 2025 05:49:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/28/medium/Sun-6950c2e6edfad.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
