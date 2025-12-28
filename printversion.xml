@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>AK Khandaker laid to rest</title>
-      <link>https://www.daily-sun.com/front-page/847377</link>
-      <description>AK Khandaker laid to rest</description>
-      <pubDate>Sun, 21 Dec 2025 19:27:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/22/medium/ds-5--22-12-2025-694828b0b988b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Six Bangladeshi peacekeepers killed in Sudan laid to rest with state honour</title>
       <link>https://www.daily-sun.com/front-page/847378</link>
       <description />
@@ -3540,6 +3533,13 @@ DAILY SUN PHOTO</title>
       <description>Progga Das, Student, Department of Economics, Eden Mohila College</description>
       <pubDate>Sat, 27 Dec 2025 19:44:59 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/07/medium/NDS-'12'07-73-69346fbd7e545.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The terrifying face of mob lynching</title>
+      <link>https://www.daily-sun.com/front-page/848610</link>
+      <description>Over the past 16 months in Bangladesh, various crimes have been committed in the name of mob violence. These include</description>
+      <pubDate>Sun, 28 Dec 2025 17:33:26 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/29-12-2025-p3-2-695169945adcd.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
