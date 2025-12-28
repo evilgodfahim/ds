@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>A melting pot of chaos</title>
-      <link>https://www.daily-sun.com/sports/847784/a-melting-pot-of-chaos</link>
-      <description>With the Bangladesh Women’s Football League approaching, clubs are facing uncertainty, tight deadlines, and intense recruitment challenges.</description>
-      <pubDate>Tue, 23 Dec 2025 19:30:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/24/medium/Bangladesh_Womens_Football_Leagu_1920x1080-694aea92c38da.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US judge tosses Trump challenge to New York immigration-related law</title>
       <link>https://www.daily-sun.com/world/847838/us-judge-tosses-trump-challenge-to-new-york-immigration-related-law</link>
       <description>US District Judge Anne Nardacci in Albany rejected the Justice Department's arguments that a New York law that restricts the</description>
@@ -3492,6 +3485,13 @@
       <description>BNP Acting Chairman Tarique Rahman on Sunday night paid a late-night visit to Evercare Hospital to see his ailing mother</description>
       <pubDate>Sun, 28 Dec 2025 19:08:33 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/4-(3)-69517f54e2e38.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>At least 35 homes gutted in Rohingya camp fire</title>
+      <link>https://www.daily-sun.com/bangladesh/848651/at-least-35-homes-gutted-in-rohingya-camp-fire</link>
+      <description>A devastating fire broke out at a Rohingya camp in Teknaf of Cox’s Bazar, destroying more than 35 shelters</description>
+      <pubDate>Sun, 28 Dec 2025 20:19:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/IMG-20251229-WA0000-69518f1d549cb.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
