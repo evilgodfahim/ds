@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DMP traffic alert: Routes to avoid Thursday as Tarique returns</title>
-      <link>https://www.daily-sun.com/bangladesh/847905/dmp-traffic-alert-routes-to-avoid-thursday-as-tarique-returns</link>
-      <description>The advisory will remain in effect from 4:00am to 10:00pm as large crowds are expected along the Airport–Purbachal Expressway–Evercare Hospital–Gulshan route during the BNP leader’s return.</description>
-      <pubDate>Wed, 24 Dec 2025 13:24:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/24/medium/dmp-694be5ccc133e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>REHAB Fair 2025 kicks off in Dhaka, showcasing housing solutions</title>
       <link>https://www.daily-sun.com/business/847904/rehab-fair-2025-kicks-off-in-dhaka-showcasing-housing-solutions</link>
       <description>The REHAB Fair 2025, Bangladesh’s largest real estate event, officially opened on Wednesday at the China-Bangladesh Friendship Conference Centre in</description>
@@ -3495,6 +3488,13 @@
       <description>A Dhaka court on Monday granted a five-day remand for Ahsan Ullah, the alleged shelter provider of the main suspect,</description>
       <pubDate>Mon, 29 Dec 2025 14:54:07 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/Keraniganj-69529403d78e3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Norway's Carlsen claims sixth world rapid chess title in Qatar</title>
+      <link>https://www.daily-sun.com/sports/848724/norway-s-carlsen-claims-sixth-world-rapid-chess-title-in-qatar</link>
+      <description>Magnus Carlsen won his sixth world rapid championship title at the FIDE World Rapid and Blitz Chess Championships in Qatar</description>
+      <pubDate>Mon, 29 Dec 2025 15:01:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/Screenshot-2025-12-29-205712-695296f59abfd.png" type="image/png" />
     </item>
   </channel>
 </rss>
