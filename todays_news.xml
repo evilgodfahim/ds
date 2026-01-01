@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Tarique visits BNP chairperson’s office</title>
-      <link>https://www.daily-sun.com/politics/848521/tarique-visits-bnp-chairperson-s-office</link>
-      <description>BNP Acting Chairman Tarique Rahman visited the party chairperson’s Gulshan office on Sunday, his first visit since returning to the</description>
-      <pubDate>Sun, 28 Dec 2025 09:15:28 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/28/medium/Untitled-design---2025-12-28T150013-6950f1c077d45.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Netanyahu to meet Trump in US on Monday</title>
       <link>https://www.daily-sun.com/world/848520/netanyahu-to-meet-trump-in-us-on-monday</link>
       <description>It will be Netanyahu's fifth visit to see key ally Trump in the United States this year.</description>
@@ -3492,6 +3485,13 @@
       <description>Several people were killed during unrest in Iran overnight into Thursday, Iranian media and rights groups reported, as the biggest</description>
       <pubDate>Thu, 01 Jan 2026 16:20:16 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/01/medium/Iran_Protest-69569982ae22b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ukraine kills 24 people in New Year drone strike: Moscow</title>
+      <link>https://www.daily-sun.com/world/849245/ukraine-kills-24-people-in-new-year-drone-strike-moscow</link>
+      <description>Russia accused Ukraine on Thursday of killing at least 24 people, including a child, in a drone strike on a</description>
+      <pubDate>Thu, 01 Jan 2026 16:46:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/01/medium/Ukraine_Drone_Strike-6956a140372aa.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
