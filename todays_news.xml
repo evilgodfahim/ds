@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Carlsen pushes away camera after World Blitz Championships loss</title>
-      <link>https://www.daily-sun.com/sports/848564/carlsen-pushes-away-camera-after-world-blitz-championships-loss</link>
-      <description>Magnus Carlsen pushed away a camera after losing to Vladislav Artemiev at the FIDE World Rapid and Blitz Chess Championships</description>
-      <pubDate>Sun, 28 Dec 2025 15:12:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/28/medium/Screenshot-2025-12-28-205413-695145a36fa62.png" type="image/png" />
-    </item>
-    <item>
       <title>BIWTA suspends launch services due to dense fog</title>
       <link>https://www.daily-sun.com/bangladesh/848565/biwta-suspends-launch-services-due-to-dense-fog</link>
       <description>The decision was taken to ensure the safety of passengers as poor visibility continues to affect river routes.</description>
@@ -3492,6 +3485,13 @@
       <description>Speaking about the future of Bangladesh, Khasru emphasised unity and inclusive development</description>
       <pubDate>Fri, 02 Jan 2026 09:51:49 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/02/medium/Amir_Khasru-6957924b00ca9.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Mercury dips to 8 degree Celsius in Jashore</title>
+      <link>https://www.daily-sun.com/bangladesh/849380/mercury-dips-to-8-degree-celsius-in-jashore</link>
+      <description>The lowest temperature was recorded on Friday in Jashore for the second consecutive day with 8 degree Celsius.</description>
+      <pubDate>Fri, 02 Jan 2026 09:59:19 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/02/medium/4-6957954fa73a0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
