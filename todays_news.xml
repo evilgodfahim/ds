@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DCCI mourns demise of former Prime Minister Begum Khaleda Zia</title>
-      <link>https://www.daily-sun.com/bangladesh/848836/dcci-mourns-demise-of-former-prime-minister-begum-khaleda-zia</link>
-      <description>Khaleda Zia (80) breathed her last on Tuesday morning at the Evercare Hospital, Dhaka while undergoing treatment.</description>
-      <pubDate>Tue, 30 Dec 2025 06:51:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/30/medium/Khaleda_01-6953754b0cd7f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Ex-PM Khaleda Zia’s legacy will be remembered: France</title>
       <link>https://www.daily-sun.com/bangladesh/848835/ex-pm-khaleda-zia-s-legacy-will-be-remembered-france</link>
       <description>The French Embassy in Bangladesh has expressed its deepest condolences on the passing of Begum Khaleda Zia.</description>
@@ -3493,6 +3486,13 @@
       <description>Severe cold has led to a surge in patients suffering from cold-related illnesses across Rangpur division, with 1,421 new patients</description>
       <pubDate>Sat, 03 Jan 2026 14:34:58 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/03/medium/103-people-die-of-cold-related-illnesses-in-Rangpur-in-3-days-6959268a46a87.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Eco-friendly e-rickshaw pilot programme launched in Dhaka</title>
+      <link>https://www.daily-sun.com/bangladesh/849601/eco-friendly-e-rickshaw-pilot-programme-launched-in-dhaka</link>
+      <description>The three-wheeled, low-speed e-rickshaws are designed to offer a safer and more sustainable urban transport solution</description>
+      <pubDate>Sat, 03 Jan 2026 14:47:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/03/medium/E-Rickshaw-6959292f0206c.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
