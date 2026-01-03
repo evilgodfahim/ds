@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Dhaka University announces 3-day mourning following Khaleda Zia’s death</title>
-      <link>https://www.daily-sun.com/sun-campus/848855/dhaka-university-announces-3-day-mourning-following-khaleda-zia-s-death</link>
-      <description>The mourning will be observed from Tuesday to Thursday, during which all classes and examinations at the university have been</description>
-      <pubDate>Tue, 30 Dec 2025 10:12:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/30/medium/DU-6953a33a169f4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Khaleda Zia’s janaza on Wednesday at Sangsad Bhaban's South Plaza: Fakhrul</title>
       <link>https://www.daily-sun.com/politics/848854/khaleda-zia-s-janaza-on-wednesday-at-sangsad-bhaban-s-south-plaza-fakhrul</link>
       <description>He said Khaleda Zia will be laid to rest beside martyred President and freedom fighter Ziaur Rahman</description>
@@ -3493,6 +3486,13 @@
       <description>Activists of Students Against Discrimination (SAD) blocked the Shahbagh intersection around 10:15pm on Saturday, after their ultimatum to release a</description>
       <pubDate>Sat, 03 Jan 2026 19:18:59 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Shahbagh-blockade--695967444fc2a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BCB to write to ICC, BCCI over Mustafizur removal, security concerns</title>
+      <link>https://www.daily-sun.com/sports/849711/bcb-to-write-to-icc-bcci-over-mustafizur-removal-security-concerns</link>
+      <description>BCB is set to write to the ICC and the Board of Control for Cricket in India (BCCI) seeking clarity</description>
+      <pubDate>Sat, 03 Jan 2026 20:28:58 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/BCB-LOGO-main-695927b2aa296-69597851de631.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
