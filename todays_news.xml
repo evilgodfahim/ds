@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Potts in line for Sydney test after Atkinson injury</title>
-      <link>https://www.daily-sun.com/sports/848908/potts-in-line-for-sydney-test-after-atkinson-injury</link>
-      <description>England's ever-changing attack will have yet another iteration in the Ashes finale in Sydney with Matthew Potts expected to replace</description>
-      <pubDate>Tue, 30 Dec 2025 15:14:40 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/30/medium/MSUEJTQY2BK75JUY22K35YJ3VI-6953e8346687c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Khaleda Zia’s Farewell: The Departure of the Last Pillar Against Hegemony</title>
       <link>https://www.daily-sun.com/opinion/848914/khaleda-zia-s-farewell-the-departure-of-the-last-pillar-against-hegemony</link>
       <description>History, Struggle, and the Legacy of a Persecuted Leader</description>
@@ -3491,6 +3484,13 @@
       <description>The order will remain in force until further notice.</description>
       <pubDate>Sun, 04 Jan 2026 09:24:04 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/DMP-695a2d51dfcfb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BCB revokes Mustafizur’s NOC for IPL over security issues</title>
+      <link>https://www.daily-sun.com/sports/849757/bcb-revokes-mustafizur-s-noc-for-ipl-over-security-issues</link>
+      <description>BCB decided not to send their team in India to play in the upcoming ICC T20 World Cup for security</description>
+      <pubDate>Sun, 04 Jan 2026 09:38:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Mustafiz-695a3393361ab.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
