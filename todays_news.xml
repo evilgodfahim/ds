@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Orphan children get free dinner in Joypurhat</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/849038/orphan-children-get-free-dinner-in-joypurhat</link>
-      <description>Bashundhara Shuvosangho members arranged free dinner for 30 orphan students at Kharikata-Kharita Hafezia Madrasa at Kharita village, Khetlal upazila, Joypurhat</description>
-      <pubDate>Wed, 31 Dec 2025 12:54:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/31/medium/Shuvosangho_Joypurhat-695518e3e1811.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Grieving nation bids farewell to democracy icon Khaleda Zia</title>
       <link>https://www.daily-sun.com/bangladesh/849037/grieving-nation-bids-farewell-to-democracy-icon-khaleda-zia</link>
       <description>Begum Khaleda Zia – democracy icon and uncompromising leader of the country – was laid to eternal rest with state</description>
@@ -3491,6 +3484,13 @@
       <description>A top Venezuelan official declared on Sunday that the country's government would stay unified behind President Nicolas Maduro, whose capture</description>
       <pubDate>Sun, 04 Jan 2026 21:43:43 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Venezuela's-interim-government-says-it-is-united-behind-Maduro-after-his-US-capture-695adc782b896.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Venezuela moves to cut oil output due to US export embargo</title>
+      <link>https://www.daily-sun.com/world/849910/venezuela-moves-to-cut-oil-output-due-to-us-export-embargo</link>
+      <description>Venezuela's state-run oil company PDVSA has begun cutting crude production because it is running out of storage capacity due to</description>
+      <pubDate>Sun, 04 Jan 2026 21:51:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Venezuela-moves-to-cut-oil-output-due-to-US-export-embargo-695adfe8af7e5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
