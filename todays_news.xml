@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Khaleda Zia’s Farewell: The Departure of the Last Pillar Against Hegemony</title>
-      <link>https://www.daily-sun.com/opinion/848914/khaleda-zia-s-farewell-the-departure-of-the-last-pillar-against-hegemony</link>
-      <description>History, Struggle, and the Legacy of a Persecuted Leader</description>
-      <pubDate>Tue, 30 Dec 2025 15:36:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/30/medium/AKM-Rezoul-Karim-6953f0925b6bf.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>'Make our country happy': Sudan dream of AFCON glory</title>
-      <link>https://www.daily-sun.com/sports/848913/make-our-country-happy-sudan-dream-of-afcon-glory</link>
-      <description>Sudan's national football team qualified for the ongoing AFCON in Morocco and on Sunday they beat Equatorial Guinea 1-0 in</description>
-      <pubDate>Tue, 30 Dec 2025 15:36:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/30/medium/6a511b45b817ecdade7cc0e296159ed1-6953ef5763da6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Jagannath University student union elections rescheduled to 6 Jan</title>
       <link>https://www.daily-sun.com/bangladesh/848912/jagannath-university-student-union-elections-rescheduled-to-6-jan</link>
       <description>The Jagannath University authority has rescheduled the student union elections to 6 January from Tuesday.</description>
@@ -3491,6 +3477,20 @@
       <description>BCB decided not to send their team in India to play in the upcoming ICC T20 World Cup for security</description>
       <pubDate>Sun, 04 Jan 2026 09:38:34 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Mustafiz-695a3393361ab.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US allies, foes alarmed by toppling of Venezuela's Maduro</title>
+      <link>https://www.daily-sun.com/world/849759/us-allies-foes-alarmed-by-toppling-of-venezuela-s-maduro</link>
+      <description>Maduro and his wife were flown by helicopter to New York City, where they face drug-trafficking and weapons charges.</description>
+      <pubDate>Sun, 04 Jan 2026 09:55:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Maduro-695a37f47e774.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Asif Nazrul welcomes BCB’s decision against attending World Cup in India</title>
+      <link>https://www.daily-sun.com/sports/849758/asif-nazrul-welcomes-bcb-s-decision-against-attending-world-cup-in-india</link>
+      <description>The BCB conveyed the matter to the ICC through an email on Sunday</description>
+      <pubDate>Sun, 04 Jan 2026 09:55:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Asif-Nazrul-695a37b4721eb.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
