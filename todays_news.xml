@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Vehicular movement restricted for Khaleda Zia’s janaza: ISPR</title>
-      <link>https://www.daily-sun.com/bangladesh/848996/vehicular-movement-restricted-for-khaleda-zia-s-janaza-ispr</link>
-      <description>Pedestrian movement remained open to the public</description>
-      <pubDate>Wed, 31 Dec 2025 03:17:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/31/medium/Untitled-design---2025-12-31T084512-69548f83e1426.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Pakistani, Saudi foreign ministers discuss regional situation amid Yemen tensions</title>
-      <link>https://www.daily-sun.com/world/848995/pakistani-saudi-foreign-ministers-discuss-regional-situation-amid-yemen-tensions</link>
-      <description>The development came hours after Saudi Arabia Coalition to Support Legitimacy in Yemen said it conducted a “limited” airstrike targeting</description>
-      <pubDate>Wed, 31 Dec 2025 03:17:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/31/medium/Putin-111-(7)-69548d4477fff.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BNP supporters flock to Dhaka ahead of Khaleda Zia’s janaza</title>
       <link>https://www.daily-sun.com/politics/848994/bnp-supporters-flock-to-dhaka-ahead-of-khaleda-zia-s-janaza</link>
       <description>To ensure the burial is completed smoothly, only designated individuals will be allowed to enter Zia Udyan</description>
@@ -3494,6 +3480,20 @@
       <description>Thanasi Kokkinakis and Nick Kyrgios reprised their triumphant Australian Open partnership by winning their opening match.</description>
       <pubDate>Sun, 04 Jan 2026 13:44:32 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/tennis_1920x1080-695a69b6a6a33.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NEIR system to remain suspended for three months</title>
+      <link>https://www.daily-sun.com/bangladesh/849791/neir-system-to-remain-suspended-for-three-months</link>
+      <description>A group of people reportedly carried out vandalism at the BTRC premises during the launch of the system</description>
+      <pubDate>Sun, 04 Jan 2026 13:53:54 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/NEIR-695a70405c6ce.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Exports fall for fifth consecutive month to $3.97b in Dec</title>
+      <link>https://www.daily-sun.com/business/849790/exports-fall-for-fifth-consecutive-month-to-3-97b-in-dec</link>
+      <description>The country exported products worth $48.28 billion in the 2024-25 fiscal year, while the RMG industry alone accounted for $39.35</description>
+      <pubDate>Sun, 04 Jan 2026 13:53:54 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Ctg-port-UNB-695a6fec1d229.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
