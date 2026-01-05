@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Coach Maresca leaves Chelsea</title>
-      <link>https://www.daily-sun.com/sports/849225/coach-maresca-leaves-chelsea</link>
-      <description>Enzo Maresca has left his role as Chelsea head coach after 18 months in charge, the Premier League club announced</description>
-      <pubDate>Thu, 01 Jan 2026 13:45:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/01/medium/Chelsea-695677f7c5ea4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sanjay, Faisal confess in Osman Hadi murder case</title>
       <link>https://www.daily-sun.com/bangladesh/849224/sanjay-faisal-confess-in-osman-hadi-murder-case</link>
       <description>The court also sent Sibiun Dew to jail after his remand</description>
@@ -3492,6 +3485,13 @@
       <description>During the meeting, the vice-chancellor expressed deep shock at the death of former prime minister Begum Khaleda Zia</description>
       <pubDate>Mon, 05 Jan 2026 17:15:16 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Chandpur-(4)-695bed9cceb45.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US preparing to reopen embassy in Caracas if Trump wants</title>
+      <link>https://www.daily-sun.com/world/850041/us-preparing-to-reopen-embassy-in-caracas-if-trump-wants</link>
+      <description>As President Trump said, we are making preparations to allow for a reopening should the President make that decision</description>
+      <pubDate>Mon, 05 Jan 2026 17:39:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Chandpur-(5)-695bf1b8028c9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
