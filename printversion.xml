@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Groundwater Depletion, Pollution and Future of Bangladesh’s Cities</title>
-      <link>https://www.daily-sun.com/editorial/848606</link>
-      <description />
-      <pubDate>Sun, 28 Dec 2025 18:34:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/medium/29-12-2025-p2-8-695167f22f277.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Are fear and force undermining justice?</title>
       <link>https://www.daily-sun.com/editorial/848605</link>
       <description />
@@ -3563,6 +3556,12 @@ digital sovereignty</title>
       <description>Biman announces suspension of Dhaka-Manchester flight</description>
       <pubDate>Sun, 04 Jan 2026 20:36:31 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Maduro: The Abduction of a President</title>
+      <link>https://daily-sun.com/editorial/849815</link>
+      <description />
+      <pubDate>Mon, 05 Jan 2026 11:43:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
