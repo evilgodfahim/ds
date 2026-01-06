@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Swiss Embassy in Dhaka expresses grief over Crans-Montana fire</title>
-      <link>https://www.daily-sun.com/diplomacy/849362/swiss-embassy-in-dhaka-expresses-grief-over-crans-montana-fire</link>
-      <description>The fire at the popular alpine resort has caused widespread shock and mourning, prompting messages of sympathy from various quarters.</description>
-      <pubDate>Fri, 02 Jan 2026 05:48:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/02/medium/Swiss-695756e6597de.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fresh clashes kill six in Iran cost-of-living protests</title>
-      <link>https://www.daily-sun.com/world/849367/fresh-clashes-kill-six-in-iran-cost-of-living-protests</link>
-      <description>The protests began on Sunday in Tehran, where shopkeepers went on strike over high prices and economic stagnation, and have</description>
-      <pubDate>Fri, 02 Jan 2026 06:29:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/02/medium/Iran-6957627660046.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Saudi Arabia sets executions record in 2025, putting 356 people to death</title>
-      <link>https://www.daily-sun.com/world/849366/saudi-arabia-sets-executions-record-in-2025-putting-356-people-to-death</link>
-      <description>Official data released by the government said 243 people were executed in drug-related cases in 2025 alone.</description>
-      <pubDate>Fri, 02 Jan 2026 06:29:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/02/medium/Saudi-69575fe1860f4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Nation observing last day of 3-day state mourning over death of Khaleda Zia</title>
       <link>https://www.daily-sun.com/bangladesh/849365/nation-observing-last-day-of-three-day-state-mourning-over-death-of-begum-khaleda-zia</link>
       <description>The national flag has been kept at half-mast at all government, semi-government, autonomous institutions, all public and private buildings</description>
@@ -3488,6 +3467,27 @@
       <link>https://daily-sun.com/politics/849973/70-people-want-to-vote-for-bnp-survey</link>
       <description />
       <pubDate>Tue, 06 Jan 2026 10:46:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>UN says it will not send election observers to Bangladesh polls</title>
+      <link>https://www.daily-sun.com/diplomacy/850155/un-says-it-will-not-send-election-observers-to-bangladesh-polls</link>
+      <description>Organisation says it only deploys observers with a mandate from the General Assembly or Security Council; may offer technical support instead</description>
+      <pubDate>Tue, 06 Jan 2026 10:58:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/Un-spokesperson-695ce9e4210af.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tarique reviews election preparations with Dhaka-17 BNP leaders</title>
+      <link>https://www.daily-sun.com/politics/850154/tarique-reviews-election-preparations-with-dhaka-17-bnp-leaders</link>
+      <description>BNP acting chairman Tarique Rahman on Tuesday held a meeting with leaders and activists of the Dhaka-17 constituency to review</description>
+      <pubDate>Tue, 06 Jan 2026 10:58:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/tarique-rahman-(2)-695ce9a47b377.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hadi killed for anti-AL remarks; charge sheet submitted: DB chief</title>
+      <link>https://www.daily-sun.com/bangladesh/850153/hadi-killed-for-anti-al-remarks-charge-sheet-submitted-db-chief</link>
+      <description>Inqilab Moncho spokesperson and July Warrior Sharif Osman Hadi was killed by criminals backed by Awami League for speaking against</description>
+      <pubDate>Tue, 06 Jan 2026 10:58:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/osman_hadi-695ce8dda940e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
