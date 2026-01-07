@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>July activist Mahdi arrested over threats to police officer</title>
-      <link>https://www.daily-sun.com/bangladesh/849609/july-activist-mahdi-arrested-over-threats-to-police-officer</link>
-      <description>The arrest was carried out on Saturday evening by the Detective Branch (DB) of Habiganj district police</description>
-      <pubDate>Sat, 03 Jan 2026 15:31:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/03/medium/Prison-6959357f33f6d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Rajshahi Stars thrash champions Nasrin Sports Academy 12-0 in stunning debut</title>
       <link>https://www.daily-sun.com/sports/849608/rajshahi-stars-thrash-champions-nasrin-sports-academy-12-0-in-stunning-debut</link>
       <description>Rajshahi Stars FC, the newcomers in the Women’s Football League, made a spectacular statement in their very first match.</description>
@@ -3481,6 +3474,13 @@
       <description>CCTV footage capturing the attackers escaping after shooting Musabbir has been obtained by the media</description>
       <pubDate>Wed, 07 Jan 2026 21:50:33 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/08/medium/Musabbir-695ed2ca601e0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Colombia fears regional 'catastrophe' after US strike on Venezuela</title>
+      <link>https://www.daily-sun.com/world/850481/colombia-fears-regional-catastrophe-after-us-strike-on-venezuela</link>
+      <description>Colombia and its first-ever leftist president, Gustavo Petro, have consistently criticized Washington's mass naval deployment in Latin America</description>
+      <pubDate>Wed, 07 Jan 2026 23:00:45 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/08/medium/Colombia-695ee3e0f3d1b.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
