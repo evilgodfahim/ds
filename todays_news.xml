@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Venezuela's capital hit by explosions, smoke seen</title>
-      <link>https://www.daily-sun.com/world/849551/venezuela-s-capital-hit-by-explosions-smoke-seen</link>
-      <description>US President Donald Trump has repeatedly promised land operations in Venezuela</description>
-      <pubDate>Sat, 03 Jan 2026 08:23:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/03/medium/sun-6958cf09aec24.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Unplanned Urban Growth Fuels Environmental Risks in Bangladesh</title>
-      <link>https://www.daily-sun.com/opinion/849554/unplanned-urban-growth-fuels-environmental-risks-in-bangladesh</link>
-      <description>The population of the Dhaka megacity has reached nearly 40 million, which is many times higher than the city's natural</description>
-      <pubDate>Sat, 03 Jan 2026 08:46:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/03/medium/sakif-Shamim-6958d675c38ca.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>LIVEExplosions rock Caracas as Venezuela accuses US of attacks</title>
       <link>https://www.daily-sun.com/world/849553/explosions-rock-caracas-as-venezuela-accuses-us-of-attacks</link>
       <description>Washington has not commented so far</description>
@@ -3479,6 +3465,20 @@
       <link>https://www.daily-sun.com/sports/850345/nasir-blitz-guides-dhaka-to-second-victory</link>
       <description />
       <pubDate>Wed, 07 Jan 2026 11:00:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>IEDCR warns Nipah virus is no longer seasonal, flags new transmission routes</title>
+      <link>https://www.daily-sun.com/bangladesh/850347/iedcr-warns-nipah-virus-is-no-longer-seasonal-flags-new-transmission-routes</link>
+      <description>Health agency cites off-season case and bat-contaminated fruit as signs of year-round risk</description>
+      <pubDate>Wed, 07 Jan 2026 11:22:13 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/07/medium/Nipah-virus--WHO-695e3f26bfe41.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Moin re-elected DCAB President; Emrul Kayesh new GS</title>
+      <link>https://www.daily-sun.com/bangladesh/850346/moin-re-elected-dcab-president-emrul-kayesh-new-gs</link>
+      <description>AKM Moinuddin, Special Correspondent of United News of Bangladesh (UNB), has been re-elected President of the Diplomatic Correspondents Association, Bangladesh</description>
+      <pubDate>Wed, 07 Jan 2026 11:22:13 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/07/medium/Moin-re-elected-DCAB-President;-Emrul-Kayesh-new-GS-(2)-695e414173a85.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
