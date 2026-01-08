@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>NEIR system to remain suspended for three months</title>
-      <link>https://www.daily-sun.com/bangladesh/849791/neir-system-to-remain-suspended-for-three-months</link>
-      <description>A group of people reportedly carried out vandalism at the BTRC premises during the launch of the system</description>
-      <pubDate>Sun, 04 Jan 2026 13:53:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/NEIR-695a70405c6ce.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Exports fall for fifth consecutive month to $3.97b in Dec</title>
-      <link>https://www.daily-sun.com/business/849790/exports-fall-for-fifth-consecutive-month-to-3-97b-in-dec</link>
-      <description>The country exported products worth $48.28 billion in the 2024-25 fiscal year, while the RMG industry alone accounted for $39.35</description>
-      <pubDate>Sun, 04 Jan 2026 13:53:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/Ctg-port-UNB-695a6fec1d229.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>DU holds condolence conference in memory of Khaleda Zia</title>
       <link>https://www.daily-sun.com/bangladesh/849795/du-holds-condolence-conference-in-memory-of-khaleda-zia</link>
       <description>Prof Mamun Ahmed described Begum Khaleda Zia as a unique statesman of post-independence Bangladesh</description>
@@ -3478,6 +3464,20 @@
       <description>On its official website, the US Embassy in Ukraine also recommended that US citizens be prepared to take shelter immediately</description>
       <pubDate>Thu, 08 Jan 2026 20:24:41 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/US-Embassy-in-Ukraine-69600c6592ee3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>DU Syndicate recommends renaming Sheikh Mujibur Rahman Hall after Shaheed Osman Hadi</title>
+      <link>https://www.daily-sun.com/bangladesh/850671/du-syndicate-recommends-renaming-sheikh-mujibur-rahman-hall-after-shaheed-osman-hadi</link>
+      <description>Also recommends removal of Mujib family names from five university facilities</description>
+      <pubDate>Thu, 08 Jan 2026 20:44:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/DU-logo-2-696015933d52a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BSF halts overnight road construction near border after BGB intervention</title>
+      <link>https://www.daily-sun.com/bangladesh/850670/bsf-halts-overnight-road-construction-near-border-after-bgb-intervention</link>
+      <description>Alerted by locals, Border Guard Bangladesh (BGB) personnel arrived at the site and forced the BSF to halt construction.</description>
+      <pubDate>Thu, 08 Jan 2026 20:44:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/BGB-BSF-road-construction--UNB-69601259d0eea.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
