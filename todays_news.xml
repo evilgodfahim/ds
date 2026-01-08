@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Kyrgios and Kokkinakis victorious in emotional 'Special Ks' comeback</title>
-      <link>https://www.daily-sun.com/sports/849787/kyrgios-and-kokkinakis-victorious-in-emotional-special-ks-comeback</link>
-      <description>Thanasi Kokkinakis and Nick Kyrgios reprised their triumphant Australian Open partnership by winning their opening match.</description>
-      <pubDate>Sun, 04 Jan 2026 13:44:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/tennis_1920x1080-695a69b6a6a33.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NEIR system to remain suspended for three months</title>
       <link>https://www.daily-sun.com/bangladesh/849791/neir-system-to-remain-suspended-for-three-months</link>
       <description>A group of people reportedly carried out vandalism at the BTRC premises during the launch of the system</description>
@@ -3478,6 +3471,13 @@
       <link>https://daily-sun.com/bangladesh/850480/musabbir-killing-what-cctv-footage-reveals</link>
       <description />
       <pubDate>Thu, 08 Jan 2026 19:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>US issues security alert for its citizens in Ukraine</title>
+      <link>https://www.daily-sun.com/world/850669/us-issues-security-alert-for-its-citizens-in-ukraine</link>
+      <description>On its official website, the US Embassy in Ukraine also recommended that US citizens be prepared to take shelter immediately</description>
+      <pubDate>Thu, 08 Jan 2026 20:24:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/US-Embassy-in-Ukraine-69600c6592ee3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
