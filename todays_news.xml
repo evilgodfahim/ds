@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Winter cake festival held in Cumilla’s Lalmai</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/850176/winter-cake-festival-held-in-cumilla-s-lalmai</link>
-      <description>Bashundhara Shuvosangho organised a winter cake festival at the Al Isra Hall Room, Bagmara bazar, Lalmai upazila, Cumilla on Monday</description>
-      <pubDate>Tue, 06 Jan 2026 13:56:16 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/Shuvosangho_Cumilla-695d1035a1002.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Singapore foreign minister condoles Khaleda Zia’s death</title>
       <link>https://www.daily-sun.com/diplomacy/850175/singapore-foreign-minister-condoles-khaleda-zia-s-death</link>
       <description>Singapore’s Foreign Minister Dr Vivian Balakrishnan has expressed deep condolences to the government and people of Bangladesh on the passing</description>
@@ -3478,6 +3471,13 @@
       <description>Two miscreants stole the motorbike of a police officer from the Bhatara Police Station in the capital early morning on</description>
       <pubDate>Sat, 10 Jan 2026 22:49:00 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Vatara_Police_Station-6962d56bab3c0.png" type="image/png" />
+    </item>
+    <item>
+      <title>US carries out strikes across Syria targeting IS</title>
+      <link>https://www.daily-sun.com/world/851051/us-carries-out-strikes-across-syria-targeting-is</link>
+      <description>The US military said on Saturday it carried out multiple strikes in Syria targeting the Islamic State militant group</description>
+      <pubDate>Sat, 10 Jan 2026 22:56:31 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/US_military_Syria_strike-6962d7726a0cc.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
