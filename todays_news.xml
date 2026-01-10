@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>West Ham sign Argentina striker Castellanos from Lazio</title>
-      <link>https://www.daily-sun.com/sports/850021/west-ham-sign-argentina-striker-castellanos-from-lazio</link>
-      <description>Argentina forward Taty Castellanos has joined West Ham United on a four-and-a-half-year contract with the option to extend for another</description>
-      <pubDate>Mon, 05 Jan 2026 16:32:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Screenshot-2026-01-05-221720-695be47639c72.png" type="image/png" />
-    </item>
-    <item>
-      <title>Govt to recruit over 67,000 teachers to fill vacant posts</title>
-      <link>https://www.daily-sun.com/bangladesh/850018/govt-to-recruit-over-67-000-teachers-to-fill-vacant-posts</link>
-      <description>Education Adviser Chowdhury Rafiqul Abrar on Monday said the interim government has decided to recruit more than 67,000 teachers to</description>
-      <pubDate>Mon, 05 Jan 2026 16:32:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/education_adviser_abrar-695be20231b72.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Celtic sack manager Nancy after eight games</title>
       <link>https://www.daily-sun.com/sports/850017/celtic-sack-manager-nancy-after-eight-games</link>
       <description>Celtic on Monday sacked manager Wilfried Nancy after just eight games in charge of the Scottish champions.</description>
@@ -3478,6 +3464,20 @@
       <description>The vast island finds itself in the eye of a geopolitical storm with Trump's name on it and people here</description>
       <pubDate>Sat, 10 Jan 2026 08:57:25 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Police-(16)-6962135f1b0f0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s economy demonstrates resilience, gradual stabilization: Dr Salehuddin</title>
+      <link>https://www.daily-sun.com/business/850887/bangladesh-s-economy-demonstrates-resilience-gradual-stabilization-dr-salehuddin</link>
+      <description>The Finance Adviser was addressing the publication ceremony of the 7t edition of the ‘Banking Almanac’ at the CIRDAP International</description>
+      <pubDate>Sat, 10 Jan 2026 09:16:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Saleh-6962186d80bf9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Operation Devil Hunt Phase-2: 48 arrested in 24 hours in Dhaka</title>
+      <link>https://www.daily-sun.com/bangladesh/850886/operation-devil-hunt-phase-2-48-arrested-in-24-hours-in-dhaka</link>
+      <description>Among the arrestees, 27 were arrested from Mirpur area, ten from Sher-e-Bangla Nagar area and 11 from Jatrabari area</description>
+      <pubDate>Sat, 10 Jan 2026 09:16:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Police-(17)-69621566bd130.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
