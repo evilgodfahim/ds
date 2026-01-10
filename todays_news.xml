@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Palestinian embassy in UK officially inaugurated</title>
-      <link>https://www.daily-sun.com/world/850022/palestinian-embassy-in-uk-officially-inaugurated</link>
-      <description>The embassy of Palestine was officially inaugurated in London in a short ceremony on Monday, hailed by its ambassador as</description>
-      <pubDate>Mon, 05 Jan 2026 16:32:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Palestine_embassy_London-695be4c5f20b7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>West Ham sign Argentina striker Castellanos from Lazio</title>
       <link>https://www.daily-sun.com/sports/850021/west-ham-sign-argentina-striker-castellanos-from-lazio</link>
       <description>Argentina forward Taty Castellanos has joined West Ham United on a four-and-a-half-year contract with the option to extend for another</description>
@@ -3478,6 +3471,13 @@
       <description>Critics warned Trump's move will further isolate the country on the global stage.</description>
       <pubDate>Sat, 10 Jan 2026 08:44:35 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Trump_000-69620c7a302a1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Greenlanders unnerved as they find themselves in geopolitical storm</title>
+      <link>https://www.daily-sun.com/world/850885/greenlanders-unnerved-as-they-find-themselves-in-geopolitical-storm</link>
+      <description>The vast island finds itself in the eye of a geopolitical storm with Trump's name on it and people here</description>
+      <pubDate>Sat, 10 Jan 2026 08:57:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Police-(16)-6962135f1b0f0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
