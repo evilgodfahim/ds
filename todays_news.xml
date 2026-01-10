@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Voting ends at Jagannath University</title>
-      <link>https://www.daily-sun.com/sun-campus/850151/voting-ends-at-jagannath-university</link>
-      <description>Vote casting for student union elections has ended at Jagannath University amid a largely peaceful and festive atmosphere.</description>
-      <pubDate>Tue, 06 Jan 2026 10:46:19 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/JnUCSU-695ce4d640071.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Head, Smith centuries put Australia in charge of final Ashes Test</title>
-      <link>https://www.daily-sun.com/sports/850150/head-smith-centuries-put-australia-in-charge-of-final-ashes-test</link>
-      <description>Travis Head hit a swashbuckling 163 and Steve Smith a composed unbeaten 129 as Australia built a 134-run lead over</description>
-      <pubDate>Tue, 06 Jan 2026 10:46:19 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/787060-01-02_1920x1080-695ce45e01bc7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>70% people want to vote for BNP: Survey</title>
       <link>https://daily-sun.com/politics/849973/70-people-want-to-vote-for-bnp-survey</link>
       <description />
@@ -3479,6 +3465,20 @@
       <link>https://daily-sun.com/politics/850774/tarique-rahman-assumes-office-as-bnp-chairman</link>
       <description />
       <pubDate>Sat, 10 Jan 2026 15:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gold price rises to Tk2.27 lakh per bhori</title>
+      <link>https://www.daily-sun.com/business/850941/gold-price-rises-to-tk2-27-lakh-per-bhori</link>
+      <description>New tariffs will come into effect on Sunday.</description>
+      <pubDate>Sat, 10 Jan 2026 15:59:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Gold-6-collected-69627712aa8f9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tarique to launch polls campaign from Sylhet</title>
+      <link>https://www.daily-sun.com/bangladesh/850940/tarique-to-launch-polls-campaign-from-sylhet</link>
+      <description>The election campaign will officially begin from 22 January</description>
+      <pubDate>Sat, 10 Jan 2026 15:59:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Tarique-69627685a0889.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
