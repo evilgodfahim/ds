@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Guardiola concerned about injury pile-up as City lose ground on Arsenal</title>
-      <link>https://www.daily-sun.com/sports/850007/guardiola-concerned-about-injury-pile-up-as-city-lose-ground-on-arsenal</link>
-      <description>Pep Guardiola says he may have to bring in more academy players to fill the bench after Josko Gvardiol and</description>
-      <pubDate>Mon, 05 Jan 2026 15:00:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/05/medium/Screenshot-2026-01-05-205311-695bd075d0c56.png" type="image/png" />
-    </item>
-    <item>
       <title>Tunisia part ways with coach Trabelsi after early AFCON exit</title>
       <link>https://www.daily-sun.com/sports/850006/tunisia-part-ways-with-coach-trabelsi-after-early-afcon-exit</link>
       <description>Tunisia head coach Sami Trabelsi has left his role, the country's soccer federation announced on Sunday, after they were knocked</description>
@@ -3478,6 +3471,13 @@
       <description>Takaichi was appointed Japan's first woman prime minister in October and her cabinet is enjoying an approval rating of around</description>
       <pubDate>Sat, 10 Jan 2026 06:55:57 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Takaichi-6961f62062189.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Australia declares state of disaster as bushfires rage</title>
+      <link>https://www.daily-sun.com/world/850877/australia-declares-state-of-disaster-as-bushfires-rage</link>
+      <description>State premier Jacinta Allan on Saturday declared a state of disaster, giving fire crews emergency powers to force evacuations.</description>
+      <pubDate>Sat, 10 Jan 2026 07:31:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/Police-(14)-6961ff21dadc6.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
