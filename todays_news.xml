@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Commonwealth Secretary-General condoles death of Khaleda Zia</title>
-      <link>https://www.daily-sun.com/diplomacy/850372/commonwealth-secretary-general-condoles-death-of-khaleda-zia</link>
-      <description>Commonwealth Secretary-General Shirley Botchwey has expressed deep sorrow at the passing of former prime minister and BNP Chairperson Begum Khaleda</description>
-      <pubDate>Wed, 07 Jan 2026 15:12:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/07/medium/Commonwealth-Secretary-General-condoles-death-of-Khaleda-Zia-695e7663a1a7d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Carrick and Solskjaer set for Man Utd talks after Amorim exit</title>
       <link>https://www.daily-sun.com/sports/850371/carrick-and-solskjaer-set-for-man-utd-talks-after-amorim-exit</link>
       <description>Michael Carrick and Ole Gunnar Solskjaer could each hold fresh talks with Manchester United as the club seek to appoint</description>
@@ -3480,6 +3473,13 @@
       <link>https://daily-sun.com/world/851257/french-alps-avalanches-kill-six-skiers-over-weekend</link>
       <description />
       <pubDate>Sun, 11 Jan 2026 23:14:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Some US senators skeptical about military options for Iran</title>
+      <link>https://www.daily-sun.com/world/851268/some-us-senators-skeptical-about-military-options-for-iran</link>
+      <description>Some US lawmakers in both major parties on Sunday questioned whether military action against Iran is the best approach for</description>
+      <pubDate>Sun, 11 Jan 2026 23:32:05 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/Untitled-(2)-69642f9a1f793.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
