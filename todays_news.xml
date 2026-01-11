@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Dias, Gvardiol sidelined as Man City face defensive crisis</title>
-      <link>https://www.daily-sun.com/sports/850211/dias-gvardiol-sidelined-as-man-city-face-defensive-crisis</link>
-      <description>Ruben Dias will be sidelined for up to six weeks and Josko Gvardiol is out for "a long time" as</description>
-      <pubDate>Tue, 06 Jan 2026 17:12:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/495370658_706750878389306_669193_1920x1080-695d3e77b87f6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Repeating Super Cup success will give Barca 'energy': Flick</title>
-      <link>https://www.daily-sun.com/sports/850210/repeating-super-cup-success-will-give-barca-energy-flick</link>
-      <description>Hansi Flick said retaining the Spanish Super Cup this week would be a boost for his team's other ambitions this</description>
-      <pubDate>Tue, 06 Jan 2026 17:12:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/medium/790409-01-02_1920x1080-695d3e6c69aeb.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Como sweep past Pisa to go fourth in Serie A</title>
       <link>https://www.daily-sun.com/sports/850209/como-sweep-past-pisa-to-go-fourth-in-serie-a</link>
       <description>Como swept aside struggling Pisa 3-0 to move fourth in Serie A on Tuesday boosting their hopes of Champions League.</description>
@@ -3477,6 +3463,20 @@
       <description>Election campaigning will begin on 22 January and continue until 7:30am on 10 February.</description>
       <pubDate>Sun, 11 Jan 2026 05:59:47 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Appeal-69633aeb02860.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>6.8-magnitude quake hits Philippines</title>
+      <link>https://www.daily-sun.com/world/851074/6-8-magnitude-quake-hits-philippines</link>
+      <description>The Philippine Institute of Volcanology and Seismology said a 6.8-magnitude quake hit off Davao Occidental province in the southern Philippines</description>
+      <pubDate>Sun, 11 Jan 2026 06:35:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Untitled-design---2026-01-11T120503-69633e394478d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US may lift more Venezuela sanctions next week, Bessent says</title>
+      <link>https://www.daily-sun.com/world/851073/us-may-lift-more-venezuela-sanctions-next-week-bessent-says</link>
+      <description>US Treasury chief aims to facilitate oil sale proceeds repatriation to Venezuela</description>
+      <pubDate>Sun, 11 Jan 2026 06:35:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Scott_Bessent-69633cbd69dff.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
