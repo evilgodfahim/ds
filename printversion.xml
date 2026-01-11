@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>UK, France bomb underground IS arms bunker in Syria</title>
-      <link>https://www.daily-sun.com/world-print/849820</link>
-      <description />
-      <pubDate>Sun, 04 Jan 2026 18:52:16 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh pulls out of India tour for T20 WC</title>
       <link>https://www.daily-sun.com/front-page/849841</link>
       <description>Mustafizur’s IPL exit sparks move; BCB seeks match venue shift; ICC likely to comply</description>
@@ -3532,6 +3525,13 @@ of Bangladesh’s Democracy</description>
       <description />
       <pubDate>Sat, 10 Jan 2026 19:00:51 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/DS-'01'04-61-695959d6b310d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>16th anniversary of Kaler Kantho</title>
+      <link>https://www.daily-sun.com/metropolis/850980</link>
+      <description>Kaler Kantho Editor Hasan Hafiz, Publisher Maynal Hossain Chowdhury, Executive Editor Haider Ali, and senior journalists cut a cake to</description>
+      <pubDate>Sun, 11 Jan 2026 03:30:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/DS-'01'11-23-69628c1785226.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
