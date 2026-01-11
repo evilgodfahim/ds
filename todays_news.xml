@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Tight contest for VP, Shibir-backed candidates lead in GS, AGS races</title>
-      <link>https://www.daily-sun.com/sun-campus/850308/tight-contest-for-vp-shibir-backed-candidates-lead-in-gs-ags-races</link>
-      <description>The results of the Jagannath University Central Students’ Union (JnUCSU) elections are being announced in phases.</description>
-      <pubDate>Wed, 07 Jan 2026 05:16:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/07/medium/Untitled-design---2026-01-07T110649-695dea41e6b1c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Security forces clash with protesters in Iran's main market as toll rises to 36</title>
       <link>https://www.daily-sun.com/world/850307/security-forces-clash-with-protesters-in-iran-s-main-market-as-toll-rises-to-36</link>
       <description>the situation was likely to worsen as Iran's Central Bank drastically reduced the subsidized exchange rates for dollars it offers</description>
@@ -3483,6 +3476,13 @@
       <description>Neymar has started rehabilitation following surgery on his left knee last month as he aims to secure a spot on</description>
       <pubDate>Sun, 11 Jan 2026 11:32:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Neymar-6963876c9962c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rights group says at least 192 killed in Iran protests</title>
+      <link>https://www.daily-sun.com/world/851109/rights-group-says-at-least-192-killed-in-iran-protests</link>
+      <description>The toll could be much higher as a days-long internet blackout hampered verification</description>
+      <pubDate>Sun, 11 Jan 2026 11:43:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Protesters-gather-as-vehicles-burn,-amid-evolving-anti-government-unrest,-in-Tehran,-Iran,-in-this-screen-grab-obtained-from-a-social-media-video-released-on-9-January-2026-69638c7672377.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
