@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Shariatpur bomb blast leaves one dead</title>
-      <link>https://www.daily-sun.com/bangladesh/850494/shariatpur-bomb-blast-leaves-one-dead</link>
-      <description>A residential house was also blown apart in the bomb explosion</description>
-      <pubDate>Thu, 08 Jan 2026 05:13:57 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/08/medium/Untitled-design---2026-01-08T110443-695f3b3438e5c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>44 Bangladeshis return home from Malta after Mediterranean rescue</title>
       <link>https://www.daily-sun.com/bangladesh/850496/44-bangladeshis-return-home-from-malta-after-mediterranean-rescue</link>
       <description>Bangladesh Police’s Immigration branch later confirmed that 44 Bangladeshi nationals returned home on 29 December on a special flight.</description>
@@ -3480,6 +3473,13 @@
       <description>Dhaka Metropolitan Magistrate Mohammad Ehsanul Islam passed the order</description>
       <pubDate>Mon, 12 Jan 2026 10:21:31 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/Palak-6964c5f7dfcde.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trailblazing Milos Raonic retires from tennis</title>
+      <link>https://www.daily-sun.com/sports/851309/trailblazing-milos-raonic-retires-from-tennis</link>
+      <description>Trailblazing former world number three Milos Raonic announced his retirement from tennis on Monday, ending a career that earned him</description>
+      <pubDate>Mon, 12 Jan 2026 10:48:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/snapwordz-6964cf98969c7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
