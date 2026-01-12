@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>India plans to scrap curbs on Chinese firms bidding for government contracts</title>
-      <link>https://www.daily-sun.com/world/850554/india-plans-to-scrap-curbs-on-chinese-firms-bidding-for-government-contracts</link>
-      <description>One of the sources said officials were working to remove the registration requirement</description>
-      <pubDate>Thu, 08 Jan 2026 14:18:23 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/08/medium/India-China-695fbaaa7be96.gif" type="image/gif" />
-    </item>
-    <item>
       <title>EC issues strict guidelines on appointment of election agents, fraudulent voting</title>
       <link>https://www.daily-sun.com/bangladesh/850559/ec-issues-strict-guidelines-on-appointment-of-election-agents-fraudulent-voting</link>
       <description>Returning officers must arrange meetings with contesting candidates shortly after the deadline for withdrawal of candidacy</description>
@@ -3478,6 +3471,12 @@
       <description>Iranian authorities have in recent days launched a deadly crackdown on nationwide protests,</description>
       <pubDate>Mon, 12 Jan 2026 22:56:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Iran-(21)-69657a190ae02.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh, China to develop military drone plant</title>
+      <link>https://daily-sun.com/business/851315/bangladesh-china-to-develop-military-drone-plant</link>
+      <description />
+      <pubDate>Mon, 12 Jan 2026 23:11:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
