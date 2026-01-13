@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Swiatek leads Poland to victory in United Cup quarters</title>
-      <link>https://www.daily-sun.com/sports/850744/swiatek-leads-poland-to-victory-in-united-cup-quarters</link>
-      <description>Iga Swiatek brushed aside Maya Joint as Poland beat hosts Australia 2-1 in the United Cup quarter-finals on Friday</description>
-      <pubDate>Fri, 09 Jan 2026 13:49:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/Swiatek-6961031a982d5.PNG" type="image/png" />
-    </item>
-    <item>
       <title>Iran shuts off internet as protesters start fires in widening unrest</title>
       <link>https://www.daily-sun.com/world/850743/iran-shuts-off-internet-as-protesters-start-fires-in-widening-unrest</link>
       <description>Iran was largely cut off from the outside world on Friday after authorities blacked out the internet to curb growing</description>
@@ -3478,6 +3471,12 @@
       <link>https://daily-sun.com/world/851456/myanmar-made-rohingya-lives-a-nightmare-gambia-tells-genocide-case</link>
       <description />
       <pubDate>Tue, 13 Jan 2026 18:01:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian Army chief says channels of communication with Bangladesh remain active</title>
+      <link>https://daily-sun.com/diplomacy/851493/indian-army-chief-says-channels-of-communication-with-bangladesh-remain-active</link>
+      <description />
+      <pubDate>Tue, 13 Jan 2026 18:37:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
