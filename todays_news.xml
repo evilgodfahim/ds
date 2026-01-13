@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Iran shuts off internet as protesters start fires in widening unrest</title>
-      <link>https://www.daily-sun.com/world/850743/iran-shuts-off-internet-as-protesters-start-fires-in-widening-unrest</link>
-      <description>Iran was largely cut off from the outside world on Friday after authorities blacked out the internet to curb growing</description>
-      <pubDate>Fri, 09 Jan 2026 13:49:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/Iran-shuts-off-internet-as-protesters-start-fires-in-widening-unrest-696102300fd66.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Australia's Head to skip Big Bash to prepare for T20 World Cup</title>
       <link>https://www.daily-sun.com/sports/850742/australia-s-head-to-skip-big-bash-to-prepare-for-t20-world-cup</link>
       <description>ravis Head will skip the Big Bash League (BBL) for a third straight season to rest and prepare for next</description>
@@ -3477,6 +3470,12 @@
       <link>https://daily-sun.com/diplomacy/851493/indian-army-chief-says-channels-of-communication-with-bangladesh-remain-active</link>
       <description />
       <pubDate>Tue, 13 Jan 2026 18:37:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>ICC requests BCB to change stance, Bangladesh refuses to budge</title>
+      <link>https://daily-sun.com/sports/851499/icc-requests-bcb-to-change-stance-bangladesh-refuses-to-budge</link>
+      <description />
+      <pubDate>Tue, 13 Jan 2026 19:34:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
