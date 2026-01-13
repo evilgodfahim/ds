@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>EC issues strict guidelines on appointment of election agents, fraudulent voting</title>
-      <link>https://www.daily-sun.com/bangladesh/850559/ec-issues-strict-guidelines-on-appointment-of-election-agents-fraudulent-voting</link>
-      <description>Returning officers must arrange meetings with contesting candidates shortly after the deadline for withdrawal of candidacy</description>
-      <pubDate>Thu, 08 Jan 2026 14:48:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/08/medium/Election-Commission---EC-695fc338c5e4f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NID correction services to resume this month</title>
       <link>https://www.daily-sun.com/bangladesh/850558/nid-correction-services-to-resume-this-month</link>
       <description>He said that the tasks of updating the voter list and scrutinising candidates have already been completed</description>
@@ -3477,6 +3470,12 @@
       <link>https://daily-sun.com/business/851315/bangladesh-china-to-develop-military-drone-plant</link>
       <description />
       <pubDate>Mon, 12 Jan 2026 23:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>New survey shows BNP, Jamaat in stiff election contest</title>
+      <link>https://daily-sun.com/bangladesh/851342/jamaat-reduces-gap-with-bnp-to-1-1-in-new-survey-ahead-of-elections</link>
+      <description />
+      <pubDate>Tue, 13 Jan 2026 00:45:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
