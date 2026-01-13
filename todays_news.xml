@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Air Chief Marshal Hasan Mahmood visits National Defence University in Islamabad</title>
-      <link>https://www.daily-sun.com/diplomacy/850686/air-chief-marshal-hasan-mahmood-visits-national-defence-university-in-islamabad</link>
-      <description>Air Chief Marshal Hasan Mahmood Khan, chief of the Air Staff of Bangladesh Air Force, visited the National Defence University</description>
-      <pubDate>Fri, 09 Jan 2026 04:13:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/09/medium/614252230_1316494257174029_7903369164603533361_n-6960756f4f66e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Russia bombards Kyiv after rejecting peacekeeping plan</title>
       <link>https://www.daily-sun.com/world/850691/russia-bombards-kyiv-after-rejecting-peacekeeping-plan</link>
       <description>The attack on Kyiv ignited fires and damaged apartment buildings, with "three dead and 13 wounded," according to Mayor Vitali</description>
@@ -3480,6 +3473,13 @@
       <description>BCB announced on Tuesday that the ICC requested them to reconsider their stance regarding their participation in the T20 World</description>
       <pubDate>Tue, 13 Jan 2026 10:52:24 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/BCB-69661ed198787.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mushfiqur Rahman accused of providing false information over dual citizenship</title>
+      <link>https://www.daily-sun.com/bangladesh/851500/mushfiqur-rahman-accused-of-providing-false-information-over-dual-citizenship</link>
+      <description>Allegations have been raised against Brahmanbaria-4 constituency candidate Mushfiqur Rahman for providing false information in his affidavit submitted to the..</description>
+      <pubDate>Tue, 13 Jan 2026 11:01:45 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Mushfiqur-Rahman-accused-of-providing-false-information-over-dual-citizenship-696624fc2f7da.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
