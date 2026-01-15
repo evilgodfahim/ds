@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Death toll in Iran protest violence climbs to 116</title>
-      <link>https://daily-sun.com/world/851065/death-toll-in-iran-protest-violence-climbs-to-116</link>
-      <description />
-      <pubDate>Sun, 11 Jan 2026 13:52:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Father, son, and the fifty-run stand: A night of BPL history</title>
       <link>https://www.daily-sun.com/sports/851133/father-son-and-the-fifty-run-stand-a-night-of-bpl-history</link>
       <description>Hassan Eisakhil announced himself on the Bashundhara Cement Bangladesh Premier League stage with a magnificent 92</description>
@@ -3474,6 +3468,13 @@
       <description>Police have detained the driver, Altaf, 25, and his assistants – Md Sagar, 24, and Md Rabbi, 21, at Karatia</description>
       <pubDate>Thu, 15 Jan 2026 19:34:52 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/16/medium/Rape-AFP-3-69693c589f426.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UN chief attacks world leaders putting cooperation on 'deathwatch'</title>
+      <link>https://www.daily-sun.com/world/852040/un-chief-attacks-world-leaders-putting-cooperation-on-deathwatch</link>
+      <description>He also slammed 'wholesale cuts in development and humanitarian aid'</description>
+      <pubDate>Thu, 15 Jan 2026 19:50:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/16/medium/UN-Secretary-General-Antonio-Guterres-AFP-6969413621e0a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
