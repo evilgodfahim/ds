@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>39 held in city</title>
-      <link>https://www.daily-sun.com/bangladesh/851081/39-held-in-city</link>
-      <description>As part of Operation Devil Hunt Phase-2, police arrested 39 individuals in the past 24 hours through coordinated drives.</description>
-      <pubDate>Sun, 11 Jan 2026 08:32:57 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/11/medium/Untitled-design---2026-01-11T140927-69635be161a9c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>India's Pant ruled out of New Zealand ODI series</title>
       <link>https://www.daily-sun.com/sports/851085/india-s-pant-ruled-out-of-new-zealand-odi-series</link>
       <description>Rishabh Pant has been ruled out of the three-match one-day international (ODI) series against New Zealand.</description>
@@ -3476,6 +3469,13 @@
       <description>The draft National Action Plan is expected to be presented by June 2026</description>
       <pubDate>Thu, 15 Jan 2026 11:57:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/15/medium/Youth-6968d58b9c868.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Dhaka-Kathmandu focus on PTA, visa facilitation</title>
+      <link>https://www.daily-sun.com/diplomacy/851905/dhaka-kathmandu-focus-on-pta-visa-facilitation</link>
+      <description>Bangladesh and Nepal have discussed ways to strengthen bilateral trade and economic cooperation, focusing on finalising a Preferential Trade Agreement</description>
+      <pubDate>Thu, 15 Jan 2026 12:33:19 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/15/medium/Dhaka-Kathmandu-focus-on-PTA,-visa-facilitation-6968db964aa44.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
