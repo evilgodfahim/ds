@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BFF plans to host SAFF Championship beyond Dhaka</title>
-      <link>https://www.daily-sun.com/sports/851348/bff-plans-to-host-saff-championship-beyond-dhaka</link>
-      <description>Bangladesh has intensified its push to host the South Asian Football Federation (SAFF) Men’s Championship,</description>
-      <pubDate>Mon, 12 Jan 2026 14:50:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/WhatsApp-Image-2026-01-12-at-8-696508cc05e6d.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Three Bangladeshis among four killed in UK road accident</title>
       <link>https://www.daily-sun.com/world/851347/three-bangladeshis-among-four-killed-in-uk-road-accident</link>
       <description>UK police confirmed the deaths, stating that the victims included three young men and a taxi drive</description>
@@ -3476,6 +3469,13 @@
       <link>https://daily-sun.com/entertainment/851913/actress-jayasree-kabir-no-more</link>
       <description />
       <pubDate>Fri, 16 Jan 2026 18:52:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>18 more regain candidacies back</title>
+      <link>https://www.daily-sun.com/bangladesh/852216/18-more-regain-candidacies-back</link>
+      <description>The Election Commission on Friday restored the candidacies of 18 more previously rejected aspirants.</description>
+      <pubDate>Fri, 16 Jan 2026 19:29:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Untitled-design---2026-01-17T012639-696a9121da0f4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
