@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Experts say oceans soaked up record heat levels in 2025</title>
-      <link>https://www.daily-sun.com/world-print/850851</link>
-      <description />
-      <pubDate>Fri, 09 Jan 2026 19:20:20 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/10/medium/DS-'01'10-93-696151d5a8bd6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Exhibition ‘Border That Bleeds’ in memory of Felani</title>
       <link>https://www.daily-sun.com/culturetainment/850828</link>
       <description />
@@ -3497,6 +3490,13 @@
       <link>https://www.daily-sun.com/business-print/852020</link>
       <description>The European Union and South American bloc Mercosur are set to sign an agreement Saturday, more than 25 years in</description>
       <pubDate>Fri, 16 Jan 2026 03:46:56 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ericsson says to cut 1,600 jobs in Sweden</title>
+      <link>https://www.daily-sun.com/business-print/852019</link>
+      <description>Swedish telecom giant Ericsson said Thursday that it would cut around 1,600 positions in Sweden as part of efforts to</description>
+      <pubDate>Fri, 16 Jan 2026 04:29:08 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
