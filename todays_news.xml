@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>‘Shaheed Osman Hadi Memorial Book Fair’ to begin at DU</title>
-      <link>https://www.daily-sun.com/bangladesh/851305/shaheed-osman-hadi-memorial-book-fair-to-begin-at-du</link>
-      <description>Dhaka University Writers’ Forum President Ashik Khan announced the fair at a press conference</description>
-      <pubDate>Mon, 12 Jan 2026 09:57:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/WhatsApp-Image-2026-01-12-at-2-6964c178876d9.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>19 Out of 36 appeals restored by noon</title>
       <link>https://www.daily-sun.com/bangladesh/851304/19-out-of-36-appeals-approved-by-noon</link>
       <description>Meanwhile, 13 appeals were rejected and four remained pending</description>
@@ -3479,6 +3472,13 @@
       <link>https://daily-sun.com/20/851602</link>
       <description />
       <pubDate>Fri, 16 Jan 2026 13:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>UK navy launches new crewless helicopter to counter North Atlantic threats</title>
+      <link>https://www.daily-sun.com/world/852120/uk-navy-launches-new-crewless-helicopter-to-counter-north-atlantic-threats</link>
+      <description>Britain’s Royal Navy said on Friday its first full-sized autonomous helicopter, designed to track submarines amid rising North Atlantic tensions</description>
+      <pubDate>Fri, 16 Jan 2026 14:01:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/16/medium/Proteus_UK_Navy-696a448f342a3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
