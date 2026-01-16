@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Three Bangladeshis among four killed in UK road accident</title>
-      <link>https://www.daily-sun.com/world/851347/three-bangladeshis-among-four-killed-in-uk-road-accident</link>
-      <description>UK police confirmed the deaths, stating that the victims included three young men and a taxi drive</description>
-      <pubDate>Mon, 12 Jan 2026 14:50:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/12/medium/UK-696508589a61d.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Ripon takes hat-trick as Rajshahi pacer joins elite BPL list</title>
       <link>https://www.daily-sun.com/sports/851346/ripon-takes-hat-trick-as-rajshahi-pacer-joins-elite-bpl-list</link>
       <description>Rajshahi pacer Ripon Mondol became the third bowler to take a hat-trick in this season’s BPL, achieving the feat against</description>
@@ -3476,6 +3469,12 @@
       <description>The Election Commission on Friday restored the candidacies of 18 more previously rejected aspirants.</description>
       <pubDate>Fri, 16 Jan 2026 19:29:24 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Untitled-design---2026-01-17T012639-696a9121da0f4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Poetry book ‘Red Spark’ unveiled</title>
+      <link>https://daily-sun.com/bangladesh/852128/poetry-book-red-spark-unveiled</link>
+      <description />
+      <pubDate>Fri, 16 Jan 2026 21:59:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
