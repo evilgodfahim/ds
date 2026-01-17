@@ -5,26 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>New US ambassador to arrive in Dhaka this evening</title>
-      <link>https://daily-sun.com/diplomacy/851280/new-us-ambassador-to-arrive-in-dhaka-this-evening</link>
-      <description />
-      <pubDate>Mon, 12 Jan 2026 20:22:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan and Indonesia closing in on jets and drones defence deal</title>
-      <link>https://www.daily-sun.com/world/851450/pakistan-and-indonesia-closing-in-on-jets-and-drones-defence-deal</link>
-      <description>One source said the talks revolved around the sale of JF-17 jets, a multi-role combat aircraft jointly developed by Pakistan</description>
-      <pubDate>Mon, 12 Jan 2026 20:43:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Iran-(20)-69655aa963ac7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Appellate Division dismisses six appeals filed by brick kiln owners</title>
-      <link>https://www.daily-sun.com/bangladesh/851451/appellate-division-dismisses-six-appeals-filed-by-brick-kiln-owners</link>
-      <description>Following the High Court verdict, eviction drives against illegal kilns were initiated nationwide.</description>
-      <pubDate>Mon, 12 Jan 2026 20:56:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/HC-003-69591454abe2a-69655e8136e0a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iranians tap Musk's Starlink to skirt internet blackout</title>
       <link>https://www.daily-sun.com/world/851452/iranians-tap-musk-s-starlink-to-skirt-internet-blackout</link>
       <description>Iranian authorities have in recent days launched a deadly crackdown on nationwide protests,</description>
@@ -3476,6 +3456,27 @@
       <description>No perfect election anywhere in world, says Deputy Chief Observer Inta Lase</description>
       <pubDate>Sat, 17 Jan 2026 06:55:49 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/EU-696b2e66eeeae.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Over 100 killed in torrential rains and floods across southern Africa</title>
+      <link>https://www.daily-sun.com/world/852239/over-100-killed-in-torrential-rains-and-floods-across-southern-africa</link>
+      <description>The death toll across South Africa, Mozambique and Zimbabwe is an accumulation after weeks of heavy rains.</description>
+      <pubDate>Sat, 17 Jan 2026 07:13:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Floods-696b35f9a4af1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saudi Arabia’s King Salman leaves hospital after medical checkup in Riyadh</title>
+      <link>https://www.daily-sun.com/world/852238/saudi-arabia-s-king-salman-leaves-hospital-after-medical-checkup-in-riyadh</link>
+      <description>The king had been undergoing medical examinations at the hospital, SPA reported earlier.</description>
+      <pubDate>Sat, 17 Jan 2026 07:13:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/New-Zealand-Flag-(12)-696b35978d84b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mother of Elon Musk's child sues his AI company over sexual deepfake images created by Grok</title>
+      <link>https://www.daily-sun.com/world/852237/mother-of-elon-musk-s-child-sues-his-ai-company-over-sexual-deepfake-images-created-by-grok</link>
+      <description>Lawyers for xAI did not immediately return emails seeking comment Friday.</description>
+      <pubDate>Sat, 17 Jan 2026 07:13:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Elon-696b33122527f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
