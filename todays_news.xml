@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>How US politics affecting international travel</title>
-      <link>https://www.daily-sun.com/world/851465/how-us-politics-affecting-international-travel</link>
-      <description>Travel agencies emphasize the role of official government guidance</description>
-      <pubDate>Tue, 13 Jan 2026 05:00:05 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Sun-6965d1254cf5d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>InterContinental Dhaka unveils AI glass water plant</title>
       <link>https://www.daily-sun.com/business/851464/intercontinental-dhaka-unveils-ai-glass-water-plant</link>
       <description>AI-powered Glass Bottle Water Plant producing Zero Mile Artisanal Water—setting a significant new benchmark in sustainable hospitality.</description>
@@ -3479,6 +3472,13 @@
       <description>Until Wednesday, the United States had threatened military action if Iran did not abandon plans to execute arrested protesters.</description>
       <pubDate>Sat, 17 Jan 2026 09:34:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/EU_Air-696b562de36e3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Shooting in South African township leaves 7 dead</title>
+      <link>https://www.daily-sun.com/world/852250/shooting-in-south-african-township-leaves-7-dead</link>
+      <description>Gunmen killed seven people in a township outside the South African city of Cape Town early on Saturday in an</description>
+      <pubDate>Sat, 17 Jan 2026 09:45:19 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Shooting-in-South-African-township-leaves-7-dead-696b57d7d5215.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
