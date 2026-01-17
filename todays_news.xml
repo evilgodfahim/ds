@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Burglars kill Jamaat leader, wife at house in capital</title>
-      <link>https://www.daily-sun.com/bangladesh/851530/burglars-kill-jamaat-leader-wife-in-house-in-capital</link>
-      <description>A group of burglars killed a leader of Jamaat-e-Islami and his wife at their residence in Paschim Rajabajar, Dhaka in</description>
-      <pubDate>Tue, 13 Jan 2026 14:52:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/jamat-leader-killed-69665baaa9267.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Man Utd reach deal to appoint Carrick as interim boss</title>
       <link>https://www.daily-sun.com/sports/851529/man-utd-reach-deal-to-appoint-carrick-as-interim-boss</link>
       <description>Man Utd host fierce rivals Man City on Saturday in what is likely to be Carrick's first game in charge</description>
@@ -3478,6 +3471,13 @@
       <description>Top officials from the EU and the South American bloc Mercosur signed a free trade agreement on Saturday in Paraguay</description>
       <pubDate>Sat, 17 Jan 2026 21:52:16 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/EU-Mercosur-696c03351aa41.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Uganda's Museveni wins seventh term amid ‘intimidation’</title>
+      <link>https://www.daily-sun.com/world/852409/uganda-s-museveni-wins-seventh-term-amid-intimidation</link>
+      <description>Ugandan President Yoweri Museveni won a seventh term in office on Saturday after an election marred by violence, rigging and</description>
+      <pubDate>Sat, 17 Jan 2026 21:59:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/Ugandan-President-Yoweri-Museveni-696c0534606ec.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
