@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Ministry of Foreign Affairs summons Myanmar Ambassador</title>
-      <link>https://www.daily-sun.com/diplomacy/851490/ministry-of-foreign-affairs-summons-myanmar-ambassador</link>
-      <description>A 12-year-old Bangladeshi girl was severely injured during the cross-border firing.</description>
-      <pubDate>Tue, 13 Jan 2026 09:01:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/MoFA-6966074bde105.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CID launches “Mun Alert” for missing children</title>
-      <link>https://www.daily-sun.com/bangladesh/851489/cid-launches-mun-alert-for-missing-children</link>
-      <description>Named after five-year-old Muntaha Akter, the system introduces a 24/7 helpline and digital alerts as child abductions remain widespread across the country.</description>
-      <pubDate>Tue, 13 Jan 2026 09:01:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Mun-alert-missing-chieldren-CID-696606e7de10b.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mirza Fakhrul expresses grief over death of BNP leader in Chuadanga</title>
       <link>https://www.daily-sun.com/politics/851488/mirza-fakhrul-expresses-grief-over-death-of-bnp-leader-in-chuadanga</link>
       <description>Mirza Fakhrul expressed profound grief and sorrow over what he described as an inhuman and barbaric incident.</description>
@@ -3479,6 +3465,20 @@
       <description>He warned that claims suggesting otherwise are misleading and driven by ulterior motives</description>
       <pubDate>Sat, 17 Jan 2026 13:49:13 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Ali-696b9222381c3.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Pakistan team creates world record for lowest target defended in first-class cricket</title>
+      <link>https://www.daily-sun.com/sports/852282/pakistan-team-creates-world-record-for-lowest-target-defended-in-first-class-cricket</link>
+      <description>Pakistan's domestic team created a world record of defending the lowest target in all first-class cricket when they stopped opposition</description>
+      <pubDate>Sat, 17 Jan 2026 13:56:39 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/a43443b6-f3ab-11f0-ad38-00163e00d5dd_1919x1080-696b94d20c098.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saudi Arabia’s Maaden uncovers 7.8m ounces of new gold</title>
+      <link>https://www.daily-sun.com/world/852281/saudi-arabia-s-maaden-uncovers-7-8m-ounces-of-new-gold</link>
+      <description>Saudi mining giant reports major gold and base metal additions as exploration accelerates</description>
+      <pubDate>Sat, 17 Jan 2026 13:56:39 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Saudi-Arabia’s-Maaden-uncovers-7-696b93c9e39e3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
