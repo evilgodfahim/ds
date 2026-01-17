@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Man Utd reach deal to appoint Carrick as interim boss</title>
-      <link>https://www.daily-sun.com/sports/851529/man-utd-reach-deal-to-appoint-carrick-as-interim-boss</link>
-      <description>Man Utd host fierce rivals Man City on Saturday in what is likely to be Carrick's first game in charge</description>
-      <pubDate>Tue, 13 Jan 2026 14:52:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/13/medium/Carrick-69665ba52e5f7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Solaiman to sit for SSC exam with support from Shuvosangho</title>
       <link>https://www.daily-sun.com/bashundhara-shuvosangho/851528/solaiman-to-sit-for-ssc-exam-with-support-from-shuvosangho</link>
       <description>At this critical juncture, Bashundhara Shuvosangho’s Kadamtali unit in Dhaka extended a helping hand of humanity.</description>
@@ -3478,6 +3471,13 @@
       <description>Ugandan President Yoweri Museveni won a seventh term in office on Saturday after an election marred by violence, rigging and</description>
       <pubDate>Sat, 17 Jan 2026 21:59:16 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/Ugandan-President-Yoweri-Museveni-696c0534606ec.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Syrian army continues advance against Kurdish-held towns</title>
+      <link>https://www.daily-sun.com/world/852410/syrian-army-continues-advance-against-kurdish-held-towns</link>
+      <description>The Syrian army continued its push into Kurdish-held territory on Saturday, despite US calls to halt its advance in towns</description>
+      <pubDate>Sat, 17 Jan 2026 22:39:54 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/Syrian_Army-696c0e7290399.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
