@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DU bus vandalised, 2 students injured amid blockade by 7 colleges’ students</title>
-      <link>https://www.daily-sun.com/bangladesh/851931/du-bus-vandalised-2-students-injured-amid-blockade-by-7-colleges-students</link>
-      <description>A bus of Dhaka University (DU) was vandalised at the Science Lab intersection in the capital on Thursday during a</description>
-      <pubDate>Thu, 15 Jan 2026 14:59:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/15/medium/DU_Bus_Vandalised-6968fd41bdb00.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Luis Enrique has no doubts about PSG's title credentials</title>
       <link>https://www.daily-sun.com/sports/851939/luis-enrique-has-no-doubts-about-psg-s-title-credentials</link>
       <description>Enrique said he has no doubts about his team despite their shock 1-0 French Cup defeat at home to newly-promoted</description>
@@ -3483,6 +3476,12 @@
       <description>The Russian envoy said the donation aligns with the United Nations Sustainable Development Goal 2, which aims to end hunger,</description>
       <pubDate>Mon, 19 Jan 2026 23:57:56 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/20/medium/New-Zealand-Flag-(21)-696ec499ea88c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Journalist assaulted in Zajira</title>
+      <link>https://daily-sun.com/bangladesh/852719/journalist-assaulted-in-zajira</link>
+      <description />
+      <pubDate>Tue, 20 Jan 2026 01:21:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
