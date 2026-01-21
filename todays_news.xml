@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BFF gets 330 World Cup tickets, applications open Until 22 January</title>
-      <link>https://www.daily-sun.com/bangladesh/852296/bff-gets-330-world-cup-tickets-applications-open-until-22-january</link>
-      <description>Football fans across the globe eagerly wait to witness FIFA World Cup matches live at stadiums, resulting in intense competition</description>
-      <pubDate>Sat, 17 Jan 2026 15:28:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/MixCollage-17-Jan-2026-09-20-PM-6050-696ba8ff039ea.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Tarique Rahman, family convey greetings to Chief Adviser</title>
       <link>https://www.daily-sun.com/bangladesh/852295/tarique-rahman-family-convey-greetings-to-chief-adviser</link>
       <description>BNP Chairman Tarique Rahman and his family on Saturday conveyed greetings to Chief Adviser Professor Dr Muhammad Yunus.</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/national-parliament-election/1</link>
       <description />
       <pubDate>Wed, 21 Jan 2026 21:59:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Netherlands PM hails 'de-escalation' over Greenland</title>
+      <link>https://www.daily-sun.com/world/853224/netherlands-pm-hails-de-escalation-over-greenland</link>
+      <description>Trump said earlier he reached a framework for a permanent deal over the island and that he would therefore waive</description>
+      <pubDate>Wed, 21 Jan 2026 22:26:30 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/22/medium/Green_Land-69714c51d412f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
