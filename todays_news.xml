@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Fakhrul to meet CEC on Sunday</title>
-      <link>https://www.daily-sun.com/bangladesh/852293/fakhrul-to-meet-cec-on-sunday</link>
-      <description>The meeting will take place at 5:00pm at the Election Commission office</description>
-      <pubDate>Sat, 17 Jan 2026 15:02:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/17/medium/Fakhrul-696ba2aa04655.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BFF gets 330 World Cup tickets, applications open Until 22 January</title>
       <link>https://www.daily-sun.com/bangladesh/852296/bff-gets-330-world-cup-tickets-applications-open-until-22-january</link>
       <description>Football fans across the globe eagerly wait to witness FIFA World Cup matches live at stadiums, resulting in intense competition</description>
@@ -3482,6 +3475,12 @@
       <description>Analysts say the move comes amid prolonged strain in bilateral relations following the July 2024 mass uprising in Bangladesh.</description>
       <pubDate>Wed, 21 Jan 2026 20:17:11 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/22/medium/Ind-6971311003190.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Daily Sun | Breaking News &amp; Top news from Bangladesh</title>
+      <link>https://daily-sun.com/national-parliament-election/1</link>
+      <description />
+      <pubDate>Wed, 21 Jan 2026 21:59:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
