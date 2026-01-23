@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>New Zealand register first ODI series win in India despite Kohli ton</title>
-      <link>https://www.daily-sun.com/sports/852533/new-zealand-register-first-odi-series-win-in-india-despite-kohli-ton</link>
-      <description>New Zealand overcame a valiant 124 by Virat Kohli to down India by 41 runs and seal their first-ever ODI</description>
-      <pubDate>Sun, 18 Jan 2026 16:56:40 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/850967-01-02_1920x1080-696d0fd0632b8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Prize cannot be passed on, even symbolically: Nobel Foundation reiterates</title>
       <link>https://www.daily-sun.com/world/852535/prize-cannot-be-passed-on-even-symbolically-nobel-foundation-reiterates</link>
       <description>The Nobel Foundation has reiterated that a Nobel Prize cannot be passed on or further distributed, even symbolically, as safeguarding</description>
@@ -3480,6 +3473,13 @@
       <description>As part of election campaigning, the Jamaat ameer is visiting northern Bangladesh on a two-day tour.</description>
       <pubDate>Fri, 23 Jan 2026 06:33:59 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/Ameer-69730dfb4ae4b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran warns 'finger on trigger' as Trump says Tehran wants talks</title>
+      <link>https://www.daily-sun.com/world/853450/iran-warns-finger-on-trigger-as-trump-says-tehran-wants-talks</link>
+      <description>Trump said Thursday a US naval "armada" was heading toward the Gulf, adding: "We're watching Iran."</description>
+      <pubDate>Fri, 23 Jan 2026 07:01:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/Iran-69731873542ea.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
