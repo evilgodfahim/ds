@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>The hidden strain</title>
-      <link>https://www.daily-sun.com/sports/852520/the-hidden-strain</link>
-      <description>Health crises among players and officials shake Bangladesh cricket</description>
-      <pubDate>Sun, 18 Jan 2026 18:32:28 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/18/medium/WhatsApp-Image-2026-01-18-at-10_1920x1080-696d0d29659b7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Europe hits back after Trump vows tariffs as tool for taking over Greenland</title>
       <link>https://daily-sun.com/world/852406/europe-hits-back-after-trump-vows-tariffs-for-taking-over-greenland</link>
       <description />
@@ -3480,6 +3473,13 @@
       <description>The White House has yet to comment on the meeting</description>
       <pubDate>Fri, 23 Jan 2026 09:47:13 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/US-Ukraine-Russia-69733e39ecf52.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Consumers to suffer as LNG supply to national grid may decline due to maintenance work</title>
+      <link>https://www.daily-sun.com/bangladesh/853459/consumers-to-suffer-as-lng-supply-to-national-grid-to-decline-due-to-maintenance-work</link>
+      <description>The crisis has intensified during the winter season, disrupting cooking and other daily household activities</description>
+      <pubDate>Fri, 23 Jan 2026 09:59:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/LPG-6973446086eb1.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
