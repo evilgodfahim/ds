@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>‘Give us two more days’</title>
-      <link>https://daily-sun.com/winner/852609</link>
-      <description />
-      <pubDate>Mon, 19 Jan 2026 18:17:58 +0000</pubDate>
-    </item>
-    <item>
       <title>Ramadan 2026 Timeline: Fasting, Shab e-Qadr and Eid</title>
       <link>https://daily-sun.com/world/852625/ramadan-2026-timeline-fasting-shab-e-qadr-and-eid</link>
       <description />
@@ -3481,6 +3475,13 @@
       <description>“I am not a seasonal visitor. I am your daughter,” she said</description>
       <pubDate>Sat, 24 Jan 2026 13:05:28 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/24/medium/Dr-Tasnim-Jara-urges-MPs-to-lead-fight-for-clean-air-as-‘it’s-a-right’-6974bab7c8c39.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Injustice has been done to Bangladesh: PCB chairman</title>
+      <link>https://www.daily-sun.com/sports/853645/injustice-has-been-done-to-bangladesh-pcb-chairman</link>
+      <description>Mohsin Naqvi believes injustice has been dished out to Bangladesh after media reports claimed on Saturday.</description>
+      <pubDate>Sat, 24 Jan 2026 13:39:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/24/medium/be9fo1kc_mohsin-naqvi_625x300_01_1920x1080-6974c86a76a99.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
