@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Three Nordic envoys meet Tarique Rahman</title>
-      <link>https://www.daily-sun.com/diplomacy/852865/nordic-envoys-meet-tarique-rahman</link>
-      <description>Ambassadors from three Nordic countries—Sweden, Denmark and Norway—paid a courtesy call on BNP Chairman Tarique Rahman.</description>
-      <pubDate>Tue, 20 Jan 2026 07:44:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/20/medium/Untitled-design---2026-01-20T132853-696f2edd6f5e2.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US sends aircraft to Greenland base</title>
       <link>https://www.daily-sun.com/world/852864/us-sends-aircraft-to-greenland-base</link>
       <description>The US military will deploy aircraft to Greenland's Pituffik Space Base as tensions escalate over President Donald Trump's push to</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/sports/853646/ishtiaque-sadeque-resigns-as-bcb-director</link>
       <description />
       <pubDate>Sat, 24 Jan 2026 19:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Despite risks of violence, people step up to take on ICE in US</title>
+      <link>https://www.daily-sun.com/world/853763/despite-risks-of-violence-people-step-up-to-take-on-ice-in-us</link>
+      <description>she joined the thousands of other Minnesotans who have volunteered to track ICE agents since Good was killed - despite</description>
+      <pubDate>Sat, 24 Jan 2026 22:38:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/25/medium/Minnesota-697548c4129b2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
