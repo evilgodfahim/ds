@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>One dead as Magnitude 6 quake hits northern Pakistan</title>
-      <link>https://www.daily-sun.com/world/852727/one-dead-as-magnitude-6-quake-hits-northern-pakistan</link>
-      <description>The quake was at a depth of 35km (21.75 miles), the EMSC said.</description>
-      <pubDate>Mon, 19 Jan 2026 15:58:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/19/medium/Earthquake-quake-696e518373327.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Wales captain Davies to undergo ankle surgery, say Tottenham</title>
-      <link>https://www.daily-sun.com/sports/852734/wales-captain-davies-to-undergo-ankle-surgery-say-tottenham</link>
-      <description>Ben Davies faces a race to be fit for his country's World Cup playoff semi-final in March after Tottenham Hotspur</description>
-      <pubDate>Mon, 19 Jan 2026 16:28:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/19/medium/Screenshot-2026-01-19-220556-696e5af9e6f21.png" type="image/png" />
-    </item>
-    <item>
       <title>Gold hits record Tk2.38 lakh per bhori</title>
       <link>https://www.daily-sun.com/business/852733/gold-hits-record-tk2-38-lakh-per-bhori</link>
       <description>New tariffs will come into effect on Tuesday</description>
@@ -3481,6 +3467,20 @@
       <description>Scotland have replaced Bangladesh in Group C at the T20 World Cup 2026, starting in India and Sri Lanka on</description>
       <pubDate>Sat, 24 Jan 2026 11:14:00 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/24/medium/Scotland-6974a6c112523.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tien prepares for clash with Medvedev, Sabalenka faces teen titan Mboko</title>
+      <link>https://www.daily-sun.com/sports/853633/tien-prepares-for-clash-with-medvedev-sabalenka-faces-teen-titan-mboko</link>
+      <description>Coco Gauff and Alexander Zverev are also playing, while sixth seed Alex de Minaur carries Australia's hopes in the night</description>
+      <pubDate>Sat, 24 Jan 2026 11:29:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/24/medium/BAQVNBITVBLILKA7DLHPO6IP64_1920x1080-6974ac67e8452.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Djokovic wins record 400th Slam match to power on in Australia</title>
+      <link>https://www.daily-sun.com/sports/853632/djokovic-wins-record-400th-slam-match-to-power-on-in-australia</link>
+      <description>The 38-year-old Serbian great swept past Dutchman Botic van de Zandschulp 6-3, 6-4, 7-6 (7/4) under a closed roof on</description>
+      <pubDate>Sat, 24 Jan 2026 11:29:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/24/medium/890774-01-02_1920x1080-6974ab2f98b4d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
