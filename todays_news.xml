@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Frank seeks Spurs 'momentum' after beating Dortmund</title>
-      <link>https://www.daily-sun.com/sports/853072/frank-seeks-spurs-momentum-after-beating-dortmund</link>
-      <description>Thomas Frank said Spurs must use the momentum of a 2-0 Champions League win over Borussia Dortmund to turn around</description>
-      <pubDate>Wed, 21 Jan 2026 10:30:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/21/medium/865874-01-02_1920x1080-6970a47f0405f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mbappe, Vinicius help Real Madrid thrash Monaco in Champions League</title>
       <link>https://www.daily-sun.com/sports/853071/mbappe-vinicius-help-real-madrid-thrash-monaco-in-champions-league</link>
       <description>Mbappe netted twice in Real Madrid's 6-1 Champions League win over Monaco, while Vinicius Junior also scored, boosting the team's</description>
@@ -3483,6 +3476,13 @@
       <description>Gaza faces public health crisis amid Israel’s war, with waste, sewage and poor sanitation leading to disease outbreaks</description>
       <pubDate>Sun, 25 Jan 2026 21:34:19 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Untitled-(1)-69768ae8390ee.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US storm leaves 1m without power, forces 10,000 flight cancellations</title>
+      <link>https://www.daily-sun.com/world/853961/us-storm-leaves-1m-without-power-forces-10-000-flight-cancellations</link>
+      <description>More than 1 million customers in the US as far west as New Mexico were without electricity and over 10,000</description>
+      <pubDate>Sun, 25 Jan 2026 21:53:25 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
