@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Royals elect to field in BPL final showdown</title>
-      <link>https://www.daily-sun.com/sports/853479/royals-elect-to-field-in-bpl-final-showdown</link>
-      <description>Chattogram Royals won the toss and chose to field against Rajshahi Warriors in the final of the BPL</description>
-      <pubDate>Fri, 23 Jan 2026 12:01:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/WhatsApp-Image-2026-01-23-at-5-697361cc0b6ca.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>McLaren partially wins UK lawsuit against Palou over aborted move</title>
       <link>https://www.daily-sun.com/sports/853488/mclaren-partially-wins-uk-lawsuit-against-palou-over-aborted-move</link>
       <description>McLaren Racing on Friday won part of its lawsuit against four-times IndyCar champion Alex Palou over his aborted move to</description>
@@ -3483,6 +3476,12 @@
       <link>https://daily-sun.com/sun-campus/853968/glendeur-2026-brings-alice-in-wonderland-to-life-at-glenrich-satarkul</link>
       <description />
       <pubDate>Tue, 27 Jan 2026 20:47:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>EC bans motorcycle movement for three days during Bangladesh election</title>
+      <link>https://daily-sun.com/bangladesh/854236/ec-bans-motorcycle-movement-for-three-days-during-election</link>
+      <description />
+      <pubDate>Tue, 27 Jan 2026 20:59:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
