@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Hurricane Rishad: A 15-wicket BBL storm</title>
-      <link>https://www.daily-sun.com/sports/853513/hurricane-rishad-a-15-wicket-bbl-storm</link>
-      <description>Rishad Hossain, who hails from Bangladesh, a land where bowling leg spin was never fashionable.</description>
-      <pubDate>Fri, 23 Jan 2026 17:00:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/snapwordz_1920x1080-(3)-6973a52627a61.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>A family affair</title>
-      <link>https://www.daily-sun.com/sports/853512/a-family-affair</link>
-      <description>Heartfelt story unfolds at Taekwondo Championship</description>
-      <pubDate>Fri, 23 Jan 2026 17:00:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/WhatsApp-Image-2026-01-23-at-10_1920x1079-6973a3c2cf396.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Young Tigers roar into Super Six</title>
-      <link>https://www.daily-sun.com/sports/853511/young-tigers-roar-into-super-six</link>
-      <description>Bowling first, the young Tigers ripped through the USA batting to restrict them to 199, setting up a controlled chase</description>
-      <pubDate>Fri, 23 Jan 2026 17:00:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/23/medium/Under-19-(2)_1919x1080-6973a34e6244f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Saudi Arabia claims $2.5 trillion in mineral reserves</title>
       <link>https://www.daily-sun.com/world/853557/saudi-arabia-claims-2-5-trillion-in-mineral-reserves</link>
       <description>Minerals are back in the news, with President Donald Trump announcing on Wednesday that he’d reached an agreement on a</description>
@@ -3481,6 +3460,27 @@
       <description>Bangladesh can never be a land of fraud, he says</description>
       <pubDate>Wed, 28 Jan 2026 09:03:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/28/medium/1763023996-ba02d2627cabf7d7f9f7d2355105bbd4-6979cdf405de0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>High school researcher spearheads nationwide push to normalise student research</title>
+      <link>https://www.daily-sun.com/bangladesh/854403/high-school-researcher-spearheads-nationwide-push-to-normalise-student-research</link>
+      <description>Redwan’s work has already drawn international recognition. He was named among the top 30 worldwide for the International Children’s Peace</description>
+      <pubDate>Wed, 28 Jan 2026 09:44:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/28/medium/Singra-1-(20)-6979d6d011cb4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>National polls: BGB to be on field from Thursday</title>
+      <link>https://www.daily-sun.com/bangladesh/854402/38-platoons-of-bgb-deployed-in-dhaka-and-two-other-districts</link>
+      <description>BGB will set up checkpoints at key locations, including entry points to the capital, and conduct searches to strengthen security.</description>
+      <pubDate>Wed, 28 Jan 2026 09:44:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/28/medium/BGB2-6979d51b5f511.jfif" type="image/jpeg" />
+    </item>
+    <item>
+      <title>July Charter a pact with people and parties, not an imposition: Ali Riaz</title>
+      <link>https://www.daily-sun.com/bangladesh/854401/july-charter-a-pact-with-people-and-parties-not-an-imposition-ali-riaz</link>
+      <description>The July National Charter is a pact between people and political parties, with the parties themselves primarily responsible for its</description>
+      <pubDate>Wed, 28 Jan 2026 09:44:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/28/medium/Untitled-design---2026-01-28T150530-6979d1dbda5f4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
