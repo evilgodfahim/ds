@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Muggers loot Tk24 lakh in Gazipur</title>
-      <link>https://www.daily-sun.com/bangladesh/853853/muggers-loot-tk24-lakh-in-gazipur</link>
-      <description>Police are investigating the incident.</description>
-      <pubDate>Sun, 25 Jan 2026 14:37:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/25/medium/Crime-edited-697629b561eff.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>DUCSU member accused of abusing teenagers at DU playground</title>
       <link>https://www.daily-sun.com/bangladesh/853852/ducsu-member-accused-of-abusing-teenagers-at-du-playground</link>
       <description>The footage shows Sarbamitra Chakma supervising the punishment</description>
@@ -3480,6 +3473,13 @@
       <description>'Only one thing happened – so-called ‘mega projects’ were launched, and in the name of these projects, there was ‘mega</description>
       <pubDate>Thu, 29 Jan 2026 22:19:55 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/30/medium/Tarique-Bogura-30-Jan-2026-collected-697bd83563751.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump administration urged to reverse visa suspensions for 75 countries</title>
+      <link>https://www.daily-sun.com/world/854747/trump-administration-urged-to-reverse-visa-suspensions-for-75-countries</link>
+      <description>On 21 January, the Trump administration suspended immigrant visa processing for applicants from 75 countries.</description>
+      <pubDate>Thu, 29 Jan 2026 23:54:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/30/medium/US-Visa-collected-697bf2e75f734.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
