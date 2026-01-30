@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>A performance that had everything: Carrick</title>
-      <link>https://www.daily-sun.com/sports/854020/a-performance-that-had-everything-carrick</link>
-      <description>Carrick urged Man Utd to build on the remarkable start to his interim reign after Cunha's rocket sealed a stunning</description>
-      <pubDate>Mon, 26 Jan 2026 12:56:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Carrick-697759dbd0289.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Do cows use tools?</title>
       <link>https://www.daily-sun.com/feature/854019/do-cows-use-tools</link>
       <description>Now, in a new study, Veronika has demonstrated even more advanced scratching skills, deploying different ends of a wooden broom</description>
@@ -3483,6 +3476,12 @@
       <description>A total of 139,763 postal ballots cast by expatriate Bangladeshis have reached the country so far, while 456,872 overseas voters</description>
       <pubDate>Fri, 30 Jan 2026 17:45:27 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/30/medium/2-697ce9f257c37.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump administration urged to reverse visa suspensions for 75 countries</title>
+      <link>https://daily-sun.com/world/854747/trump-administration-urged-to-reverse-visa-suspensions-for-75-countries</link>
+      <description />
+      <pubDate>Fri, 30 Jan 2026 18:06:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
