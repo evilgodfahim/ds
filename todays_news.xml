@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Bangladesh to be among world’s 6 hottest countries by 2050</title>
-      <link>https://www.daily-sun.com/bangladesh/854028/bangladesh-to-be-among-world-s-6-hottest-countries-by-2050</link>
-      <description>The study warns that the global heatwave crisis is intensifying, with serious consequences for daily life, economies, and public health</description>
-      <pubDate>Mon, 26 Jan 2026 13:39:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Heatwave-edited-69776bdd57b07.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Travel ban imposed on ex-state minister Zakir’s wife, children</title>
       <link>https://www.daily-sun.com/bangladesh/854027/travel-ban-imposed-on-ex-state-minister-zakir-s-wife-children</link>
       <description>Dhaka Metropolitan Senior Special Judge Sabbir Faiz passed the order.</description>
@@ -3480,6 +3473,13 @@
       <link>https://daily-sun.com/index.php/bangladesh/853973/327-factories-shut-down-over-150-000-workers-jobless</link>
       <description />
       <pubDate>Fri, 30 Jan 2026 19:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 injured in gas cylinder blast in Dhaka’s Wari</title>
+      <link>https://www.daily-sun.com/bangladesh/854905/8-injured-in-gas-cylinder-blast-in-dhaka-s-wari</link>
+      <description>Eight people were injured in a fire triggered by the explosion of a gas cylinder at a restaurant in the</description>
+      <pubDate>Fri, 30 Jan 2026 20:51:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Untitled-design---2026-01-31T022439-697d13e77add0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
