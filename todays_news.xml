@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Do cows use tools?</title>
-      <link>https://www.daily-sun.com/feature/854019/do-cows-use-tools</link>
-      <description>Now, in a new study, Veronika has demonstrated even more advanced scratching skills, deploying different ends of a wooden broom</description>
-      <pubDate>Mon, 26 Jan 2026 12:56:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Cows-New-York-Times-697759a97fcdb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mirsarai will host country’s first defence manufacturing zone: BEZA chief</title>
-      <link>https://www.daily-sun.com/business/854030/mirsarai-will-host-country-s-first-defence-manufacturing-zone-beza-chief</link>
-      <description>The Bangladesh Economic Zones Authority (BEZA) will set up the country’s first Defence Industrial Zone in Mirsarai, Chattogram</description>
-      <pubDate>Mon, 26 Jan 2026 13:39:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/BEZA-69776d3b51769.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bashundhara Shuvosangho holds essay contest on future Bangladesh in Gangni</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/854029/bashundhara-shuvosangho-holds-essay-contest-on-future-bangladesh-in-gangni</link>
-      <description>Participants highlighted themes such as justice, good governance, sustainable economic development, climate awareness, employment opportunities.</description>
-      <pubDate>Mon, 26 Jan 2026 13:39:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Shuvosangho-Gangni-69776d2fb2ed0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh to be among world’s 6 hottest countries by 2050</title>
       <link>https://www.daily-sun.com/bangladesh/854028/bangladesh-to-be-among-world-s-6-hottest-countries-by-2050</link>
       <description>The study warns that the global heatwave crisis is intensifying, with serious consequences for daily life, economies, and public health</description>
@@ -3482,6 +3461,25 @@
       <link>https://daily-sun.com/world/854747/trump-administration-urged-to-reverse-visa-suspensions-for-75-countries</link>
       <description />
       <pubDate>Fri, 30 Jan 2026 18:06:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jamaat Ameer pledges women empowerment, Cumilla division, airport</title>
+      <link>https://www.daily-sun.com/politics/854904/jamaat-ameer-pledges-women-empowerment-cumilla-division-airport</link>
+      <description>Bangladesh Jamaat-e-Islami Ameer Dr Shafiqur Rahman has pledged to empower every woman in the country.</description>
+      <pubDate>Fri, 30 Jan 2026 19:34:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Untitled-design---2026-01-31T011520-697d03b1d9166.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump administration urged to reverse visa suspensions for 75 countries</title>
+      <link>https://daily-sun.com/world/854747</link>
+      <description />
+      <pubDate>Fri, 30 Jan 2026 19:34:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>327 factories shut down, over 150,000 workers jobless</title>
+      <link>https://daily-sun.com/index.php/bangladesh/853973/327-factories-shut-down-over-150-000-workers-jobless</link>
+      <description />
+      <pubDate>Fri, 30 Jan 2026 19:34:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
