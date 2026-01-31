@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Can Arsenal handle Premier League weight of expectation?</title>
-      <link>https://www.daily-sun.com/sports/854042/can-arsenal-handle-premier-league-weight-of-expectation</link>
-      <description>A 3-2 loss to Man Utd has reopened the debate over whether Arsenal can shrug off their tag of nearly</description>
-      <pubDate>Mon, 26 Jan 2026 15:34:24 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Arteta-697781d3591b4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Taufel to trim BCB officiating panels following assessment drive</title>
       <link>https://www.daily-sun.com/sports/854053/taufel-to-trim-bcb-officiating-panels-following-assessment-drive</link>
       <description>Former ICC Elite Panel umpire Simon Taufel has signalled a major reshaping of Bangladesh’s match officiating structure</description>
@@ -3480,6 +3473,13 @@
       <description>Young protesters paid a deadly price after the 2021 military coup</description>
       <pubDate>Sat, 31 Jan 2026 06:23:38 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Myanmar-697d9ab4b31aa.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rana Plaza survivors allege misuse of foreign funds, seek compensation</title>
+      <link>https://www.daily-sun.com/bangladesh/854926/rana-plaza-survivors-allege-misuse-of-foreign-funds-seek-compensation</link>
+      <description>Money is being collected abroad in the name of Rana Plaza victims, but the actual survivors are not receiving anything.</description>
+      <pubDate>Sat, 31 Jan 2026 07:02:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Rana-697da78f14796.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
