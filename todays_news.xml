@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Sabalenka brushes aside Jovic to reach Australian Open semis</title>
-      <link>https://www.daily-sun.com/sports/854211/sabalenka-brushes-aside-jovic-to-reach-australian-open-semis</link>
-      <description>Aryna Sabalenka handed 18-year-old American Iva Jovic a comprehensive 6-3 6-0 defeat in the quarter-finals at a sweltering Melbourne Park</description>
-      <pubDate>Tue, 27 Jan 2026 10:53:23 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/27/medium/Sabalenka-6978957515344.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ex-FIFA boss Blatter urges fans not to travel to US for World Cup</title>
-      <link>https://www.daily-sun.com/sports/854219/ex-fifa-boss-blatter-urges-fans-not-to-travel-to-us-for-world-cup</link>
-      <description>Former FIFA president Sepp Blatter suggested he supports fans boycotting World Cup matches in the US this year due to</description>
-      <pubDate>Tue, 27 Jan 2026 11:13:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/27/medium/Blatter-69789cf226762.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gauff gone in 59 minutes against Svitolina</title>
       <link>https://www.daily-sun.com/sports/854218/gauff-gone-in-59-minutes-against-svitolina</link>
       <description>Svitolina stunned American third seed Gauff to sail into an Australian Open semi against Sabalenka on Tuesday and inch closer</description>
@@ -3479,6 +3465,20 @@
       <description>Israeli air strikes killed 32 people including children in Gaza on Saturday as the military said it had attacked in</description>
       <pubDate>Sat, 31 Jan 2026 17:40:15 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Gaza-Genocide-697e3cae98902.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oil prices fall by Tk2 per litre</title>
+      <link>https://www.daily-sun.com/business/855026/oil-prices-fall-by-tk2-per-litre</link>
+      <description>Prices of majority of oil products will fall by Tk2 per litre from Sunday due to a drop in global</description>
+      <pubDate>Sat, 31 Jan 2026 17:56:13 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/oil-price-697e3f4a834fb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gold price goes up again hours after plunge</title>
+      <link>https://www.daily-sun.com/business/855025/gold-price-goes-up-again-hours-after-plunge</link>
+      <description>On 29 January, the price of gold reached an all-time high in the country, hitting Tk2,86,001 per bhori.</description>
+      <pubDate>Sat, 31 Jan 2026 17:56:13 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Gold-ornament-3-697e3f4548a6e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>

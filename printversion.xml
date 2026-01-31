@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>General knowledge competition held in Gaibandha</title>
-      <link>https://www.daily-sun.com/news/853711</link>
-      <description />
-      <pubDate>Sat, 24 Jan 2026 18:32:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/25/medium/Ds-32--25-01--2026-6975026721f2a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Discussion on preventing social media rumours held in Meherpur</title>
       <link>https://www.daily-sun.com/news/853710</link>
       <description />
@@ -3549,6 +3542,13 @@ FIRM</title>
       <description>Says forces on high alert; Trump says Iran wants to make deal rather than face action</description>
       <pubDate>Sat, 31 Jan 2026 17:40:16 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LOYALTIES FOR SALE</title>
+      <link>https://www.daily-sun.com/back-page/855013</link>
+      <description>With only days to go before the 13th parliamentary election, a fresh wave of political defections is rippling through the</description>
+      <pubDate>Sat, 31 Jan 2026 17:56:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/DS-'02'01-11-697e3ae6b3a36.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
