@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>China's Xi says India, China are 'friends, partners'</title>
-      <link>https://www.daily-sun.com/world/854051/china-s-xi-says-india-china-are-friends-partners</link>
-      <description>The nuclear-armed Asian neighbours share a 3,800 km (2,400-mile) border that is poorly demarcated</description>
-      <pubDate>Mon, 26 Jan 2026 15:56:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/C-69778cdd17eed.gif" type="image/gif" />
-    </item>
-    <item>
-      <title>UAE bars use of its airspace for military action against Iran</title>
-      <link>https://www.daily-sun.com/world/854050/uae-bars-use-of-its-airspace-for-military-action-against-iran</link>
-      <description>Trump's warnings to Tehran were against killing protesters or restarting its nuclear programme</description>
-      <pubDate>Mon, 26 Jan 2026 15:56:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/UAE-Airspace-69778b27a916b.gif" type="image/gif" />
-    </item>
-    <item>
       <title>DU authority issues show-cause notice to DUCSU’s resigned member Sarbamitra</title>
       <link>https://www.daily-sun.com/bangladesh/854049/du-authority-issues-show-cause-notice-to-ducsu-s-resigned-member-sarbamitra</link>
       <description>The Dhaka University (DU) administration has issued a show-cause notice to Sarbamitra Chakma, who resigned from DUCSU on Monday, over</description>
@@ -3480,6 +3466,20 @@
       <description>Millers said excessive rainfall during May and June hampered jute production in the southern region.</description>
       <pubDate>Sat, 31 Jan 2026 07:36:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Jute-697da8de89550.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Strike disrupts container handling, transport at Ctg Port</title>
+      <link>https://www.daily-sun.com/bangladesh/854930/strike-disrupts-container-handling-transport-at-ctg-port</link>
+      <description>A full-scale strike has begun at Chittagong Port called by Jatiyatabadi Sramik Dal in protest against the leasing of the</description>
+      <pubDate>Sat, 31 Jan 2026 07:54:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Untitled-697db346e1a02.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>We will uproot extortion and corruption, says Jamaat Ameer</title>
+      <link>https://www.daily-sun.com/politics/854929/we-will-uproot-extortion-and-corruption-says-jamaat-ameer</link>
+      <description>He said that if these conditions are upheld, Jamaat-e-Islami would move forward by working together with all stakeholders.</description>
+      <pubDate>Sat, 31 Jan 2026 07:54:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/1769844237-a4dba9b67cf54c1c9da7b162dfbc1b74-697db2610d837.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
