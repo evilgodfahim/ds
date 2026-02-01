@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BNP to solve unemployment if it comes to power: Tarique</title>
-      <link>https://daily-sun.com/politics/854229/bnp-to-solve-unemployment-if-it-comes-to-power-tarique</link>
-      <description />
-      <pubDate>Tue, 27 Jan 2026 20:03:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>GlenDeur 2026 brings ‘Alice in Wonderland’ to life at Glenrich Satarkul</title>
-      <link>https://daily-sun.com/sun-campus/853968/glendeur-2026-brings-alice-in-wonderland-to-life-at-glenrich-satarkul</link>
-      <description />
-      <pubDate>Tue, 27 Jan 2026 20:47:16 +0000</pubDate>
-    </item>
-    <item>
       <title>EC bans motorcycle movement for three days during Bangladesh election</title>
       <link>https://daily-sun.com/bangladesh/854236/ec-bans-motorcycle-movement-for-three-days-during-election</link>
       <description />
@@ -3478,6 +3466,20 @@
       <description>Napoli are struggling with injuries after a hectic run of games with De Bruyne, Neres, Gilmour, Anguissa, Politano and Milinkovic-Savic</description>
       <pubDate>Sun, 01 Feb 2026 11:04:30 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/Conte-697f2fecac009.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>More to life than F1 as Gasly balances driving with padel and MotoGP ambitions</title>
+      <link>https://www.daily-sun.com/sports/855154/more-to-life-than-f1-as-gasly-balances-driving-with-padel-and-motogp-ambitions</link>
+      <description>There is more to life than Formula One, said Alpine driver Pierre Gasly as he spent his Saturday in Madrid</description>
+      <pubDate>Sun, 01 Feb 2026 11:31:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/Screenshot-2026-02-01-172115-697f3825285a7.png" type="image/png" />
+    </item>
+    <item>
+      <title>Volkanovski beats Lopes to defend UFC featherweight title</title>
+      <link>https://www.daily-sun.com/sports/855153/volkanovski-beats-lopes-to-defend-ufc-featherweight-title</link>
+      <description>Australian Alexander Volkanovski cemented his supremacy in the UFC featherweight division after again outlasting rival Diego Lopes in a gruelling</description>
+      <pubDate>Sun, 01 Feb 2026 11:31:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/Volkanovski-697f35b3ca7ed.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
