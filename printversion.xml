@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>‘Productive but complex’</title>
-      <link>https://www.daily-sun.com/world-print/853881</link>
-      <description />
-      <pubDate>Sun, 25 Jan 2026 18:39:00 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mamo in Salauddin Lavlu’s Shotto Shongkot</title>
-      <link>https://www.daily-sun.com/culturetainment/853874</link>
-      <description />
-      <pubDate>Sun, 25 Jan 2026 18:39:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/26/medium/Ds-2--26-01-2026-69764b7fed7ed.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sand City selected for Glasgow Film Fest</title>
       <link>https://www.daily-sun.com/culturetainment/853873</link>
       <description />
@@ -3534,6 +3520,20 @@ FIRM</title>
       <description>Gold and silver prices dived Friday, European stock markets ended the week up while Wall Street fell slightly with investors</description>
       <pubDate>Sun, 01 Feb 2026 04:06:10 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/DS-'02'01-106-697e4dce54b04.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Building positive relations in the international arena</title>
+      <link>https://www.daily-sun.com/front-page/855238</link>
+      <description>The core principle of Bangladesh’s foreign policy is “friendship with all, malice toward none”. Yet even after fifty-four years of</description>
+      <pubDate>Sun, 01 Feb 2026 17:55:42 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/02/medium/02-02-2026-p4-1-697f8f386094a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Bureaucracy that Outlasted Revolution</title>
+      <link>https://www.daily-sun.com/editorial/855260</link>
+      <description>“If that plane had to crash, it should not have fallen on a school. It should have fallen on the</description>
+      <pubDate>Sun, 01 Feb 2026 17:55:42 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/02/medium/02-02-2026-p3-7-697f926a4bfc8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
