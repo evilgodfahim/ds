@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Govt directs ministries to enforce decision on referendum campaigning by public officials</title>
-      <link>https://www.daily-sun.com/bangladesh/854784/govt-directs-ministries-to-enforce-decision-on-referendum-campaigning-by-public-officials</link>
-      <description>Cabinet Secretary Sheikh Abdur Rashid said the EC’s instructions would be fully implemented</description>
-      <pubDate>Fri, 30 Jan 2026 10:20:51 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/30/medium/Logo-Govt-BD-4--White-697c8329d0fab.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>16 countries to send 57 observers for 12 Feb election</title>
       <link>https://www.daily-sun.com/bangladesh/854783/16-countries-to-send-57-observers-for-12-feb-election</link>
       <description>At least 16 countries have accepted Bangladesh’s invitations to send a total of 57 election observers for the country’s 13th</description>
@@ -3483,6 +3476,12 @@
       <description>Seif al-Islam, 53, had been seen as his father's successor</description>
       <pubDate>Tue, 03 Feb 2026 21:20:04 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/04/medium/Kadhafi-69825e2f388af.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Earthquake jolts country again</title>
+      <link>https://daily-sun.com/bangladesh/855576/earthquake-jolts-country-again</link>
+      <description />
+      <pubDate>Tue, 03 Feb 2026 22:22:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
