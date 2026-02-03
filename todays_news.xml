@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump, Democrats say deal reached to avert shutdown; immigration talks to continue</title>
-      <link>https://www.daily-sun.com/world/854773/trump-democrats-say-deal-reached-to-avert-shutdown-immigration-talks-to-continue</link>
-      <description>The deal separates immigration debate from funding package</description>
-      <pubDate>Fri, 30 Jan 2026 09:52:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/30/medium/US-697c79c2c6643.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>AkijBashir Group Signs Strategic MoU with Anwar Landmark</title>
       <link>https://www.daily-sun.com/business/854772/akijbashir-group-signs-strategic-mou-with-anwar-landmark</link>
       <description>The alliance marks a new chapter for both organizations, united in their pursuit to shape elegant, sustainable, and inspiring spaces—Beyond</description>
@@ -3484,6 +3477,12 @@
       <description>The incident was strongly condemned on Tuesday in a statement issued by Ehsanul Mahbub Zubair</description>
       <pubDate>Tue, 03 Feb 2026 19:32:14 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/04/medium/Parwar-698244126f640.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>'We revolted for independence on 25 March night': Ziaur Rahman</title>
+      <link>https://daily-sun.com/post/782267</link>
+      <description />
+      <pubDate>Tue, 03 Feb 2026 20:02:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
