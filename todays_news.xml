@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Confident Tigresses look to become qualifier champions</title>
-      <link>https://www.daily-sun.com/sports/854945/confident-tigresses-look-to-become-qualifier-champions</link>
-      <description>Tigresses vice-captain Nahida expressed strong confidence in her side’s form as they look to become champions in T20 World Cup</description>
-      <pubDate>Sat, 31 Jan 2026 11:12:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/31/medium/Nahida-697ddfc154497.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Former Sri Lanka international Jayasuriya in US squad for T20 World Cup</title>
       <link>https://www.daily-sun.com/sports/854944/former-sri-lanka-international-jayasuriya-in-us-squad-for-t20-world-cup</link>
       <description>Former Sri Lanka international Shehan Jayasuriya is set to debut for the United States in next month's Twenty20 World Cup</description>
@@ -3483,6 +3476,13 @@
       <link>https://daily-sun.com/politics/855629/bnp-to-make-women-self-reliant-if-voted-to-power-tarique</link>
       <description />
       <pubDate>Wed, 04 Feb 2026 18:11:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>BGB seizes Indian smuggled goods worth over Tk1Cr in Feni</title>
+      <link>https://www.daily-sun.com/bangladesh/855763/bgb-seizes-indian-smuggled-goods-worth-over-tk1cr-in-feni</link>
+      <description>The total estimated value of the goods is about Tk1.215 crore.</description>
+      <pubDate>Wed, 04 Feb 2026 19:07:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/05/medium/BGB-69838c5caa0c2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
