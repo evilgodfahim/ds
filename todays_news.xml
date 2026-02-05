@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Norway donates $1m to support Rohingya refugees in Bangladesh</title>
-      <link>https://www.daily-sun.com/diplomacy/855164/norway-donates-1m-to-support-rohingya-refugees-in-bangladesh</link>
-      <description>UNHCR Representative in Bangladesh Ivo Freijsen said the contribution would help strengthen refugees’ resilience</description>
-      <pubDate>Sun, 01 Feb 2026 13:29:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/01/medium/Untitled-design-697f4923d2fc5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Remittance inflow crosses $3 billion in January</title>
       <link>https://www.daily-sun.com/business/855173/remittance-inflow-crosses-3-billion-in-january</link>
       <description>Bangladesh received $3.29 billion in March of the fiscal year 2024-25, which was the highest remittance inflow for a single</description>
@@ -3485,6 +3478,13 @@
       <link>https://daily-sun.com/sports/855868/m-najmul-islam-back-in-the-firing-line</link>
       <description />
       <pubDate>Thu, 05 Feb 2026 19:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>31 exhibitors represent Bangladesh at Texworld Paris 2026</title>
+      <link>https://www.daily-sun.com/business/856006/31-exhibitors-represent-bangladesh-at-texworld-paris-2026</link>
+      <description>Bangladesh made a confident and visible impact at the fair</description>
+      <pubDate>Thu, 05 Feb 2026 19:52:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/06/medium/WhatsApp-Image-2026-02-05-at-9-6984f3a5e584f.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
