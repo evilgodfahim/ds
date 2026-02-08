@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Khaleda Zia’s health condition improves slightly</title>
-      <link>https://daily-sun.com/politics/843345/khaleda-zia-s-health-improves-slightly</link>
-      <description />
-      <pubDate>Tue, 03 Feb 2026 18:37:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Lailatul Barat: A Night of Forgiveness, Self-Purification, and Moral Renewal</title>
       <link>https://daily-sun.com/opinion/855349/lailatul-barat-a-night-of-forgiveness-self-purification-and-moral-renewal</link>
       <description />
@@ -3482,6 +3476,13 @@
       <description>A US Democratic Party senator, Sheikh Mujahidur Rahman, sought votes for his brother Sheikh Mojibur Rahman Iqbal, independent candidate in</description>
       <pubDate>Sun, 08 Feb 2026 08:42:15 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/Untitled-design---2026-02-08T140048-69884333e15af.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Arms, ammo seized in C’nawabganj</title>
+      <link>https://www.daily-sun.com/bangladesh/856432/arms-ammo-seized-in-c-nawabganj</link>
+      <description>The seized arms were deposited to Gomostapur Police Station.</description>
+      <pubDate>Sun, 08 Feb 2026 09:03:49 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/c-69884d6cde4e8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
