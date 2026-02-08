@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Telecom Ordinance Amendment approved, banning internet shutdowns</title>
-      <link>https://www.daily-sun.com/business/847983</link>
-      <description>Quasi-judicial council introduced for surveillance; experts welcome digital rights safeguards but flag risks of overreach</description>
-      <pubDate>Thu, 25 Dec 2025 18:31:05 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/25/medium/DS-'12'25-41-694c2b9b94f59.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Low gas pressure expected in Titas areas for 18 hours</title>
-      <link>https://www.daily-sun.com/business/848168/low-gas-pressure-expected-in-titas-areas-for-18-hours</link>
-      <description />
-      <pubDate>Thu, 25 Dec 2025 18:31:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Bholaganj Land Port inaugurated in Sylhet</title>
       <link>https://www.daily-sun.com/business/848160/bholaganj-land-port-inaugurated-in-sylhet</link>
       <description />
@@ -3049,6 +3036,18 @@ nationwide</description>
       <link>https://www.daily-sun.com/business/856463/bangladesh-to-buy-25-boeing-aircraft-deal-with-us-on-monday</link>
       <description />
       <pubDate>Sun, 08 Feb 2026 11:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Inflation hits eight-month high of 8.58% in Jan</title>
+      <link>https://www.daily-sun.com/business/856471/inflation-hits-eight-month-high-of-8-58-in-january</link>
+      <description />
+      <pubDate>Sun, 08 Feb 2026 11:51:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hattrick Win for InterContinental Dhaka at BTTHA 2025</title>
+      <link>https://www.daily-sun.com/business/856467/hattrick-win-for-intercontinental-dhaka-at-bttha-2025</link>
+      <description />
+      <pubDate>Sun, 08 Feb 2026 11:51:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
