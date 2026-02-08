@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>The Murder of The Washington Post</title>
-      <link>https://www.daily-sun.com/opinion/855786/the-murder-of-the-washington-post</link>
-      <description>Today’s layoffs are the latest attempt to kill what makes the paper special.</description>
-      <pubDate>Wed, 04 Feb 2026 19:48:40 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/05/medium/Post-69839ae2629e0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Jamaat Ameer mourns death of Sherpur-3 candidate Nuruzzaman Badal</title>
       <link>https://www.daily-sun.com/politics/855787/jamaat-ameer-mourns-death-of-sherpur-3-candidate-nuruzzaman-badal</link>
       <description>The Jamaat Ameer prayed for the forgiveness of the departed soul and asked Allah to grant him Jannatul Ferdous.</description>
@@ -3487,6 +3480,13 @@
       <description>A total of 321 publishers have announced that they will not take part in the Amar Ekushey Book Fair, scheduled</description>
       <pubDate>Sun, 08 Feb 2026 22:51:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/09/medium/Untitled-(3)-69890e46c78f8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EC bans mobile phones at polling centres</title>
+      <link>https://www.daily-sun.com/bangladesh/856635/ec-bans-mobile-phones-at-polling-centres</link>
+      <description>The Election Commission (EC) has imposed a ban on carrying mobile phones into polling centres during the upcoming 13th national</description>
+      <pubDate>Sun, 08 Feb 2026 23:17:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/09/medium/Untitled-(6)-698918ce699c1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
