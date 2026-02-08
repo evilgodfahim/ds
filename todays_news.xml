@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>How Taliban's new criminal code legalises slavery</title>
-      <link>https://www.daily-sun.com/world/855672/how-taliban-s-new-criminal-code-legalises-slavery</link>
-      <description>The Taliban’s 2026 criminal code reintroduced the term “slave”, marking a legal reversal that contrasts with Islamic and international anti-slavery norms</description>
-      <pubDate>Wed, 04 Feb 2026 14:27:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/04/medium/Untitled-(1)-69834c3b80295.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump administration urged to reverse visa suspensions for 75 countries</title>
       <link>https://daily-sun.com/world/854747</link>
       <description />
@@ -3485,6 +3478,13 @@
       <description>The information was revealed in a circular signed by Masuma Afrin, controller of examinations (cadre) of the BPSC, on Sunday.</description>
       <pubDate>Sun, 08 Feb 2026 16:03:21 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/PSC-BCS-UNB-6988b1e63e8fa.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>At least 20 injured in BNP-Jamaat clash in Patuakhali</title>
+      <link>https://www.daily-sun.com/politics/856527/at-least-20-injured-in-bnp-jamaat-clash-in-patuakhali</link>
+      <description>The injured were admitted to Bauphal Upazila Health Complex for treatment.</description>
+      <pubDate>Sun, 08 Feb 2026 16:42:31 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/Patuakhali-clash-Sun-6988b705eaecd.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
