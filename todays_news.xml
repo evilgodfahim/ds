@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump administration urged to reverse visa suspensions for 75 countries</title>
-      <link>https://daily-sun.com/world/854747</link>
-      <description />
-      <pubDate>Wed, 04 Feb 2026 14:27:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Buddhist leaders, HWPL advocate for global harmony</title>
       <link>https://www.daily-sun.com/bangladesh/855689/buddhist-leaders-hwpl-advocate-for-global-harmony</link>
       <description>The session, held online on Wednesday, brought together approximately 20 key stakeholders</description>
@@ -3485,6 +3479,13 @@
       <description>The injured were admitted to Bauphal Upazila Health Complex for treatment.</description>
       <pubDate>Sun, 08 Feb 2026 16:42:31 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/Patuakhali-clash-Sun-6988b705eaecd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>EC asks ROs to reissue PASHA observer cards</title>
+      <link>https://www.daily-sun.com/bangladesh/856528/ec-asks-ros-to-reissue-pasha-observer-cards</link>
+      <description>The EC had initially approved more than 10,000 PASHA observers for the upcoming general election</description>
+      <pubDate>Sun, 08 Feb 2026 17:04:26 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/08/medium/EC-4-6988c0bcb9f04.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
