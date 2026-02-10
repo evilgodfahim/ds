@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Forex reserves hit 3-year high as December remittances cross $3b</title>
-      <link>https://www.daily-sun.com/business/849070/forex-reserves-hit-3-year-high-as-december-remittances-cross-3b</link>
-      <description />
-      <pubDate>Wed, 31 Dec 2025 16:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trade through Benapole port suspended</title>
-      <link>https://www.daily-sun.com/business/849051/trade-through-benapole-port-suspended</link>
-      <description>Export and import activities between Bangladesh and India through Benapole land port remained suspended from Wednesday morning</description>
-      <pubDate>Wed, 31 Dec 2025 21:33:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/31/medium/Benapole_Trade-69553140d35b7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Janata Bank PLC mourns the death of Begum Khaleda Zia</title>
       <link>https://www.daily-sun.com/business/849207/janata-bank-plc-mourns-the-death-of-begum-khaleda-zia</link>
       <description />
@@ -3033,6 +3020,18 @@ nationwide</description>
       <link>https://www.daily-sun.com/business/856942/bgmea-welcomes-bangladesh-usa-tariff-agreement</link>
       <description />
       <pubDate>Tue, 10 Feb 2026 16:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>US reduces tariff for Bangladesh to 19%</title>
+      <link>https://daily-sun.com/business/856736/us-reduces-tariff-on-bangladeshi-products-to-19</link>
+      <description />
+      <pubDate>Tue, 10 Feb 2026 18:44:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CPA launches ‘Port Single Window’</title>
+      <link>https://www.daily-sun.com/business/856975/cpa-launches-port-single-window</link>
+      <description />
+      <pubDate>Tue, 10 Feb 2026 18:44:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
