@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Pakistan may invoke ‘force majeure’ to avoid sanctions over India boycott</title>
-      <link>https://daily-sun.com/sports/855862</link>
-      <description />
-      <pubDate>Sat, 07 Feb 2026 06:06:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tarique Rahman addresses public rally in Thakurgaon</title>
-      <link>https://www.daily-sun.com/politics/856213/tarique-rahman-addresses-public-rally-in-thakurgaon</link>
-      <description>The rally began at 11:00am with recitations from the Holy Quran, followed by readings from the Holy Gita and the</description>
-      <pubDate>Sat, 07 Feb 2026 07:30:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/07/medium/Untitled-1-Recovered-Recovered-6986e87248247.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump says US talks with Iran 'very good,' more negotiations expected</title>
       <link>https://www.daily-sun.com/world/856211/trump-says-us-talks-with-iran-very-good-more-negotiations-expected</link>
       <description>Iran for its part said it expected to hold more negotiations with the United States, hailing a "positive atmosphere" during</description>
@@ -3487,6 +3474,20 @@
       <description>The Islamic leaders also called upon the people of the country to cast their votes in favour of the Sheaf of Paddy</description>
       <pubDate>Tue, 10 Feb 2026 19:46:56 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/11/medium/BNP-698b7c97a87f7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fire breaks out at Mirpur high-rise</title>
+      <link>https://www.daily-sun.com/bangladesh/857056/fire-breaks-out-at-mirpur-high-rise</link>
+      <description>The cause of the fire and casualties could not be confirmed immediately</description>
+      <pubDate>Tue, 10 Feb 2026 20:28:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/11/medium/Untitled-698b8efc31f6d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mother dies upon hearing of son’s injury during alleged BNP-Jamaat clash</title>
+      <link>https://www.daily-sun.com/bangladesh/857055/mother-dies-upon-hearing-of-son-s-injury-during-alleged-bnp-jamaat-clash</link>
+      <description>The tragedy occurred when Rabeya Bewa, 65, mother of Masud, learned about her son’s condition</description>
+      <pubDate>Tue, 10 Feb 2026 20:28:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/11/medium/B-698b8d1f3cdd9.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
