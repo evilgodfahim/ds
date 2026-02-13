@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>South Korea avert boycott of Women's Asian Cup weeks before kickoff</title>
-      <link>https://www.daily-sun.com/sports/856886/south-korea-avert-boycott-of-women-s-asian-cup-weeks-before-kickoff</link>
-      <description>A dispute that saw South Korea's players threaten to boycott next month's Women's Asian Cup over ‘discriminatory conditions’ has been</description>
-      <pubDate>Tue, 10 Feb 2026 11:11:23 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/10/medium/Korea-698b0c301018f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Shooter Koly banned for one year</title>
       <link>https://www.daily-sun.com/sports/856885/shooter-koly-banned-for-one-year</link>
       <description>Earlier, on 1 January, the federation had temporarily suspended Koly and issued a show-cause notice about a month ago.</description>
@@ -3490,6 +3483,13 @@
       <link>https://daily-sun.com/bangladesh/857508/bnp-wins-all-three-seats-in-gopalganj</link>
       <description />
       <pubDate>Fri, 13 Feb 2026 18:38:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vlogger Sumon, traveller Nilay set foot on White Desert of Antarctica</title>
+      <link>https://www.daily-sun.com/feature/857692/vlogger-sumon-traveller-nilay-set-foot-on-white-desert-of-antarctica</link>
+      <description>Sumon, accompanied by fellow traveller Nilay Kumar Biswas, has successfully set foot on the icy landmass, marking a historic moment</description>
+      <pubDate>Fri, 13 Feb 2026 19:30:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/14/medium/Vlogger-Sumon,-traveller-Nilay-698f72456f698.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
