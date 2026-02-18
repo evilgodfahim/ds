@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>India ready for 'out of syllabus' Tariq</title>
-      <link>https://www.daily-sun.com/sports/857883/india-ready-for-out-of-syllabus-tariq</link>
-      <description>Agha wants injury doubt Abhishek to play on Sunday</description>
-      <pubDate>Sat, 14 Feb 2026 19:34:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/15/medium/Usman-6990c9c7cb3d5.png" type="image/png" />
-    </item>
-    <item>
       <title>Suryakumar shrugs off rain threat to Pakistan game</title>
       <link>https://www.daily-sun.com/sports/857882/suryakumar-shrugs-off-rain-threat-to-pakistan-game</link>
       <description>Indian captain Suryakumar Yadav said his players are not concerned about the threat of rain for Sunday's T20 World Cup</description>
@@ -3477,6 +3470,13 @@
       <link>https://daily-sun.com/sports/858548/german-and-real-legend-ozil-in-bangladesh</link>
       <description />
       <pubDate>Wed, 18 Feb 2026 19:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>EU welcomes smooth transfer of power, hails Prime Minister Tarique Rahman</title>
+      <link>https://www.daily-sun.com/diplomacy/858707/eu-welcomes-smooth-transfer-of-power-hails-prime-minister-tarique-rahman</link>
+      <description>The European Union (EU) in Bangladesh has welcomed the smooth transfer of power from the interim government to the BNP</description>
+      <pubDate>Wed, 18 Feb 2026 19:55:10 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/19/medium/Untitled-design---2026-02-19T012640-6996133725da7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
