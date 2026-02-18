@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Top business leaders meet Tarique Rahman</title>
-      <link>https://www.daily-sun.com/business/849792/top-business-leaders-meet-tarique-rahman</link>
-      <description />
-      <pubDate>Sun, 04 Jan 2026 14:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New ordinance tightens rules on travel agencies</title>
-      <link>https://www.daily-sun.com/business/849709</link>
-      <description>It explicitly bans “false booking,” a practice used to create artificial ticket crises</description>
-      <pubDate>Sun, 04 Jan 2026 17:31:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/04/medium/DS-'01'04-91-6959645d219c5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gold price rises to Tk2.24 lakh per bhori</title>
       <link>https://www.daily-sun.com/business/849819/gold-price-rises-to-tk2-24-lakh-per-bhori</link>
       <description />
@@ -3021,6 +3008,18 @@ nationwide</description>
       <link>https://www.daily-sun.com/business/858539/forex-reserves-surge-past-34-5-billion</link>
       <description />
       <pubDate>Wed, 18 Feb 2026 10:00:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Govt reduces VAT on LPG to ease consumer burden</title>
+      <link>https://www.daily-sun.com/business/858412</link>
+      <description>Govt reduces VAT on LPG to ease consumer burden</description>
+      <pubDate>Wed, 18 Feb 2026 15:03:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>YOUReach hosts session for pitching business ideas</title>
+      <link>https://www.daily-sun.com/business/858589/youreach-hosts-session-for-pitching-business-ideas</link>
+      <description />
+      <pubDate>Wed, 18 Feb 2026 15:03:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
