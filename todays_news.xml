@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>At least 46 killed in fresh Nigeria attacks</title>
-      <link>https://www.daily-sun.com/world/857896/at-least-46-killed-in-fresh-nigeria-attacks</link>
-      <description>Numerous armed gangs, known locally as "bandits", are also wreaking havoc -- looting villages, killing people and kidnapping residents.</description>
-      <pubDate>Sun, 15 Feb 2026 04:47:10 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/15/medium/Nigeria-attacks-69914b5e9818b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Entrepreneurs call for clear roadmap to revive industrial sector</title>
       <link>https://www.daily-sun.com/business/857895/entrepreneurs-call-for-clear-roadmap-to-revive-industrial-sector</link>
       <description>Amid mounting pressures, the private sector remains the principal driving force of the country’s economy.</description>
@@ -3475,6 +3468,13 @@
       <link>https://daily-sun.com/bangladesh/858525/the-poverty-magician-departs-leaving-more-poor-behind</link>
       <description />
       <pubDate>Wed, 18 Feb 2026 23:07:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>BNP activist hacked dead in Barishal</title>
+      <link>https://www.daily-sun.com/bangladesh/858711/bnp-activist-hacked-dead-in-barishal</link>
+      <description>A BNP activist was hacked to death by some miscreants in Barishal Sadar Upazila on Wednesday night.</description>
+      <pubDate>Thu, 19 Feb 2026 02:25:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/19/medium/Untitled-design---2026-02-19T060016-6996535641f6e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
