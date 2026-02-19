@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Arsenal stroll to Wigan win in FA Cup</title>
-      <link>https://www.daily-sun.com/sports/858080/arsenal-stroll-to-wigan-win-in-fa-cup</link>
-      <description>Arsenal scored all their goals in the opening 27 minutes of Sunday's 4-0 FA Cup fourth-round win over League One</description>
-      <pubDate>Sun, 15 Feb 2026 20:46:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/16/medium/Arsenal-69922c8f7b971.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Suryakumar dedicates win to India, Salman looks at 'big picture'</title>
-      <link>https://www.daily-sun.com/sports/858079/suryakumar-dedicates-win-to-india-salman-looks-at-big-picture</link>
-      <description>Suryakumar dedicated Sunday's victory over Pakistan to fans across the country, while his opposite number Agha urged perspective after a</description>
-      <pubDate>Sun, 15 Feb 2026 20:46:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/16/medium/Sky-69922ad16fbba.png" type="image/png" />
-    </item>
-    <item>
       <title>Shakib not ruling out 2027 Cricket World Cup possibility</title>
       <link>https://daily-sun.com/sports/857786/shakib-not-ruling-out-2027-cricket-world-cup-possibility</link>
       <description />
@@ -3479,6 +3465,20 @@
       <link>https://daily-sun.com/diplomacy/858749/us-president-trump-congratulates-prime-minister-tarique-rahman</link>
       <description />
       <pubDate>Thu, 19 Feb 2026 18:36:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>15th BCS Forum congratulates PM Tarique Rahman</title>
+      <link>https://www.daily-sun.com/bangladesh/858920/15th-bcs-forum-congratulates-pm-tarique-rahman</link>
+      <description>The forum also extended its best wishes and heartfelt congratulations to the members of the cabinet.</description>
+      <pubDate>Thu, 19 Feb 2026 19:27:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/20/medium/PM-Tarique-17-Feb-2026-PID-69975fe260f1f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How long will Prof Yunus stay at Jamuna?</title>
+      <link>https://www.daily-sun.com/bangladesh/858895/how-long-will-prof-yunus-stay-at-jamuna</link>
+      <description>After the BNP formed the government following its landslide victory in the 13th parliamentary election, the interim government formally stepped</description>
+      <pubDate>Thu, 19 Feb 2026 19:27:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/20/medium/Yunus_PID-6997598e0890f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
