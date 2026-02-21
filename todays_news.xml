@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>New govt set to begin journey today with Tarique as PM</title>
-      <link>https://daily-sun.com/printversion/858232</link>
-      <description />
-      <pubDate>Tue, 17 Feb 2026 09:02:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Writ filed in HC challenging Referendum results</title>
-      <link>https://www.daily-sun.com/bangladesh/858330/lawyer-challenges-referendum-outcome-in-high-court</link>
-      <description>The High Court bench led by Justice Fatema Najib may hear the petition next week</description>
-      <pubDate>Tue, 17 Feb 2026 10:00:03 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/17/medium/HC-1-6994395deddec.gif" type="image/gif" />
-    </item>
-    <item>
       <title>New Cabinet gets three Technocrats</title>
       <link>https://www.daily-sun.com/bangladesh/858329/new-cabinet-to-get-three-technocrats</link>
       <description>Among the state ministers, Aminul Haque is being appointed as a technocrat</description>
@@ -3479,6 +3466,20 @@
       <description>New tariffs came into effect from 10:15am</description>
       <pubDate>Sat, 21 Feb 2026 06:33:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/21/medium/Gold-6-collected-69627712aa8f9-(1)-698971126096e-69994ebfb9e83.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Taskin available in BCL from second match</title>
+      <link>https://www.daily-sun.com/sports/859141/taskin-available-in-bcl-from-second-match</link>
+      <description>After recovering from a recent illness, the pacer discussed increasing his bowling workload.</description>
+      <pubDate>Sat, 21 Feb 2026 07:10:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/21/medium/high_1920x1080-6999599eaa998.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alcaraz defeats Rublev to reach Qatar Open final</title>
+      <link>https://www.daily-sun.com/sports/859140/alcaraz-defeats-rublev-to-reach-qatar-open-final</link>
+      <description>Alcaraz continued his unbeaten run in 2026 as he beat Rublev 7-6 (3) 6-4 on Friday to reach the Qatar</description>
+      <pubDate>Sat, 21 Feb 2026 07:10:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/21/medium/Alcaraz-6999592ca3450.png" type="image/png" />
     </item>
   </channel>
 </rss>
