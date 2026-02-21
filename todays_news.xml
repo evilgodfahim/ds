@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PSG rally from early deficit to beat Monaco 3-2 away in playoff</title>
-      <link>https://www.daily-sun.com/sports/858499/psg-rally-from-early-deficit-to-beat-monaco-3-2-away-in-playoff</link>
-      <description>UCL holders PSG overcame a horror start and a two-goal deficit to beat 10-man Monaco 3-2 away in the first</description>
-      <pubDate>Wed, 18 Feb 2026 01:46:03 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/18/medium/PSG-699505808abfd.png" type="image/png" />
-    </item>
-    <item>
       <title>Vinicius earns Real 1-0 win at Benfica in match marred by racism row</title>
       <link>https://www.daily-sun.com/sports/858498/vinicius-earns-real-1-0-win-at-benfica-in-match-marred-by-racism-row</link>
       <description>Vinicius Jr scored a sublime second-half winner as Real Madrid beat Benfica 1-0 in their Champions League playoff first leg</description>
@@ -3482,6 +3475,13 @@
       <description>At least five people, including three women, were killed when a CNG-powered auto-rickshaw collided head-on with a gas cylinder-laden truck</description>
       <pubDate>Sat, 21 Feb 2026 20:31:37 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/22/medium/cng-truck-699a0f968ffbc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Man City close gap on Arsenal after O'Reilly sinks Newcastle</title>
+      <link>https://www.daily-sun.com/sports/859294/man-city-close-gap-on-arsenal-after-o-reilly-sinks-newcastle</link>
+      <description>Manchester City stepped up their Premier League title charge as Nico O'Reilly's double sealed a vital 2-1 win against Newcastle</description>
+      <pubDate>Sat, 21 Feb 2026 22:46:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/22/medium/MC-699a34d43d88c.png" type="image/png" />
     </item>
   </channel>
 </rss>
