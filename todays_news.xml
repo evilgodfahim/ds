@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>‘Might be final hurrah’</title>
-      <link>https://www.daily-sun.com/sports/858342/might-be-final-hurrah</link>
-      <description>Michael Clarke questions Pakistan core after India rout</description>
-      <pubDate>Tue, 17 Feb 2026 11:28:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/17/medium/clarke_1920x1080-69944dfddf319.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Woman to die for double murder in Dhanmondi, another acquitted</title>
       <link>https://www.daily-sun.com/bangladesh/858341/woman-to-die-for-double-murder-in-dhanmondi-another-acquitted</link>
       <description>Dhaka court sentences Surovi Akter Nahid to death in 2019 double murder case; co-accused Bachchu Mia acquitted.</description>
@@ -3480,6 +3473,13 @@
       <description>West Bengal Chief Minister Mamata Banerjee has targeted the Election Commission of India, holding up the example of Bangladesh, which</description>
       <pubDate>Sat, 21 Feb 2026 08:56:48 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/21/medium/See-how-Bangladesh-conducted-peaceful-polls-Mamata-699970eb57510.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US evacuates hundreds of troops from Qatar, Bahrain bases</title>
+      <link>https://www.daily-sun.com/world/859152/us-evacuates-hundreds-of-troops-from-qatar-bahrain-bases</link>
+      <description>Hundreds of US troops have been pulled out of the Al Udeid Air Base in Qatar, The New York Times</description>
+      <pubDate>Sat, 21 Feb 2026 09:23:22 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/21/medium/US-evacuates-hundreds-of-troops-from-Qatar,-Bahrain-bases-6999790c2ab4e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
