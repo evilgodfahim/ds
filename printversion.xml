@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Malaysia to probe anti-graft chief</title>
-      <link>https://www.daily-sun.com/business-print/858031</link>
-      <description>Malaysia to probe anti-graft chief</description>
-      <pubDate>Sun, 15 Feb 2026 18:21:19 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>ECB makes euro backstop global to bolster currency’s role</title>
       <link>https://www.daily-sun.com/business-print/858030</link>
       <description>ECB makes euro backstop global to bolster currency’s role</description>
@@ -3537,6 +3530,12 @@ to MPs’ oath-taking</description>
       <description>Bangladesh will face Singapore on 31 March in their last match of the Asian Cup Qualifiers, the same day that</description>
       <pubDate>Sun, 22 Feb 2026 04:13:40 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/22/medium/DS-'02'22-110-6999fd4315e09.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s Challenge of Economic Recovery</title>
+      <link>https://daily-sun.com/editorial/859258</link>
+      <description />
+      <pubDate>Sun, 22 Feb 2026 11:02:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
