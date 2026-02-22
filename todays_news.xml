@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>JCD distributes roses at DU to congratulate PM Tarique Rahman</title>
-      <link>https://www.daily-sun.com/sun-campus/858708/jcd-distributes-roses-at-du-to-congratulate-pm-tarique-rahman</link>
-      <description>JCD activists distributed roses at Dhaka University on Wednesday to congratulate BNP Chairman and PM Tarique Rahman.</description>
-      <pubDate>Wed, 18 Feb 2026 20:25:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/19/medium/Untitled-design---2026-02-19T021355-69961dcb37a24.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Muslims are safe in India: Kanthapuram</title>
       <link>https://www.daily-sun.com/world/858710/muslims-are-safe-in-india-kanthapuram</link>
       <description>Indian Grand Mufti Kanthapuram A.P. Aboobacker Musliyar said that Muslims in India face no security threats following his meeting with</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/bangladesh/859367/army-reshuffles-key-posts</link>
       <description />
       <pubDate>Sun, 22 Feb 2026 20:24:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Messi cleared by MLS after review of post-match video</title>
+      <link>https://www.daily-sun.com/sports/859501/messi-cleared-by-mls-after-review-of-post-match-video</link>
+      <description>Messi was cleared after a review by MLS determined that he didn’t violate any policy when he followed the match</description>
+      <pubDate>Sun, 22 Feb 2026 20:47:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/23/medium/Leo-699b65ef0249f.png" type="image/png" />
     </item>
   </channel>
 </rss>
