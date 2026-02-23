@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BNP activist hacked dead in Barishal</title>
-      <link>https://www.daily-sun.com/bangladesh/858711/bnp-activist-hacked-dead-in-barishal</link>
-      <description>A BNP activist was hacked to death by some miscreants in Barishal Sadar Upazila on Wednesday night.</description>
-      <pubDate>Thu, 19 Feb 2026 02:25:01 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/19/medium/Untitled-design---2026-02-19T060016-6996535641f6e.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh moves towards debt trap</title>
-      <link>https://www.daily-sun.com/bangladesh/858717/bangladesh-moves-towards-debt-trap</link>
-      <description>UNDP Country Economic Adviser Wais Paré said rising debt reflects growing demands for infrastructure and social protection.</description>
-      <pubDate>Thu, 19 Feb 2026 04:31:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/19/medium/Amir-Khosru-Mahmud-Chowdhury-(2)-69968fa935690.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>What did Dr Yunus give the country and what did he take?</title>
       <link>https://www.daily-sun.com/opinion/858716/what-did-dr-yunus-give-the-country-and-what-did-he-take</link>
       <description>After a mass uprising, Nobel Peace Prize laureate Dr. Yunus was welcomed by the nation as Chief Adviser.</description>
@@ -3482,6 +3468,19 @@
       <link>https://daily-sun.com/world/859450/strong-7-1-magnitude-quake-hits-off-eastern-malaysia-usgs</link>
       <description />
       <pubDate>Sun, 22 Feb 2026 23:42:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>What does Trump want in Iran?</title>
+      <link>https://www.daily-sun.com/world/859505/what-does-trump-want-in-iran</link>
+      <description>President Donald Trump's threats to attack Iran provide little detail on what the long-term US goal would be in the</description>
+      <pubDate>Mon, 23 Feb 2026 04:18:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/23/medium/Donald-Trump-699bcd9a68050.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Americans urged to 'shelter in place' in parts of Mexico after drug lord killed</title>
+      <link>https://daily-sun.com/world/859504/americans-urged-to-shelter-in-place-in-parts-of-mexico-after-drug-lord-killed</link>
+      <description />
+      <pubDate>Mon, 23 Feb 2026 04:18:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
