@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Courtois joins ownership group of French club Le Mans</title>
-      <link>https://www.daily-sun.com/sports/859019/courtois-joins-ownership-group-of-french-club-le-mans</link>
-      <description>Real Madrid goalkeeper Thibaut Courtois has joined the Brazilian investment fund OutField which now owns second-division French side Le Mans</description>
-      <pubDate>Fri, 20 Feb 2026 15:05:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/20/medium/TC-69987602765e2.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Werder Bremen cancel US trip amid concerns over ICE actions in Minnesota</title>
       <link>https://www.daily-sun.com/sports/859017/werder-bremen-cancel-us-trip-amid-concerns-over-ice-actions-in-minnesota</link>
       <description>Werder Bremen have cancelled a trip to the US due to concerns over unrest in Minnesota following the actions of</description>
@@ -3479,6 +3472,13 @@
       <link>https://daily-sun.com/bangladesh/859712/sheikh-hasina-other-al-leaders-being-made-accused-in-pilkhana-murder-case</link>
       <description />
       <pubDate>Tue, 24 Feb 2026 18:37:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brook leads England to nervy win and T20 WC semis</title>
+      <link>https://www.daily-sun.com/sports/859818/brook-leads-england-to-nervy-win-and-t20-wc-semis</link>
+      <description>Brook smashed a blistering century to lead his side into the semis with a nail-biting two-wicket victory over Pakistan</description>
+      <pubDate>Tue, 24 Feb 2026 19:35:12 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/25/medium/Brook-699df0782a30f.png" type="image/png" />
     </item>
   </channel>
 </rss>
