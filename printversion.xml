@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>CUET launches online research management system</title>
-      <link>https://www.daily-sun.com/news/858437</link>
-      <description>CUET launches online research management system</description>
-      <pubDate>Tue, 17 Feb 2026 19:12:38 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Open Space Theatre’s three plays at Shilpakala</title>
       <link>https://www.daily-sun.com/culturetainment/858400</link>
       <description>Open Space Theatre’s three plays at Shilpakala</description>
@@ -3513,6 +3506,14 @@ Holy Ramadan</description>
       <description>Asian stocks mostly rose and the dollar fell Monday after the US Supreme Court struck down a large part of</description>
       <pubDate>Tue, 24 Feb 2026 05:43:56 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/24-02-2026-p2-2-699c8bbda5c7b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>New horizons to ensure justice</title>
+      <link>https://www.daily-sun.com/editorial/859790</link>
+      <description>New horizons to 
+ensure justice</description>
+      <pubDate>Tue, 24 Feb 2026 17:41:59 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
