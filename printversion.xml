@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>‘WAKE UP AND SMELL THE ROSES’</title>
-      <link>https://www.daily-sun.com/winner/858888</link>
-      <description>Butler’s reality check before Asian Cup</description>
-      <pubDate>Thu, 19 Feb 2026 18:36:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/20/medium/DS-'02'20-97-6997550bbdfb3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Real submit evidence to UEFA in Vinicius racism probe</title>
       <link>https://www.daily-sun.com/winner/858887</link>
       <description>Real Madrid said it had provided "all available evidence" to UEFA on Thursday in support of their Brazilian star Vinicius</description>
@@ -3537,6 +3530,12 @@ Tokyo hit records</description>
       <description>Discussions about China frequently emphasise its economic achievements, often described as the “China Miracle”. This significant growth has enabled nearly</description>
       <pubDate>Wed, 25 Feb 2026 19:40:59 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/05/medium/DS-'02'05-63-698385241c333.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>May Our Education Sector Progress under the Guidance of New Minister</title>
+      <link>https://daily-sun.com/education/860017</link>
+      <description />
+      <pubDate>Thu, 26 Feb 2026 18:07:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
