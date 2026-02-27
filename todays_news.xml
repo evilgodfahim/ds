@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Messi cleared by MLS after review of post-match video</title>
-      <link>https://www.daily-sun.com/sports/859501/messi-cleared-by-mls-after-review-of-post-match-video</link>
-      <description>Messi was cleared after a review by MLS determined that he didn’t violate any policy when he followed the match</description>
-      <pubDate>Sun, 22 Feb 2026 20:47:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/23/medium/Leo-699b65ef0249f.png" type="image/png" />
-    </item>
-    <item>
-      <title>Bangladesh Aviation and Tourism Journalists Association starts journey</title>
-      <link>https://www.daily-sun.com/bangladesh/859502/bangladesh-aviation-and-tourism-journalists-association-starts-journey</link>
-      <description>A new organisation for journalists covering the aviation and tourism sectors has been launched in Dhaka with the aim of</description>
-      <pubDate>Sun, 22 Feb 2026 21:34:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/23/medium/Bangladesh-Aviation-and-Tourism-Journalists-Association-starts-journey-699b72aa96e63.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Jamaat leader Golam Parwar condemns murder of Laguna driver in capital</title>
-      <link>https://www.daily-sun.com/bangladesh/859503/jamaat-leader-golam-parwar-condemns-murder-of-laguna-driver-in-capital</link>
-      <description>Secretary General of Bangladesh Jamaat-e-Islami Mia Golam Parwar has strongly condemned the brutal murder of Laguna driver Nur Alam, also</description>
-      <pubDate>Sun, 22 Feb 2026 21:52:11 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/23/medium/Golam-Parwar-699b75eed94af.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Americans urged to 'shelter in place' in parts of Mexico after drug lord killed</title>
       <link>https://www.daily-sun.com/world/859504/americans-urged-to-shelter-in-place-in-parts-of-mexico-after-drug-lord-killed</link>
       <description>The US State Department on Sunday urged American citizens in Mexico to shelter in place amid violence, road blocks and</description>
@@ -3486,6 +3465,27 @@
       <description>The epicenter was located in Ashashuni upazila of Satkhira district, where residents reported strong shaking.</description>
       <pubDate>Fri, 27 Feb 2026 08:33:37 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/27/medium/Earthquake2-69a15203b60d1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladeshi researcher advances AI-driven cancer detection</title>
+      <link>https://www.daily-sun.com/sci-tech/860348/bangladeshi-researcher-advances-ai-driven-cancer-detection</link>
+      <description>As healthcare systems worldwide grapple with rising cancer rates, chronic diseases and limited clinical resources,</description>
+      <pubDate>Fri, 27 Feb 2026 09:10:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/27/medium/Bangladeshi-researcher-advances-AI-driven-cancer-detection-69a15d4d7d905.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>China calls for Afghanistan-Pakistan ceasefire</title>
+      <link>https://www.daily-sun.com/world/860347/china-calls-for-afghanistan-pakistan-ceasefire</link>
+      <description>Pakistan is one of China's closest partners in the region, but Beijing also calls itself a "friendly neighbour" of Afghanistan.</description>
+      <pubDate>Fri, 27 Feb 2026 09:10:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/27/medium/Afghanistan-Pakistan-ceasefire-69a157dba9130.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kazakhstan cafe blast, fire kill at least seven</title>
+      <link>https://www.daily-sun.com/world/860346/kazakhstan-cafe-blast-fire-kill-at-least-seven</link>
+      <description>A blast and fire in a cafe killed at least seven people and injured 19 in Kazakhstan's</description>
+      <pubDate>Fri, 27 Feb 2026 09:10:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/27/medium/Kazakhstan-cafe-blast,-fire-kill-at-least-seven-69a1579827264.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
