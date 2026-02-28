@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Mourinho's Bernabeu homecoming upended by suspension, racism row</title>
-      <link>https://www.daily-sun.com/sports/859755/mourinho-s-bernabeu-homecoming-upended-by-suspension-racism-row</link>
-      <description>Mourinho hasn’t set foot at Santiago Bernabeu since leaving Real in 2013, but his UCL homecoming with Benfica will be</description>
-      <pubDate>Tue, 24 Feb 2026 14:38:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/Jose-699daf7f3d635.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Tk20 crore audit glitch raises eyebrows in Minister–BFF meeting</title>
       <link>https://www.daily-sun.com/sports/859754/tk20-crore-audit-glitch-raises-eyebrows-in-minister-bff-meeting</link>
       <description>Minister Aminul Haque called for an urgent resolution in football talks, focusing on accountability and professionalization.</description>
@@ -3485,6 +3478,12 @@
       <description>For security reasons, they have been requested to stay away from any military installations</description>
       <pubDate>Sat, 28 Feb 2026 15:27:51 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/28/medium/Iran-Attack-69a3079d60b7a.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>UAE defends response to Iranian attack</title>
+      <link>https://daily-sun.com/world/860540/uae-defends-response-to-iranian-attack</link>
+      <description />
+      <pubDate>Sat, 28 Feb 2026 15:44:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
