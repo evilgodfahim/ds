@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Court allows Argentina football president to leave country despite tax probe</title>
-      <link>https://www.daily-sun.com/sports/859776/court-allows-argentina-football-president-to-leave-country-despite-tax-probe</link>
-      <description>Claudio Tapia, president of the Argentine Football Association, has been granted permission to leave the country in a court ruling</description>
-      <pubDate>Tue, 24 Feb 2026 16:41:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/Tapia-699dcbb59de9a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Italy rocked by harassment probe after historic T20 World Cup</title>
       <link>https://www.daily-sun.com/sports/859775/italy-cricket-rocked-by-harassment-probe-after-historic-t20-world-cup</link>
       <description>In an official statement, the FCRI confirmed that the allegations are under investigation by the federal prosecutor.</description>
@@ -3483,6 +3476,12 @@
       <description>Fourteen months after the Ministry of Foreign Affairs in Dhaka formally ordered his transfer, a Bangladeshi diplomat in Berlin remains</description>
       <pubDate>Sat, 28 Feb 2026 17:44:52 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/28/medium/fourteen-years-on-69a328318d713.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Law Minister warns of strict action against graft, substandard development work</title>
+      <link>https://daily-sun.com/bangladesh/860533/law-minister-warns-of-strict-action-against-graft-substandard-development-work</link>
+      <description />
+      <pubDate>Sat, 28 Feb 2026 18:16:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
