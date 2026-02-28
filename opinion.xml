@@ -6,13 +6,6 @@
     <description>Daily Sun Opinion</description>
     <item>
       <title>12 Dec 2025</title>
-      <link>https://www.daily-sun.com/opinion/845517</link>
-      <description>A diplomat is often perceived as living a comfortable and secure life abroad, mingling with foreign dignitaries at colourful receptions..</description>
-      <pubDate>Sat, 13 Dec 2025 04:46:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/12/medium/DS-'12'012-61-693b065a66c63.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>12 Dec 2025</title>
       <link>https://www.daily-sun.com/opinion/845516</link>
       <description>The Bangladesh Nationalist Party (BNP) has placed before the nation a set of eight plans. In a political environment in.</description>
       <pubDate>Sat, 13 Dec 2025 04:46:54 +0000</pubDate>
@@ -3093,6 +3086,12 @@ Global Shift</description>
       <link>https://www.daily-sun.com/opinion/860570/prospects-of-nepal-kosovo-partnership</link>
       <description />
       <pubDate>Sat, 28 Feb 2026 13:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prospects of Nepal–Kosovo Partnership</title>
+      <link>https://daily-sun.com/opinion/860570/prospects-of-nepal-kosovo-partnership</link>
+      <description />
+      <pubDate>Sat, 28 Feb 2026 23:35:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
