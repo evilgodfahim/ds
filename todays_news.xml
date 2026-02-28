@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Farhan guides Pakistan in face of England pressure</title>
-      <link>https://www.daily-sun.com/sports/859769/farhan-guides-pakistan-in-face-of-england-pressure</link>
-      <description>Spinner Liam Dawson took three wickets as England restricted Pakistan to 164-9 in their Super Eights clash in Kandy on</description>
-      <pubDate>Tue, 24 Feb 2026 16:41:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/Farhan-699dc5156e0e3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Chinese envoy meets Mirza Fakhrul</title>
       <link>https://www.daily-sun.com/diplomacy/859768/chinese-envoy-meets-mirza-fakhrul</link>
       <description>The discussions covered Bangladesh-China bilateral relations, mutual cooperation, trade, investment and development partnerships.</description>
@@ -3482,6 +3475,13 @@
       <description>The Bangladesh government regrets the failure of negotiations and expresses deep concern at the latest escalation in Iran</description>
       <pubDate>Sat, 28 Feb 2026 18:50:56 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/dhaka-69a331ccb3b8f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>New Zealand reach semis as Pakistan eliminated</title>
+      <link>https://www.daily-sun.com/sports/860655/new-zealand-reach-semis-as-pakistan-eliminated</link>
+      <description>New Zealand reached the semi-finals after Pakistan crashed out despite a five-run victory against Sri Lanka in a Group Two</description>
+      <pubDate>Sat, 28 Feb 2026 19:04:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/ICC-69a33a1d5f5b2.png" type="image/png" />
     </item>
   </channel>
 </rss>
