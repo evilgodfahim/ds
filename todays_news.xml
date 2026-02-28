@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Govt approves withdraw of 1,202 more politically motivated cases</title>
-      <link>https://www.daily-sun.com/bangladesh/859714/govt-approves-withdraw-of-1-202-more-politically-motivated-cases</link>
-      <description>Earlier, the government approved the withdrawal of 1,006 similar cases, rising its total number to 2208.</description>
-      <pubDate>Tue, 24 Feb 2026 07:38:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/Salahuddin-699d517b7c597.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>PM to confer 'Ekushey Padak 2026' Thursday</title>
-      <link>https://www.daily-sun.com/bangladesh/859713/pm-to-confer-ekushey-padak-2026-thursday</link>
-      <description>The government has already announced the names of nine eminent citizens and one music band for the country's second-highest civilian</description>
-      <pubDate>Tue, 24 Feb 2026 07:38:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/24/medium/PM-699d4c7585801.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Home ministry to review ‘harassment cases’ filed after 5 August</title>
       <link>https://www.daily-sun.com/bangladesh/859717/home-ministry-to-review-harassment-cases-filed-after-5-august</link>
       <description>The minister said certain vested quarters had implicated innocent individuals in various cases after the uprising.</description>
@@ -3485,6 +3471,20 @@
       <description>Bannu police have been placed on high alert, with security measures intensified across the district.</description>
       <pubDate>Sat, 28 Feb 2026 08:55:32 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/28/medium/Tarique-69a2a8a1257fe.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Reza Pahlavi urges Iranians to come to streets after US-Israel strikes</title>
+      <link>https://www.daily-sun.com/world/860535/reza-pahlavi-urges-iranians-to-come-to-streets-after-us-israel-strike</link>
+      <description>Pahlavi described the operation as a humanitarian intervention targeting the Islamic Republic's apparatus of repression</description>
+      <pubDate>Sat, 28 Feb 2026 09:41:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/28/medium/Untitled-69a2b779bd49e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NASA announces overhaul of Artemis lunar program amid technical delays</title>
+      <link>https://www.daily-sun.com/sci-tech/860534/nasa-announces-overhaul-of-artemis-lunar-program-amid-technical-delays</link>
+      <description>NASA revises Artemis lunar program to add new missions, aiming for a Moon landing by 2028 and faster launch cadence</description>
+      <pubDate>Sat, 28 Feb 2026 09:41:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/28/medium/Canaveral-69a2b3c2cfb70.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
