@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BUBT’s Noman Khan Earns International Glory in Bangkok</title>
-      <link>https://www.daily-sun.com/sun-campus/859817/bubt-s-noman-khan-earns-international-glory-in-bangkok</link>
-      <description>The authorities of BUBT have congratulated Noman Khan and his team for bringing honor to the university and the country.</description>
-      <pubDate>Tue, 24 Feb 2026 18:37:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/25/medium/BUBT-award-699dee5a8d457.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Saving Beyond the Sale: How Everyday Low Price Is Changing Shopping Habits</title>
-      <link>https://www.daily-sun.com/business/859816/saving-beyond-the-sale-how-everyday-low-price-is-changing-shopping-habits</link>
-      <description>This gap between event-based savings and everyday consumption is where e-commerce platforms are beginning to refine their value strategies.</description>
-      <pubDate>Tue, 24 Feb 2026 18:37:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/25/medium/Daraz-2-699deda877c02.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh, China pledge to strengthen education, technology ties</title>
       <link>https://www.daily-sun.com/diplomacy/859815/bangladesh-china-pledge-to-strengthen-education-technology-ties</link>
       <description>The Chinese side proposed 300 smart classrooms, nine broadcasting centres and modern lab facilities</description>
@@ -3481,6 +3467,20 @@
       <link>https://daily-sun.com/world/860535/reza-pahlavi-urges-iranians-to-come-to-streets-after-us-israel-strike</link>
       <description />
       <pubDate>Sat, 28 Feb 2026 20:26:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Khamenei’s daughter, son-in-law, granddaughter killed in Israel-US strikes</title>
+      <link>https://www.daily-sun.com/world/860690/khamenei-s-daughter-son-in-law-granddaughter-killed-in-israel-us-strikes</link>
+      <description>Donald Trump announced that Iran's Supreme Leader Ayatollah Khamenei was killed in a joint military operation by the US and Israel</description>
+      <pubDate>Sun, 01 Mar 2026 04:29:31 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/Ayatollah-Khamenei-69a3be47184f7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>LIVEIran confirms Khamenei is dead, 40-day state mourning declared</title>
+      <link>https://www.daily-sun.com/world/860689/iran-confirms-khamenei-is-dead-40-day-state-mourning-declared</link>
+      <description>Iranian state television confirmed Khamenei's death early Sunday</description>
+      <pubDate>Sun, 01 Mar 2026 04:29:31 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/assets/images/liveicon.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
