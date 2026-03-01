@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Health risks mount as adulterated food floods markets</title>
-      <link>https://www.daily-sun.com/bangladesh/859903/health-risks-mount-as-adulterated-food-floods-markets</link>
-      <description>♦ Dead rat found floating in Dalda ♦ Harmful dyes indiscriminately used in food and drinks ♦ Rise in liver, kidney, cancer and diabetes cases linked to unsafe food</description>
-      <pubDate>Wed, 25 Feb 2026 05:14:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/25/medium/Health-risks-mount-as-adulterated-food-floods-markets-699e7e7a53fc5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Rush for low-cost essentials sparks chaos at TCB trucks</title>
       <link>https://www.daily-sun.com/bangladesh/859902/rush-for-low-cost-essentials-sparks-chaos-at-tcb-trucks</link>
       <description>Eyewitnesses said disorder broke out twice over queue management after the truck arrived</description>
@@ -3485,6 +3478,13 @@
       <description>Iran's Gulf bombardment has raised fears of a wider conflict and rattled a region long seen as a haven of</description>
       <pubDate>Sun, 01 Mar 2026 09:46:05 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/Oman-69a4050f87ce5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>At least 40 buildings damaged in Iranian strikes on Tel Aviv</title>
+      <link>https://www.daily-sun.com/world/860716/at-least-40-buildings-damaged-in-iranian-strikes-on-tel-aviv</link>
+      <description>Missiles were fired at targets in Israel and Gulf Arab states, prompting U.S. President Donald Trump to issue stark warnings</description>
+      <pubDate>Sun, 01 Mar 2026 09:59:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/At-least-40-buildings-damaged-in-Iranian-strikes-on-Tel-Aviv-69a40cf3d932f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
