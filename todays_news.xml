@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Tigresses step into tournament mode</title>
-      <link>https://www.daily-sun.com/sports/860406/tigresses-step-into-tournament-mode</link>
-      <description>After spending their initial days in Sydney training at Valentine Sports Park, the Tigresses officially entered tournament mode on Friday</description>
-      <pubDate>Fri, 27 Feb 2026 14:55:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/02/27/medium/BFF-69a1a791de1d3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>LIVEPakistan says its air strikes hit 22 Afghan military targets, killed 274</title>
       <link>https://www.daily-sun.com/world/860405/pakistan-says-its-air-strikes-hit-22-afghan-military-targets-killed-274</link>
       <description>At least 12 Pakistani soldiers were killed and 274 Taliban officials and militants were killed since Thursday night, military spokesperson</description>
@@ -3479,6 +3472,13 @@
       <description>Threats to the route have spiked global energy prices in the past, including during the Israel-Iran war in June</description>
       <pubDate>Tue, 03 Mar 2026 20:43:55 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Hormuz-69a744dc1e6c7.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Khamenei's son Mojtaba becomes Iran's new supreme leader</title>
+      <link>https://www.daily-sun.com/world/861281/khamenei-s-son-mojtaba-becomes-iran-s-new-supreme-leader</link>
+      <description>Iran's Assembly of Experts elected Ali Khamenei's son Mojtaba as the next supreme leader</description>
+      <pubDate>Tue, 03 Mar 2026 21:44:49 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Untitled-design-69a74d17e3602.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
