@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Diplomacy</title>
-      <link>https://www.daily-sun.com/diplomacy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Sports</title>
       <link>https://www.daily-sun.com/sports</link>
       <description />
@@ -3078,6 +3072,12 @@ of US-Israel Strikes on Iran</description>
       <link>https://www.daily-sun.com/opinion/861329/energy-shock-that-could-redefine-global-economic-order-and-what-it-means-for-bangladesh</link>
       <description />
       <pubDate>Wed, 04 Mar 2026 10:02:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Does the UN Actually Exist?</title>
+      <link>https://daily-sun.com/opinion/861218</link>
+      <description />
+      <pubDate>Wed, 04 Mar 2026 18:07:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
