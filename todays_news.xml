@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Full of ambition, Tigresses take grand Asian stage</title>
-      <link>https://www.daily-sun.com/sports/860681/full-of-ambition-tigresses-take-grand-asian-stage</link>
-      <description>The stakes are high, the opponents formidable, but the team arrived in Sydney confident, focused, and determined to make their</description>
-      <pubDate>Sat, 28 Feb 2026 19:29:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/BFF-69a3414debb68.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>England Lions match in Abu Dhabi cancelled amid Middle East crisis</title>
-      <link>https://www.daily-sun.com/sports/860656/england-lions-match-in-abu-dhabi-cancelled-amid-middle-east-crisis</link>
-      <description>A match between England Lions and Pakistan Shaheens has been cancelled after the United States and Israel launched strikes on</description>
-      <pubDate>Sat, 28 Feb 2026 19:29:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/01/medium/ICC-69a33d0050b6f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>FIFA watching Iran developments as World Cup nears</title>
       <link>https://www.daily-sun.com/sports/860683/fifa-watching-iran-developments-as-world-cup-nears</link>
       <description>FIFA said Saturday it is keeping an eye on events in Iran after the United States launched a military strike</description>
@@ -3481,6 +3467,20 @@
       <description>Guardiola insisted the title race is not over after City's shock 2-2 draw against lowly Forest handed the initiative to</description>
       <pubDate>Wed, 04 Mar 2026 23:58:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/05/medium/Pep-69a8c2b59d501.png" type="image/png" />
+    </item>
+    <item>
+      <title>Qatar says evacuating residents near US embassy</title>
+      <link>https://www.daily-sun.com/world/861495/qatar-says-evacuating-residents-near-us-embassy</link>
+      <description>"The relevant authorities are evacuating residents living in the vicinity of the US Embassy as a temporary precautionary measure,</description>
+      <pubDate>Thu, 05 Mar 2026 03:59:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/05/medium/Qatar-69a8fda1dff7b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Israel keeps up Lebanon strikes as ground forces advance</title>
+      <link>https://www.daily-sun.com/world/861494/israel-keeps-up-lebanon-strikes-as-ground-forces-advance</link>
+      <description>Israel's attacks on Lebanon entered a fourth day on Thursday, after Israeli forces pushed into several border towns.</description>
+      <pubDate>Thu, 05 Mar 2026 03:59:16 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/05/medium/Israel-keeps-up-Lebanon-strikes-as-ground-forces-advance-69a8fc976d11b.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
