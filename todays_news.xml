@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>15 US aircrafts leave Spain after government condemns Iran attacks</title>
-      <link>https://www.daily-sun.com/world/860976/15-us-aircrafts-leave-spain-after-government-condemns-iran-attacks</link>
-      <description>Fifteen US aircraft have left the Rota and Moron military bases in southern Spain since the US and Israel launched</description>
-      <pubDate>Mon, 02 Mar 2026 15:35:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/02/medium/US-planes-leave-spain-69a5a7c5bd898.JPG" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘I spoke to him yesterday, how do I believe my father is no more today?’</title>
       <link>https://www.daily-sun.com/bangladesh/860975/i-spoke-to-him-yesterday-how-do-i-believe-my-father-is-no-more-today</link>
       <description>Tarek hailed from Sandwip upazila in Chattogram</description>
@@ -3477,6 +3470,13 @@
       <link>https://daily-sun.com/business/861707/middle-east-conflict-triggers-economic-alarm-in-bangladesh</link>
       <description />
       <pubDate>Fri, 06 Mar 2026 19:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>UN chief slams ‘unlawful attacks’, says Mideast could spiral out of control</title>
+      <link>https://www.daily-sun.com/world/861856/un-chief-slams-unlawful-attacks-says-mideast-could-spiral-out-of-control</link>
+      <description>United Nations Secretary-General Antonio Guterres condemned Friday "unlawful attacks" across the Middle East.</description>
+      <pubDate>Fri, 06 Mar 2026 20:50:26 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/guterres-699c83bfcd11c-69ab37aa02cc4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
