@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>‘I spoke to him yesterday, how do I believe my father is no more today?’</title>
-      <link>https://www.daily-sun.com/bangladesh/860975/i-spoke-to-him-yesterday-how-do-i-believe-my-father-is-no-more-today</link>
-      <description>Tarek hailed from Sandwip upazila in Chattogram</description>
-      <pubDate>Mon, 02 Mar 2026 15:35:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/02/medium/Untitled-design-69a5a59c60c51.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Oil, gas surge as Iran conflict disrupts Middle Eastern flows</title>
-      <link>https://www.daily-sun.com/business/860982/oil-gas-surge-as-iran-conflict-disrupts-middle-eastern-flows</link>
-      <description>Oil and natural gas prices surged on Monday as Israeli and US strikes on Iran and retaliation by Tehran forced</description>
-      <pubDate>Mon, 02 Mar 2026 16:07:11 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/02/medium/Iran-war-energy-price-69a5b3d03ab00.JPG" type="image/jpeg" />
-    </item>
-    <item>
       <title>US not veering into a new, endless war: Pentagon</title>
       <link>https://www.daily-sun.com/world/860981/us-not-veering-into-a-new-endless-war-pentagon</link>
       <description>Defense Secretary Pete Hegseth listed those objectives in primarily military terms</description>
@@ -3477,6 +3463,20 @@
       <description>United Nations Secretary-General Antonio Guterres condemned Friday "unlawful attacks" across the Middle East.</description>
       <pubDate>Fri, 06 Mar 2026 20:50:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/guterres-699c83bfcd11c-69ab37aa02cc4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dybala out for six weeks with knee injury</title>
+      <link>https://www.daily-sun.com/sports/861858/dybala-out-for-six-weeks-with-knee-injury</link>
+      <description>Roma, battling for a Champions League spot in Serie A, will be without Argentine striker Paulo Dybala for over six</description>
+      <pubDate>Fri, 06 Mar 2026 21:16:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/Dybala-69ab424c13e33.png" type="image/png" />
+    </item>
+    <item>
+      <title>No ballot needed as Mohammedan elects board unopposed</title>
+      <link>https://www.daily-sun.com/sports/861857/no-ballot-needed-as-mohammedan-elects-board-unopposed</link>
+      <description>BNP leader Barkat Ullah Bulu has been elected president of Mohammedan after the club’s election ultimately ended without a contest</description>
+      <pubDate>Fri, 06 Mar 2026 21:16:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/MSC-69ab408c85af6.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
