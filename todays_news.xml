@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BCB plays down uncertainty over Pakistan tour</title>
-      <link>https://daily-sun.com/sports/860919/bcb-plays-down-uncertainty-over-pakistan-tour</link>
-      <description />
-      <pubDate>Mon, 02 Mar 2026 17:53:30 +0000</pubDate>
-    </item>
-    <item>
       <title>DU students hold funeral in absentia for Ayatollah Ali Khamenei, stage protest rally</title>
       <link>https://daily-sun.com/bangladesh/860877/du-students-hold-funeral-in-absentia-for-ayatollah-ali-khamenei-stage-protest-rally</link>
       <description />
@@ -3476,6 +3470,12 @@
       <description>Pep Guardiola knows Manchester City are not a ‘complete team’ but is convinced they can still overhaul Arsenal in the</description>
       <pubDate>Fri, 06 Mar 2026 23:25:40 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/Pep-69ab5c2316f23.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>United Hospital Ltd renamed as Continental Hospital PLC</title>
+      <link>https://daily-sun.com/business/861160/continental-hospital-plc-a-new-chapter-in-healthcare-excellence</link>
+      <description />
+      <pubDate>Sat, 07 Mar 2026 02:21:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
