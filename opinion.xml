@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Opinion Others</title>
-      <link>https://www.daily-sun.com/opinion-others</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>More</title>
-      <link>https://www.daily-sun.com#</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Most Read</title>
       <link>https://www.daily-sun.com#highestTab</link>
       <description />
@@ -3078,6 +3066,18 @@ of US-Israel Strikes on Iran</description>
       <link>https://www.daily-sun.com/opinion/861944/bangladesh-s-pragmatic-engagement-with-arakan-army-gives-hope-for-future</link>
       <description />
       <pubDate>Sat, 07 Mar 2026 16:45:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran War and Its Economic Impacts on Bangladesh</title>
+      <link>https://www.daily-sun.com/opinion/861634</link>
+      <description>The recent unsolicited airstrikes by the US and Israel on Iran have triggered a deadly</description>
+      <pubDate>Sat, 07 Mar 2026 20:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Can corrupt individuals be identified by looking at bank accounts?</title>
+      <link>https://www.daily-sun.com/opinion/861628</link>
+      <description>Bangladesh’s BFIU has asked banks to provide account details of several former interim government advisers,</description>
+      <pubDate>Sat, 07 Mar 2026 20:57:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
