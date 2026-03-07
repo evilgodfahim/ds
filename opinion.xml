@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Khaleda Zia</title>
-      <link>https://www.daily-sun.com/topic/khaleda-zia</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today's Newspaper</title>
-      <link>https://www.daily-sun.com/printversion?search=yes&amp;date=2025-12-13</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Columns</title>
       <link>https://www.daily-sun.com/columns</link>
       <description />
@@ -3078,6 +3066,18 @@ of US-Israel Strikes on Iran</description>
       <link>https://www.daily-sun.com/opinion/861257</link>
       <description>US-Israel airstrikes kill Iran’s Supreme Leader Khamenei, triggering regional retaliation, flight disruptions, and global security</description>
       <pubDate>Fri, 06 Mar 2026 22:58:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Dragged US into a War Needlessly!</title>
+      <link>https://www.daily-sun.com/opinion/861426</link>
+      <description>Partial release of Epstein files exposed elitism in modern and progressive societies. Behind the veil</description>
+      <pubDate>Sat, 07 Mar 2026 05:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Business leaders seen as key partners in managing budget challenges</title>
+      <link>https://www.daily-sun.com/opinion/861870/business-leaders-seen-as-key-partners-in-managing-budget-challenges</link>
+      <description />
+      <pubDate>Sat, 07 Mar 2026 05:08:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
