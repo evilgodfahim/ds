@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Qatar extends entry visa validity by one month</title>
-      <link>https://www.daily-sun.com/diplomacy/861098/qatar-extends-entry-visa-validity-by-one-month</link>
-      <description>The decision will take effect from 28 February, according to the statement.</description>
-      <pubDate>Tue, 03 Mar 2026 06:58:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/03/medium/Qatar-extends-entry-visa-validity-by-one-month-69a6817a098c1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>US embassy in Riyadh confirms attack, closes temporarily</title>
-      <link>https://www.daily-sun.com/world/861097/us-embassy-in-riyadh-confirms-attack-closes-temporarily</link>
-      <description>Iran's salvos have hit ports, airports, residential buildings and hotels along with military sites across the wealthy region of oil</description>
-      <pubDate>Tue, 03 Mar 2026 06:58:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/03/medium/Riyadh-69a67fd866ed6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Advance Eid train ticket sale begins</title>
       <link>https://www.daily-sun.com/bangladesh/861096/advance-eid-train-ticket-sale-begins</link>
       <description>Bangladesh Railway begins online advance ticket sales for Eid-ul-Fitr, runs special trains, and suspends weekly off-days to ease passenger travel.</description>
@@ -3481,6 +3467,20 @@
       <description>Bangladesh Shadharon Nagorik Shamaj urges against panic or artificial fuel shortages amid Middle East crisis, warning of market manipulation and</description>
       <pubDate>Sat, 07 Mar 2026 08:38:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/fuel-shortage-69abdba5d38e4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran says will not target neighbors unless attack comes from them</title>
+      <link>https://www.daily-sun.com/world/861893/iran-says-will-not-target-neighbors-unless-attack-comes-from-them</link>
+      <description>Pezeshkian made the statement in a prerecorded address aired by state television after repeated attacks Saturday morning on Bahrain,</description>
+      <pubDate>Sat, 07 Mar 2026 08:59:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/Iran-says-will-not-target-neighbors-unless-attack-comes-from-them-69abe8d2908fd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saudi minister warns Iran against 'miscalculation' after attacks</title>
+      <link>https://www.daily-sun.com/world/861892/saudi-minister-warns-iran-against-miscalculation-after-attacks</link>
+      <description>Iran is pressing attacks across the Gulf, a week since US-Israeli strikes against the Islamic republic triggered regional war.</description>
+      <pubDate>Sat, 07 Mar 2026 08:59:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/Saudi-Arabia's-Defence-Minister-Prince-Khalid-bin-Salman-69abe414782e4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
