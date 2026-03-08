@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US says Israel killed Iran's leader</title>
-      <link>https://www.daily-sun.com/world/861279/us-says-israel-killed-iran-s-leader</link>
-      <description>Elbridge Colby said the strike that killed Khamenei and other senior Iranian leaders was not part of the American military campaign</description>
-      <pubDate>Tue, 03 Mar 2026 19:49:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/P-69a73afb5382c.gif" type="image/gif" />
-    </item>
-    <item>
-      <title>US Navy to escort tankers through Strait of Hormuz:  Trump</title>
-      <link>https://www.daily-sun.com/world/861280/us-navy-to-escort-tankers-through-strait-of-hormuz-trump</link>
-      <description>Threats to the route have spiked global energy prices in the past, including during the Israel-Iran war in June</description>
-      <pubDate>Tue, 03 Mar 2026 20:43:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Hormuz-69a744dc1e6c7.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Khamenei's son Mojtaba becomes Iran's new supreme leader</title>
       <link>https://www.daily-sun.com/world/861281/khamenei-s-son-mojtaba-becomes-iran-s-new-supreme-leader</link>
       <description>Iran's Assembly of Experts elected Ali Khamenei's son Mojtaba as the next supreme leader</description>
@@ -3481,6 +3467,20 @@
       <description>Minister Zahir Uddin Swapan checks on journalists attacked at Pagla Mosque, urges authorities to punish culprits and ensure media personnel's</description>
       <pubDate>Sun, 08 Mar 2026 09:54:07 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Capture-69ad440f502be.PNG" type="image/png" />
+    </item>
+    <item>
+      <title>Kuwait airport, Bahrain desalination unit struck as Iran presses Gulf attacks</title>
+      <link>https://www.daily-sun.com/world/862075/kuwait-airport-bahrain-desalination-unit-struck-as-iran-presses-gulf-attacks</link>
+      <description>On Saturday the president had apologised to neighbouring countries hosting US military bases for attacks on their territory.</description>
+      <pubDate>Sun, 08 Mar 2026 10:13:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Water-69ad48c2c48b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iftar mahfil for Quran Hifz students hosted in Cumilla</title>
+      <link>https://www.daily-sun.com/bashundhara-shuvosangho/862074/iftar-mahfil-for-quran-hifz-students-hosted-in-cumilla</link>
+      <description>The programme was held on Saturday at the hallroom of Al Isra Madrasa located at Bagmara Uttar Bazar</description>
+      <pubDate>Sun, 08 Mar 2026 10:13:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/S-69ad47e2429e3.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
