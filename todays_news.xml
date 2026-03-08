@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump says 'everything's been knocked out' in Iran</title>
-      <link>https://www.daily-sun.com/world/861258/trump-says-everything-s-been-knocked-out-in-iran</link>
-      <description>Iran's supreme leader was killed in air strikes on the first day of the conflict</description>
-      <pubDate>Tue, 03 Mar 2026 18:09:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/03/medium/TRUMP-(3)-69a71eae46275.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BCL final to test Bangladesh stars ahead of Pakistan ODIs</title>
-      <link>https://daily-sun.com/sports/861046/bcl-final-to-test-bangladesh-stars-ahead-of-pakistan-odis</link>
-      <description />
-      <pubDate>Tue, 03 Mar 2026 18:09:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Iran says ready for long war as Trump warns major strikes yet to come</title>
       <link>https://daily-sun.com/world/860948/number-of-us-military-personnel-killed-in-iran-operation-rises-to-four</link>
       <description />
@@ -3478,6 +3465,20 @@
       <description>Speaking at a press conference in Islamabad, federal ministers confirmed that petrol and diesel prices would increase by Rs. 55</description>
       <pubDate>Sun, 08 Mar 2026 07:28:39 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Karachi-University-69ad1dc318bf1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bahrain says water desalination plant damaged in Iran drone attack</title>
+      <link>https://www.daily-sun.com/world/862062/bahrain-says-water-desalination-plant-damaged-in-iran-drone-attack</link>
+      <description>Iranian drone attack had damaged a water desalination plant as the Islamic republic presses an air campaign against its Gulf</description>
+      <pubDate>Sun, 08 Mar 2026 07:50:58 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Bahrain-says-water-desalination-plant-damaged-in-Iran-drone-attack-69ad29f29606a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US, Israel hit five oil sites in and near Tehran</title>
+      <link>https://www.daily-sun.com/world/862061/us-israel-hit-five-oil-sites-in-and-near-tehran</link>
+      <description>US and Israel struck five oil facilities near Tehran, killing four; Iran reports sufficient fuel reserves amid escalating Middle East</description>
+      <pubDate>Sun, 08 Mar 2026 07:50:58 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Teh-69ad28d75593a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
