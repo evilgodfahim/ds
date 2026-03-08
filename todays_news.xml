@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Iran says ready for long war as Trump warns major strikes yet to come</title>
-      <link>https://daily-sun.com/world/860948/number-of-us-military-personnel-killed-in-iran-operation-rises-to-four</link>
-      <description />
-      <pubDate>Tue, 03 Mar 2026 18:09:18 +0000</pubDate>
-    </item>
-    <item>
       <title>A corrupt governor behind the mask</title>
       <link>https://daily-sun.com/printversion/861024</link>
       <description />
@@ -3479,6 +3473,13 @@
       <description>US and Israel struck five oil facilities near Tehran, killing four; Iran reports sufficient fuel reserves amid escalating Middle East</description>
       <pubDate>Sun, 08 Mar 2026 07:50:58 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Teh-69ad28d75593a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Drone strikes on Sudan markets kill 33</title>
+      <link>https://www.daily-sun.com/world/862063/drone-strikes-on-sudan-markets-kill-33</link>
+      <description>Two drones struck the markets of Abu Zabad and Wad Banda in West Kordofan state on Saturday.</description>
+      <pubDate>Sun, 08 Mar 2026 08:01:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Drone-69ad2c21787e4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
