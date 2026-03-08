@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Saudi Cabinet affirms Kingdom’s right to respond to threats</title>
-      <link>https://www.daily-sun.com/world/861285/saudi-cabinet-affirms-kingdom-s-right-to-respond-to-threats</link>
-      <description>The Cabinet expressed deep appreciation for the wave of international support as world leaders condemned Tehran’s “indiscriminate” behavior.</description>
-      <pubDate>Wed, 04 Mar 2026 04:17:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Riyadh-Condemns-‘Blatant’-Iranian-Aggression-69a7ae99c2ce9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Saudi Arabia says intercepted two cruise missiles</title>
-      <link>https://www.daily-sun.com/world/861284/saudi-arabia-says-intercepted-two-cruise-missiles</link>
-      <description>Two cruise missiles were intercepted and destroyed in Al-Kharj</description>
-      <pubDate>Wed, 04 Mar 2026 04:17:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Saudi-Arabia--69a7ae04019f3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>EU to unveil 'Made in Europe' rules despite pushback</title>
       <link>https://www.daily-sun.com/world/861283/eu-to-unveil-made-in-europe-rules-despite-pushback</link>
       <description>France has led the push for the proposal that will be announced by EU industry chief Stephane Sejourne, a former</description>
@@ -3481,6 +3467,20 @@
       <description>The state minister recalled with appreciation Bhutan’s historic recognition of Bangladesh in 1971</description>
       <pubDate>Sun, 08 Mar 2026 10:44:20 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/N-69ad4f37b391c.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Journalist Anis Alamgir denied bail in graft case</title>
+      <link>https://www.daily-sun.com/bangladesh/862079/journalist-anis-alamgir-denied-bail-in-graft-case</link>
+      <description>Anis allegedly acquired movable and immovable assets worth Tk4.09 crore</description>
+      <pubDate>Sun, 08 Mar 2026 10:59:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Sessions-Court-69ad5554c6dd7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Inflation rises to 9.13% in Feb, highest in 10 months</title>
+      <link>https://www.daily-sun.com/business/862078/inflation-rises-to-9-13-in-feb-highest-in-10-months</link>
+      <description>Economists say the latest increase was primarily driven by a rise in food prices</description>
+      <pubDate>Sun, 08 Mar 2026 10:59:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Inflation-69ad53279699c.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
