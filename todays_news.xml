@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>A corrupt governor behind the mask</title>
-      <link>https://daily-sun.com/printversion/861024</link>
-      <description />
-      <pubDate>Tue, 03 Mar 2026 18:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rudiger tried to 'smash my face in': Getafe's Rico</title>
-      <link>https://www.daily-sun.com/sports/861278/rudiger-tried-to-smash-my-face-in-getafe-s-rico</link>
-      <description>Getafe's Diego Rico said Tuesday Real Madrid's Antonio Rudiger tried to ‘smash my face in’ in a La Liga match</description>
-      <pubDate>Tue, 03 Mar 2026 19:10:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/04/medium/Toni-69a72bdc84df0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Alcaraz defends perfect start as Sabalenka seeks reset</title>
       <link>https://www.daily-sun.com/sports/861277/alcaraz-defends-perfect-start-as-sabalenka-seeks-reset</link>
       <description>Alcaraz puts his flawless start to the season on the line and Sabalenka aims to regroup from Australian Open disappointment</description>
@@ -3480,6 +3467,20 @@
       <description>Two drones struck the markets of Abu Zabad and Wad Banda in West Kordofan state on Saturday.</description>
       <pubDate>Sun, 08 Mar 2026 08:01:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Drone-69ad2c21787e4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>German Embassy reaffirms commitment to women’s rights on Women’s Day</title>
+      <link>https://www.daily-sun.com/diplomacy/862065/german-embassy-reaffirms-commitment-to-women-s-rights-on-women-s-day</link>
+      <description>Germany said it remains a steadfast partner for women’s rights in the EU, the UN, and worldwide.</description>
+      <pubDate>Sun, 08 Mar 2026 08:37:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Germany--69ad3165e9877.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prime Minister turns down proposal to increase fuel prices</title>
+      <link>https://www.daily-sun.com/bangladesh/862064/prime-minister-turns-down-proposal-to-increase-fuel-prices</link>
+      <description>Prime Minister Tarique Rahman directs authorities to maintain fuel supply, prevent panic buying, and monitor prices despite losses on diesel</description>
+      <pubDate>Sun, 08 Mar 2026 08:37:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/No-fuel-shortage-69ad2f3a78c43.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
