@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Fairytale turns to reality</title>
-      <link>https://www.daily-sun.com/sports/861782/fairytale-turns-to-reality</link>
-      <description>In their second group stage match against one of the continent’s elite sides, the hard realities of top-tier football quickly</description>
-      <pubDate>Fri, 06 Mar 2026 18:53:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/06/medium/BFF-69aaf8605b9f6.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Tigers hope Test-hardened Litton anchors middle-order</title>
-      <link>https://www.daily-sun.com/sports/861780/tigers-hope-test-hardened-litton-anchors-middle-order</link>
-      <description>At 31, as one of the most experienced players in the side, Litton may now have to sacrifice his preferred</description>
-      <pubDate>Fri, 06 Mar 2026 18:53:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/06/medium/Litu-69aaf73e2dc30.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Inaugural Chattogram Women’s T20 starts Saturday</title>
-      <link>https://www.daily-sun.com/sports/861777/inaugural-chattogram-women-s-t20-starts-saturday</link>
-      <description>The first-ever Chattogram Divisional Women’s T20 Cricket League is set to start on Saturday, running from 7 to 12 March,</description>
-      <pubDate>Fri, 06 Mar 2026 18:53:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/06/medium/WCL-69aaf01aa12cb.PNG" type="image/png" />
-    </item>
-    <item>
       <title>Irish coach Cox eyes long-term growth for Bangladesh U-20</title>
       <link>https://www.daily-sun.com/sports/861775/irish-coach-cox-eyes-long-term-growth-for-bangladesh-u-20</link>
       <description>The Bangladesh Football Federation has appointed Irish coach Mark Cox as the head of the Bangladesh men’s under-20 team</description>
@@ -3479,6 +3458,27 @@
       <description>Bayern Munich dismantled Atalanta 6-1 in a dominant Champions League last-16 first-leg performance on Tuesday, seizing control from the outset</description>
       <pubDate>Tue, 10 Mar 2026 22:37:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/11/medium/Bayern-69b09bf190940.png" type="image/png" />
+    </item>
+    <item>
+      <title>Heartbreak for Newcastle as Yamal's late penalty rescues Barca draw</title>
+      <link>https://www.daily-sun.com/sports/862666/heartbreak-for-newcastle-as-yamal-s-late-penalty-rescues-barca-draw</link>
+      <description>Yamal struck with the final kick of the game to seal a 1-1 draw with Newcastle in the 1st leg</description>
+      <pubDate>Tue, 10 Mar 2026 22:58:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/11/medium/Yamal-69b0a07517a8e.png" type="image/png" />
+    </item>
+    <item>
+      <title>Two more Iranian women's football players seek asylum in Australia</title>
+      <link>https://www.daily-sun.com/sports/862665/two-more-iranian-women-s-football-players-seek-asylum-in-australia</link>
+      <description>Two more players from the Iranian women's football team sought asylum in Australia after five players were granted humanitarian visas</description>
+      <pubDate>Tue, 10 Mar 2026 22:58:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/11/medium/Iran-69b09f0f4cf56.png" type="image/png" />
+    </item>
+    <item>
+      <title>Ruthless Atletico punish Tottenham errors in 5-2 rout</title>
+      <link>https://www.daily-sun.com/sports/862664/ruthless-atletico-punish-tottenham-errors-in-5-2-rout</link>
+      <description>Atletico tore Spurs apart in a first-half blitz, sealing a 5-2 win in the first leg of their last-16 tie</description>
+      <pubDate>Tue, 10 Mar 2026 22:58:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/11/medium/Spurs-69b09db6eeef9.png" type="image/png" />
     </item>
   </channel>
 </rss>
