@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US bypasses congressional review to approve munitions sale to Israel</title>
-      <link>https://www.daily-sun.com/world/862054/us-bypasses-congressional-review-to-approve-munitions-sale-to-israel</link>
-      <description>The sale gives Israel more than 20,000 bombs worth around $650 million, Reuters reports</description>
-      <pubDate>Sun, 08 Mar 2026 06:57:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/08/medium/Trump-69ad12a8f00ad.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>No fuel shortage, public urged to avoid panic buying: Power Minister</title>
       <link>https://www.daily-sun.com/bangladesh/862053/no-fuel-shortage-public-urged-to-avoid-panic-buying-power-minister</link>
       <description>He said that the government must manage resources prudently while the situation persists.</description>
@@ -3488,6 +3481,13 @@
       <description>Arsenal's eight-game winning run in the UCL came to an end as they needed an 89th-minute penalty from sub Havertz</description>
       <pubDate>Wed, 11 Mar 2026 22:43:46 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/12/medium/Kai-69b1e9d852f7f.png" type="image/png" />
+    </item>
+    <item>
+      <title>Swiatek reaches Indian Wells quarter-finals</title>
+      <link>https://www.daily-sun.com/sports/862885/swiatek-reaches-indian-wells-quarter-finals</link>
+      <description>Swiatek cruised to a 6-2 6-0 win over Muchova in the Indian Wells fourth round, producing a dominant display in</description>
+      <pubDate>Wed, 11 Mar 2026 22:58:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/12/medium/Iga-69b1f1bab65d1.png" type="image/png" />
     </item>
   </channel>
 </rss>
