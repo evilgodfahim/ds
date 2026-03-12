@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>International Women’s Day celebrated in Dhaka</title>
-      <link>https://www.daily-sun.com/bangladesh/862171/international-women-s-day-celebrated-in-dhaka</link>
-      <description>International Women’s Day was celebrated in different parts of the capital on Sunday, as in previous years.</description>
-      <pubDate>Sun, 08 Mar 2026 19:14:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/09/medium/Untitled-69adc874af83d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Tigresses chase hope in final group battle</title>
       <link>https://www.daily-sun.com/sports/862170/tigresses-chase-hope-in-final-group-battle</link>
       <description>Bangladesh will look to end their AFC Women’s Asian Cup campaign on a positive note when they face Uzbekistan in</description>
@@ -3489,6 +3482,13 @@
       <link>https://daily-sun.com/culturetainment/861981</link>
       <description />
       <pubDate>Thu, 12 Mar 2026 19:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>US will permanently close the consulate in Peshawar, Pakistan, its closest mission to Afghanistan</title>
+      <link>https://www.daily-sun.com/world/863046/us-will-permanently-close-the-consulate-in-peshawar-pakistan-its-closest-mission-to-afghanistan</link>
+      <description>The department notified Congress this week of its intent to close the consulate</description>
+      <pubDate>Thu, 12 Mar 2026 19:51:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/Muslim-worshippers-arrive-to-observes-‘Itikaf,’-during-the-last-ten-days-of-the-Islamic-fasting-on-month-of-Ramadan,-at-a-mosque,-in-Peshawar,-Pakistan,-10-March-2026-69b313eb10c5d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
