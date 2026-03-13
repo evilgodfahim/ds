@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Give to Gain: Transforming Mirror of Justice for Bangladesh’s Women and Girls</title>
-      <link>https://daily-sun.com/opinion/862050/give-to-gain-transforming-mirror-of-justice-for-bangladesh-s-women-and-girls</link>
-      <description />
-      <pubDate>Sun, 08 Mar 2026 22:44:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Saudi Arabia says intercepted drone attack targeting oil field</title>
       <link>https://www.daily-sun.com/world/862251/saudi-arabia-says-intercepted-drone-attack-targeting-oil-field</link>
       <description>"Four drones heading towards the Shaybah oil field were intercepted and destroyed," a defence ministry statement said.</description>
@@ -3489,6 +3483,13 @@
       <description>On 28 February, the US and Israel launched the first wave of attacks in a war that has seen Iran</description>
       <pubDate>Thu, 12 Mar 2026 23:55:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/A-plume-of-smoke-billows-following-reported-Israeli-strikes-in-the-southern-suburbs-of-Beirut,-after-an-escalation-between-Hezbollah-and-Israel,-amid-the-US-Israeli-conflict-with-Iran,-Lebanon,-13-March-2026-69b35152267ac.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US refuelling aircraft crashed in western Iraq</title>
+      <link>https://www.daily-sun.com/world/863052/us-refueling-aircraft-crashed-in-western-iraq</link>
+      <description>Iran's military however claimed in a statement carried by state TV that an allied group in Iraq had downed the</description>
+      <pubDate>Fri, 13 Mar 2026 01:04:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/A-US-Air-Force-Boeing-KC-135-Stratotanker-aerial-refuelling-aircraft-flies-over-Tel-Aviv-on-4-March-2026-69b3545f50b9f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
