@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Gender Shift in Climate Leadership</title>
-      <link>https://www.daily-sun.com/editorial/861828</link>
-      <description>Climate leadership is getting a quiet redesign, and Bangladesh makes that easier to see because climate change here is rarely</description>
-      <pubDate>Fri, 06 Mar 2026 18:00:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/07/medium/DS-'03'07-61-69ab0a6188cc4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bridging Gap between Citizens and State</title>
       <link>https://www.daily-sun.com/editorial/861827</link>
       <description>Following the 2024 mass uprising and the subsequent 18-month tenure of the interim government led by Professor Muhammad Yunus, Bangladesh</description>
@@ -3567,6 +3560,13 @@ New Minister</description>
       <description>The day before US-Israeli air strikes killed Iran’s Supreme Leader on 28 February, many Wall Street firms were expecting military</description>
       <pubDate>Fri, 13 Mar 2026 01:04:53 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/DS-'03'13-108-69b3081151492.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Supply chain disruption hampers business, hinders exports</title>
+      <link>https://www.daily-sun.com/front-page/863145</link>
+      <description>Both domestic and global supply chain disruptions triggered by the ongoing US-Israel war on Iran and the resulting energy crisis</description>
+      <pubDate>Fri, 13 Mar 2026 16:56:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/14/medium/DS-'03'14-1-69b43e9e0dbf3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
