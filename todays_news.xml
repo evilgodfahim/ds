@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>SME &amp; Startup: FBCCI’s Next Growth Engine</title>
-      <link>https://www.daily-sun.com/business/862277/sme-startup-fbcci-s-next-growth-engine</link>
-      <description>The SME and startup revolution is not a temporary slogan; it is a long-term structural transformation.</description>
-      <pubDate>Mon, 09 Mar 2026 08:44:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/09/medium/sakif-Shamim-69ae835b2728b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BNP’s parliamentary party meeting Wednesday</title>
       <link>https://www.daily-sun.com/bangladesh/862276/bnp-s-parliamentary-party-meeting-wednesday</link>
       <description>The parliamentary party meeting of ruling BNP of the 13th National Parliament will be held at the party’s meeting room</description>
@@ -3489,6 +3482,13 @@
       <description>Tickets for journeys on 20, 21 and 22 March will be sold depending on the sighting of the moon marking</description>
       <pubDate>Fri, 13 Mar 2026 08:55:22 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/Train-69b3c53b1c2df.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two drones crash near major Iraqi oil field</title>
+      <link>https://www.daily-sun.com/world/863078/two-drones-crash-near-major-iraqi-oil-field</link>
+      <description>The oil field had already paused operations prior to the incident.</description>
+      <pubDate>Fri, 13 Mar 2026 09:29:42 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/13/medium/Drone-69b3d1ed90efd.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
