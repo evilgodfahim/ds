@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>84 children killed, nearly 700,000 people displaced amid Israeli strikes on Lebanon</title>
-      <link>https://www.daily-sun.com/world/862570/84-children-killed-nearly-700-000-people-displaced-amid-israeli-strikes-on-lebanon</link>
-      <description>The humanitarian crisis in Lebanon has deepened amid the wider Middle East war, with 84 children killed and more than</description>
-      <pubDate>Tue, 10 Mar 2026 16:11:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/10/medium/Lebanon-displacement-69b03a32158b9.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Robbers loot gold, cash from house in Mirpur</title>
       <link>https://www.daily-sun.com/bangladesh/862569/robbers-loot-gold-cash-from-house-in-mirpur</link>
       <description>The incident took place around 2:30pm at a house in South Monipur.</description>
@@ -3483,6 +3476,12 @@
       <description>Arsenal teenager Dowman became EPL's youngest scorer as he sealed a 2-0 win over Everton to move his side provisionally</description>
       <pubDate>Sat, 14 Mar 2026 20:20:33 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/Max-69b5be71e3f6a.png" type="image/png" />
+    </item>
+    <item>
+      <title>Carbon Farming for Carbon Revenue</title>
+      <link>https://daily-sun.com/opinion/862382</link>
+      <description />
+      <pubDate>Sat, 14 Mar 2026 22:46:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
