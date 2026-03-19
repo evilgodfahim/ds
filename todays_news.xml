@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>South Africa tear through New Zealand to win first T20</title>
-      <link>https://www.daily-sun.com/sports/863466/south-africa-tear-through-new-zealand-to-win-first-t20</link>
-      <description>Game two is in Hamilton on Tuesday.</description>
-      <pubDate>Sun, 15 Mar 2026 10:42:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/238909-01-02_1920x1080-69b68710a39e6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Ex-councilor Mintu on 2-day remand in Khaleda Zia’s Motorcade attack case</title>
       <link>https://www.daily-sun.com/bangladesh/863465/ex-councilor-mintu-on-2-day-remand-in-khaleda-zia-s-motorcade-attack-case</link>
       <description>A Dhaka court on Sunday granted a two-day remand for former councillor of Ward 40 under the Dhaka South City</description>
@@ -3481,6 +3474,13 @@
       <description>The poll, which gathered respondents from 1,545 US adults nationwide, had a margin of error of about 3 percentage points.</description>
       <pubDate>Thu, 19 Mar 2026 20:23:47 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/Trump-Reuters-4-69bc570c05971.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran: US intel chief sidesteps Trump 'imminent threat' claim</title>
+      <link>https://www.daily-sun.com/world/864306/iran-us-intel-chief-sidesteps-trump-imminent-threat-claim</link>
+      <description>Testifying on the war in the Middle East before the House Intelligence Committee, Tulsi Gabbard doubled down on her claim</description>
+      <pubDate>Thu, 19 Mar 2026 21:00:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/Director-of-National-Intelligence-Tulsi-Gabbard-testifies-during-a-House-Select-Intelligence-Committee-hearing-on-19-March-2026-in-Washington,-DC-69bc5e19198a5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
