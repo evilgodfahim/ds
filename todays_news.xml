@@ -5,26 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Hamas calls on Iran not to target neighboring countries</title>
-      <link>https://www.daily-sun.com/world/863428/hamas-calls-on-iran-not-to-target-neighboring-countries</link>
-      <description>It also called on all countries in the region and international organizations to immediately stop the war.</description>
-      <pubDate>Sun, 15 Mar 2026 04:09:45 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/Hamas-calls-on-Iran-not-to-target-neighboring-countries-69b629b959cbf.PNG" type="image/png" />
-    </item>
-    <item>
-      <title>Govt launches free wifi internet pilot project at three train services</title>
-      <link>https://www.daily-sun.com/bangladesh/863427/govt-launches-free-wifi-internet-pilot-project-at-three-train-services</link>
-      <description>The government has launched a pilot scheme to assess the effectiveness of free wifi internet services at three intercity trains</description>
-      <pubDate>Sun, 15 Mar 2026 04:09:45 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/starlink-wifi-69b60d9c4475a.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Minister assures adequate supply as govt to withdraw fuel rationing for public transport</title>
-      <link>https://daily-sun.com/bangladesh/863257/minister-assures-adequate-supply-as-govt-to-withdraw-fuel-rationing-for-public-transport</link>
-      <description />
-      <pubDate>Sun, 15 Mar 2026 04:09:45 +0000</pubDate>
-    </item>
-    <item>
       <title>Govt lifts fuel rationing today to ease Eid exodus</title>
       <link>https://www.daily-sun.com/bangladesh/863439/govt-lifts-fuel-rationing-today-to-ease-eid-exodus</link>
       <description>Government decided to lift the rationing system for three main reasons</description>
@@ -3481,6 +3461,27 @@
       <description>Prime Minister Tarique Rahman will continue to stay at his private residence in Gulshan instead of shifting to the official</description>
       <pubDate>Thu, 19 Mar 2026 11:07:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/TR-69bbcf895a95b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Champions League exposes Premier League limits as English clubs exit early</title>
+      <link>https://www.daily-sun.com/sports/864271/champions-league-exposes-premier-league-limits-as-english-clubs-exit-early</link>
+      <description>The UCL’s last-16 stage delivered a stark reckoning for EPL, with only Arsenal and Liverpool advancing from six English clubs</description>
+      <pubDate>Thu, 19 Mar 2026 11:48:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/City-69bbe1d874002.png" type="image/png" />
+    </item>
+    <item>
+      <title>IPL lags Hundred, SA20 in player welfare, rights assessment: WCA</title>
+      <link>https://www.daily-sun.com/sports/864270/ipl-lags-hundred-sa20-in-player-welfare-rights-assessment-wca</link>
+      <description>The Indian Premier League still has room to improve in terms of players' rights and welfare, according to an assessment</description>
+      <pubDate>Thu, 19 Mar 2026 11:48:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/Virat-69bbe0295f04f.png" type="image/png" />
+    </item>
+    <item>
+      <title>Fortis Healthcare hosts health discussion, iftar in Dhaka</title>
+      <link>https://www.daily-sun.com/bangladesh/864269/fortis-healthcare-hosts-health-discussion-iftar-in-dhaka</link>
+      <description>The program concluded with a prayer session, followed by iftar and dinner, creating an opportunity for meaningful networking and collaboration.</description>
+      <pubDate>Thu, 19 Mar 2026 11:48:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/Fortis-69bbde00c75a1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
