@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Full judgement on caretaker govt reinstatement published</title>
-      <link>https://www.daily-sun.com/bangladesh/863462/full-judgement-on-caretaker-govt-reinstatement-published</link>
-      <description>The non-party caretaker government system was introduced in Bangladesh in 1996 through the 13th Amendment to the Constitution.</description>
-      <pubDate>Sun, 15 Mar 2026 09:47:51 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/HC-69b67db34defa.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>133 ordinances of interim govt sent to special committee in Parliament</title>
       <link>https://www.daily-sun.com/bangladesh/863461/133-ordinances-of-interim-govt-sent-to-special-committee-in-parliament</link>
       <description>A total of 133 ordinances issued during the tenure of the interim government and presented in the National Parliament have</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/editorial/864174</link>
       <description />
       <pubDate>Thu, 19 Mar 2026 18:11:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>UN shipping body urges 'safe maritime corridor' in Gulf</title>
+      <link>https://www.daily-sun.com/business/864301/un-shipping-body-urges-safe-maritime-corridor-in-gulf</link>
+      <description>IMO Secretary-General Arsenio Dominguez said the 'humanitarian corridor' would 'evacuate ships in the Persian Gulf through the Strait of Hormuz'</description>
+      <pubDate>Thu, 19 Mar 2026 19:14:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/Tankers-sail-in-the-Gulf,-near-the-Strait-of-Hormuz,-as-seen-from-northern-Ras-al-Khaimah,-near-the-border-with-Oman’s-Musandam-governance,-amid-the-US-Israeli-conflict-with-Iran,-in-United-Arab-Emirates,-11-March-20-69bc463676fb5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
