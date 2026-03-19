@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Factory owners urged to clear workers’ wages, bonuses before Eid</title>
-      <link>https://daily-sun.com/bangladesh/863255/labour-minister-urges-factory-owners-to-clear-workers-wages-bonuses-before-eid</link>
-      <description />
-      <pubDate>Sat, 14 Mar 2026 19:15:47 +0000</pubDate>
-    </item>
-    <item>
       <title>Nine-man Bayern fight to draw at Leverkusen</title>
       <link>https://www.daily-sun.com/sports/863417/nine-man-bayern-fight-to-draw-at-leverkusen</link>
       <description>Leaders Bayern Munich held on for a 1-1 draw at Bayer Leverkusen despite finishing with nine men in an eventful</description>
@@ -3479,6 +3473,13 @@
       <description>Jamuna Bridge Authority said that 51,584 vehicles crossed the bridge in 24 hours from midnight Tuesday to midnight Wednesday</description>
       <pubDate>Thu, 19 Mar 2026 05:45:25 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/20km-slow-traffic-on-Dhaka–Tangail-Highway-ahead-of-Eid-69bb7f56c2690.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gold prices drop significantly</title>
+      <link>https://www.daily-sun.com/business/864252/gold-prices-drop-significantly</link>
+      <description>Price of 22-carat gold—the highest quality—has been set at Tk254,625 per bhori (11.664 grams)</description>
+      <pubDate>Thu, 19 Mar 2026 06:40:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/gold-69bb905332485.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
