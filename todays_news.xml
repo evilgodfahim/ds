@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>NOAB elects Matiur Rahman Chowdhury as president</title>
-      <link>https://www.daily-sun.com/bangladesh/863312/noab-elects-matiur-rahman-chowdhury-as-president</link>
-      <description>ASM Shahidullah Khan, chairman of the Editorial Board of New Age, was elected vice president</description>
-      <pubDate>Sat, 14 Mar 2026 15:53:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/14/medium/NOAB-69b58300544de.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Maldives gas explosion: Bangladesh envoy visits injured, pays respects to victims</title>
       <link>https://www.daily-sun.com/diplomacy/863311/maldives-gas-explosion-bangladesh-envoy-visits-injured-pays-respects-to-victims</link>
       <description>Bangladesh High Commissioner to the Maldives, Dr Md Nazmul Islam, visited the injured and paid respects to the deceased following</description>
@@ -3479,6 +3472,12 @@
       <description>The victim was identified as Nuzaifa Akhter, daughter of Abdur Rahman of Dakshin Darer Para village.</description>
       <pubDate>Wed, 18 Mar 2026 23:18:50 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/Dead-69bb2d4ff3417.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Qatar says Iran attack sparks fire in area hosting major gas facility</title>
+      <link>https://daily-sun.com/world/864203/qatar-says-iran-attack-sparks-fire-in-area-hosting-major-gas-facility</link>
+      <description />
+      <pubDate>Thu, 19 Mar 2026 00:02:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
