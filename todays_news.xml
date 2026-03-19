@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Jatiya Sangsad session adjourned until 29 March</title>
-      <link>https://www.daily-sun.com/bangladesh/863473/jatiya-sangsad-session-adjourned-until-29-march</link>
-      <description>The first session of the Jatiya Sangsad commenced on last Thursday</description>
-      <pubDate>Sun, 15 Mar 2026 11:02:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/Parliament-69b6917432dce.gif" type="image/gif" />
-    </item>
-    <item>
-      <title>Iftar gathering brings volunteer groups together in Rajshahi</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/863472/iftar-gathering-brings-volunteer-groups-together-in-rajshahi</link>
-      <description>Speakers said Ramadan represents not only fasting but also a time of mercy, blessings and forgiveness.</description>
-      <pubDate>Sun, 15 Mar 2026 11:02:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/15/medium/Shuvosangho_Rajshahi-(1)-69b691039e5f0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>PM to launch nationwide canal excavation from Dinajpur Monday</title>
       <link>https://www.daily-sun.com/bangladesh/863471/pm-to-launch-nationwide-canal-excavation-from-dinajpur-monday</link>
       <description>It will provide protection from additional floods and provide irrigation facilities during the dry season</description>
@@ -3481,6 +3467,20 @@
       <description>The bloodshed was the latest to rock the war-shattered Palestinian territory despite a ceasefire in place since 10 October.</description>
       <pubDate>Thu, 19 Mar 2026 22:00:15 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/Mourners-carry-a-body-during-the-funeral-of-Palestinians-killed-in-an-Israeli-strike,-according-to-medics,-in-Gaza-City,-19-March-2026-69bc708fcd7a3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>President greets countrymen on the eve of Eid-ul-Fitr</title>
+      <link>https://www.daily-sun.com/bangladesh/864310/president-greets-countrymen-on-the-eve-of-eid-ul-fitr</link>
+      <description>He said the lessons of holy Eid-ul-Fitr would bring new enthusiasm and inspiration to all in the journey of building</description>
+      <pubDate>Thu, 19 Mar 2026 22:31:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/President-Shahabuddin-BSS-2-69bc78bd6a802.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>France's foreign minister heads to Israel to push for Lebanon ceasefire</title>
+      <link>https://www.daily-sun.com/world/864309/france-s-foreign-minister-heads-to-israel-to-push-for-lebanon-ceasefire</link>
+      <description>President Joseph Aoun, who met Barrot on Thursday, has expressed a willingness to begin direct negotiations with Israel</description>
+      <pubDate>Thu, 19 Mar 2026 22:31:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/People-walk-near-debris-at-the-site-of-an-Israeli-strike,-following-an-escalation-between-Hezbollah-and-Israel-amid-the-US-Israeli-conflict-with-Iran,-Zuqaq-al-Blat-district-of-central-Beirut,-Lebanon,-18-March-2026-69bc748d6ef30.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
