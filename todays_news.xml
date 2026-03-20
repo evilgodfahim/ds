@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM Tarique launches Canal Excavation Programme 2026</title>
-      <link>https://www.daily-sun.com/bangladesh/863634/pm-tarique-rahman-launches-canal-excavation-programme-2026</link>
-      <description>The programme was formally launched at around 12:30pm in Dinajpur.</description>
-      <pubDate>Mon, 16 Mar 2026 07:59:19 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/16/medium/Canal-69b7a90b690cb.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Jubo Dal leader killed in Khulna gun attack</title>
       <link>https://www.daily-sun.com/crime/863666/jubo-dal-leader-killed-in-khulna-gun-attack</link>
       <description>The motive behind the killing could not be known immediately.</description>
@@ -3484,6 +3477,13 @@
       <description>A team from the Barishal river police outpost recovered the body from the river around 6:45pm on Friday near the</description>
       <pubDate>Fri, 20 Mar 2026 21:39:49 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/21/medium/Launch-accident-at-Sadarghat-collected-69bdb9a7b10d5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh climbs 7 spots to 127th in World Happiness Report</title>
+      <link>https://www.daily-sun.com/bangladesh/864417/bangladesh-climbs-7-spots-to-127th-in-world-happiness-report</link>
+      <description>Afghanistan, the world’s unhappiest nation, ranked 147th.</description>
+      <pubDate>Fri, 20 Mar 2026 22:54:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/21/medium/Bangladesh-flag-edited-69bdcd513cb58.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
