@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Obaidul Islam made DU VC</title>
-      <link>https://www.daily-sun.com/bangladesh/863693/obaidul-islam-made-du-vc</link>
-      <description>Education Minister ANM Ehsanul Hoque Milon made the announcement at a media briefing in the ministry on Monday afternoon.</description>
-      <pubDate>Mon, 16 Mar 2026 12:35:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/16/medium/Prof-ABM-Obaidul-Islam-DU-VC-69b7ed23dc1e7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Short film ‘Home Not Coming’ features a heartfelt story</title>
       <link>https://www.daily-sun.com/entertainment/863715/short-film-home-not-coming-features-a-heartfelt-story</link>
       <description>Eid traditionally signals a nationwide journey back to one’s village home.</description>
@@ -3482,6 +3475,13 @@
       <description>Friendly matches involving the Palestinian national team against Mauritania and Benin have been cancelled because of the conflict in the</description>
       <pubDate>Sat, 21 Mar 2026 14:01:22 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/21/medium/Palestine-69be9f129326f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US, Israel attack Iran's Natanz nuclear facility</title>
+      <link>https://www.daily-sun.com/world/864463/us-israel-attack-iran-s-natanz-nuclear-facility</link>
+      <description>Russia condemns reported strikes on Iran nuclear site</description>
+      <pubDate>Sat, 21 Mar 2026 14:33:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/21/medium/A-satellite-image-shows-a-closer-view-of-the-Natanz-nuclear-facility,-near-Natanz,-Iran,-1-March-2026-69bea9b7be77e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
