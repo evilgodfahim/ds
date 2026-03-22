@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Chelsea captain James ruled out of PSG clash with hamstring injury</title>
-      <link>https://www.daily-sun.com/sports/863851/chelsea-captain-james-ruled-out-of-psg-clash-with-hamstring-injury</link>
-      <description>Chelsea captain Reece James will miss Tuesday's UCL last-16 second-leg clash against PSG after sustaining a hamstring injury</description>
-      <pubDate>Mon, 16 Mar 2026 19:58:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/James-69b85f39e5341.png" type="image/png" />
-    </item>
-    <item>
-      <title>Deceased Sharmin’s husband sent to jail</title>
-      <link>https://www.daily-sun.com/bangladesh/863850/deceased-sharmin-s-husband-sent-to-jail</link>
-      <description>Remand hearing on 24 March</description>
-      <pubDate>Mon, 16 Mar 2026 19:58:18 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/Deceased-Sharmin's-Husband-sent-to-jail-69b85e162dac0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Chelsea fined 10.75m pounds, given suspended transfer ban, after EPL rule breaches</title>
       <link>https://www.daily-sun.com/sports/863849/chelsea-fined-10-75m-pounds-given-suspended-transfer-ban-after-epl-rule-breaches</link>
       <description>Chelsea have been fined a record total of 10.75m pounds (USD14.3m) for historical breaches of the Premier League's regulations</description>
@@ -3482,6 +3468,20 @@
       <description>War is brutal, but it is conducted under globally recognized rules.</description>
       <pubDate>Sun, 22 Mar 2026 08:02:25 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/22/medium/Myanmar-69bf9eec3f14e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Motorcycle crash victims crowd orthopaedic hospital on Eid day</title>
+      <link>https://www.daily-sun.com/bangladesh/864501/motorcycle-crash-victims-crowd-orthopaedic-hospital-on-eid-day</link>
+      <description>The pressure on the 10-bed emergency unit was so intense that many patients had to be treated on stretchers.</description>
+      <pubDate>Sun, 22 Mar 2026 08:47:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/22/medium/Pongu-69bfa7fe786a7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hormuz open to all except ‘enemy-linked’ ships: Iran</title>
+      <link>https://www.daily-sun.com/world/864500/hormuz-open-to-all-except-enemy-linked-ships-amid-us-threat-iran</link>
+      <description>Donald Trump threatened to target Iranian power plants if the waterway was not "fully open" within 48 hours</description>
+      <pubDate>Sun, 22 Mar 2026 08:47:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/22/medium/Trump's-ultimatum-would-expand-the-scope-of-US-strikes-to-infrastructure-that-affects-daily-civilian-life-in-Iran-69bfa2b43f4a2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
