@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Australian players advised to avoid Peshawar over security concerns</title>
-      <link>https://www.daily-sun.com/sports/863901/australian-players-advised-to-avoid-peshawar-over-security-concerns</link>
-      <description>Reports further claim that Australian players have been assured emergency evacuation via private flights if the situation deteriorates.</description>
-      <pubDate>Tue, 17 Mar 2026 11:53:50 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/laq6gofg_steve-smith-afp_625x300_18_February_26_1920x1080-69b93fa5c94ba.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Iran negotiating with FIFA to move World Cup games to Mexico from US</title>
-      <link>https://www.daily-sun.com/sports/863900/iran-negotiating-with-fifa-to-move-world-cup-games-to-mexico-from-us</link>
-      <description>Iran's football federation is in discussions with FIFA about moving their WC matches to Mexico from the US due to</description>
-      <pubDate>Tue, 17 Mar 2026 11:53:50 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/Mexico-69b93f5183cb5.PNG" type="image/png" />
-    </item>
-    <item>
       <title>‘Nearly half of working-age youth remained jobless over past decade’</title>
       <link>https://www.daily-sun.com/business/863899/nearly-half-of-working-age-youth-remained-jobless-over-past-decade</link>
       <description>Says World Bank Vice-President for South Asia Johannes Zutt</description>
@@ -3481,6 +3467,20 @@
       <description>Bessent defended the request without confirming the amount</description>
       <pubDate>Sun, 22 Mar 2026 19:35:43 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/Bessent-69c03ea878c00.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Lebanon PM says Iran Guards commanding Hezbollah operations in Lebanon</title>
+      <link>https://www.daily-sun.com/world/864548/lebanon-pm-says-iran-guards-commanding-hezbollah-operations-in-lebanon</link>
+      <description>Salam once again lashed out at Hezbollah for dragging Lebanon into the Middle East war by firing rockets on Israel</description>
+      <pubDate>Sun, 22 Mar 2026 20:55:04 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/L-69c056956ab69.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Israel warns weeks of fighting ahead in Mideast war</title>
+      <link>https://www.daily-sun.com/world/864547/israel-warns-weeks-of-fighting-ahead-in-mideast-war</link>
+      <description>Asked about Natanz, the Israeli military said it was "not aware of a strike"</description>
+      <pubDate>Sun, 22 Mar 2026 20:55:04 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/Iran-Attack-69c055ab80a05.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
