@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Hard-hitting Conway steers Kiwis to victory over Proteas</title>
-      <link>https://www.daily-sun.com/sports/863888/hard-hitting-conway-steers-kiwis-to-victory-over-proteas</link>
-      <description>Conway blasted a half-century before New Zealand skittled South Africa cheaply to win the second T20I by 68 runs Tuesday</description>
-      <pubDate>Tue, 17 Mar 2026 11:09:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/Devon-69b92af8a907c.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Arab states make U-turn on war, want US to continue strikes on Iran</title>
-      <link>https://www.daily-sun.com/world/863887/arab-states-make-u-turn-war-want-us-to-continue-strikes-on-iran</link>
-      <description>Gulf Arab states did not ask the US to go to war with Iran, but many are now urging it</description>
-      <pubDate>Tue, 17 Mar 2026 11:09:43 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/17/medium/Iran-strike-UAE-oil-69b92a5ddb80c.JPG" type="image/jpeg" />
-    </item>
-    <item>
       <title>Australian players advised to avoid Peshawar over security concerns</title>
       <link>https://www.daily-sun.com/sports/863901/australian-players-advised-to-avoid-peshawar-over-security-concerns</link>
       <description>Reports further claim that Australian players have been assured emergency evacuation via private flights if the situation deteriorates.</description>
@@ -3481,6 +3467,20 @@
       <description>Hatirjheel also saw a heavy flow of visitors along its walkways and lakeside areas</description>
       <pubDate>Sun, 22 Mar 2026 19:04:54 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/E-69c036dd0ac7b.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Israel to advance ground operations in Lebanon after striking key bridge</title>
+      <link>https://www.daily-sun.com/world/864546/israel-to-advance-ground-operations-in-lebanon-after-striking-key-bridge</link>
+      <description>On Saturday, Hezbollah said its fighters clashed with Israeli forces in Khiam and in the coastal town of Naqura</description>
+      <pubDate>Sun, 22 Mar 2026 19:35:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/L-69c0403d5d5bd.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Treasury's Bessent says US has 'plenty' of funds for Iran war</title>
+      <link>https://www.daily-sun.com/world/864545/treasury-s-bessent-says-us-has-plenty-of-funds-for-iran-war</link>
+      <description>Bessent defended the request without confirming the amount</description>
+      <pubDate>Sun, 22 Mar 2026 19:35:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/Bessent-69c03ea878c00.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
