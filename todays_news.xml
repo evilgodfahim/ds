@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Woltemade deployed too deep to be dangerous at Newcastle: Nagelsmann</title>
-      <link>https://www.daily-sun.com/sports/864345/woltemade-deployed-too-deep-to-be-dangerous-at-newcastle-nagelsmann</link>
-      <description>Nagelsmann said out-of-form Newcastle striker Woltemade's lack of goalscoring impact was because he is being played in the wrong position</description>
-      <pubDate>Fri, 20 Mar 2026 09:04:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/20/medium/Nick-69bd052336cd3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Eastern Bank seizes Banani property over SS Steel loan default</title>
       <link>https://www.daily-sun.com/business/864357/eastern-bank-seizes-banani-property-over-ss-steel-loan-default-javed-apgenhafen-back-in-spotlight</link>
       <description>No statements were immediately available from SS Steel Limited or Javed Opgenhaffen regarding the matter.</description>
@@ -3482,6 +3475,12 @@
       <description>Ziaur Rahman, a major in Pakistan army, revolted against Pakistani military junta at that very hour from the battalion of</description>
       <pubDate>Wed, 25 Mar 2026 21:00:00 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/26/medium/Zia-69c44bfdf3f2f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Zubaida Rahman addresses Global Summit in Washington at invitation of US First Lady</title>
+      <link>https://daily-sun.com/bangladesh/864806/zubaida-rahman-addresses-global-summit-in-washington-at-invitation-of-us-first-lady</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 21:41:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
