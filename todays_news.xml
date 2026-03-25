@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Banks, insurers, stock markets enter week-long holiday</title>
-      <link>https://www.daily-sun.com/business/864299/banks-insurers-stock-markets-enter-week-long-holiday</link>
-      <description>Arif Hossain Khan, spokesperson for Bangladesh Bank, emphasized the importance of safety measures.</description>
-      <pubDate>Thu, 19 Mar 2026 18:11:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/Bank-collected-69bc37d71de01.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Eid journey: 3 launches fined Tk70,000, 37 detained</title>
-      <link>https://www.daily-sun.com/bangladesh/864298/eid-journey-3-launches-fined-tk70-000-37-detained</link>
-      <description>During his visit, the minister observed the situation firsthand and took measures to maintain discipline and ensure safety.</description>
-      <pubDate>Thu, 19 Mar 2026 18:11:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/19/medium/Sadarghat-launch-terminal-File-69bc36ec3dda0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>'Miracle': Europe reconnects with lost spacecraft</title>
       <link>https://www.daily-sun.com/sci-tech/864297/miracle-europe-reconnects-with-lost-spacecraft</link>
       <description>Scientists have used this delicate dance to get a rare glimpse of the Sun's little-known outer atmosphere, which is called</description>
@@ -3483,6 +3469,20 @@
       <link>https://daily-sun.com/sci-tech/864719/iran-reportedly-threatening-to-cut-red-sea-cables</link>
       <description />
       <pubDate>Wed, 25 Mar 2026 09:27:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Independence and sovereignty: Shield of our national identity</title>
+      <link>https://www.daily-sun.com/opinion/864842/independence-and-sovereignty-the-shield-of-our-national-identity</link>
+      <description>Bangladesh celebrates Independence Day on 26 March, reflecting on freedom, sovereignty, and the nation’s emergence through the Liberation War.</description>
+      <pubDate>Wed, 25 Mar 2026 10:13:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/25/medium/Shairul-Kabir-Khan-(1)-69c3ac4c08d7f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two Russian navy ships arrive in Chittagong on goodwill visit</title>
+      <link>https://www.daily-sun.com/bangladesh/864841/two-russian-navy-ships-arrive-in-chittagong-on-goodwill-visit</link>
+      <description>Two Russian Navy ships-Rezkiy and Sovershenny-arrived at the Chittagong port on Tuesday on a four-day goodwill visit.</description>
+      <pubDate>Wed, 25 Mar 2026 10:13:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/25/medium/Two-Russian-navy-ships-arrive-in-Chittagong-on-goodwill-visit-69c3abd36c6e6.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
