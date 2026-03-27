@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Antarctica from Bangladesh: Costs, Routes, and Reality</title>
-      <link>https://www.daily-sun.com/feature/864573/antarctica-from-bangladesh-costs-routes-and-reality</link>
-      <description>A journey few Bangladeshis ever make</description>
-      <pubDate>Mon, 23 Mar 2026 10:37:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/23/medium/A1-69c10d1d192d6.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Case filed against two gatemen over bus-train collision in Cumilla</title>
       <link>https://www.daily-sun.com/bangladesh/864584/case-filed-against-two-gatemen-over-bus-train-collision-in-cumilla</link>
       <description>Twelve passengers were killed, and at least eight others were seriously injured</description>
@@ -3486,6 +3479,13 @@
       <description>Oyarzabal scored two terrific goals as Spain beat Serbia 3-0 in a friendly to underline their status as leading title</description>
       <pubDate>Fri, 27 Mar 2026 22:37:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/28/medium/Mikel-69c7014116ef5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran says will ‘exact heavy price’ for Israel attack on key sites</title>
+      <link>https://www.daily-sun.com/world/865311/iran-says-will-exact-heavy-price-for-israel-attack-on-key-sites</link>
+      <description>Iran’s Foreign Minister Abbas Araghchi said the country will “exact heavy price” for an Israeli attack on several important infrastructure</description>
+      <pubDate>Fri, 27 Mar 2026 23:42:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/28/medium/Iran’s-Araghchi--69a509161e4c5-69c713edae481.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
