@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Bangladesh has fuel reserves to cover a month: Cabinet Secretary</title>
-      <link>https://www.daily-sun.com/business/864876/bangladesh-has-increased-fuel-reserves-to-cover-a-month-cabinet-secretary</link>
-      <description>Bangladesh currently has about a month’s supply of fuel, Cabinet Secretary Nasimul Ghani said on Wednesday</description>
-      <pubDate>Wed, 25 Mar 2026 15:02:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/25/medium/fuel-reserve-69c3f4d2af58d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Russia greets Bangladesh on its 56th Independence Day</title>
       <link>https://www.daily-sun.com/diplomacy/864875/russia-greets-bangladesh-on-its-56th-independence-day</link>
       <description>In a congratulatory message, the envoy extended heartfelt greetings to the people of Bangladesh</description>
@@ -3483,6 +3476,13 @@
       <link>https://daily-sun.com/bangladesh/865558/govt-to-withdraw-monthly-prepaid-meter-charges-minister</link>
       <description />
       <pubDate>Sun, 29 Mar 2026 22:34:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>US to allow Russian oil tanker to reach Cuba, New York Times reports</title>
+      <link>https://www.daily-sun.com/world/865717/us-to-allow-russian-oil-tanker-to-reach-cuba-new-york-times-reports</link>
+      <description>The United States is allowing a Russian tanker full of crude oil to reach Cuba, in an easing of the</description>
+      <pubDate>Sun, 29 Mar 2026 23:02:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/30/medium/Untitled-(2)-69c9a9c75d166.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
