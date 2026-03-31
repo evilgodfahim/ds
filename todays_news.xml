@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Case filed after Cumilla bus accident kills 5, families receive assistance</title>
-      <link>https://www.daily-sun.com/bangladesh/865298/case-filed-after-cumilla-bus-accident-kills-5-families-receive-assistance</link>
-      <description>A case has been filed following a tragic accident in Kala Kachua, Burichang Upazila, Cumilla, where a private car was</description>
-      <pubDate>Fri, 27 Mar 2026 19:10:50 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/28/medium/Case-filed-after-Cumilla-bus-accident-kills-5-69c6d5a7c8b2b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>20 injured as bus crashes into sand-laden truck in Feni</title>
       <link>https://www.daily-sun.com/bangladesh/865297/20-injured-as-bus-crashes-into-sand-laden-truck-in-feni</link>
       <description>At least 20 people were injured when a passenger bus crashed into the rear of a sand-laden truck on the</description>
@@ -3484,6 +3477,13 @@
       <description>Italy will miss out on a third straight World Cup after falling to Bosnia and Hercegovina in Tuesday's breathless qualification</description>
       <pubDate>Tue, 31 Mar 2026 22:48:45 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/01/medium/Bosnia-69cc45b494a7c.png" type="image/png" />
+    </item>
+    <item>
+      <title>Gattuso apologises after Italy miss out on another World Cup</title>
+      <link>https://www.daily-sun.com/sports/866124/gattuso-apologises-after-italy-miss-out-on-another-world-cup</link>
+      <description>Gattuso was emotional and apologetic after his side suffered a playoff penalty shootout loss in Bosnia, but he refused to</description>
+      <pubDate>Tue, 31 Mar 2026 23:52:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/01/medium/Italy-69cc5c35a78f0.png" type="image/png" />
     </item>
   </channel>
 </rss>
