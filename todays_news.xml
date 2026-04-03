@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Former entrepreneurs unwilling to go for merger</title>
-      <link>https://www.daily-sun.com/business/865924/former-entrepreneurs-unwilling-to-go-for-merger</link>
-      <description>A profitable bank has been deliberately run down over the past seven to eight years, despite both its officials and</description>
-      <pubDate>Tue, 31 Mar 2026 04:10:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/03/31/medium/SIBL-69cb3eab2dc86.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Oil down 1% after report says Trump open to ending campaign against Iran</title>
       <link>https://www.daily-sun.com/world/865923/oil-down-1-after-report-says-trump-open-to-ending-campaign-against-iran</link>
       <description>Brent crude futures for May were down $1.22, or 1.08%, to $111.56 per barrel at 0210 GMT after rising 2%</description>
@@ -3477,6 +3470,13 @@
       <link>https://daily-sun.com/world/866605/bangladeshi-woman-beaten-to-death-in-florida</link>
       <description />
       <pubDate>Fri, 03 Apr 2026 19:43:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>BFF president congratulates U-20 SAFF champions</title>
+      <link>https://www.daily-sun.com/sports/866747/bff-president-congratulates-u-20-saff-champions</link>
+      <description>BFF president Tabith Awal has congratulated the triumphant national U-20 team on retaining the SAFF U-20 Men’s Championship title</description>
+      <pubDate>Fri, 03 Apr 2026 20:05:23 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/04/medium/BFF-69d01ad9e4a8a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
