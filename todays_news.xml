@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Classes to be held six days a week, 3 days online</title>
-      <link>https://daily-sun.com/bangladesh/865990/classes-to-be-held-six-days-a-week-3-days-online</link>
-      <description />
-      <pubDate>Tue, 31 Mar 2026 20:56:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Dutch survive early red card to hold out for Ecuador draw</title>
       <link>https://www.daily-sun.com/sports/866119/dutch-survive-early-red-card-to-hold-out-for-ecuador-draw</link>
       <description>The Netherlands held on for a 1-1 draw with Ecuador despite playing with 10 men for almost all of their</description>
@@ -3475,6 +3469,13 @@
       <link>https://daily-sun.com/bangladesh/866762/us-police-arrest-suspect-in-bangladeshi-woman-s-murder</link>
       <description />
       <pubDate>Sat, 04 Apr 2026 22:20:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>US and Iran trade threats to unleash 'hell'</title>
+      <link>https://www.daily-sun.com/world/866949/us-and-iran-trade-threats-to-unleash-hell</link>
+      <description>US President Donald Trump has threatened that "all hell would rain down on" Iran if it did not make a</description>
+      <pubDate>Sat, 04 Apr 2026 23:17:51 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/05/medium/attacks-on-iran-69d19bb08cdc9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
