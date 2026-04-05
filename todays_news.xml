@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Navy rescues 15 fishermen from Bay of Bengal</title>
-      <link>https://www.daily-sun.com/bangladesh/866264/navy-rescues-15-fishermen-from-bay-of-bengal</link>
-      <description>All are reported to be in good health and were handed over to their families on Wednesday.</description>
-      <pubDate>Wed, 01 Apr 2026 18:11:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/01/medium/Navy-69cd584a5625e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US assures Bangladesh of support in tackling energy crisis</title>
       <link>https://daily-sun.com/bangladesh/866148/us-assures-bangladesh-of-support-in-tackling-energy-crisis</link>
       <description />
@@ -3474,6 +3467,13 @@
       <description>No need to rewrite the constitution; people's mandate to implement the charter can be realised through constitutional amendments, he says</description>
       <pubDate>Sun, 05 Apr 2026 19:47:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/Untitled-69d2b38d85239.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Israeli rescuers search for missing people after buidling hit by Iran missile</title>
+      <link>https://www.daily-sun.com/world/867156/israeli-rescuers-search-for-missing-people-after-buidling-hit-by-iran-missile</link>
+      <description>Israeli firefighters were searching for three missing people in the rubble of a residential building in the northern city of</description>
+      <pubDate>Sun, 05 Apr 2026 20:03:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/Israeli-rescuers-search-for-missing-people-after-buidling-hit-by-Iran-missile-69d2bdb3c386d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
