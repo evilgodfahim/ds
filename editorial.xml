@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>Latest</title>
-      <link>https://www.daily-sun.com/todays-news</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh</title>
-      <link>https://www.daily-sun.com/bangladesh</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>https://www.daily-sun.com/business</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>World</title>
-      <link>https://www.daily-sun.com/world</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Diplomacy</title>
       <link>https://www.daily-sun.com/diplomacy</link>
       <description />
@@ -3470,6 +3446,38 @@ settle the past</description>
       <link>https://www.daily-sun.com/editorial/866894</link>
       <description>It is really a matter of deep concern that an increasing number of today’s teenagers are getting involved in serious</description>
       <pubDate>Sat, 04 Apr 2026 19:40:45 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>April 1971: When Bengalis 
+Crossed the Rubicon</title>
+      <link>https://www.daily-sun.com/editorial/867042</link>
+      <description>April 1971: When Bengalis 
+Crossed the Rubicon</description>
+      <pubDate>Sun, 05 Apr 2026 18:24:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/1--06-04-2026-ds-69d295442b93e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s Agriculture: Possibilities and Underlying Strains</title>
+      <link>https://www.daily-sun.com/editorial/867041</link>
+      <description>Bangladesh’s Agriculture: Possibilities and Underlying Strains</description>
+      <pubDate>Sun, 05 Apr 2026 18:24:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/06/medium/2--06-04-2026-ds-69d29543eb36b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>No more excuses 
+for negligence</title>
+      <link>https://www.daily-sun.com/editorial/867040</link>
+      <description>No more excuses 
+for negligence</description>
+      <pubDate>Sun, 05 Apr 2026 18:24:34 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>What purpose do ICUs serve without necessary manpower?</title>
+      <link>https://www.daily-sun.com/editorial/867039</link>
+      <description>What purpose do ICUs serve without necessary manpower?</description>
+      <pubDate>Sun, 05 Apr 2026 18:24:34 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
