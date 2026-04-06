@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>Diplomacy</title>
-      <link>https://www.daily-sun.com/diplomacy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sports</title>
-      <link>https://www.daily-sun.com/sports</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Opinion</title>
-      <link>https://www.daily-sun.com/opinion</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Politics</title>
-      <link>https://www.daily-sun.com/politics</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>E-Paper</title>
       <link>https://epaper.daily-sun.com/</link>
       <description />
@@ -3478,6 +3454,36 @@ for negligence</description>
       <link>https://www.daily-sun.com/editorial/867039</link>
       <description>What purpose do ICUs serve without necessary manpower?</description>
       <pubDate>Sun, 05 Apr 2026 18:24:34 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Energy Price, Fertiliser Uncertainty Threaten Boro Production</title>
+      <link>https://www.daily-sun.com/editorial/867288</link>
+      <description>Energy Price, Fertiliser Uncertainty Threaten Boro Production</description>
+      <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/07/medium/24--07-04-2026-ds-69d3f322d8253.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Is Private Credit Inviting 
+Financial Crisis in US?</title>
+      <link>https://www.daily-sun.com/editorial/867287</link>
+      <description>Is Private Credit Inviting 
+Financial Crisis in US?</description>
+      <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/07/medium/25--07-04-2026-ds-69d3f321d2808.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>When energy policy widens trade gap</title>
+      <link>https://www.daily-sun.com/editorial/867286</link>
+      <description>When energy policy widens trade gap</description>
+      <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>A sobering cold shower for LDC graduation</title>
+      <link>https://www.daily-sun.com/editorial/867285</link>
+      <description>A sobering cold shower for LDC graduation</description>
+      <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
