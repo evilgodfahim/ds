@@ -5,24 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>বাংলা</title>
-      <link>https://bangla.daily-sun.com</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Osman Hadi</title>
-      <link>https://www.daily-sun.com/topic/osman-hadi</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Election schedule</title>
-      <link>https://www.daily-sun.com/topic/election-schedule</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>BNP</title>
       <link>https://www.daily-sun.com/topic/bnp</link>
       <description />
@@ -3486,6 +3468,29 @@ Financial Crisis in US?</description>
       <description>When America’s Own Lawyers Say ‘War Crimes’, Can World Stay Silent?</description>
       <pubDate>Tue, 07 Apr 2026 17:18:00 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/1--08--04-2026-ds-69d53a2f294e8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Energy Crisis Fuels Russia’s 
+Return to Sri Lanka</title>
+      <link>https://www.daily-sun.com/editorial/867450</link>
+      <description>Energy Crisis Fuels Russia’s 
+Return to Sri Lanka</description>
+      <pubDate>Tue, 07 Apr 2026 18:11:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/2--08--04-2026-ds-69d53a2f6f2da.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tonu murder: Will PBI finally bell the cat?</title>
+      <link>https://www.daily-sun.com/editorial/867448</link>
+      <description>Tonu murder: Will PBI finally bell the cat?</description>
+      <pubDate>Tue, 07 Apr 2026 18:11:52 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dhaka, Delhi must strengthen bilateral ties</title>
+      <link>https://www.daily-sun.com/editorial/867447</link>
+      <description>Dhaka, Delhi must strengthen bilateral ties</description>
+      <pubDate>Tue, 07 Apr 2026 18:11:52 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
