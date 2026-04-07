@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>E-Paper</title>
-      <link>https://epaper.daily-sun.com/</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>বাংলা</title>
       <link>https://bangla.daily-sun.com</link>
       <description />
@@ -3485,6 +3479,13 @@ Financial Crisis in US?</description>
       <description>A sobering cold shower for LDC graduation</description>
       <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>When America’s Own Lawyers Say ‘War Crimes’, Can World Stay Silent?</title>
+      <link>https://www.daily-sun.com/editorial/867449</link>
+      <description>When America’s Own Lawyers Say ‘War Crimes’, Can World Stay Silent?</description>
+      <pubDate>Tue, 07 Apr 2026 17:18:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/1--08--04-2026-ds-69d53a2f294e8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
