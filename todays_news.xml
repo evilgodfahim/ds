@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BUBT Faculty Delivers Nuclear Power Lecture</title>
-      <link>https://www.daily-sun.com/sun-campus/866840/bubt-faculty-delivers-nuclear-power-lecture</link>
-      <description>The session was held at the Nuclear Information Center, located within the Bangabandhu Sheikh Mujibur Rahman Novo Theatre.</description>
-      <pubDate>Sat, 04 Apr 2026 16:45:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/04/medium/bubtf-69d13bdf2d929.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Expatriate killed by missile debris in Bahrain laid to rest in Ctg</title>
       <link>https://www.daily-sun.com/bangladesh/866839/expatriate-killed-by-missile-debris-in-bahrain-laid-to-rest-in-ctg</link>
       <description>His body reached Dhaka on 3 April and was brought to Chattogram early Saturday...</description>
@@ -3471,6 +3464,13 @@
       <link>https://daily-sun.com/bangladesh/867580/awami-league-activities-to-remain-banned-as-bill-passed-in-parliament</link>
       <description />
       <pubDate>Wed, 08 Apr 2026 22:37:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>US-Iran truce hangs in balance as war flares in Lebanon</title>
+      <link>https://www.daily-sun.com/world/867750/us-iran-truce-hangs-in-balance-as-war-flares-in-lebanon</link>
+      <description>At least 182 people were killed and nearly 900 wounded on Wednesday, the Lebanese Health Ministry said.</description>
+      <pubDate>Wed, 08 Apr 2026 23:23:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Beirut-69d6e14a4fbda.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
