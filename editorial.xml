@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>Today's Newspaper</title>
-      <link>https://www.daily-sun.com/printversion?search=yes&amp;date=2025-12-13</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Today's Newspaper</title>
-      <link>https://www.daily-sun.com/printversion</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.daily-sun.com/editorial</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Front Page</title>
-      <link>https://www.daily-sun.com/front-page</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Back Page</title>
       <link>https://www.daily-sun.com/back-page</link>
       <description />
@@ -3494,6 +3470,34 @@ Return to Sri Lanka</description>
       <link>https://www.daily-sun.com/editorial/867690</link>
       <description>It is deeply concerning that narcotics syndicates are now trying to take a deeper root in the country and turn</description>
       <pubDate>Wed, 08 Apr 2026 18:54:56 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Illusion of Victory in Middle East</title>
+      <link>https://www.daily-sun.com/editorial/867918</link>
+      <description>Once the ceasefire agreement on the Iran front was announced on 8 April, the status of Lebanon within its framework</description>
+      <pubDate>Thu, 09 Apr 2026 18:11:06 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/DS-'04'10-51-69d7ea0d45dcd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Flash Flood Risks to Boro Rice in Haors</title>
+      <link>https://www.daily-sun.com/editorial/867917</link>
+      <description>Bangladesh’s Haor Basin in Sylhet-Sunamganj, spanning 1.2 million hectares of low-lying wetlands, forms the backbone of national rice production, contributing</description>
+      <pubDate>Thu, 09 Apr 2026 18:11:06 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/DS-'04'10-52-69d7ea0d138e5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Economy demands bold structural reforms</title>
+      <link>https://www.daily-sun.com/editorial/867916</link>
+      <description>The latest World Bank (WB) report depicting the picture of Bangladesh’s economy is less of a landscape and more of</description>
+      <pubDate>Thu, 09 Apr 2026 18:11:06 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How long will hawkers’ hide-and-seek continue?</title>
+      <link>https://www.daily-sun.com/editorial/867915</link>
+      <description>An overwhelming number of makeshift shops along the roadsides and footpaths in the capital have scarcely left some free space</description>
+      <pubDate>Thu, 09 Apr 2026 18:11:06 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
