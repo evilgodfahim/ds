@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Today's Photo</title>
-      <link>https://www.daily-sun.com/my-districts/866707</link>
-      <description>Members of the Movement to Protect Rivers and Haors form human chains in Sunamganj on Friday, demanding urgent measures to</description>
-      <pubDate>Fri, 03 Apr 2026 19:02:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/04/medium/DS-'04'04-66-69cffec46c811.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>16 fishermen missing for 13 days at sea</title>
       <link>https://www.daily-sun.com/news/866695</link>
       <description>Sixteen Bangladeshi fishermen have been missing for 13 days after going to the deep sea for fishing with families fearing</description>
@@ -3550,6 +3543,13 @@ Professional, Personal Growth</description>
       <description>South Korean K-pop megastars BTS kicked off their world tour on Thursday, riding the momentum of a chart-topping comeback album</description>
       <pubDate>Thu, 09 Apr 2026 19:36:52 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/DS-'04'10-64-69d7eb9d82849.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>India hikes fertiliser subsidy as costs soar after Middle East war</title>
+      <link>https://www.daily-sun.com/business-print/867959</link>
+      <description>India has hiked subsidies for farming fertilisers by 11% from last year to support its vast agriculture sector from surging</description>
+      <pubDate>Fri, 10 Apr 2026 01:59:48 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
