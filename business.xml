@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Forex reserves stand at $34.78b</title>
-      <link>https://www.daily-sun.com/business/858922/forex-reserves-stand-at-34-78b</link>
-      <description />
-      <pubDate>Thu, 19 Feb 2026 20:55:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Government burdened by past liabilities</title>
       <link>https://www.daily-sun.com/business/858932/government-burdened-by-past-liabilities</link>
       <description />
@@ -3049,6 +3043,13 @@ Tk1,200cr bond</description>
       <description />
       <pubDate>Fri, 10 Apr 2026 06:23:12 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/small/Bangladesh-economy-69d886dbd0f62.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>IMF approves $700m for Sri Lanka, warning of Mideast war shock</title>
+      <link>https://www.daily-sun.com/business/867962</link>
+      <description />
+      <pubDate>Fri, 10 Apr 2026 08:03:51 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/small/DS-'04'10-105-69d7fa6783b5a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
