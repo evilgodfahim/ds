@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Inflation tops agenda as new govt takes office</title>
-      <link>https://www.daily-sun.com/business/858917</link>
-      <description>180-day roadmap to focus on market stability and food supply</description>
-      <pubDate>Fri, 20 Feb 2026 15:50:23 +0000</pubDate>
-    </item>
-    <item>
       <title>NICCI demands competitive incentives as Nepal govt automates FDI approval</title>
       <link>https://www.daily-sun.com/business/859024/nicci-demands-competitive-incentives-as-nepal-govt-automates-fdi-approval</link>
       <description />
@@ -3053,6 +3047,12 @@ Tk1,200cr bond</description>
       <description />
       <pubDate>Fri, 10 Apr 2026 17:14:09 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/small/Iran-denies-Hormuz-access-to-Bangladeshi-ship-69d8ee2486ea6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US consumer inflation surges in March amid war, tariff pressures</title>
+      <link>https://www.daily-sun.com/business/868079/us-consumer-inflation-surge-in-march-amid-war-tariff-pressures</link>
+      <description />
+      <pubDate>Fri, 10 Apr 2026 18:01:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
