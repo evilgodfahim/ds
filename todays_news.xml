@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Indian High Commissioner calls on Prime Minister</title>
-      <link>https://daily-sun.com/bangladesh/867177/indian-high-commissioner-calls-on-prime-minister</link>
-      <description />
-      <pubDate>Mon, 06 Apr 2026 18:45:03 +0000</pubDate>
-    </item>
-    <item>
       <title>Accused sues Jashore judge, arrested shortly after</title>
       <link>https://www.daily-sun.com/bangladesh/867348/accused-sues-judge-in-jashore-arrested-shortly-after</link>
       <description>The incident took place on Monday afternoon...</description>
@@ -3482,6 +3476,13 @@
       <description>A delegation of top Iranian officials has arrived in Islamabad ahead of ceasefire talks with the United States in the</description>
       <pubDate>Fri, 10 Apr 2026 20:59:36 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/11/medium/Iran-delegation-arrives-in-Pakistan--69d9613c15e20.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pakistan PM says US, Iran leadership both attending Islamabad talks</title>
+      <link>https://www.daily-sun.com/world/868156/pakistan-pm-says-us-iran-leadership-both-attending-islamabad-talks</link>
+      <description>He said his government would "make every possible effort to make these talks successful"</description>
+      <pubDate>Fri, 10 Apr 2026 21:38:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/11/medium/Pakistan-PM--69d965a7c8cf9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
