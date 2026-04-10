@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>Back Page</title>
-      <link>https://www.daily-sun.com/back-page</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Metropolis</title>
-      <link>https://www.daily-sun.com/metropolis</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winner</title>
-      <link>https://www.daily-sun.com/winner</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>My Districts</title>
-      <link>https://www.daily-sun.com/my-districts</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>News</title>
       <link>https://www.daily-sun.com/news</link>
       <description />
@@ -3498,6 +3474,34 @@ Return to Sri Lanka</description>
       <link>https://www.daily-sun.com/editorial/867915</link>
       <description>An overwhelming number of makeshift shops along the roadsides and footpaths in the capital have scarcely left some free space</description>
       <pubDate>Thu, 09 Apr 2026 18:11:06 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>How Distant War Redefines Daily Life in Bangladesh</title>
+      <link>https://www.daily-sun.com/editorial/868126</link>
+      <description>The war in the Middle East does not appear on the streets of Bangladesh. There are no sirens, no explosions,</description>
+      <pubDate>Fri, 10 Apr 2026 19:02:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/11/medium/DS-'04'11-51-69d93b7bd20bc.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rooftop Solar Not Just about Subsidy</title>
+      <link>https://www.daily-sun.com/editorial/868125</link>
+      <description>Rooftop solar has quickly moved to the centre of energy discussions in Bangladesh. Rising fuel costs, global supply uncertainties and</description>
+      <pubDate>Fri, 10 Apr 2026 19:02:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/11/medium/DS-'04'11-52-69d93b7ba0642.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>A forward-looking step by govt</title>
+      <link>https://www.daily-sun.com/editorial/868124</link>
+      <description>Bangladesh’s move to tap into foreign refining capacity marks a timely and pragmatic turn in its energy strategy. The proposal</description>
+      <pubDate>Fri, 10 Apr 2026 19:02:11 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Strict market monitoring a desperate cry for survival</title>
+      <link>https://www.daily-sun.com/editorial/868123</link>
+      <description>The daily commodity market is now engulfed in a relentless blaze of inflation, with the prices of chicken, edible oil,</description>
+      <pubDate>Fri, 10 Apr 2026 19:02:11 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
