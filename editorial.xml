@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>World</title>
-      <link>https://www.daily-sun.com/world-print</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Culturetainment</title>
-      <link>https://www.daily-sun.com/culturetainment</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Post Logue</title>
-      <link>https://www.daily-sun.com/post-logu</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Most Read</title>
-      <link>https://www.daily-sun.com#highestTab</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Trending</title>
       <link>https://www.daily-sun.com#latestTab</link>
       <description />
@@ -3503,6 +3479,34 @@ Return to Sri Lanka</description>
       <link>https://daily-sun.com/printversion/type/editorial</link>
       <description />
       <pubDate>Sat, 11 Apr 2026 03:48:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yuri Gagarin: 65 Years Since the First Manned Flight into Space</title>
+      <link>https://www.daily-sun.com/editorial/868305</link>
+      <description>On 12 April 1961, the Soviet pilot named Yuri Gagarin embarked on a journey into space, the first one in</description>
+      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/DS-'04'12-61-69da8bf088689.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Transforming Bangladesh: Lessons from Singapore Model</title>
+      <link>https://www.daily-sun.com/editorial/868304</link>
+      <description>The “Singapore Model” refers to a set of interlinked governance, economic, and social strategies implemented under the leadership of Lee</description>
+      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/DS-'04'12-62-69da8bf053b51.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Solution for congestion or burden for passengers?</title>
+      <link>https://www.daily-sun.com/editorial/868303</link>
+      <description>The government’s recent initiative to ease traffic congestion in the capital Dhaka and eliminate chaos at bus terminals is undoubtedly</description>
+      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tap full potential of IT Business Incubator</title>
+      <link>https://www.daily-sun.com/editorial/868302</link>
+      <description>Many government projects show big hopes, devour crores of public funds and then turn into mere white elephants soon afterwards.</description>
+      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
