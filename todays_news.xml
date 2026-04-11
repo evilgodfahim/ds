@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>New Artemis II moon image includes part of the moon never before observed by human eyes</title>
-      <link>https://daily-sun.com/feature/867363/new-artemis-ii-moon-image-includes-part-of-the-moon-never-before-observed-by-human-eyes</link>
-      <description />
-      <pubDate>Tue, 07 Apr 2026 18:11:52 +0000</pubDate>
-    </item>
-    <item>
       <title>One lakh health workers will be recruited in phases: PM</title>
       <link>https://daily-sun.com/bangladesh/867227/one-lakh-health-workers-will-be-recruited-in-phases-pm</link>
       <description />
@@ -3478,6 +3472,13 @@
       <description>Prime Minister Tarique Rahman has extended greetings to the people of different ethnic communities living in the Chittagong Hill Tracts</description>
       <pubDate>Sat, 11 Apr 2026 19:23:38 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/Tarique-Rahman-69da99a7473d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Record-breaking Bayern march closer to Bundesliga title</title>
+      <link>https://www.daily-sun.com/sports/868350/record-breaking-bayern-march-closer-to-bundesliga-title</link>
+      <description>Bayern romped to a 5-0 win at St Pauli, breaking a 54-year Bundesliga goalscoring record and moving to within touching</description>
+      <pubDate>Sat, 11 Apr 2026 20:53:38 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/FCB-69daaf724da54.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
