@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Bulbul rejects probe, calls BCB board dissolution ‘illegal’</title>
-      <link>https://www.daily-sun.com/sports/867504/bulbul-rejects-probe-calls-bcb-board-dissolution-illegal</link>
-      <description>Former BCB president Bulbul has rejected a probe report into the 2025 board election, calling it 'legally untenable'</description>
-      <pubDate>Tue, 07 Apr 2026 19:22:19 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/BCB-69d54b45c8f85.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Artemis II crew snaps historic Earthset photo on way home</title>
       <link>https://www.daily-sun.com/space/867503/artemis-ii-crew-snaps-historic-earthset-photo-on-way-home</link>
       <description>"First photo from the far side of the Moon," the White House said, reposting the image</description>
@@ -3479,6 +3472,13 @@
       <link>https://daily-sun.com/printversion/type/front-page</link>
       <description />
       <pubDate>Sat, 11 Apr 2026 22:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gunmen kill 11 people at Afghan picnic spot</title>
+      <link>https://www.daily-sun.com/world/868351/gunmen-kill-11-people-at-afghan-picnic-spot</link>
+      <description>The death toll from a shooting in western Afghanistan rose to 11 on Saturday, the provincial authority said, after gunmen</description>
+      <pubDate>Sat, 11 Apr 2026 23:21:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/Shooting-attack----69dad1bc7a266.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
