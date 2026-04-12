@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/editorial/</link>
     <description>Daily Sun Editorial</description>
     <item>
-      <title>Trending</title>
-      <link>https://www.daily-sun.com#latestTab</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>TERMS OF USE</title>
-      <link>https://www.daily-sun.com/terms</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>PRIVACY POLICY</title>
-      <link>https://www.daily-sun.com/privacy-policy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>COMMENT POLICY</title>
-      <link>https://www.daily-sun.com/comment-policy</link>
-      <description />
-      <pubDate>Sat, 13 Dec 2025 06:02:22 +0000</pubDate>
-    </item>
-    <item>
       <title>ADVERTISEMENT</title>
       <link>https://www.daily-sun.com/advertisement</link>
       <description />
@@ -3506,6 +3482,38 @@ Return to Sri Lanka</description>
       <link>https://www.daily-sun.com/editorial/868302</link>
       <description>Many government projects show big hopes, devour crores of public funds and then turn into mere white elephants soon afterwards.</description>
       <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Global Security Initiative: China’s Approach to Safeguarding Common Security</title>
+      <link>https://www.daily-sun.com/editorial/868458</link>
+      <description>The Global Security Initiative: China’s Approach to Safeguarding Common Security</description>
+      <pubDate>Sun, 12 Apr 2026 18:39:36 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/1--13-04-2026-Ds-69dbcaee3dd84.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Rise of Non-politicians in Politics</title>
+      <link>https://www.daily-sun.com/editorial/868457</link>
+      <description>The Rise of Non-politicians in Politics</description>
+      <pubDate>Sun, 12 Apr 2026 18:39:36 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/2--13-04-2026-Ds-69dbcaee085d7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Stop penalising 
+clean energy</title>
+      <link>https://www.daily-sun.com/editorial/868456</link>
+      <description>Stop penalising 
+clean energy</description>
+      <pubDate>Sun, 12 Apr 2026 18:39:36 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Let failed talks 
+be a stepping stone</title>
+      <link>https://www.daily-sun.com/editorial/868455</link>
+      <description>Let failed talks 
+be a stepping stone</description>
+      <pubDate>Sun, 12 Apr 2026 18:39:36 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>

@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Artemis crew witnesses meteorite impacts on Moon</title>
-      <link>https://www.daily-sun.com/feature/867702/artemis-crew-witnesses-meteorite-impacts-on-moon</link>
-      <description>'Amazed,' replied Kelsey Young, the mission's lunar science lead,...</description>
-      <pubDate>Wed, 08 Apr 2026 18:54:56 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/08/medium/This-handout-picture-released-by-NASA-on-7-April-2026,-shows-the-Orion-spacecraft-(L)-and-the-Moon-(R)-on-6-April-2026-69d699f86bfb1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Cultural evening at Russian House showcases power of cinema and reflection</title>
       <link>https://www.daily-sun.com/diplomacy/867698/cultural-evening-at-russian-house-showcases-power-of-cinema-and-reflection</link>
       <description>Participants expressed a shared appreciation of cinema as a powerful medium for fostering cross-cultural understanding and dialogue.</description>
@@ -3475,6 +3468,13 @@
       <description>He noted that existing forensic DNA laboratory equipment, which is over 15 years old, has significantly reduced efficiency...</description>
       <pubDate>Sun, 12 Apr 2026 17:57:24 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/International-standard-DNA-laboratory-Minister-Zahid-PID-69dbd647bf557.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UN force in Lebanon says Israeli tank rammed its vehicles in south</title>
+      <link>https://www.daily-sun.com/world/868502/un-force-in-lebanon-says-israeli-tank-rammed-its-vehicles-in-south</link>
+      <description>The United Nations Interim Force in Lebanon (UNIFIL) said that an Israeli tank rammed peacekeeping vehicles on Sunday in the</description>
+      <pubDate>Sun, 12 Apr 2026 18:39:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/Untitled-69dbdde9045f1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
