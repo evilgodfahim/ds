@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Dhaka, Delhi discuss boosting ties</title>
-      <link>https://daily-sun.com/diplomacy/867588/khalilur-jaishankar-holds-meeting-in-new-delhi</link>
-      <description />
-      <pubDate>Wed, 08 Apr 2026 19:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hamza’s Leicester close to third tier after points deduction appeal dismissed</title>
-      <link>https://www.daily-sun.com/sports/867745/hamza-s-leicester-close-to-third-tier-after-points-deduction-appeal-dismissed</link>
-      <description>Leicester's appeal against a six-point deduction for breaching financial rules was rejected, plunging the Foxes ever closer to relegation to</description>
-      <pubDate>Wed, 08 Apr 2026 20:29:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/LCFC-69d6b298248a0.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Tehran residents relieved but divided by Trump truce</title>
       <link>https://www.daily-sun.com/world/867746/tehran-residents-relieved-but-divided-by-trump-truce</link>
       <description>Since the truce was declared, the bombs have fallen silent in Tehran, and the Iranian capital now has the air</description>
@@ -3479,6 +3466,20 @@
       <description>When Peter Magyar was a child, he taped a photo of Viktor Orban, then an anti-Communist firebrand, on his bedroom</description>
       <pubDate>Sun, 12 Apr 2026 20:31:18 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Once-inspired-by-Orban,-Hungary's-Peter-Magyar-unseats-him-in-landmark-election-69dbfc1ba6654.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Salt and Kohli among runs in Bengaluru win over Mumbai</title>
+      <link>https://www.daily-sun.com/sports/868569/salt-and-kohli-among-runs-in-bengaluru-win-over-mumbai</link>
+      <description>Openers Salt and Kohli hit half-centuries to lay the foundations for Bengaluru's 18-run win over Mumbai in a high-profile IPL</description>
+      <pubDate>Sun, 12 Apr 2026 21:03:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Salt-69dc050a73294.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Rosenior admits Chelsea in 'difficult place'</title>
+      <link>https://www.daily-sun.com/sports/868568/rosenior-admits-chelsea-in-difficult-place</link>
+      <description>Liam Rosenior admitted Chelsea are in a ‘difficult place’ after Sunday's dismal 3-0 defeat against Manchester City piled pressure on</description>
+      <pubDate>Sun, 12 Apr 2026 21:03:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Liam-69dc02e4494d2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
