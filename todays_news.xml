@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump to discuss leaving NATO in meeting with Rutte: White House</title>
-      <link>https://www.daily-sun.com/world/867747/trump-to-discuss-leaving-nato-in-meeting-with-rutte-white-house</link>
-      <description>Trump has long railed against NATO, calling it "obsolete" in 2017 and mulling withdrawing.</description>
-      <pubDate>Wed, 08 Apr 2026 21:58:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Rutt-69d6c4b3a9acb.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Awami League activities to remain banned as bill passed in Parliament</title>
-      <link>https://daily-sun.com/bangladesh/867580/awami-league-activities-to-remain-banned-as-bill-passed-in-parliament</link>
-      <description />
-      <pubDate>Wed, 08 Apr 2026 22:37:53 +0000</pubDate>
-    </item>
-    <item>
       <title>US-Iran truce hangs in balance as war flares in Lebanon</title>
       <link>https://www.daily-sun.com/world/867750/us-iran-truce-hangs-in-balance-as-war-flares-in-lebanon</link>
       <description>At least 182 people were killed and nearly 900 wounded on Wednesday, the Lebanese Health Ministry said.</description>
@@ -3480,6 +3467,20 @@
       <description>The US military said Sunday it would begin a blockade of all Iranian ports within hours, after peace talks in</description>
       <pubDate>Sun, 12 Apr 2026 22:50:37 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Untitled-(1)-69dc19967381f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran says was 'inches away' from deal with US in Islamabad</title>
+      <link>https://www.daily-sun.com/world/868573/iran-says-was-inches-away-from-deal-with-us-in-islamabad</link>
+      <description>Iran's Foreign Minister Abbas Araghchi said Sunday that Tehran had been just "inches away" from a deal with Washington during</description>
+      <pubDate>Sun, 12 Apr 2026 23:21:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Islamabad-talks-69dc261a7b634.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US oil benchmark jumps 8%, surpasses $100 after failed US-Iran talks</title>
+      <link>https://www.daily-sun.com/business/868572/us-oil-benchmark-jumps-8-surpasses-100-after-failed-us-iran-talks</link>
+      <description>The US oil benchmark rebounded above $100 a barrel on Monday after peace talks between the United States and Iran</description>
+      <pubDate>Sun, 12 Apr 2026 23:21:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/fuel-oil-69dc258ea7371.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
