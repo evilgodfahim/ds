@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM Carney calls Canadian Artemis astronaut</title>
-      <link>https://www.daily-sun.com/feature/867971/pm-carney-calls-canadian-artemis-astronaut</link>
-      <description>Hansen is the first non-American to ever fly around the Moon...</description>
-      <pubDate>Thu, 09 Apr 2026 19:36:51 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/This-screengrab-from-a-NASA-livestream-shows-a-jar-of-nutella-floating-aboard-the-Orion-spacecraft-as-Artemis-II-crew-members-Victor-Glover,-Reid-Wiseman,-Jeremy-Hansen-and-Christina-Koch-work-on-6-April-2026-69d7fe0038f6b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Muktadir for boosting competitiveness ahead of LDC graduation</title>
       <link>https://www.daily-sun.com/business/867970/muktadir-for-boosting-competitiveness-ahead-of-ldc-graduation</link>
       <description>Muktadir highlighted several critical challenges facing the industrial sector...</description>
@@ -3481,6 +3474,12 @@
       <description>The Javier Cabrera era is officially drawing to a close, but the contest to replace him has only intensified</description>
       <pubDate>Mon, 13 Apr 2026 19:58:24 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/14/medium/BFF-69dd40facc167.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Youth-led civic tech expo showcases digital governance innovations</title>
+      <link>https://daily-sun.com/bangladesh/868611/youth-led-civic-tech-expo-showcases-digital-governance-innovations</link>
+      <description />
+      <pubDate>Mon, 13 Apr 2026 20:51:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
