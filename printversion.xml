@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Bogura upgrade tied to Asia Cup 2027, WC plans</title>
-      <link>https://www.daily-sun.com/winner/867514</link>
-      <description />
-      <pubDate>Tue, 07 Apr 2026 19:22:19 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Pakistan face first-ever Sylhet Test in May series</title>
       <link>https://www.daily-sun.com/winner/867513</link>
       <description />
@@ -3549,6 +3542,13 @@ four-day remand over extortion at CKD Hospital</description>
       <description>Baishakh, in the Light of Heritage</description>
       <pubDate>Mon, 13 Apr 2026 18:52:01 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/14/medium/12--14-04-2026-DS-69dd2b18a300c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Business First: The New Budget Mandate</title>
+      <link>https://www.daily-sun.com/post-logu/867293</link>
+      <description>Business First: The New Budget Mandate</description>
+      <pubDate>Mon, 13 Apr 2026 19:58:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/07/medium/28--07-04-2026-ds-69d3f4201b5d3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
