@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US-Iran truce hangs in balance as war flares in Lebanon</title>
-      <link>https://www.daily-sun.com/world/867750/us-iran-truce-hangs-in-balance-as-war-flares-in-lebanon</link>
-      <description>At least 182 people were killed and nearly 900 wounded on Wednesday, the Lebanese Health Ministry said.</description>
-      <pubDate>Wed, 08 Apr 2026 23:23:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/09/medium/Beirut-69d6e14a4fbda.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>In a war with no winners, Netanyahu looks like the biggest loser</title>
       <link>https://www.daily-sun.com/world/867751/in-a-war-with-no-winners-netanyahu-looks-like-the-biggest-loser</link>
       <description>The US intelligence community’s verdict that Israeli predictions of regime change and revolution in Iran were “farcical” turned out to</description>
@@ -3481,6 +3474,13 @@
       <description>The US oil benchmark rebounded above $100 a barrel on Monday after peace talks between the United States and Iran</description>
       <pubDate>Sun, 12 Apr 2026 23:21:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/fuel-oil-69dc258ea7371.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>McIlroy joins rarefied company with back-to-back Masters wins</title>
+      <link>https://www.daily-sun.com/sports/868574/mcilroy-joins-rarefied-company-with-back-to-back-masters-wins</link>
+      <description>McIlroy won the Masters by one shot over Scheffler to collect his sixth major and become the fourth repeat winner</description>
+      <pubDate>Mon, 13 Apr 2026 01:28:59 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/13/medium/Rory-69dc37592107b.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
