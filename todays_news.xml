@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DPL under threat as Mohammedan lead call to scrap disputed leagues</title>
-      <link>https://www.daily-sun.com/sports/868080/dpl-under-threat-as-mohammedan-lead-call-to-scrap-disputed-leagues</link>
-      <description>A top-level Mohammedan official has said that the club will not take part in the upcoming DPL unless the ad-hoc</description>
-      <pubDate>Fri, 10 Apr 2026 17:14:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/DPL-69d92a31c3034.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>US consumer inflation surges in March amid war, tariff pressures</title>
-      <link>https://www.daily-sun.com/business/868079/us-consumer-inflation-surge-in-march-amid-war-tariff-pressures</link>
-      <description>US consumer prices increased by the most in nearly four years in March as the war with Iran led to</description>
-      <pubDate>Fri, 10 Apr 2026 17:14:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/medium/us-inflation-69d92a0dcf652.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh conclude campaign with victory and fifth place finish</title>
       <link>https://www.daily-sun.com/sports/868078/bangladesh-conclude-campaign-with-victory-and-fifth-place-finish</link>
       <description>Bangladesh ended their Asian Games hockey qualifiers campaign on a winning note, defeating Chinese Taipei 3-2 in a tense fifth-place</description>
@@ -3475,6 +3461,19 @@
       <description>Although the US Constitution says that Congress, not the president, can declare war</description>
       <pubDate>Tue, 14 Apr 2026 22:27:54 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/15/medium/Capitol-Hill-69deb90351635.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Trump says Iran talks may resume as Israel, Lebanon open direct track</title>
+      <link>https://www.daily-sun.com/world/868877/trump-says-iran-talks-may-resume-as-israel-lebanon-open-direct-track</link>
+      <description>Still, the truce agreed last Wednesday between Washington and Tehran remained in place</description>
+      <pubDate>Tue, 14 Apr 2026 23:10:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/15/medium/Trump-signals-69dec468c4354.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>PM inaugurates ‘Farmer Card’ pre-pilot programme on Pahela Baishakh</title>
+      <link>https://daily-sun.com/bangladesh/868799/pm-inaugurates-farmer-card-pre-pilot-programme</link>
+      <description />
+      <pubDate>Tue, 14 Apr 2026 23:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
