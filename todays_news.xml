@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Asia - Daily Sun</title>
-      <link>https://daily-sun.com/printversion/type/asia-print</link>
-      <description />
-      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Salah, Ngumoha ease Liverpool crisis with Fulham win</title>
-      <link>https://www.daily-sun.com/sports/868349/salah-ngumoha-ease-liverpool-crisis-with-fulham-win</link>
-      <description>Goals from teenager Rio Ngumoha and Mohamed Salah beat Fulham 2-0, snapping the Reds' three-game losing streak on Saturday</description>
-      <pubDate>Sat, 11 Apr 2026 19:23:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/12/medium/Mo-69da9f3fb0ba1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Yamal shines as Barca thrash Espanyol to extend Liga lead</title>
       <link>https://www.daily-sun.com/sports/868348/yamal-shines-as-barca-thrash-espanyol-to-extend-liga-lead</link>
       <description>Yamal set up two goals and scored another as Barca took a significant step towards defending their LaLiga title with</description>
@@ -3480,6 +3467,19 @@
       <description>Liberal Democrat MP Anna Sabine told the BBC's Politics Live said anyone involved in abuse of the asylum system should</description>
       <pubDate>Wed, 15 Apr 2026 19:56:20 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/16/medium/Tanisa-69dfe4e826267.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US says optimistic about reaching peace deal with Iran</title>
+      <link>https://www.daily-sun.com/world/869079/us-says-optimistic-about-reaching-peace-deal-with-iran</link>
+      <description>Israeli Prime Minister Benjamin Netanyahu, meanwhile, said on Wednesday that Israel and the US had "identical" goals in Iran.</description>
+      <pubDate>Wed, 15 Apr 2026 20:39:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/16/medium/Karoline_Leavitt-69dff0b54e0a2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tarique named among TIME’s 100 Most Influential People</title>
+      <link>https://daily-sun.com/bangladesh/868944/tarique-rahman-named-among-time-s-100-most-influential-people-of-2026</link>
+      <description />
+      <pubDate>Wed, 15 Apr 2026 20:39:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
