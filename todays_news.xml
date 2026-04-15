@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Business - Daily Sun</title>
-      <link>https://daily-sun.com/printversion/type/business-print</link>
-      <description />
-      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Winner - Daily Sun</title>
-      <link>https://daily-sun.com/printversion/type/winner</link>
-      <description />
-      <pubDate>Sat, 11 Apr 2026 18:38:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Asia - Daily Sun</title>
       <link>https://daily-sun.com/printversion/type/asia-print</link>
       <description />
@@ -3478,6 +3466,20 @@
       <link>https://daily-sun.com/bangladesh/868911/pm-seeks-2b-from-development-partners-to-meet-energy-demand</link>
       <description />
       <pubDate>Wed, 15 Apr 2026 18:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>White House offers no hint of Iran war cost as it seeks military funding surge</title>
+      <link>https://www.daily-sun.com/world/869078/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge</link>
+      <description>Democrats took issue with Vought's assertions that healthcare, education and low-income energy assistance programs were marred by fraud.</description>
+      <pubDate>Wed, 15 Apr 2026 19:56:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/16/medium/Houseton-69dfebcb5bb93.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds</title>
+      <link>https://www.daily-sun.com/world/869077/legal-advisers-help-migrants-pose-as-gay-to-get-asylum-undercover-bbc-investigation-finds</link>
+      <description>Liberal Democrat MP Anna Sabine told the BBC's Politics Live said anyone involved in abuse of the asylum system should</description>
+      <pubDate>Wed, 15 Apr 2026 19:56:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/16/medium/Tanisa-69dfe4e826267.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
