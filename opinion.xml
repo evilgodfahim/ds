@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Bloopers, Blunders, the Media and We</title>
-      <link>https://www.daily-sun.com/opinion/848607</link>
-      <description />
-      <pubDate>Mon, 29 Dec 2025 07:48:35 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2025/12/29/small/29-12-2025-p2-7-695167f25f839.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Groundwater Depletion, Pollution and Future of Bangladesh’s Cities</title>
       <link>https://www.daily-sun.com/opinion/848606</link>
       <description />
@@ -3060,6 +3053,12 @@ or Risk Tomorrow?</description>
       <link>https://www.daily-sun.com/opinion/869302/rooppur-and-the-recasting-of-bangladesh-s-energy-future</link>
       <description />
       <pubDate>Fri, 17 Apr 2026 05:39:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Farmers’ Card and Future of Farming</title>
+      <link>https://www.daily-sun.com/opinion/869023</link>
+      <description>On the morning of Pahela Baishakh, when the country ritually renewed itself with colours, fairs,</description>
+      <pubDate>Fri, 17 Apr 2026 23:05:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
