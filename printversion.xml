@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Tarique named among TIME’s 100 Most Influential People</title>
-      <link>https://www.daily-sun.com/front-page/868986</link>
-      <description>Prime Minister and BNP Chairman Tarique Rahman has been included in TIME magazine’s list of the 100 Most Influential People</description>
-      <pubDate>Wed, 15 Apr 2026 18:49:52 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Today's Photo</title>
       <link>https://www.daily-sun.com/front-page/868985</link>
       <description>The legendary PS Mahsud, a century-old paddle-wheel giant, carves through the waters of the River Buriganga on Tuesday. Having resumed</description>
@@ -3542,6 +3535,13 @@ clay crafts in Lalmonirhat</title>
       <description>Budget Should Be Supportive Despite Challenges</description>
       <pubDate>Tue, 21 Apr 2026 19:51:32 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/14/medium/4--14-04-2026-DS-69dd2791b7b88.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age</title>
+      <link>https://www.daily-sun.com/business-print/870323</link>
+      <description>Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age</description>
+      <pubDate>Wed, 22 Apr 2026 05:15:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/22/medium/2---22-04--26-Ds-69e7c5a53eb2b.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
