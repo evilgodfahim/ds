@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Chinese AI circuit board maker soars on Hong Kong debut</title>
-      <link>https://www.daily-sun.com/world/870125/chinese-ai-circuit-board-maker-soars-on-hong-kong-debut</link>
-      <description>Victory Giant Technology Huizhou has said it will use most of the proceeds to expand production in mainland China.</description>
-      <pubDate>Tue, 21 Apr 2026 05:52:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/21/medium/Circuit-69e704e159aa1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Dhaka jolted by moderate earthquake</title>
-      <link>https://www.daily-sun.com/earthquake/870124/dhaka-jolted-by-moderate-earthquake</link>
-      <description>The quake measured 5.0 on the Richter scale, based on preliminary readings from the meteorological office.</description>
-      <pubDate>Tue, 21 Apr 2026 05:52:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/21/medium/Earthquake1-69e702f065f22.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump says recovering Iran uranium ‘will be a long and difficult process’</title>
       <link>https://www.daily-sun.com/world/870123/trump-says-recovering-iran-uranium-will-be-a-long-and-difficult-process</link>
       <description>US President Trump warns that obtaining uranium from Iran will be a long and difficult process after last year's strikes;</description>
@@ -3477,6 +3463,20 @@
       <link>https://daily-sun.com/opinion/870804/fuel-running-low-a-looming-threat-to-bangladesh-s-connectivity-and-economy</link>
       <description />
       <pubDate>Fri, 24 Apr 2026 19:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remains of one of two missing Bangladeshi PhD students recovered in USA; one arrested</title>
+      <link>https://www.daily-sun.com/bangladesh/870945/remains-of-one-of-two-missing-phd-students-recovered-in-the-united-states-one-arrested</link>
+      <description>Meta Description: Authorities in Florida have discovered the body of Zamil Limon, a missing USF doctoral student from Bangladesh, on</description>
+      <pubDate>Fri, 24 Apr 2026 20:00:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/25/medium/Remains-of-one-of-two-missing-PhD-students-recovered-in-the-United-States;-one-arrested-69ebcad29713d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Police issue alert over possible militant threats to key installations</title>
+      <link>https://www.daily-sun.com/bangladesh/870944/police-issue-alert-over-possible-militant-threats-to-key-installations</link>
+      <description>Potential targets listed in the alert include the parliament building, major police and military facilities, places of worship, entertainment venues, and other critical infrastructure</description>
+      <pubDate>Fri, 24 Apr 2026 20:00:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/25/medium/Police-issue-alert-over-possible-militant-threats-to-key-installations-69ebc26597436.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
