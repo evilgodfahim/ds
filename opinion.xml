@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Cricket as Collateral Damage: Politicisation of IPL</title>
-      <link>https://www.daily-sun.com/opinion/850236</link>
-      <description />
-      <pubDate>Tue, 06 Jan 2026 21:42:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/07/small/07-01-2025-p3-5-695d409d1f52d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Sudden millionaires and the politics of elections</title>
       <link>https://www.daily-sun.com/opinion/850050</link>
       <description />
@@ -3048,6 +3041,12 @@ a 17-year Struggle</description>
       <link>https://www.daily-sun.com/opinion/870843/the-prime-minister-s-lunch-menu-the-story-of-a-new-bangladesh</link>
       <description />
       <pubDate>Fri, 24 Apr 2026 14:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fuel Running Low: A Looming Threat to Bangladesh’s Connectivity and Economy</title>
+      <link>https://daily-sun.com/opinion/870804/fuel-running-low-a-looming-threat-to-bangladesh-s-connectivity-and-economy</link>
+      <description />
+      <pubDate>Fri, 24 Apr 2026 18:09:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
