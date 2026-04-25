@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>American Empire Strikes Back</title>
-      <link>https://www.daily-sun.com/opinion/850044</link>
-      <description />
-      <pubDate>Tue, 06 Jan 2026 21:42:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/01/06/small/DS-13--06--01-2026-695bf2b7a0e9b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>How Would the Economy Be in 2026</title>
       <link>https://www.daily-sun.com/opinion/850043</link>
       <description />
@@ -3046,6 +3039,12 @@ a 17-year Struggle</description>
       <link>https://www.daily-sun.com/opinion/870684</link>
       <description>With every passing day, Israel finds itself sinking deeper into a path from which there</description>
       <pubDate>Fri, 24 Apr 2026 23:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Food Security: Limits of Self Sufficiency and Deepening Challenges</title>
+      <link>https://www.daily-sun.com/opinion/870722</link>
+      <description>Food security, as defined by the Food and Agriculture Organization (FAO), exists when all people</description>
+      <pubDate>Sat, 25 Apr 2026 19:55:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
