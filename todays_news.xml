@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Temple caretaker found dead three days after going missing</title>
-      <link>https://www.daily-sun.com/bangladesh/870449/temple-caretaker-found-dead-three-days-after-going-missing-in-cox-s-bazar</link>
-      <description>According to police and local sources, Nayan was allegedly called out of his residence...</description>
-      <pubDate>Wed, 22 Apr 2026 16:36:50 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/22/medium/Body-4-69e8f0829bb9c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladeshi girls shine at European math olympiad</title>
       <link>https://www.daily-sun.com/world/870448/bangladeshi-girls-shine-at-european-math-olympiad</link>
       <description>Bangladeshi students have earned international recognition by winning one silver and one bronze medal at the 15th European Girls’ Mathematical</description>
@@ -3471,6 +3464,13 @@
       <description>A seven-year-old student of second grade has been accused of attempted murder in a case filed in Gurudaspur, Natore.</description>
       <pubDate>Sun, 26 Apr 2026 21:50:34 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/Child-Arrest-69ee7ee6c8cd5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran foreign minister leaves Pakistan, heads to Russia for more talks</title>
+      <link>https://www.daily-sun.com/world/871336/iran-foreign-minister-leaves-pakistan-heads-to-russia-for-more-talks</link>
+      <description>There was no indication that direct talks between Iran and the United States would resume with both sides holding out on Tehran's nuclear programme</description>
+      <pubDate>Sun, 26 Apr 2026 23:03:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/araghchi-lavrov-69ee95fc432c0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
