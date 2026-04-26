@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Govt sends 13 senior police officials into forced retirement</title>
-      <link>https://www.daily-sun.com/bangladesh/870433/govt-sends-13-senior-police-officials-into-forced-retirement</link>
-      <description>This order was issued in the public interest and would take immediate effect...</description>
-      <pubDate>Wed, 22 Apr 2026 15:24:57 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/22/medium/Police-logo-2-69e8d60163337.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Court confirms Neymar corruption acquittal over Barcelona transfer</title>
       <link>https://www.daily-sun.com/sports/870454/court-confirms-neymar-corruption-acquittal-over-barcelona-transfer</link>
       <description>Spain's Supreme Court on Wednesday announced it had confirmed the acquittal of Neymar and former Barcelona presidents of corruption charges</description>
@@ -3473,6 +3466,13 @@
       <link>https://daily-sun.com/bangladesh/871145/rampant-influence-of-pharmaceutical-companies-in-hospitals</link>
       <description />
       <pubDate>Sun, 26 Apr 2026 18:06:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>30,000 Iranian pilgrims to perform Hajj</title>
+      <link>https://www.daily-sun.com/world/871332/30-000-iranian-pilgrims-to-perform-hajj</link>
+      <description>As many as 30,000 Iranians are set to perform the holy Hajj in Saudi Arabia this year following Tehran-Riyadh coordination</description>
+      <pubDate>Sun, 26 Apr 2026 20:25:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/hajj-ezgif-69ee74920a43f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
