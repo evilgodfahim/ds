@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Modern air traffic centre launched at HSIA</title>
-      <link>https://www.daily-sun.com/business-print/870104</link>
-      <description />
-      <pubDate>Mon, 20 Apr 2026 19:45:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/21/medium/1---21--04--26-DS-69e67df6ede85.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘Logistics cost reduction, market diversification key priority’</title>
       <link>https://www.daily-sun.com/business-print/870103</link>
       <description />
@@ -3530,6 +3523,13 @@ elephant airport</description>
       <description>Husband sentenced to death for killing wife over dowry</description>
       <pubDate>Sun, 26 Apr 2026 19:11:00 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Nuclear-armed State: Choice or Necessity?</title>
+      <link>https://www.daily-sun.com/editorial/871448</link>
+      <description>Nuclear-armed State: Choice or Necessity?</description>
+      <pubDate>Mon, 27 Apr 2026 17:56:51 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/28/medium/1--28-04-2026-ds-69ef96ed512e7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
