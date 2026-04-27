@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Chhatra Dal, Shibir clash at Shahbagh</title>
-      <link>https://www.daily-sun.com/bangladesh/870658/chhatra-shibir-clash-at-shahbagh</link>
-      <description>Chhatra Dal attack leaves at least 10 journalists injured; DUCSU leaders assaulted</description>
-      <pubDate>Thu, 23 Apr 2026 16:16:41 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/23/medium/shahbagh---69ea35ecc5d0d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>13 receive Dean’s Award at RU</title>
       <link>https://www.daily-sun.com/bangladesh/870657/13-receive-dean-s-award-at-ru</link>
       <description>Former deans of the faculty were also recognised with honorary crests at the ceremony</description>
@@ -3467,6 +3460,13 @@
       <link>https://daily-sun.com/world/871353/prosecutors-unearth-new-details-about-bangladeshi-students-killing-in-us</link>
       <description />
       <pubDate>Mon, 27 Apr 2026 21:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>PM Tarique condemns attack at White House press gala</title>
+      <link>https://www.daily-sun.com/diplomacy/871538/pm-tarique-condemns-attack-at-white-house-press-gala</link>
+      <description>a man armed with guns and knives stormed the lobby outside the White House Correspondents’ Association Dinner attended by Trump,</description>
+      <pubDate>Mon, 27 Apr 2026 22:10:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/28/medium/Trump-(8)-69efdb36ed2f1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
