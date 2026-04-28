@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Literary discussion session held at Moulvibazar Public Library</title>
-      <link>https://www.daily-sun.com/bashundhara-shuvosangho/870856/literary-discussion-session-held-at-moulvibazar-public-library</link>
-      <description>Bashundhara Shuvosangho hosted a literary discussion session with a group of litterateurs, journalists and politicians at Moulvibazar Public Library on</description>
-      <pubDate>Fri, 24 Apr 2026 15:42:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/24/medium/Shuvosangho-Moulvibazar-Public-Library-69eb826b9f10c.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>21 injured in Ctg road accident</title>
       <link>https://www.daily-sun.com/bangladesh/870855/21-injured-in-ctg-road-accident</link>
       <description>On information, members of the Highway Police rushed to the scene and rescued the injured passengers</description>
@@ -3463,6 +3456,13 @@
       <link>https://daily-sun.com/diplomacy/871569/bangladesh-prepares-to-send-manpower-to-japan-under-ssw-category</link>
       <description />
       <pubDate>Tue, 28 Apr 2026 20:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 killed, 9 injured in Kurigram road accident</title>
+      <link>https://www.daily-sun.com/bangladesh/871738/3-killed-9-injured-in-kurigram-road-accident</link>
+      <description>The injured were rescued and sent to a local hospital for treatment</description>
+      <pubDate>Tue, 28 Apr 2026 21:47:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/29/medium/K-69f12741a5ead.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
