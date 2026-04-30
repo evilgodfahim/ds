@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Rabada helps Gujarat thrash Chennai</title>
-      <link>https://www.daily-sun.com/sports/871229/rabada-helps-gujarat-thrash-chennai</link>
-      <description>South Africa's Kagiso Rabada led a disciplined attack with figures of 3-25 to help Gujarat Titans hammer Chennai Super Kings</description>
-      <pubDate>Sun, 26 Apr 2026 15:24:11 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/26/medium/KG-69ee26d322a41.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh high commissioner in India pays tribute to late Raghu Rai</title>
-      <link>https://www.daily-sun.com/obituary/871228/bangladesh-hc-in-india-pays-tribute-to-late-raghu-rai</link>
-      <description>He described Rai as someone who embraced him like a younger brother after their first interaction in Delhi in April 2025</description>
-      <pubDate>Sun, 26 Apr 2026 15:24:11 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/26/medium/R-69ee260c193a5.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Two female students injured in lightning strike at Dhaka University</title>
       <link>https://www.daily-sun.com/sun-campus/871227/two-female-students-injured-in-lightning-strike-at-dhaka-university</link>
       <description>An eyewitness and friend of the victims, Aglina, stated that the group was seeking shelter near the sculpture during a</description>
@@ -3469,6 +3455,19 @@
       <link>https://daily-sun.com/bangladesh/871954/religion-should-not-be-used-for-political-gain-pm</link>
       <description />
       <pubDate>Thu, 30 Apr 2026 19:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lebanon says Israeli strikes kill at least 15</title>
+      <link>https://www.daily-sun.com/world/872113/lebanon-says-israeli-strikes-kill-at-least-15</link>
+      <description>Israel's army also said Thursday that one of its soldiers had been killed in south Lebanon...</description>
+      <pubDate>Thu, 30 Apr 2026 20:11:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/A-child-waves-a-Lebanese-flag-while-AFP-69f3aac4b9c71.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MSF responds to measles outbreak in Cox’s Bazar</title>
+      <link>https://daily-sun.com/bangladesh/871989/msf-responds-to-measles-outbreak-in-cox-s-bazar</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2026 20:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
