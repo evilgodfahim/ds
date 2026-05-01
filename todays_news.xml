@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Hridoy channels frustration into fireworks</title>
-      <link>https://www.daily-sun.com/sports/871423/hridoy-channels-frustration-into-fireworks</link>
-      <description>Hridoy may have endured a testing time during the recent ODI series against New Zealand, but Chattogram witnessed a different</description>
-      <pubDate>Mon, 27 Apr 2026 15:03:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/16f9897b-205c-449d-8fc9-1a41353fd826-69ef76083dd87.jfif" type="image/jpeg" />
-    </item>
-    <item>
       <title>US murder suspect asked ChatGPT about body disposal before killing Bangladeshi students</title>
       <link>https://www.daily-sun.com/world/871422/us-murder-suspect-asked-chatgpt-about-body-disposal-before-killing-bangladeshi-students</link>
       <description>The man accused of killing two Bangladeshi doctoral students at University of South Florida asked ChatGPT about putting a person</description>
@@ -3469,6 +3462,13 @@
       <description>Fourteen soldiers died while clearing unexploded ordnance in Iran's Zanjan province after enemy airstrikes with cluster munitions contaminated the area,</description>
       <pubDate>Fri, 01 May 2026 22:30:57 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/02/medium/14-Iranian-soldiers-killed-in-demining-operation-69f51f50ae46c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BNP panel sweeps Dhaka Bar polls</title>
+      <link>https://www.daily-sun.com/bangladesh/872214/bnp-panel-sweeps-dhaka-bar-polls</link>
+      <description>BNP-backed Blue Panel dominates 2026–27 Dhaka Bar Association elections, winning all 23 positions amid changes in political alliances.</description>
+      <pubDate>Fri, 01 May 2026 23:17:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/02/medium/BNP-panel-sweeps-Dhaka-Bar-polls-69f53160114c8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
