@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>30,000 Iranian pilgrims to perform Hajj</title>
-      <link>https://www.daily-sun.com/world/871332/30-000-iranian-pilgrims-to-perform-hajj</link>
-      <description>As many as 30,000 Iranians are set to perform the holy Hajj in Saudi Arabia this year following Tehran-Riyadh coordination</description>
-      <pubDate>Sun, 26 Apr 2026 20:25:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/hajj-ezgif-69ee74920a43f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Another BNP activist shot dead in Raozan, Chattogram</title>
-      <link>https://www.daily-sun.com/bangladesh/871333/another-bnp-activist-shot-dead-in-raozan-chattogram</link>
-      <description>Terrorists shot dead a BNP activist at Raozan area in Chattogram on Sunday night, only about two days after gunning</description>
-      <pubDate>Sun, 26 Apr 2026 21:02:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/Raozan-69ee7a91bc1f6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Fuel rationing withdrawn for emergency services: PM</title>
       <link>https://daily-sun.com/bangladesh/871177/fuel-rationing-withdrawn-for-emergency-services-prime-minister</link>
       <description />
@@ -3468,6 +3454,20 @@
       <link>https://daily-sun.com/district-news/841852/journalist-mofidul-islam-distributes-vegetable-seeds-to-farmers-in-rangpur</link>
       <description />
       <pubDate>Fri, 01 May 2026 06:46:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Myanmar's Suu Kyi back in the spotlight but still out of sight</title>
+      <link>https://www.daily-sun.com/world/872134/myanmar-s-suu-kyi-back-in-the-spotlight-but-still-out-of-sight</link>
+      <description>The Nobel Peace Prize laureate was once the darling of foreign diplomats, with legions of supporters at home and a</description>
+      <pubDate>Fri, 01 May 2026 08:35:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/Suu-69e31b7f4715b-69f45d4356b06.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Venezuela signs oil, gas deals with US companies</title>
+      <link>https://www.daily-sun.com/world/872133/venezuela-signs-oil-gas-deals-with-us-companies</link>
+      <description>Venezuela signs oil deals with US firms amid thawing relations, boosting production amidst heavy US pressure</description>
+      <pubDate>Fri, 01 May 2026 08:35:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/Oil-69f453a66ded3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
