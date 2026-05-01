@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Bangladesh, Switzerland discuss trade, investment cooperation</title>
-      <link>https://www.daily-sun.com/diplomacy/871425/bangladesh-switzerland-discuss-trade-investment-cooperation</link>
-      <description>Bangladesh and Switzerland on Monday discussed expanding bilateral cooperation in trade and investment, alongside a range of priority sectors, during</description>
-      <pubDate>Mon, 27 Apr 2026 15:03:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/Bangladesh,-Switzerland-discuss-trade,-investment-cooperation-69ef77b0b7a80.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Five more children die of measles, symptoms in 24hrs</title>
-      <link>https://www.daily-sun.com/bangladesh/871424/five-more-children-die-of-measles-symptoms-in-24hrs</link>
-      <description>1,358 suspected cases recorded in a day</description>
-      <pubDate>Mon, 27 Apr 2026 15:03:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/27/medium/Measles-collected-69ef7705dec2b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Hridoy channels frustration into fireworks</title>
       <link>https://www.daily-sun.com/sports/871423/hridoy-channels-frustration-into-fireworks</link>
       <description>Hridoy may have endured a testing time during the recent ODI series against New Zealand, but Chattogram witnessed a different</description>
@@ -3469,6 +3455,20 @@
       <link>https://daily-sun.com/district-news/821066/2-000-tons-of-onions-imported-thru-bhomra-port-in-3-days</link>
       <description />
       <pubDate>Fri, 01 May 2026 21:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>US withdrawing 5,000 troops from Germany, US officials say</title>
+      <link>https://www.daily-sun.com/world/872213/us-withdrawing-5-000-troops-from-germany-us-officials-say</link>
+      <description>The withdrawal was expected to be completed over the next six to twelve months</description>
+      <pubDate>Fri, 01 May 2026 22:30:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/02/medium/US-withdrawing-5,000-troops-from-Germany-69f5261621568.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>14 Iranian soldiers killed in demining operation</title>
+      <link>https://www.daily-sun.com/world/872212/14-iranian-soldiers-killed-in-demining-operation</link>
+      <description>Fourteen soldiers died while clearing unexploded ordnance in Iran's Zanjan province after enemy airstrikes with cluster munitions contaminated the area,</description>
+      <pubDate>Fri, 01 May 2026 22:30:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/02/medium/14-Iranian-soldiers-killed-in-demining-operation-69f51f50ae46c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
