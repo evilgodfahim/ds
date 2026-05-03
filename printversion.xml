@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Today's Photo</title>
-      <link>https://www.daily-sun.com/metropolis/871053</link>
-      <description>Prime Minister Tarique Rahman lays the foundation stone of the training-cum-dormitory building of the BIAM Foundation in the capital on</description>
-      <pubDate>Sat, 25 Apr 2026 18:25:57 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/26/medium/DS-'04'26-53-69ed001e4cfa9.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>“May Fourth” Spirit Lives on as Youth Shape a Shared Future</title>
       <link>https://www.daily-sun.com/editorial/871081</link>
       <description>As May approaches, the world bursts into full vitality, brimming with life and renewal. On the upcoming 4th of May,</description>
@@ -3539,6 +3532,13 @@ Not Freedom</title>
       <description>A yet unnamed two month-old African Lion cub bonds with its mother Asali as two cubs went on public display</description>
       <pubDate>Sat, 02 May 2026 20:26:39 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/03/medium/23396---03-05--26-ds-69f657f17ee69.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Today's Photo</title>
+      <link>https://www.daily-sun.com/business-print/872374</link>
+      <description>A farmer uses a hay collecting machine in a field in the Zehiliga region of Morocco</description>
+      <pubDate>Sun, 03 May 2026 02:50:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/03/medium/7---03-05--26-ds-69f639d89d9a7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
