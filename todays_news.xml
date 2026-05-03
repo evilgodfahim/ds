@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Was PSG against Bayern the UCL's greatest game ever?</title>
-      <link>https://www.daily-sun.com/sports/871805/was-psg-against-bayern-the-ucl-s-greatest-game-ever</link>
-      <description>A thrilling display of what can happen when two teams packed with some of the world's best attacking players are</description>
-      <pubDate>Wed, 29 Apr 2026 15:03:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/29/medium/282069a9-b678-455c-8206-99598abd3554-69f20290cca0b.jfif" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Heavy showers hit Dhaka, disrupt busy morning</title>
-      <link>https://daily-sun.com/weather/871748/heavy-showers-hit-dhaka-disrupt-busy-morning</link>
-      <description />
-      <pubDate>Wed, 29 Apr 2026 15:03:33 +0000</pubDate>
-    </item>
-    <item>
       <title>IGP calls for tech-driven policing to boost service delivery</title>
       <link>https://www.daily-sun.com/bangladesh/871833/igp-calls-for-tech-driven-policing-to-boost-service-delivery</link>
       <description>The new systems are designed to modernise policing, traffic management and...</description>
@@ -3470,6 +3457,19 @@
       <description>Bangladesh Bank has formed a high-level investigation committee to examine alleged large-scale irregularities in recruitment over the past several years</description>
       <pubDate>Sun, 03 May 2026 20:55:58 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/BB-(Bangladesh-Bank)-69f79fddb83f3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Young Americans have soured on Trump</title>
+      <link>https://www.daily-sun.com/world/872617/young-americans-have-soured-on-trump</link>
+      <description>The president’s approval rating with those under 30 has plummeted as he has failed to deliver on promise after promise</description>
+      <pubDate>Sun, 03 May 2026 21:33:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/TRUMP-(3)-69f7b944a4608.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Kostyuk downs Andreeva to claim Madrid Open title</title>
+      <link>https://daily-sun.com/sports/872468/kostyuk-downs-andreeva-to-claim-madrid-open-tennis-title</link>
+      <description />
+      <pubDate>Sun, 03 May 2026 21:33:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
