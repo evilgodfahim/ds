@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Doctors urge tobacco tax reform to cut NCD deaths, boost revenue</title>
-      <link>https://www.daily-sun.com/bangladesh/871831/doctors-urge-tobacco-tax-reform-to-cut-ncd-deaths-boost-revenue</link>
-      <description>Leading physicians in Bangladesh urge comprehensive tobacco tax reform in the FY 2026-27 budget to combat non-communicable diseases and boost</description>
-      <pubDate>Wed, 29 Apr 2026 16:47:10 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/29/medium/Doctors-urge-tobacco-tax-reform-to-cut-NCD-deaths,-boost-revenue-69f22c0a646a4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Oil prices jump 5% on fears of prolonged Hormuz blockade</title>
       <link>https://www.daily-sun.com/business/871830/oil-prices-jump-5-on-fears-of-prolonged-hormuz-blockade</link>
       <description>At around 1335 GMT, a barrel of Brent crude for June delivery was up 5.16% at $117...</description>
@@ -3469,6 +3462,13 @@
       <link>https://daily-sun.com/bangladesh/872498/17-senior-police-officials-sent-into-forced-retirement</link>
       <description />
       <pubDate>Sun, 03 May 2026 22:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>WHO, ICRC, MSF denounce rise in attacks on health services</title>
+      <link>https://www.daily-sun.com/world/872619/who-icrc-msf-denounce-rise-in-attacks-on-health-services</link>
+      <description>Three of the world's top health agencies issued a joint statement Sunday denouncing the international community's failure to protect health</description>
+      <pubDate>Sun, 03 May 2026 23:03:26 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/WHO,-ICRC,-MSF-denounce-rise-in-attacks-on-health-services-69f7d346603a8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
