@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Oil prices jump 5% on fears of prolonged Hormuz blockade</title>
-      <link>https://www.daily-sun.com/business/871830/oil-prices-jump-5-on-fears-of-prolonged-hormuz-blockade</link>
-      <description>At around 1335 GMT, a barrel of Brent crude for June delivery was up 5.16% at $117...</description>
-      <pubDate>Wed, 29 Apr 2026 16:47:10 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/29/medium/Oil-price-surge-increase-collected-69f22a4165b70.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BCB elections ahead…</title>
       <link>https://www.daily-sun.com/sports/871829/bcb-elections-ahead</link>
       <description>Just dinner, or something else?</description>
@@ -3469,6 +3462,12 @@
       <description>Three of the world's top health agencies issued a joint statement Sunday denouncing the international community's failure to protect health</description>
       <pubDate>Sun, 03 May 2026 23:03:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/WHO,-ICRC,-MSF-denounce-rise-in-attacks-on-health-services-69f7d346603a8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>49 MPs from reserved seats for women take oath</title>
+      <link>https://daily-sun.com/bangladesh/872510/49-mps-from-reserved-seats-for-women-take-oath</link>
+      <description />
+      <pubDate>Mon, 04 May 2026 01:26:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
