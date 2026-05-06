@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>14 Iranian soldiers killed in demining operation</title>
-      <link>https://www.daily-sun.com/world/872212/14-iranian-soldiers-killed-in-demining-operation</link>
-      <description>Fourteen soldiers died while clearing unexploded ordnance in Iran's Zanjan province after enemy airstrikes with cluster munitions contaminated the area,</description>
-      <pubDate>Fri, 01 May 2026 22:30:57 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/02/medium/14-Iranian-soldiers-killed-in-demining-operation-69f51f50ae46c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BNP panel sweeps Dhaka Bar polls</title>
       <link>https://www.daily-sun.com/bangladesh/872214/bnp-panel-sweeps-dhaka-bar-polls</link>
       <description>BNP-backed Blue Panel dominates 2026–27 Dhaka Bar Association elections, winning all 23 positions amid changes in political alliances.</description>
@@ -3472,6 +3465,12 @@
       <description>President Donald Trump urged Iran to "do the smart thing" and make a deal</description>
       <pubDate>Tue, 05 May 2026 23:14:34 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/06/medium/Marco_Rubio-69fa7536f1d48.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Extortion syndicates dominate Gulistan</title>
+      <link>https://daily-sun.com/bangladesh/872818/extortion-syndicates-dominate-gulistan</link>
+      <description />
+      <pubDate>Wed, 06 May 2026 00:04:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
