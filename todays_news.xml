@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Govt starts working to fulfil election promises: PM</title>
-      <link>https://daily-sun.com/bangladesh/872242/govt-starts-working-to-fulfil-election-promises-pm</link>
-      <description />
-      <pubDate>Sun, 03 May 2026 02:50:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>PM joins opening ceremony of DC Conference</title>
-      <link>https://www.daily-sun.com/bangladesh/872425/pm-joins-opening-ceremony-of-dc-conference</link>
-      <description>Prime Minister Tarique Rahman inaugurated the DC Conference-2026, aiming to enhance public services and administrative efficiency in Bangladesh.</description>
-      <pubDate>Sun, 03 May 2026 05:50:28 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/03/medium/DC-Conference-69f6db92a9307.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Germany says US troop drawdown should spur Europe</title>
       <link>https://www.daily-sun.com/world/872424/germany-says-us-troop-drawdown-should-spur-europe</link>
       <description>The US plans a drawdown of 5,000 troops from Germany, prompting concerns from lawmakers and a call for Europe to</description>
@@ -3471,6 +3458,20 @@
       <description>Bangladesh's government aims to boost its fragile economy through a trade agreement with the US, focusing on increasing pharmaceutical exports</description>
       <pubDate>Wed, 06 May 2026 19:22:55 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/06/medium/Rashed-Al-Mahmud-Titumir-BSS-69fb865a9b0d4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump says Iran deal 'very possible', but threatens strikes if not</title>
+      <link>https://www.daily-sun.com/world/873232/trump-says-iran-deal-very-possible-but-threatens-strikes-if-not</link>
+      <description>US President Donald Trump hints at a possible deal with Iran amidst ongoing tensions and military threats, while Iran assesses</description>
+      <pubDate>Wed, 06 May 2026 20:53:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/Trump_AFP_01-69fba84968a1f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Senior Hezbollah commander killed by Israel in Beirut suburbs</title>
+      <link>https://www.daily-sun.com/world/873231/senior-hezbollah-commander-killed-by-israel-in-beirut-suburbs</link>
+      <description>Hezbollah commander Malek Ballout was killed in an Israeli strike in Beirut's southern suburbs, escalating tensions amidst a fragile truce</description>
+      <pubDate>Wed, 06 May 2026 20:53:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/Ahram-69fba60b04785.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
