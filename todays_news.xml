@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Digital misinformation a threat to society and state</title>
-      <link>https://www.daily-sun.com/bangladesh/872625/digital-misinformation-a-threat-to-society-and-state</link>
-      <description>Bangladesh media leaders warn of misinformation's epidemic threat to society and state. They call for collective action on World Press</description>
-      <pubDate>Mon, 04 May 2026 04:55:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/Digital-misinformation-a-threat-to-society-and-state-69f8250015ba8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Boeing faces civil trial over 737 MAX crash</title>
-      <link>https://www.daily-sun.com/world/872624/boeing-faces-civil-trial-over-737-max-crash</link>
-      <description>Boeing faces court this week over the 737 MAX crash in Ethiopia, with the family of NGO worker Samya Stumo</description>
-      <pubDate>Mon, 04 May 2026 04:55:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/Boeing-69f81f7c87a94.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>UK set to enter talks to join EU’s $105.9b Ukraine loan</title>
       <link>https://www.daily-sun.com/world/872623/uk-set-to-enter-talks-to-join-eu-s-105-9b-ukraine-loan</link>
       <description>Britain prepares to join the EU's £78 billion loan to Ukraine, aiming to enhance defense ties amid rising US pressure,</description>
@@ -3476,6 +3462,20 @@
       <link>https://daily-sun.com/bangladesh/873297/govt-plans-to-spend-5-of-gdp-on-education-minister</link>
       <description />
       <pubDate>Thu, 07 May 2026 20:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump gives EU until 4 July to ratify deal or face tariff hike</title>
+      <link>https://www.daily-sun.com/business/873446/trump-gives-eu-until-4-july-to-ratify-deal-or-face-tariff-hike</link>
+      <description>The Fourth of July holiday this year marks 250 years since the American colonies declared independence from British rule...</description>
+      <pubDate>Thu, 07 May 2026 21:40:36 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/US-tariff-Reuters-69fd055a21b98.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Body of Dipali killed in Israeli attack in Lebanon reaches Dhaka</title>
+      <link>https://www.daily-sun.com/bangladesh/873445/body-of-dipali-killed-in-israeli-attack-in-lebanon-reaches-dhaka</link>
+      <description>Victim’s family to receive Tk13 lakh in assistance</description>
+      <pubDate>Thu, 07 May 2026 21:40:36 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/Dipali-Begum-collected-69fd00dbae8a8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
