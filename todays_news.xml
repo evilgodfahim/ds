@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>UK set to enter talks to join EU’s $105.9b Ukraine loan</title>
-      <link>https://www.daily-sun.com/world/872623/uk-set-to-enter-talks-to-join-eu-s-105-9b-ukraine-loan</link>
-      <description>Britain prepares to join the EU's £78 billion loan to Ukraine, aiming to enhance defense ties amid rising US pressure,</description>
-      <pubDate>Mon, 04 May 2026 04:55:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/UK_Ukraine-loan-69f81f94f086b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Iran warns of ceasefire violation as US plans to escort Hormuz ships</title>
-      <link>https://www.daily-sun.com/world/872622/iran-warns-of-ceasefire-violation-as-us-plans-to-escort-hormuz-ships</link>
-      <description>Iran warns of ceasefire breach over US interference in the Strait of Hormuz, as Trump announces 'Project Freedom' to escort</description>
-      <pubDate>Mon, 04 May 2026 04:55:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/04/medium/Hormuz-29-April-69f331942c116-69f812cd6309d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Dr Yunus, Nurjahan blamed for child deaths linked to measles</title>
       <link>https://www.daily-sun.com/bangladesh/872621/dr-yunus-nurjahan-blamed-for-child-deaths-linked-to-measles</link>
       <description>In Dhaka, protesters demand legal action against former advisers Yunus and Begum for child deaths linked to measles. Calls for</description>
@@ -3476,6 +3462,19 @@
       <description>Victim’s family to receive Tk13 lakh in assistance</description>
       <pubDate>Thu, 07 May 2026 21:40:36 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/Dipali-Begum-collected-69fd00dbae8a8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US trade court rules against Trump's 10% global tariffs</title>
+      <link>https://www.daily-sun.com/business/873447/us-trade-court-rules-against-trump-s-10-global-tariffs</link>
+      <description>The ruling was 2-1, with one judge saying it was premature to grant victory to the small business plaintiffs...</description>
+      <pubDate>Thu, 07 May 2026 22:43:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/08/medium/Trump-Reuters-4-69fd0e3700e6a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bashundhara residents oppose bringing area under city corporation control</title>
+      <link>https://daily-sun.com/bangladesh/873084/bashundhara-residents-oppose-bringing-area-under-city-corporation-control</link>
+      <description />
+      <pubDate>Thu, 07 May 2026 22:43:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
