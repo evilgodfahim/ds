@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Asia battles rising, uneven toll of energy crisis caused by Iran war</title>
-      <link>https://www.daily-sun.com/world/872849/asia-battles-rising-uneven-toll-of-energy-crisis-caused-by-iran-war</link>
-      <description>Governments in Asia, the top oil importing region, are scrambling to find alternatives and insulate their economies from the worst</description>
-      <pubDate>Tue, 05 May 2026 08:27:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/05/medium/energy-crisis-caused-by-Iran-war-69f9a58fb2ec5.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Title race slips from City's grasp</title>
-      <link>https://www.daily-sun.com/sports/872848/title-race-slips-from-city-s-grasp</link>
-      <description>Manchester City manager Pep Guardiola admitted the Premier League title race had slipped out of his team's control</description>
-      <pubDate>Tue, 05 May 2026 08:27:12 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/05/medium/Pep-69f9a55c53bc1.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BFF set to split national team for Europe and Maldives assignments</title>
       <link>https://www.daily-sun.com/sports/872847/bff-set-to-split-national-team-for-europe-and-maldives-assignments</link>
       <description>While one half of the squad travels to Europe for a friendly against San Marino, the other will compete in</description>
@@ -3475,6 +3461,20 @@
       <link>https://daily-sun.com/diplomacy/873500/pakistan-interior-minister-naqvi-in-dhaka-on-two-day-visit</link>
       <description />
       <pubDate>Fri, 08 May 2026 19:20:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iran accuses US of ‘reckless military adventure’</title>
+      <link>https://www.daily-sun.com/world/873634/iran-accuses-us-of-reckless-military-adventure</link>
+      <description>Iran's Foreign Minister Abbas Araghchi denounces US military actions amid Strait of Hormuz tensions. Diplomatic solutions seem overshadowed by conflict.</description>
+      <pubDate>Fri, 08 May 2026 20:20:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/09/medium/Abbas-Araghchi-(1)-69fe4167e45a2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trump releases previously classified UFO files</title>
+      <link>https://www.daily-sun.com/world/873633/trump-releases-previously-classified-ufo-files</link>
+      <description>US President Trump and Defense Secretary Hegseth reveal declassified UFO files, aiming for transparency. The release sparks debate over extraterrestrial</description>
+      <pubDate>Fri, 08 May 2026 20:20:44 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/09/medium/Trump-releases-previously-classified-UFO-files-69fe38afb148f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
