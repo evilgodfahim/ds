@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Police on manhunt for policeman</title>
-      <link>https://www.daily-sun.com/back-page/872038</link>
-      <description>A sub-inspector of Kalabagan police station has gone missing with police launching a nationwide search to trace his whereabouts.The missing</description>
-      <pubDate>Thu, 30 Apr 2026 19:01:31 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Record turnout fuels intense anticipation ahead of results</title>
       <link>https://www.daily-sun.com/back-page/872037</link>
       <description>Supporters of the Bharatiya Janata Party (BJP) and the Trinamool Congress (TMC) are bracing themselves for results after West Bengal’s</description>
@@ -3538,6 +3531,13 @@ in CHT and Regional Security</description>
       <description>After 18 days of relentless conflict, the brutal war of Kurukshetra finally drew to a close, leaving behind a trail</description>
       <pubDate>Thu, 07 May 2026 20:45:12 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/01/medium/DS-'05'01-73-69f39fefb2b22.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Shell profit jumps as Mideast war fuels oil prices</title>
+      <link>https://www.daily-sun.com/business-print/873431</link>
+      <description>British energy giant Shell announced Thursday rising net profits for the first quarter as the Middle East war sent oil</description>
+      <pubDate>Fri, 08 May 2026 01:23:25 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
