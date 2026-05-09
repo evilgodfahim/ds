@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Saka sends Arsenal into Champions League final</title>
-      <link>https://www.daily-sun.com/sports/873031/saka-sends-arsenal-into-champions-league-final</link>
-      <description>Arsenal reached the Champions League final for only ​the second time in their history</description>
-      <pubDate>Tue, 05 May 2026 22:16:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/06/medium/Screenshot_20260506-030300-edit-20260506030431-69fa5e33c7df3.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh to take steps if push-in from India occurs: Khalilur</title>
       <link>https://daily-sun.com/bangladesh/872852/bangladesh-to-take-action-if-push-in-from-india-occurs-fm-khalilur</link>
       <description />
@@ -3477,6 +3470,13 @@
       <description>Guardiola praised the 'outstanding' Doku for keeping Manchester City in the Premier League title race</description>
       <pubDate>Sat, 09 May 2026 20:28:36 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/10/medium/Screenshot_20260510-013331-edit-20260510013443-69ff8e63b1743.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Over 100 students fall ill from contaminated water at DU</title>
+      <link>https://www.daily-sun.com/bangladesh/873824/over-100-students-fall-ill-from-contaminated-water-at-du</link>
+      <description>Over 100 students of Kuwait Friendship Hall at Dhaka University have fallen ill over the last three days due to</description>
+      <pubDate>Sat, 09 May 2026 21:10:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/10/medium/DU-waste-water-69ff994ee9556.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
