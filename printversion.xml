@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>2 women die in Channel crossing attempt</title>
-      <link>https://www.daily-sun.com/world-print/872525</link>
-      <description />
-      <pubDate>Sun, 03 May 2026 19:18:55 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Today's Photo</title>
       <link>https://www.daily-sun.com/world-print/872524</link>
       <description />
@@ -3529,6 +3522,13 @@ in CHT and Regional Security</description>
       <description>Your Resume Is No Longer Proof</description>
       <pubDate>Sat, 09 May 2026 20:28:37 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/03/medium/blogs-resumes-69f682d24756a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Blood at home</title>
+      <link>https://www.daily-sun.com/front-page/873957</link>
+      <description>156 dead in 3 months as family disputes turn deadly across country</description>
+      <pubDate>Sun, 10 May 2026 18:05:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/11/medium/17--11-05-2026-ds-6a00c312769a6.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
