@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>National Stadium to get new drainage network along touchlines</title>
-      <link>https://www.daily-sun.com/sports/873344/national-stadium-to-get-new-drainage-network-along-touchlines</link>
-      <description>Merely eight matches into its resurrection, the country's premier sporting arena already appears to be gasping for breath</description>
-      <pubDate>Thu, 07 May 2026 16:00:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/BFF-69fca6cb5faf4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>France keen to expand investment in Bangladesh</title>
       <link>https://www.daily-sun.com/diplomacy/873343/france-keen-to-expand-investment-in-bangladesh</link>
       <description>Ambassador Séré-Charlet welcomed the government’s initiatives</description>
@@ -3473,6 +3466,13 @@
       <link>https://daily-sun.com/bangladesh/874070/no-compromise-on-corruption-chain-of-command-within-police-home-minister</link>
       <description />
       <pubDate>Mon, 11 May 2026 18:27:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan, Bangladesh discuss future security cooperation</title>
+      <link>https://www.daily-sun.com/bangladesh/874199/japan-bangladesh-discuss-future-security-cooperation</link>
+      <description>Japanese Ambassador Saida Shinichi and Lt Gen Mir Mushfiqur Rahman discuss enhancing security cooperation between Bangladesh and Japan.</description>
+      <pubDate>Mon, 11 May 2026 20:15:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/12/medium/Japan,-Bangladesh-discuss-future-security-cooperation-6a02322863a7c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
