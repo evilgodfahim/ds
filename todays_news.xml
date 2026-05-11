@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>France keen to expand investment in Bangladesh</title>
-      <link>https://www.daily-sun.com/diplomacy/873343/france-keen-to-expand-investment-in-bangladesh</link>
-      <description>Ambassador Séré-Charlet welcomed the government’s initiatives</description>
-      <pubDate>Thu, 07 May 2026 16:00:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/F-69fca624250d5.gif" type="image/gif" />
-    </item>
-    <item>
       <title>‘Important milestone’ in fight against corruption: Alex Marshall</title>
       <link>https://www.daily-sun.com/sports/873342/important-milestone-in-fight-against-corruption-alex-marshall</link>
       <description>Alex Marshall has hailed the recent suspension of four individuals as an 'important milestone' in the mission to safeguard cricket</description>
@@ -3473,6 +3466,13 @@
       <description>Japanese Ambassador Saida Shinichi and Lt Gen Mir Mushfiqur Rahman discuss enhancing security cooperation between Bangladesh and Japan.</description>
       <pubDate>Mon, 11 May 2026 20:15:17 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/12/medium/Japan,-Bangladesh-discuss-future-security-cooperation-6a02322863a7c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Alaskan town begins 84 days of continuous daylight</title>
+      <link>https://www.daily-sun.com/world/874216/alaskan-town-begins-84-days-of-continuous-daylight</link>
+      <description>Utqiagvik, the northernmost U.S. city, just experienced its last sunrise before 84 days of continuous daylight. Discover the Arctic's midnight</description>
+      <pubDate>Mon, 11 May 2026 21:43:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/12/medium/Alaskan-town-6a02389c28ae1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
