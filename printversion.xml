@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Shakib’s ‘Rockstar’ teaser strikes a powerful chord</title>
-      <link>https://www.daily-sun.com/culturetainment/873149</link>
-      <description />
-      <pubDate>Wed, 06 May 2026 19:22:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/DS-'05'07-43-69fb8126a2082.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Nolan unveils epic new footage of Cyclops, evil Robert Pattinson and Charlize Theron</title>
       <link>https://www.daily-sun.com/culturetainment/873148</link>
       <description />
@@ -3537,6 +3530,13 @@ digital gap</description>
 Two-thirds Majority</description>
       <pubDate>Tue, 12 May 2026 18:59:58 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/13/medium/1--13-05-2026-6a036142423df.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Today's Photo</title>
+      <link>https://www.daily-sun.com/news/874412</link>
+      <description />
+      <pubDate>Tue, 12 May 2026 20:30:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/13/medium/20-13-05-2026-6a038afc9f62e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
