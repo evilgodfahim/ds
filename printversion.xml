@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Technology advancements opening new horizons in healthcare: CUET VC</title>
-      <link>https://www.daily-sun.com/news/872993</link>
-      <description />
-      <pubDate>Tue, 05 May 2026 19:04:56 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Hantavirus may have spread between passengers on cruise ship: WHO</title>
       <link>https://www.daily-sun.com/world-print/872953</link>
       <description />
@@ -3537,6 +3530,13 @@ in Carbon Trading</description>
       <description>Actuaries: A Road Less Travelled By</description>
       <pubDate>Mon, 11 May 2026 21:43:47 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/06/medium/8--06-05-2026-ds-69fa2495be3f6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oil soars as Trump rejects Iran’s terms</title>
+      <link>https://www.daily-sun.com/business-print/874188</link>
+      <description>Oil soars as Trump rejects Iran’s terms</description>
+      <pubDate>Tue, 12 May 2026 04:54:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/12/medium/6--12-05--26-DS-6a0227897210e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
