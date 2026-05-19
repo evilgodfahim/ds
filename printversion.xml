@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Israeli drone strike in Lebanon kills 2 more Bangladeshis</title>
-      <link>https://www.daily-sun.com/back-page/874345</link>
-      <description>Dhaka strongly  condemns attack</description>
-      <pubDate>Tue, 12 May 2026 18:59:58 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>9 more die from measles, symptoms</title>
       <link>https://www.daily-sun.com/back-page/874344</link>
       <description>9 more die from measles, symptoms</description>
@@ -3530,6 +3523,13 @@ on Eid</description>
       <description>Why Women Still Receive Treatment Too Late</description>
       <pubDate>Mon, 18 May 2026 20:51:48 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/13/medium/3--13-05-2026-6a036141d4f09.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Trust Bank, BB sign refinancing deals to promote small businesses</title>
+      <link>https://www.daily-sun.com/business-print/875591</link>
+      <description>Trust Bank, BB sign refinancing deals to promote small businesses</description>
+      <pubDate>Tue, 19 May 2026 05:56:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/19/medium/7--19-05---26-ds-6a0b5a5eae530.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
