@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM Modi visits iconic Afsluitdijk with Dutch PM Rob Jetten</title>
-      <link>https://www.daily-sun.com/world/875325/pm-modi-visits-iconic-afsluitdijk-with-dutch-pm-rob-jetten</link>
-      <description>Prime Minister Narendra Modi on Sunday visited the iconic Afsluitdijk water management structure in the Netherlands along with Dutch Prime</description>
-      <pubDate>Sun, 17 May 2026 18:13:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/17/medium/Untitled-(1)-6a09fb1965c6b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump says 'clock is ticking' for Iran</title>
       <link>https://www.daily-sun.com/world/875312/trump-says-clock-is-ticking-for-iran</link>
       <description>The US president threatened consequences for Iran if its leaders do not act quickly...</description>
@@ -3476,6 +3469,13 @@
       <link>https://www.daily-sun.com/bangladesh/876242/justice-and-punishment-will-be-ensured-swiftly-mahdi-amin</link>
       <description />
       <pubDate>Thu, 21 May 2026 22:47:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Attempted child rape: Locals clash with police to snatch suspect in Ctg</title>
+      <link>https://www.daily-sun.com/bangladesh/876241/ctg-child-rape-locals-clash-with-police-to-snatch-suspect</link>
+      <description>The child was rescued and sent to the One-Stop Crisis Centre at Chittagong Medical College Hospital...</description>
+      <pubDate>Thu, 21 May 2026 23:44:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/22/medium/Ctg-police-vehilce-on-fire-Daily-Sun-6a0f9003a851a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
