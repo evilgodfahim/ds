@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Auto-rickshaws expose gaps in capital’s AI-based traffic management</title>
-      <link>https://www.daily-sun.com/bangladesh/875626/auto-rickshaws-expose-gaps-in-capital-s-ai-based-traffic-management</link>
-      <description>Dhaka Metropolitan Police introduces AI traffic management to curb violations. Despite compliance from many drivers, auto-rickshaws pose ongoing challenges.</description>
-      <pubDate>Tue, 19 May 2026 05:56:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/19/medium/Auto-Rickshaws-Expose-Limits-of-AI-Traffic-System-in-Dhaka-6a0bd3fe1368c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Online gambling pushes the nation towards ruin</title>
       <link>https://www.daily-sun.com/bangladesh/875625/online-gambling-pushes-the-nation-towards-ruin</link>
       <description>Once, gambling meant card games or secret gatherings. Now it takes place on smartphone screens. A dangerous online betting syndicate</description>
@@ -3472,6 +3465,13 @@
       <description>Shanto sees Zimbabwe series as vital preparation before Australia test</description>
       <pubDate>Fri, 22 May 2026 20:04:49 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/22/medium/Shanto-6a107aea105ec.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Pakistan army chief arrives in Tehran in push to end Iran war</title>
+      <link>https://www.daily-sun.com/world/876431/pakistan-army-chief-arrives-in-tehran-in-push-to-end-iran-war</link>
+      <description>Pakistan's army chief arrived in Tehran to mediate the US-Iran conflict, as officials discuss ways to end the Middle East</description>
+      <pubDate>Fri, 22 May 2026 21:21:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/23/medium/Pakistan-army-chief-6a0ec5c623ee5-6a10c43a0d959.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
