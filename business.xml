@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Iran denies Hormuz access to Bangladeshi ship</title>
-      <link>https://www.daily-sun.com/business/868030/iran-denies-hormuz-access-to-bangladeshi-ship</link>
-      <description />
-      <pubDate>Fri, 10 Apr 2026 17:14:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/04/10/small/Iran-denies-Hormuz-access-to-Bangladeshi-ship-69d8ee2486ea6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US consumer inflation surges in March amid war, tariff pressures</title>
       <link>https://www.daily-sun.com/business/868079/us-consumer-inflation-surge-in-march-amid-war-tariff-pressures</link>
       <description />
@@ -3052,6 +3045,13 @@ investor confidence</description>
       <link>https://daily-sun.com/business/876476/bb-announces-tk60-000cr-stimulus-to-reopen-closed-factories</link>
       <description />
       <pubDate>Sat, 23 May 2026 19:49:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-priced ‘Dumbas’ steal the spotlight at Gabtoli cattle market</title>
+      <link>https://www.daily-sun.com/business/876460/high-priced-dumbas-steal-the-spotlight-at-gabtoli-cattle-market</link>
+      <description>Five dumbas arrive at Gabtoli cattle market in Dhaka for Eid-ul-Azha, with prices reaching Tk5 lakh amid growing buyer interest.</description>
+      <pubDate>Sat, 23 May 2026 23:31:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/23/medium/Dumbas-priced-at-Tk4-6a115b27921dc.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
