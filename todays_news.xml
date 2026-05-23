@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Lightning strikes kill 2, destroy livestock in Jhenaidah, Meherpur</title>
-      <link>https://www.daily-sun.com/bangladesh/875829/lightning-strikes-kill-2-destroy-livestock-in-jhenaidah-meherpur</link>
-      <description>Four cattle also died during the storm</description>
-      <pubDate>Tue, 19 May 2026 19:23:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/20/medium/Death-6a0cb50a10e33.gif" type="image/gif" />
-    </item>
-    <item>
-      <title>Bashundhara Group chairman honoured as ‘Best Land Development Taxpayer’ in Narsingdi</title>
-      <link>https://www.daily-sun.com/feature/875828/bashundhara-group-chairman-honoured-as-best-land-development-taxpayer-in-narsingdi</link>
-      <description>The event was conducted by Sadar Upazila Assistant Commissioner (land) Meftahul Hasan</description>
-      <pubDate>Tue, 19 May 2026 19:23:08 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/20/medium/N-6a0cb274cf775.gif" type="image/gif" />
-    </item>
-    <item>
       <title>‘China holds the cards’: Why Putin’s visit to Beijing after Trump matters</title>
       <link>https://www.daily-sun.com/world/875827/china-holds-the-cards-why-putin-s-visit-to-beijing-after-trump-matters</link>
       <description>“In the diplomatic sphere, they’re trying to display their neutrality as a kind of neutral superpower.”</description>
@@ -3471,6 +3457,18 @@
       <link>https://daily-sun.com/bangladesh/876266/hajj-2026-21-bangladeshi-pilgrims-died-in-saudi-arabia-so-far</link>
       <description />
       <pubDate>Sat, 23 May 2026 17:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Brutality against children in Bangladesh must stop: UNICEF</title>
+      <link>https://daily-sun.com/bangladesh/876442/brutality-against-children-in-bangladesh-must-stop-unicef</link>
+      <description />
+      <pubDate>Sat, 23 May 2026 18:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>DNA report expected today, charge sheet likely by Sunday</title>
+      <link>https://daily-sun.com/bangladesh/876457/dna-report-expected-today-charge-sheet-likely-by-sunday</link>
+      <description />
+      <pubDate>Sat, 23 May 2026 18:42:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
