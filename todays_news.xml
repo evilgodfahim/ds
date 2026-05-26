@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Dhaka, three other divisions to see heavy rainfall in 24 hours</title>
-      <link>https://www.daily-sun.com/weather/876278/dhaka-three-other-divisions-to-see-heavy-rainfall-in-24-hours</link>
-      <description>Bangladesh Meteorological Department forecasts heavy rainfall in Rangpur, Mymensingh, Dhaka, and Sylhet over the next 24 hours, warning of gusty</description>
-      <pubDate>Fri, 22 May 2026 08:46:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/22/medium/Rain-6a100b5951283.gif" type="image/gif" />
-    </item>
-    <item>
       <title>New York City offering USD50 World Cup tickets for residents</title>
       <link>https://www.daily-sun.com/sports/876277/new-york-city-offering-50-world-cup-tickets-for-residents</link>
       <description>New York City will offer its residents a chance to snag USD50 tickets to World Cup games in New Jersey</description>
@@ -3472,6 +3465,13 @@
       <link>https://daily-sun.com/bangladesh/877018/heavy-traffic-rain-trigger-22km-gridlock-on-dhaka-tangail-highway</link>
       <description />
       <pubDate>Tue, 26 May 2026 18:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>What’s inside the Kaaba and what covers it?</title>
+      <link>https://www.daily-sun.com/world/877086/what-s-inside-the-kaaba-and-what-covers-it</link>
+      <description>The Kaaba is draped in a black cloth called the Kiswah, which is embroidered in gold with Arabic Quranic verses...</description>
+      <pubDate>Tue, 26 May 2026 20:26:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Hajj-AFP-2-6a15e3a583836.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
