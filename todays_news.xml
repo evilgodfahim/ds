@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Oil prices fall amid hopes of US-Iran deal</title>
-      <link>https://www.daily-sun.com/world/876819/oil-prices-fall-amid-hopes-of-us-iran-deal</link>
-      <description>Oil prices fall as optimism grows over a US-Iran peace deal. Analysts warn of challenges ahead despite potential relief from</description>
-      <pubDate>Mon, 25 May 2026 06:09:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/25/medium/Oil-prices-fall-6a13bea27ce57.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>15 killed as truck overturns on Dhaka-Tangail highway</title>
       <link>https://www.daily-sun.com/bangladesh/876818/15-killed-as-truck-overturns-on-dhaka-tangail-highway</link>
       <description>Tragic accident on Dhaka-Tangail Highway claims 15 lives as truck overturns while carrying Eid travelers. Six injured in the Elenga</description>
@@ -3484,6 +3477,13 @@
       <description>Enrique delighted as PSG retain UCL</description>
       <pubDate>Sat, 30 May 2026 20:39:45 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/PSG-6a1b3f3d3feb6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Stage set for Bangladesh-India blockbuster</title>
+      <link>https://www.daily-sun.com/sports/877432/stage-set-for-bangladesh-india-blockbuster</link>
+      <description>The stage is set at the Pandit Jawaharlal Nehru Stadium in Goa for what promises to be the definitive blockbuster</description>
+      <pubDate>Sat, 30 May 2026 21:39:22 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/Ritu-6a1b573f8c57e.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
