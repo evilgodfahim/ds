@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Heavy rain halts launch services at Sadarghat Terminal</title>
-      <link>https://www.daily-sun.com/bangladesh/877027/heavy-rain-halts-launch-services-at-sadarghat-terminal</link>
-      <description>Sadarghat water transport services suspended due to severe weather. Ministry of Shipping alerts for bridge operations halt amid heavy rainfall.</description>
-      <pubDate>Tue, 26 May 2026 09:00:05 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/26/medium/Untitled-1-6a1544d34fe3b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Ferry services on Paturia-Daulatdia route suspended</title>
       <link>https://www.daily-sun.com/bangladesh/877026/ferry-services-between-paturia-daulatdia-suspended</link>
       <description>Ferry services on the Paturia-Daulatdia route were suspended today due to a severe nor'wester and heavy rain, impacting travel on</description>
@@ -3491,6 +3484,13 @@
       <description>Prime Minister Tarique Rahman has said the government is firmly committed to protecting public health and safeguarding future generations</description>
       <pubDate>Sun, 31 May 2026 23:03:42 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/31/medium/PM-Tarique-01-6a1cbaa574ee2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oil opens up as US toughens terms of Iran war agreement</title>
+      <link>https://www.daily-sun.com/business/877592/oil-opens-up-as-us-toughens-terms-of-iran-war-agreement</link>
+      <description>Oil prices rose as markets reopened Monday following weekend reports that the United States had hardened its negotiating terms with</description>
+      <pubDate>Mon, 01 Jun 2026 00:14:06 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/01/medium/Fuel-price-hike-6a1cc017ab065.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
