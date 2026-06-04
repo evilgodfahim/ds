@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Saudi warns Hajj pilgrims of dust storms and extreme heat</title>
-      <link>https://www.daily-sun.com/back-page/876539</link>
-      <description>Saudi Arabia has warned of dust-stirring winds and extreme daytime heat across several regions as hundreds of thousands of pilgrims</description>
-      <pubDate>Sat, 23 May 2026 18:42:26 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Forging for sacrifice: Dhaka blacksmiths ride Eid-ul-Azha rush</title>
       <link>https://www.daily-sun.com/metropolis/876556</link>
       <description>With only a few days remaining before Eid-ul-Azha, blacksmiths across Dhaka are experiencing a surge in demand as residents prepare</description>
@@ -3545,6 +3538,13 @@ a team’s anguish</description>
       <description>RUMINATION</description>
       <pubDate>Wed, 03 Jun 2026 18:38:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/07/medium/DS-'05'07-71-69fb8ec974dc0.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Oil jumps, stocks mixed on fragile MIdeast peace hopes</title>
+      <link>https://www.daily-sun.com/business-print/878160</link>
+      <description>Oil prices jumped and stock markets diverged Wednesday as fresh Middle East attacks dented hopes of an imminent peace deal.The</description>
+      <pubDate>Thu, 04 Jun 2026 06:47:59 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/04/medium/DS-'06'04-106-6a20746c53eb1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
