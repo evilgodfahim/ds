@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Fakhrul calls for unity, vigilance against attempts to destabilise country</title>
-      <link>https://www.daily-sun.com/politics/878055/fakhrul-calls-for-unity-vigilance-against-attempts-to-destabilise-country</link>
-      <description>BNP Secretary General Mirza Fakhrul Islam Alamgir urges unity against instability in Bangladesh, highlighting development projects and youth involvement.</description>
-      <pubDate>Wed, 03 Jun 2026 18:38:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/03/medium/Fakhrul-Thakurgaon-Sun-2-6a2048caf3727.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>CMCH intern doctors demand Tk30,000 monthly allowance</title>
-      <link>https://www.daily-sun.com/bangladesh/878054/cmch-intern-doctors-demand-tk30-000-monthly-allowance</link>
-      <description>The six-point demands also include the cancellation of the Ministry of Health and Family Welfare's recent decisions...</description>
-      <pubDate>Wed, 03 Jun 2026 18:38:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/03/medium/CMCH-collected-6a204634c53c4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>DRU condemns attack on journalist’s family in Shariatpur</title>
       <link>https://www.daily-sun.com/bangladesh/878053/dru-condemns-attack-on-journalist-s-family-in-shariatpur</link>
       <description>The Dhaka Reporters’ Unity (DRU) has strongly condemned last week’s violent attack by miscreants on the family of a journalist</description>
@@ -3477,6 +3463,19 @@
       <link>https://daily-sun.com/sports/878829/tamim-iqbal-elected-new-bcb-president-fahim-sinha-vice-president</link>
       <description />
       <pubDate>Sun, 07 Jun 2026 21:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel army says Iran committed 'grave mistake' by firing missiles</title>
+      <link>https://www.daily-sun.com/world/878955/israel-army-says-iran-committed-grave-mistake-by-firing-missiles</link>
+      <description>Israel accused Tehran of committing a "grave mistake" on Sunday after reporting it had come under several waves of Iranian</description>
+      <pubDate>Sun, 07 Jun 2026 22:35:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/08/medium/Untitled-(1)-6a25ea86a725a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Earthquake jolts Dhaka, other parts of country</title>
+      <link>https://daily-sun.com/bangladesh/878885/earthquake-jolts-dhaka</link>
+      <description />
+      <pubDate>Sun, 07 Jun 2026 22:35:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
