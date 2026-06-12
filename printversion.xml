@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>A state shaped by football</title>
-      <link>https://www.daily-sun.com/winner/878547</link>
-      <description />
-      <pubDate>Fri, 05 Jun 2026 19:21:07 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ton-up Hridoy, Mushfiq headline rain-hit matchday</title>
-      <link>https://www.daily-sun.com/winner/878545</link>
-      <description />
-      <pubDate>Fri, 05 Jun 2026 19:21:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/06/medium/DS-'06'06-92-6a2315a7e72ec.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Emon set for Lahore Qalandars stint</title>
       <link>https://www.daily-sun.com/winner/878543</link>
       <description />
@@ -3544,6 +3530,20 @@ worth Tk3,891cr</title>
       <description>The New Testament epistle written by James, a step-brother of Jesus, to churches of the first century has these words:</description>
       <pubDate>Thu, 11 Jun 2026 22:17:35 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/15/medium/DS-'05'15-72-6a0611ef61ae2.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Agriculture sector gets Tk43,335cr in FY27 budget</title>
+      <link>https://www.daily-sun.com/budget-2026-2027/879709</link>
+      <description>Govt prioritises lower farm production costs through cheaper inputs and mechanisation</description>
+      <pubDate>Fri, 12 Jun 2026 02:12:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/DS-'06'12-75-6a2b017e9f1f9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BIN made mandatory for business banking, digital payments</title>
+      <link>https://www.daily-sun.com/budget-2026-2027/879708</link>
+      <description>The government is set to tighten digital and formal economy compliance by making Business Identification Number (BIN) mandatory for opening</description>
+      <pubDate>Fri, 12 Jun 2026 02:12:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/Budget-2026-27-6a2b439a23b29.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
