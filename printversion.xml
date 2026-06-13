@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>First budget session of 13th Parliament begins today</title>
-      <link>https://www.daily-sun.com/news/878685</link>
-      <description />
-      <pubDate>Sat, 06 Jun 2026 19:03:49 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘World on verge of largest financial market bubble since 19th century’</title>
       <link>https://www.daily-sun.com/world-print/878706</link>
       <description />
@@ -3543,6 +3536,13 @@ worth Tk3,891cr</title>
       <description>THE NEXT GENERATION READY TO CONQUER THE WORLD</description>
       <pubDate>Fri, 12 Jun 2026 20:39:35 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/13/medium/DS-'06'13-10-6a2c65be87126.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh, India to coordinate patrols on border, share intel</title>
+      <link>https://www.daily-sun.com/back-page/879852</link>
+      <description>BGB, BSF say in joint statement after 57th DG-level border conference</description>
+      <pubDate>Sat, 13 Jun 2026 06:07:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/13/medium/BGB_BSF-6a2c88930335a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
