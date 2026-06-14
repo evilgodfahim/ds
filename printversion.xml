@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Information minister leaves for China</title>
-      <link>https://www.daily-sun.com/news/878881</link>
-      <description />
-      <pubDate>Sun, 07 Jun 2026 18:43:56 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/08/medium/22--08--06--2026-DS-6a25acc63995b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>N Korea reaffirms nuke status a day before Xi’s visit</title>
       <link>https://www.daily-sun.com/world-print/878865</link>
       <description />
@@ -3540,6 +3533,13 @@ worth Tk3,891cr</title>
       <description>The privacy of our personal information is very important in this digital age. We leave a lot of information behind</description>
       <pubDate>Sat, 13 Jun 2026 20:44:09 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/05/24/medium/DS-'05'24-83-6a11eb4c5fb13.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>One World against Dengue: Warning and Way Forward</title>
+      <link>https://www.daily-sun.com/editorial/880218</link>
+      <description>One World against Dengue: Warning and Way Forward</description>
+      <pubDate>Sun, 14 Jun 2026 17:43:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/15/medium/2--15-06-2026-ds-6a2ee6288df24.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
