@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>South Korea court sentences ex-President Yoon to 30-year jail term over drone incursion</title>
-      <link>https://www.daily-sun.com/world/879773/south-korea-court-sentences-ex-president-yoon-to-30-year-jail-term-over-drone-incursion</link>
-      <description>Former President Yoon Suk Yeol sentenced to 30 years in prison for military drone incursion over North Korea, escalating South</description>
-      <pubDate>Fri, 12 Jun 2026 10:57:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/South-Korea-court-sentences-ex-President-Yoon-6a2bc2a8e8402.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>13,000 'terrorists' killed in Nigeria in past year: President</title>
       <link>https://www.daily-sun.com/world/879772/nigeria-killed-13-000-terrorists-in-past-year-president</link>
       <description>Nigeria's President Bola Tinubu reveals over 13,000 terrorists neutralized in a year, reflecting a significant decline in jihadist insurgency under</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/bangladesh/880519/how-an-mp-friend-allegedly-led-to-benazir-s-arrest</link>
       <description />
       <pubDate>Tue, 16 Jun 2026 20:28:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mbappe double fires France to opening win over Senegal</title>
+      <link>https://www.daily-sun.com/sports/880722/mbappe-double-fires-france-to-opening-win-over-senegal</link>
+      <description>Barcola of Paris Saint-Germain then came off the bench to get the second late on</description>
+      <pubDate>Tue, 16 Jun 2026 22:27:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/17/medium/F-6a31c08cc170c.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
