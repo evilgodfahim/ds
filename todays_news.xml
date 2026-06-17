@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>NATO says to cut forces in Kosovo mission</title>
-      <link>https://www.daily-sun.com/world/879771/nato-says-to-cut-forces-in-kosovo-mission</link>
-      <description>NATO announces troop cuts in Kosovo's peacekeeping mission as security improves, according to General Alexus Grynkewich. What this means for</description>
-      <pubDate>Fri, 12 Jun 2026 10:57:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/12/medium/NATO-6a2bbe0dc1bff.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Myanmar's president to visit China next week</title>
       <link>https://www.daily-sun.com/world/879770/myanmar-s-president-to-visit-china-next-week</link>
       <description>Myanmar's President Min Aung Hlaing will visit China next week to discuss trade and cooperation with Xi Jinping amid ongoing</description>
@@ -3480,6 +3473,13 @@
       <link>https://daily-sun.com/sports/877450/youtube-to-stream-all-104-fifa-world-cup-matches-for-free</link>
       <description />
       <pubDate>Tue, 16 Jun 2026 23:55:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lionel Messi plays in record sixth World Cup</title>
+      <link>https://www.daily-sun.com/sports/880723/lionel-messi-plays-in-record-sixth-world-cup</link>
+      <description>Lionel Messi makes history by participating in his sixth World Cup as Argentina faces Algeria, marking his 200th international cap</description>
+      <pubDate>Wed, 17 Jun 2026 02:10:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/17/medium/Messi-6a31fc872ca08.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
