@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>The rise and fall of Benazir’s empire</title>
-      <link>https://www.daily-sun.com/bangladesh/880326/the-rise-and-fall-of-benazir-s-empire</link>
-      <description>How a state medal for a university student led to the exposure of former IGP Benazir Ahmed’s vast corruption empire</description>
-      <pubDate>Mon, 15 Jun 2026 08:43:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/15/medium/KK-6a2f93020be5e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Yamal fit but will not start Spain’s World Cup opener, says De la Fuente</title>
       <link>https://www.daily-sun.com/sports/880325/yamal-fit-but-will-not-start-spain-s-world-cup-opener-says-de-la-fuente</link>
       <description>Spain coach Luis de la Fuente confirms Lamine Yamal is fit but will start on the bench in their World</description>
@@ -3472,6 +3465,12 @@
       <description>Morocco captain Achraf Hakimi will play against Scotland in the World Cup despite facing trial for rape charges in France,</description>
       <pubDate>Fri, 19 Jun 2026 22:37:40 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/20/medium/Achraf_Hakimi-6a35bb3ab093d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Training series on AI in higher education begins at ULAB</title>
+      <link>https://daily-sun.com/sun-campus/881062/training-series-on-ai-in-higher-edn-begins-in-ulab</link>
+      <description />
+      <pubDate>Fri, 19 Jun 2026 23:43:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
