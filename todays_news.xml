@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Rain forecast across country in next 24 hours</title>
-      <link>https://www.daily-sun.com/bangladesh/880327/rain-forecast-across-country-in-next-24-hours</link>
-      <description>Bangladesh Meteorological Department forecasts rainfall across the country for the next 24 hours, with light to moderate showers likely in</description>
-      <pubDate>Mon, 15 Jun 2026 08:43:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/15/medium/Rain_2-6a2f94e2aa4c4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>The rise and fall of Benazir’s empire</title>
       <link>https://www.daily-sun.com/bangladesh/880326/the-rise-and-fall-of-benazir-s-empire</link>
       <description>How a state medal for a university student led to the exposure of former IGP Benazir Ahmed’s vast corruption empire</description>
@@ -3472,6 +3465,13 @@
       <description>Ambassador Pranay Verma discusses climate collaboration with EU’s Eric Mamer. India-EU relations strengthen on sustainability and environmental protection.</description>
       <pubDate>Fri, 19 Jun 2026 21:42:02 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/20/medium/Pranay_Verma_meets_Mamer-6a35a8489ae12.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hakimi plays in World Cup despite being sent for rape trial</title>
+      <link>https://www.daily-sun.com/sports/881277/hakimi-plays-in-world-cup-despite-being-sent-for-rape-trial</link>
+      <description>Morocco captain Achraf Hakimi will play against Scotland in the World Cup despite facing trial for rape charges in France,</description>
+      <pubDate>Fri, 19 Jun 2026 22:37:40 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/20/medium/Achraf_Hakimi-6a35bb3ab093d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
