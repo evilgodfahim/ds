@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Police uniform design revised</title>
-      <link>https://www.daily-sun.com/bangladesh/881182/police-uniform-design-revised</link>
-      <description>The Police Headquarters on Friday issued an official gazette confirming the revision of police uniform design and colours.</description>
-      <pubDate>Fri, 19 Jun 2026 14:31:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/19/medium/police-uniform-6a35475dd9e7b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Khusanov sends apology shirt to cameraman injured in WC opener</title>
       <link>https://www.daily-sun.com/sports/881181/ukbekistan-s-khusanov-sends-apology-shirt-to-cameraman-injured-in-wc-opener</link>
       <description>Abdukodir Khusanov sent a signed 'I am sorry' jersey to a cameraman injured in an accidental collision during Uzbekistan’s World</description>
@@ -3465,6 +3458,13 @@
       <link>https://daily-sun.com/sports/880930/no-no-impossible-messi-dismisses-2030-world-cup-return</link>
       <description />
       <pubDate>Tue, 23 Jun 2026 20:27:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>US Senate votes to halt Iran war in latest rebuke of Trump</title>
+      <link>https://www.daily-sun.com/world/882058/us-senate-votes-to-halt-iran-war-in-latest-rebuke-of-trump</link>
+      <description>Experts say it remains a contested legal question likely to be settled in the courts</description>
+      <pubDate>Tue, 23 Jun 2026 21:56:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/24/medium/Trump-says-6a3af529099e9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
