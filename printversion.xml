@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>PM: Govt aims to establish modern, data-driven agri ecosystem</title>
-      <link>https://www.daily-sun.com/front-page/880812</link>
-      <description>Prime Minister Tarique Rahman said on Wednesday that the core objective of his farmer-friendly government is to establish a modern,</description>
-      <pubDate>Wed, 17 Jun 2026 20:29:50 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Budget bucks trend as essential prices hold steady</title>
       <link>https://www.daily-sun.com/back-page/880826</link>
       <description>In a sharp departure from the typical post-budget spiral of price hikes, kitchen markets across the country have remained remarkably</description>
@@ -3528,6 +3521,13 @@ to El Niño Effects</description>
       <description>Asia shares, oil slip as markets reprice Fed expectations</description>
       <pubDate>Wed, 24 Jun 2026 05:54:13 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/24/medium/35--24-06-2026-ds-6a3ad832f314b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Samsung unveils 98-inch TV to enhance world cup viewing experience</title>
+      <link>https://www.daily-sun.com/business-print/882015</link>
+      <description>Samsung unveils 98-inch TV to enhance world cup viewing experience</description>
+      <pubDate>Wed, 24 Jun 2026 08:48:31 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/24/medium/34--24-06-2026-ds-6a3ad832c3c45.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
