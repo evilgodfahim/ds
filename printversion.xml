@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Today's Photo</title>
-      <link>https://www.daily-sun.com/metropolis/881219</link>
-      <description>Hawkers occupy the footpath and a large portion of the busy thoroughfare in the capital’s Gulistan area, causing traffic congestion</description>
-      <pubDate>Fri, 19 Jun 2026 18:57:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/20/medium/DS-'06'20-27-6a357cab58424.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>NO ANCHOR, NO CHASE</title>
       <link>https://www.daily-sun.com/winner/881266</link>
       <description>Emon admits Bangladesh missing an anchor in T20Is</description>
@@ -3528,6 +3521,13 @@ to El Niño Effects</description>
       <description>Days after Iran began striking targets across the United Arab Emirates in March, Dubai's top officials gathered hundreds of business</description>
       <pubDate>Thu, 25 Jun 2026 22:00:07 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/DS-'06'26-108-6a3d76220d858.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Airbus unions stage rare strikes over office attendance increase</title>
+      <link>https://www.daily-sun.com/business-print/882456</link>
+      <description>French unions called one-day stoppages and protests at Airbus on Thursday as the European planemaker moves to raise the number</description>
+      <pubDate>Fri, 26 Jun 2026 01:32:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/medium/DS-'06'26-109-6a3d7621cd8fe.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
