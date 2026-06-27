@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US Embassy in Dhaka prepares to celebrate America’s 250th founding anniversary</title>
-      <link>https://www.daily-sun.com/diplomacy/881969/us-embassy-in-dhaka-prepares-to-celebrate-america-s-250th-founding-anniversary</link>
-      <description>The initiative will also recognise the contributions of Americans</description>
-      <pubDate>Tue, 23 Jun 2026 18:19:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/23/medium/US-Embassy-6a3abda0b5490.gif" type="image/gif" />
-    </item>
-    <item>
       <title>UNOPS Bangladesh highlights women’s leadership in Ctg</title>
       <link>https://www.daily-sun.com/bangladesh/881960/unops-bangladesh-highlights-women-s-leadership-in-ctg</link>
       <description>Member of Parliament Gias Uddin Quader Chowdhury emphasised the importance of local ownership</description>
@@ -3476,6 +3469,13 @@
       <link>https://daily-sun.com/world/882577/magnitude-6-7-quake-hits-off-southern-philippines-usgs</link>
       <description />
       <pubDate>Sat, 27 Jun 2026 18:53:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>11 Chinese companies propose $9.21b investment in Bangladesh</title>
+      <link>https://www.daily-sun.com/business/882787/11-chinese-companies-propose-9-21b-investment-in-bangladesh</link>
+      <description>During a meeting with Prime Minister Tarique Rahman on Thursday in Beijing, heads of eleven China-based companies proposed they would</description>
+      <pubDate>Sat, 27 Jun 2026 20:02:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/medium/Chinese-companies-investment-6a401ddd56850.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
