@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Japan look to turn tables on mentors Brazil</title>
-      <link>https://daily-sun.com/sports/883080/japan-look-to-turn-tables-on-mentors-brazil</link>
-      <description />
-      <pubDate>Mon, 29 Jun 2026 19:23:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anger mounts over uneven government response after Venezuela quakes</title>
-      <link>https://www.daily-sun.com/world/883220/anger-mounts-over-uneven-government-response-after-venezuela-quakes</link>
-      <description>Frustration is rising across Venezuela over a lack of aid and coordinated government response in areas struck by deadly twin</description>
-      <pubDate>Mon, 29 Jun 2026 21:01:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/30/medium/_Venezuela_quakes_Daily-Sun-6a42d66d2b3c4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Latham hails 'old school' NZ after downing England</title>
       <link>https://www.daily-sun.com/sports/883219/latham-hails-old-school-nz-after-downing-england</link>
       <description>Tom Latham hailed his side's 'old-school' cricket after they became the first team to come from behind and win a</description>
@@ -3484,6 +3471,20 @@
       <link>https://daily-sun.com/world/883869/officials-from-100-countries-to-attend-khamenei-s-funeral-ceremony</link>
       <description />
       <pubDate>Fri, 03 Jul 2026 20:08:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Egypt edge Australia on penalties to reach World Cup last 16</title>
+      <link>https://www.daily-sun.com/sports/884023/egypt-edge-australia-on-penalties-to-reach-world-cup-last-16</link>
+      <description>Egypt makes history by defeating Australia 4-2 on penalties to reach the World Cup last 16, led by Hossam Abdelmaguid's</description>
+      <pubDate>Fri, 03 Jul 2026 21:22:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/04/medium/Egypt_edge_Australia-6a4826eae58b5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Frustrated families demand recovery of Venezuela’s earthquake dead</title>
+      <link>https://www.daily-sun.com/world/884022/frustrated-families-demand-recovery-of-venezuela-s-earthquake-dead</link>
+      <description>Venezuela's earthquakes have left nearly 2,600 dead and many missing. Families demand help to recover bodies as rescue efforts dwindle</description>
+      <pubDate>Fri, 03 Jul 2026 21:22:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/04/medium/VENEZUELA-6a481fc2ca64b.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
