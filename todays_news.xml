@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Beloved spiritual utopia under threat in Modi's India</title>
-      <link>https://www.daily-sun.com/world/883451/beloved-spiritual-utopia-under-threat-in-modi-s-india</link>
-      <description>Until India's Hindu nationalist prime minister Narendra Modi turned his attention to the lush paradise its founders created on a</description>
-      <pubDate>Wed, 01 Jul 2026 06:23:59 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/medium/spiritual_utopia-under-threat-in-Modi's_India_Daily-Sun-6a44983596b83.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iran prepares for supreme leader Khamenei’s funeral</title>
       <link>https://www.daily-sun.com/world/883450/iran-prepares-for-supreme-leader-khamenei-s-funeral</link>
       <description>Iran prepares for a grand funeral of Ayatollah Ali Khamenei, killed in US-Israeli airstrikes. Millions of mourners expected as Tehran</description>
@@ -3485,6 +3478,13 @@
       <link>https://daily-sun.com/sports/884162/why-england-players-have-been-allowed-to-take-viagra-before-mexico-match</link>
       <description />
       <pubDate>Sat, 04 Jul 2026 21:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>71 passengers vanish from Dhaka airport after immigration clearance: Report</title>
+      <link>https://www.daily-sun.com/bangladesh/884260/71-passengers-vanish-from-dhaka-airport-after-immigration-clearance-report</link>
+      <description>Over 70 passengers reportedly “vanished” from the Dhaka airport on Saturday night even after securing their boarding passes</description>
+      <pubDate>Sat, 04 Jul 2026 23:34:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/dhaka-airport-6a499389d03d0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
