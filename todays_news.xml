@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Gold prices rise: What is new price per bhori?</title>
-      <link>https://www.daily-sun.com/business/883641/gold-prices-rise-what-is-new-price-per-bhori</link>
-      <description>Bangladesh Jewellers Association (BAJUS) raises gold price by Tk2,216 per bhori due to local market fluctuations, effective today.</description>
-      <pubDate>Thu, 02 Jul 2026 05:46:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Gold_Price_Daily_Sun1-6a45eb01bb210.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Russian air strikes kill eight, injure dozens in Ukraine's Kyiv</title>
-      <link>https://www.daily-sun.com/world/883640/russian-air-strikes-kill-eight-injure-dozens-in-ukraine-s-kyiv</link>
-      <description>Russian forces attacked Kyiv, killing eight and injuring dozens. President Zelenskiy cut his visit short amid warnings of further strikes.</description>
-      <pubDate>Thu, 02 Jul 2026 05:46:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Russian_strike_Daily-Sun-6a45e914a33aa.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump sees progress as US, Iran hold Qatar talks</title>
       <link>https://www.daily-sun.com/world/883639/trump-sees-progress-as-us-iran-hold-qatar-talks</link>
       <description>US President Donald Trump states progress in indirect talks with Iran in Qatar, aiming to end the Middle East war</description>
@@ -3489,6 +3475,20 @@
       <description>Foundation Coordinator Md Amir Hossain Mia visited the hospital and handed over financial support to Rakib's father</description>
       <pubDate>Sun, 05 Jul 2026 16:51:28 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/ABG-6a4a7faadbb6a.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Speaker returns home after attending Khamenei's state funeral</title>
+      <link>https://www.daily-sun.com/diplomacy/884407/speaker-returns-home-after-attending-khamenei-s-state-funeral-in-iran</link>
+      <description>Speaker of the Jatiya Sangsad Hafiz Uddin Ahmad returned to Dhaka from Tehran on Sunday night after attending the state</description>
+      <pubDate>Sun, 05 Jul 2026 17:51:15 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/Speaker-Hafiz-Uddin-Ahmad-6a4a973057c96.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ansar member killed in Ctg road crash</title>
+      <link>https://www.daily-sun.com/bangladesh/884383/ansar-official-killed-in-ctg-road-crash</link>
+      <description>An official of the Ansar and Village Defence Party (VDP) was killed in a road accident in Mirsharai upazila of</description>
+      <pubDate>Sun, 05 Jul 2026 17:51:15 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/dead-body-6a4a90cb12eee.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
