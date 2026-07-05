@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Creaventure 4.0 quarter-final presents next gen entrepreneurs</title>
-      <link>https://www.daily-sun.com/business-print/882776</link>
-      <description>Innovation, sustainability and entrepreneurship took centre stage as the quarter-final of Creaventure 4.0, the flagship national idea-pitching competition organised by</description>
-      <pubDate>Sun, 28 Jun 2026 08:15:48 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>12 Chinese firms propose $9.21b investment in Bangladesh</title>
       <link>https://www.daily-sun.com/business-print/882952</link>
       <description />
@@ -3511,6 +3504,13 @@ Fate for Nepal and Bangladesh</description>
       <description>“Those who are brilliant are no longer in the country. None of them are here. And they will never return.”</description>
       <pubDate>Sat, 04 Jul 2026 23:34:56 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/14/medium/DS-'06'14-83-6a2da20e41768.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>AI race weakens climate pledges at Google, Amazon</title>
+      <link>https://www.daily-sun.com/business-print/884248</link>
+      <description>Google and Amazon this week reported sharp increases in greenhouse gas emissions, driven by the frantic construction of artificial intelligence</description>
+      <pubDate>Sun, 05 Jul 2026 05:12:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/DS-'07'5-108-6a4952ec87585.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
