@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>'Job forever': trade schools are all the rage in the AI era</title>
-      <link>https://www.daily-sun.com/sci-tech/883636/job-forever-trade-schools-are-all-the-rage-in-the-ai-era</link>
-      <description>Long looked down upon, skilled trades are booming in the United States, especially among young adults drawn by strong demand</description>
-      <pubDate>Thu, 02 Jul 2026 05:46:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Artificial_Inteligence_Daily-Sun-6a45e081dc740.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>5.5-magnitude earthquake strikes northeastern Afghanistan</title>
-      <link>https://www.daily-sun.com/world/883635/5-5-magnitude-earthquake-strikes-northeastern-afghanistan</link>
-      <description>A 5.5-magnitude earthquake struck northeastern Afghanistan, with an epicenter in Badakhshan province.</description>
-      <pubDate>Thu, 02 Jul 2026 05:46:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/02/medium/Earthquake-6a45ddc195592.gif" type="image/gif" />
-    </item>
-    <item>
       <title>Speaker Hafiz Uddin departs for Tehran to attend Khamenei’s funeral</title>
       <link>https://www.daily-sun.com/bangladesh/883634/speaker-hafiz-uddin-departs-for-tehran-to-attend-khamenei-s-funeral</link>
       <description>Dhaka's Speaker Hafiz Uddin Ahmed travels to Tehran for the funeral of Iran's Supreme Leader Ayatollah Khamenei, who died at</description>
@@ -3489,6 +3475,18 @@
       <description>Miraz said their humiliating defeat in the one-off Test is very much in the past as they prepare to take</description>
       <pubDate>Sun, 05 Jul 2026 18:51:25 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/BCB-6a4a7eb149598.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>71 passengers vanish from Dhaka airport after immigration clearance: Report</title>
+      <link>https://daily-sun.com/bangladesh/884260/71-passengers-vanish-from-dhaka-airport-after-immigration-clearance-report</link>
+      <description />
+      <pubDate>Sun, 05 Jul 2026 20:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>8 ships U-turn during Strait of Hormuz crossing attempt</title>
+      <link>https://daily-sun.com/world/884213/8-ships-u-turn-during-strait-of-hormuz-crossing-attempt</link>
+      <description />
+      <pubDate>Sun, 05 Jul 2026 20:04:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
