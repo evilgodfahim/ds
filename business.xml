@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Bangladesh eyes chip deals through US roadshow</title>
-      <link>https://www.daily-sun.com/business/878356</link>
-      <description />
-      <pubDate>Thu, 04 Jun 2026 23:23:09 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/05/small/DS-'06'05-110-6a21c7b627f86.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BB turns down MGI bid for $80m IFC loan to expand shipping fleet</title>
       <link>https://www.daily-sun.com/business/878287</link>
       <description />
@@ -3183,6 +3176,12 @@ no. 2 in inland fish production</description>
       <description />
       <pubDate>Sun, 05 Jul 2026 05:12:08 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/small/DS-'07'5-1-6a493f0356873.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>OPEC+ raises quotas again as Middle East calms</title>
+      <link>https://www.daily-sun.com/business/884369/opec-raises-quotas-again-as-middle-east-calms</link>
+      <description />
+      <pubDate>Sun, 05 Jul 2026 16:51:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
