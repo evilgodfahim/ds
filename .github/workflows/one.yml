@@ -21,11 +21,32 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run FlareSolverr container
+      - name: Start Redis
         run: |
-          docker run -d --name byparr -p 8191:8191 ghcr.io/thephaseless/byparr:latest
-          sleep 10
+          docker network create trawl-net
+          docker run -d \
+            --name redis \
+            --network trawl-net \
+            redis:alpine
 
+      - name: Start Trawl
+        run: |
+          docker run -d \
+            --name trawl \
+            --network trawl-net \
+            -p 8191:8191 \
+            -e REDIS_URL=redis://redis:6379 \
+            -e BROWSER_POOL_SIZE=2 \
+            -e RESIDENTIAL_PROXY_URL=${{ secrets.WEBSHARE_PROXY_URL }} \
+            ghcr.io/germondai/trawl:latest
+
+      - name: Wait for Trawl
+        run: |
+          for i in $(seq 1 40); do
+            curl -sf http://localhost:8191/health && echo 'Trawl ready' && exit 0
+            sleep 2
+          done
+          docker logs trawl && exit 1
       - name: Fetch Samakal Opinion HTML
         run: python fetch.py
 
