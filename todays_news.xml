@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Speaker returns home after attending Khamenei's state funeral</title>
-      <link>https://www.daily-sun.com/diplomacy/884407/speaker-returns-home-after-attending-khamenei-s-state-funeral-in-iran</link>
-      <description>Speaker of the Jatiya Sangsad Hafiz Uddin Ahmad returned to Dhaka from Tehran on Sunday night after attending the state</description>
-      <pubDate>Sun, 05 Jul 2026 17:51:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/Speaker-Hafiz-Uddin-Ahmad-6a4a973057c96.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ansar member killed in Ctg road crash</title>
-      <link>https://www.daily-sun.com/bangladesh/884383/ansar-official-killed-in-ctg-road-crash</link>
-      <description>An official of the Ansar and Village Defence Party (VDP) was killed in a road accident in Mirsharai upazila of</description>
-      <pubDate>Sun, 05 Jul 2026 17:51:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/medium/dead-body-6a4a90cb12eee.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Algeria celebrates 64th Independence Day in Dhaka</title>
       <link>https://www.daily-sun.com/diplomacy/884408/news-2</link>
       <description>The Embassy of Algeria in Dhaka on Saturday celebrated the 64th National Independence Day of the People's Democratic Republic of</description>
@@ -3478,6 +3464,20 @@
       <link>https://www.daily-sun.com/world/885318/un-chief-nominates-bangladeshi-diplomat-rabab-fatima-as-special-envoy-for-afghanistan</link>
       <description />
       <pubDate>Thu, 09 Jul 2026 20:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Govt declares two new river ports in Sariakandi, Dhunat</title>
+      <link>https://www.daily-sun.com/bangladesh/885320/govt-declares-two-new-river-ports-in-sariakandi-dhunat</link>
+      <description>The information was disclosed in two separate notifications issued on 8 July by the Ministry of Shipping...</description>
+      <pubDate>Thu, 09 Jul 2026 21:44:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Shipping-ministry-FB-6a500fbe4c4de.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran burying Khamenei after new US fighting erupts</title>
+      <link>https://www.daily-sun.com/world/885319/iran-says-it-hits-u-s-military-targets-in-gulf-buries-slain-lea</link>
+      <description>In tumultuous scenes, Khamenei's coffin was carried aloft into the shrine in his home city of Mashhad...</description>
+      <pubDate>Thu, 09 Jul 2026 21:44:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Ali-Khamenei-burial-9-July-2026-AFP-6a5008738e5c9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
