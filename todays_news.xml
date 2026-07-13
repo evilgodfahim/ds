@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Army restores communication, rescues tourists amid floods, landslides in CHT</title>
-      <link>https://www.daily-sun.com/bangladesh/885323/bangladesh-army-continues-rescue</link>
-      <description>They have also evacuated around 221 families living in areas at high risk of landslides to safer locations...</description>
-      <pubDate>Thu, 09 Jul 2026 23:59:55 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/10/medium/Army-CHT-ISPR-6a502f106be23.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Economy will not strengthen unless industries perform well: Khosru</title>
       <link>https://www.daily-sun.com/business/885332/economy-will-not-strengthen-unless-industries-perform-well-khosru</link>
       <description>Finance Minister Amir Khosru Mahmud Chowdhury emphasizes the need for industrial growth in Bangladesh to strengthen the economy and address</description>
@@ -3490,6 +3483,12 @@
       <link>https://daily-sun.com/business/885936/gold-prices-fall-what-is-new-price-per-bhori</link>
       <description />
       <pubDate>Mon, 13 Jul 2026 20:24:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump says deal with Iran still 'possible'</title>
+      <link>https://www.daily-sun.com/world/886132/trump-says-deal-with-iran-still-possible</link>
+      <description />
+      <pubDate>Mon, 13 Jul 2026 23:13:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
