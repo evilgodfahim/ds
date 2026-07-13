@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>DMP to install 200 more AI cameras in August</title>
-      <link>https://www.daily-sun.com/metropolis/884802</link>
-      <description />
-      <pubDate>Wed, 08 Jul 2026 06:45:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/08/medium/15--08-07-2026-ds-6a4d47186383c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Today's Photo</title>
       <link>https://www.daily-sun.com/metropolis/884801</link>
       <description />
@@ -3550,6 +3543,13 @@ for flood victims</description>
       <description>The Other Quarter-Final: When Humanity Calls</description>
       <pubDate>Mon, 13 Jul 2026 19:05:46 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/14/medium/5--14-07-2026-ds-6a551c329114e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>The Fall From The Heights</title>
+      <link>https://www.daily-sun.com/post-logu/884584</link>
+      <description>The Fall From The Heights</description>
+      <pubDate>Mon, 13 Jul 2026 20:24:06 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/4---07-07-2026-ds-6a4be01baa7f9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
