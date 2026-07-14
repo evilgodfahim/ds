@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Today's Photo</title>
-      <link>https://www.daily-sun.com/metropolis/884801</link>
-      <description />
-      <pubDate>Wed, 08 Jul 2026 06:45:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/08/medium/17--08-07-2026-ds-6a4d4718304fd.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Govt hospitals to offer free dengue tests until 31 Dec</title>
-      <link>https://www.daily-sun.com/metropolis/884800</link>
-      <description />
-      <pubDate>Wed, 08 Jul 2026 06:45:46 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Asia Cup preparations 
 on track</title>
       <link>https://www.daily-sun.com/winner/884866</link>
@@ -3550,6 +3536,20 @@ for flood victims</description>
       <description>The Fall From The Heights</description>
       <pubDate>Mon, 13 Jul 2026 20:24:06 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/07/medium/4---07-07-2026-ds-6a4be01baa7f9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Floods inflict Tk399cr losses on fisheries, livestock as death toll climbs to 56</title>
+      <link>https://www.daily-sun.com/front-page/886268</link>
+      <description />
+      <pubDate>Tue, 14 Jul 2026 17:55:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/15/medium/6--15-07-2026-ds-6a5672e76dd33.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Minister sorry, students angry</title>
+      <link>https://www.daily-sun.com/front-page/886271</link>
+      <description>Minister sorry, students angry</description>
+      <pubDate>Tue, 14 Jul 2026 17:55:50 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/15/medium/7--15-07-2026-ds-6a5672e7df9a8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
