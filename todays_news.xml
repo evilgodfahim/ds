@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Gaza health officials say children among 11 killed in Israeli strikes</title>
-      <link>https://www.daily-sun.com/world/887247/gaza-health-officials-say-children-among-11-killed-in-israeli-strikes</link>
-      <description>Israeli attacks in Gaza killed 11, including three children, despite a ceasefire with Hamas. Violence escalates as rescue efforts continue.</description>
-      <pubDate>Sun, 19 Jul 2026 03:43:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/Israeli_strike-in-Gaza_Sun-6a5c44d7727ad.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Trump Media pitched $100,000 monthly fee for fastest feed of US president's posts</title>
       <link>https://www.daily-sun.com/world/887246/trump-media-pitched-100-000-monthly-fee-for-fastest-feed-of-us-president-s-posts</link>
       <description>Trump's Truth Social proposes $100k monthly fees for fast access to his posts, sparking criticism over ethical concerns and potential</description>
@@ -3481,6 +3474,13 @@
       <link>https://daily-sun.com/politics/887947/jamaat-mp</link>
       <description />
       <pubDate>Wed, 22 Jul 2026 20:50:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Google-parent Alphabet beats expectations, cloud revenue nearly doubles</title>
+      <link>https://www.daily-sun.com/world/888085/google-parent-alphabet-beats-expectations-cloud-revenue-nearly-doubles</link>
+      <description>Google's cloud business surged 80% amid AI investments, with CEO Sundar Pichai noting Gemini's impact and YouTube's viewership of the</description>
+      <pubDate>Wed, 22 Jul 2026 22:46:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Google_photo-6a614003ed95d.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
