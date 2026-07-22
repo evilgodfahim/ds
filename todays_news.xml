@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump Media pitched $100,000 monthly fee for fastest feed of US president's posts</title>
-      <link>https://www.daily-sun.com/world/887246/trump-media-pitched-100-000-monthly-fee-for-fastest-feed-of-us-president-s-posts</link>
-      <description>Trump's Truth Social proposes $100k monthly fees for fast access to his posts, sparking criticism over ethical concerns and potential</description>
-      <pubDate>Sun, 19 Jul 2026 03:43:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/Trump_Daily_Sun-6a5c426a966ae.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>India probe into stolen donations tests trust in temple finances</title>
-      <link>https://www.daily-sun.com/world/887245/india-probe-into-stolen-donations-tests-trust-in-temple-finances</link>
-      <description>A probe into donations at India's Ram temple reveals mishandling of funds, raising concerns about transparency and accountability in religious</description>
-      <pubDate>Sun, 19 Jul 2026 03:43:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/19/medium/_temple_finances_Daily_Sun-6a5c3b7df274a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iran's Supreme Leader says US breaches show Trump's signature is 'worthless'</title>
       <link>https://www.daily-sun.com/world/887244/iran-s-supreme-leader-says-us-breaches-show-trump-s-signature-is-worthless</link>
       <description>Iran's Supreme Leader Mojtaba Khamenei said that President Donald Trump's signature was "utterly worthless and devoid of credibility."</description>
@@ -3481,6 +3467,20 @@
       <description>Google's cloud business surged 80% amid AI investments, with CEO Sundar Pichai noting Gemini's impact and YouTube's viewership of the</description>
       <pubDate>Wed, 22 Jul 2026 22:46:18 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Google_photo-6a614003ed95d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saliba out for extended period</title>
+      <link>https://www.daily-sun.com/sports/888087/saliba-out-for-extended-period</link>
+      <description>Arsenal and France defender William Saliba will be sidelined for an ​extended period after suffering a back ‌injury during the</description>
+      <pubDate>Wed, 22 Jul 2026 23:43:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Screenshot_23-7-2026_53856_www-6a6154f9ed9ac.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Konstas in Cricket Australia XI squad to face Bangladesh</title>
+      <link>https://www.daily-sun.com/sports/888086/konstas-in-cricket-australia-xi-squad-to-face-bangladesh</link>
+      <description>The CA XI will assemble in Darwin on 4 August ahead of the three-day match against Bangladesh from 6-8 August</description>
+      <pubDate>Wed, 22 Jul 2026 23:43:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Screenshot_23-7-2026_5287_-6a61528237ab0.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
