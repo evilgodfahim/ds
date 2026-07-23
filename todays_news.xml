@@ -5,27 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump basks in WC final spotlight</title>
-      <link>https://www.daily-sun.com/sports/887445/trump-basks-in-wc-final-spotlight</link>
-      <description>US President Donald Trump basked in the spotlight at the World Cup final on Sunday</description>
-      <pubDate>Sun, 19 Jul 2026 22:15:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/20/medium/Trump-6a5d45fdef493.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mbappe wins World Cup Golden Boot</title>
-      <link>https://www.daily-sun.com/sports/887448/mbappe-wins-world-cup-golden-boot</link>
-      <description>Kylian Mbappe won the 2026 World Cup Golden Boot on Sunday after Lionel Messi failed to add to his tally</description>
-      <pubDate>Sun, 19 Jul 2026 23:13:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/20/medium/Mbappe-6a5d50b043eec.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Spain beat Argentina to win World Cup</title>
-      <link>https://www.daily-sun.com/sports/887447/spain-beat-argentina-to-win-world-cup</link>
-      <description>Ferran Torres scored the only goal of the game on Sunday as Spain beat 10-man Argentina 1-0 after extra-time to</description>
-      <pubDate>Sun, 19 Jul 2026 23:13:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/20/medium/Spain-beat-Argentina-to-win-World-Cup-6a5d5606ea72a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Indian actress Jennifer Winget ties the knot</title>
       <link>https://daily-sun.com/entertainment/887339/indian-actress-jennifer-winget-ties-the-knot</link>
       <description />
@@ -3484,6 +3463,27 @@
       <link>https://daily-sun.com/bangladesh/888100/president-shahabuddin-likely-to-resign-soon-sources</link>
       <description />
       <pubDate>Thu, 23 Jul 2026 16:41:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indian youth protesters declare nationwide rallies defying Modi’s call for dialogue</title>
+      <link>https://www.daily-sun.com/world/888252/indian-youth-protesters-declare-nationwide-rallies-defying-modi-s-call-for-dialogue</link>
+      <description>India’s youth protesters called for nationwide demonstrations on Friday even as Prime Minister Narendra Modi’s government urged them to join</description>
+      <pubDate>Thu, 23 Jul 2026 18:01:35 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Three of a family from Bangladesh killed in road crash in Saudi Arabia</title>
+      <link>https://www.daily-sun.com/bangladesh/888248/three-of-a-family-from-bangladesh-killed-in-road-crash-in-saudi-arabia</link>
+      <description>A Bangladeshi family suffered a major tragedy in a road crash in Saudi Arabia on Thursday morning while on their</description>
+      <pubDate>Thu, 23 Jul 2026 18:01:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Saudi-road-crash-6a62558767551.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fight will continue until all the traces of fascism are evicted: Shafiqur</title>
+      <link>https://www.daily-sun.com/politics/888227/fight-will-continue-until-all-the-traces-of-fascism-are-evicted-shafiqur</link>
+      <description>Jamaat-e-Islami Ameer Shafiqur Rahman on Thursday said the opposition party’s fight would continue on the streets and in the parliament</description>
+      <pubDate>Thu, 23 Jul 2026 18:01:35 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/July-Charter-6a62517d5fcb8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
