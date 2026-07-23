@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>We gave it everything: Scaloni</title>
-      <link>https://www.daily-sun.com/sports/887469/we-gave-it-everything-scaloni</link>
-      <description>Scaloni conceded that Spain were the better team in the WC final but said he was proud of how his</description>
-      <pubDate>Mon, 20 Jul 2026 04:02:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/20/medium/Leo-6a5d6c710dae8.JPG" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Argentines lament loss and chance to be champions again</title>
-      <link>https://www.daily-sun.com/sports/887468/argentines-lament-loss-and-chance-to-be-champions-again</link>
-      <description>Spain secured their 1–0 victory with a goal in extra time, crushing Argentina's dream in the United States of repeating</description>
-      <pubDate>Mon, 20 Jul 2026 04:02:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/20/medium/WC-6a5d6bbad21dc.JPG" type="image/jpeg" />
-    </item>
-    <item>
       <title>De la Fuente hails world-class disciples</title>
       <link>https://www.daily-sun.com/sports/887467/de-la-fuente-hails-world-class-disciples</link>
       <description>Luis de ‌la Fuente lavished praise on his players after they beat Argentina 1-0 in extra time on Sunday to</description>
@@ -3481,6 +3467,20 @@
       <link>https://daily-sun.com/sports/888113/argentine-football-association-says-us-did-not-detain-its-president</link>
       <description />
       <pubDate>Thu, 23 Jul 2026 20:34:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>France wildfire forces thousands to flee, severe heatwave continues in Europe</title>
+      <link>https://www.daily-sun.com/world/888310/france-wildfire-forces-thousands-to-flee-severe-heatwave-continues-in-europe</link>
+      <description>A fast-moving wildfire has forced more than 10,000 people from homes and campsites near France's Atlantic coast, as extreme heat</description>
+      <pubDate>Thu, 23 Jul 2026 21:40:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/EUROPE-WEATHER-FRANCE-WILDFIRE-6a6287e621917.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>7 teachers made OSD over waterlogging disruption during HSC exams in Cumilla</title>
+      <link>https://www.daily-sun.com/bangladesh/888309/7-teachers-made-osd-over-waterlogging-disruption-during-hsc-exams-in-cumilla</link>
+      <description>The Education Ministry has transferred seven teachers of Cumilla Govt Mohila College to other colleges across the country over their</description>
+      <pubDate>Thu, 23 Jul 2026 21:40:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/waterlogging-cumilla-HSC-exams-6a62839ec7cfc.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
