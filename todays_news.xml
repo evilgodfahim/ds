@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BTV to air World Cup at virtually no cost after direct FIFA deal</title>
-      <link>https://daily-sun.com/sports/879217/btv-to-air-world-cup-at-virtually-no-cost-after-direct-fifa-deal</link>
-      <description />
-      <pubDate>Mon, 20 Jul 2026 04:02:29 +0000</pubDate>
-    </item>
-    <item>
       <title>Russell out of Belgian GP after colliding with Hamilton on lap one</title>
       <link>https://www.daily-sun.com/sports/887490/russell-out-of-belgian-gp-after-colliding-with-hamilton-on-lap-one</link>
       <description>Mercedes George Russell crashed out of the Belgian Grand Prix after colliding with Ferrari's Lewis Hamilton on the opening lap</description>
@@ -3480,6 +3474,13 @@
       <link>https://daily-sun.com/bangladesh/888153/president-shahabuddin-likely-to-resign-on-friday</link>
       <description />
       <pubDate>Thu, 23 Jul 2026 22:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>‘Invest in us, we'll invest in you’</title>
+      <link>https://www.daily-sun.com/business/888313/invest-in-us-we-ll-invest-in-you</link>
+      <description>Prime Minister Tarique Rahman on Thursday rolled out the red carpet for local and foreign investors, pledging regulatory reforms</description>
+      <pubDate>Fri, 24 Jul 2026 01:00:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/24/medium/invest-in-us-2-6a62ac018a08a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
