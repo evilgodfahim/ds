@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Spanish king hails World Cup heroes as celebration tour begins</title>
-      <link>https://www.daily-sun.com/sports/887908/spanish-king-hails-world-cup-heroes-as-celebration-tour-begins</link>
-      <description>Spain's World Cup winners were hailed by the country's king on Monday in Madrid</description>
-      <pubDate>Wed, 22 Jul 2026 08:46:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/22/medium/f59e9fded3994d66b2d20910a8d50b9c-6a5f130b92099-6a6074557a04a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Ashwin Foods fined Tk3 lakh for food safety violations in Gazipur</title>
-      <link>https://www.daily-sun.com/bangladesh/887907/ashwin-foods-fined-tk3-lakh-for-food-safety-violations-in-gazipur</link>
-      <description>Ashwin Foods Limited fined Tk300,000 for violating the Safe Food Act, 2013, in Kaliganj. Major concerns raised over food safety</description>
-      <pubDate>Wed, 22 Jul 2026 08:46:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/22/medium/BFSA-(1)-6a60739e6bb52.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‎Probe report in Sagar-Runi murder case deferred for 128 time</title>
       <link>https://www.daily-sun.com/bangladesh/887906/probe-report-in-sagar-runi-murder-case-deferred-for-128-time</link>
       <description>Dhaka court extends deadline for the probe into the murder of journalists Sagar Sarowar and Meherun Runi to August 27,</description>
@@ -3477,6 +3463,19 @@
       <description>Foreign Minister Dr Khalilur Rahman visits the Maldives to enhance Bangladesh-Maldives relations during the 61st Independence celebrations.</description>
       <pubDate>Sat, 25 Jul 2026 22:13:53 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Bangladesh_Maldives-6a652ab2237cd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>16 killed in Ukrainian-Russian strikes as attacks intensify</title>
+      <link>https://www.daily-sun.com/world/888714/16-killed-in-ukrainian-russian-strikes-as-attacks-intensify</link>
+      <description>At least 16 killed in Ukraine-Russia strikes, escalating conflict and hitting deep inside Russia as diplomacy stalls. UN warns of</description>
+      <pubDate>Sat, 25 Jul 2026 23:12:57 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Ukraine_War-6a653e6d3e1d6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fire breaks out near Shahjalal airport cargo village, fire service deployed</title>
+      <link>https://daily-sun.com/bangladesh/888610/fire-breaks-out-near-shahjalal-airport-cargo-village-fire-service-deployed</link>
+      <description />
+      <pubDate>Sat, 25 Jul 2026 23:12:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
