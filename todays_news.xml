@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Modi vows punishment for exam fraud fuelling India protests</title>
-      <link>https://www.daily-sun.com/world/888105/modi-vows-punishment-for-exam-fraud-fuelling-india-protests</link>
-      <description>Indian Prime Minister Narendra Modi promises stringent punishment for exam fraud amid nationwide protests led by young students demanding justice</description>
-      <pubDate>Thu, 23 Jul 2026 07:11:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/23/medium/Narendra-Modi-gets-death-threat-6a61a625e145f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Zia assassination convict Muzaffar produced before ICT</title>
       <link>https://www.daily-sun.com/judiciary/888104/zia-assassination-convict-muzaffar-produced-before-ict</link>
       <description>Retired Major Muzaffar Hossain faces the International Crimes Tribunal over his role in crimes against humanity linked to former President</description>
@@ -3475,6 +3468,13 @@
       <link>https://daily-sun.com/bangladesh/888731/no-room-for-political-considerations-in-military-promotions-pm-tarique-rahman</link>
       <description />
       <pubDate>Sun, 26 Jul 2026 19:50:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>2 killed as detached train wagons ram vehicles at Rajbari crossing</title>
+      <link>https://www.daily-sun.com/bangladesh/888926/2-killed-as-detached-train-wagons-ram-vehicles-at-rajbari-crossing</link>
+      <description>Two persons was killed and at least 15 others injured when six detached wagons of an oil train rammed three</description>
+      <pubDate>Sun, 26 Jul 2026 20:41:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/Untitled-(1)-6a6669cd24b48.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
