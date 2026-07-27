@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>PM: Ensure quality healthcare at govt hospitals for rural people</title>
-      <link>https://www.daily-sun.com/metropolis/887654</link>
-      <description />
-      <pubDate>Mon, 20 Jul 2026 19:59:36 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Today's Photo</title>
-      <link>https://www.daily-sun.com/metropolis/887653</link>
-      <description />
-      <pubDate>Mon, 20 Jul 2026 19:59:36 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/21/medium/15--21--07--26--ds-6a5e6cd8cd937.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘Bangladesh committed to peaceful, prosperous Bay of Bengal region’</title>
       <link>https://www.daily-sun.com/metropolis/887652</link>
       <description />
@@ -3544,6 +3530,20 @@ New President</description>
       <description>A roadside clothes vendor sets up his stall in Karachi, Pakistan</description>
       <pubDate>Sun, 26 Jul 2026 19:50:17 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/27/medium/35---27-07-26-DS-6a665403c2a99.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>How China’s Commitment to Global Security Resonates in Global South</title>
+      <link>https://www.daily-sun.com/editorial/889044</link>
+      <description>How China’s Commitment to Global Security Resonates in Global South</description>
+      <pubDate>Mon, 27 Jul 2026 17:57:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/28/medium/5---28-07-2026-ds-6a67956a08e53.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tiger population rebounds in Sundarbans despite decades of losses</title>
+      <link>https://www.daily-sun.com/my-districts/889052</link>
+      <description>Tiger population rebounds in Sundarbans despite decades of losses</description>
+      <pubDate>Mon, 27 Jul 2026 17:57:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/28/medium/13---28-07-2026-ds-6a6798aaaf9a7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
