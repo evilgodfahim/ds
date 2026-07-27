@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>US imposes new 50% tariffs on $20b worth of Canadian products</title>
-      <link>https://www.daily-sun.com/business-print/887831</link>
-      <description>US imposes new 50% tariffs on $20b worth of Canadian products</description>
-      <pubDate>Tue, 21 Jul 2026 18:40:45 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/22/medium/35-22--07--2026-ds-6a5fb47393beb.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>South Korea promises free homegrown AI chatbot this year</title>
       <link>https://www.daily-sun.com/business-print/887830</link>
       <description>South Korea promises free homegrown AI chatbot this year</description>
@@ -3534,6 +3527,13 @@ in Bogura</description>
       <description>3 killed in Seattle shooting</description>
       <pubDate>Mon, 27 Jul 2026 20:45:19 +0000</pubDate>
       <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Woman, Business and Invisible Emotional Labour</title>
+      <link>https://www.daily-sun.com/post-logu/887840</link>
+      <description>Woman, Business and Invisible Emotional Labour</description>
+      <pubDate>Mon, 27 Jul 2026 22:45:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/22/medium/2---22--07---26-ds-6a5fb57c646d7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
