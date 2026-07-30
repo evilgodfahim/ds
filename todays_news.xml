@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>One killed as bus crashes into Kurmitola Hospital wall</title>
-      <link>https://www.daily-sun.com/bangladesh/888862/one-killed-as-bus-crashes-into-kurmitola-general-hospital-wall</link>
-      <description>A man was killed and another injured when a passenger bus lost control and crashed into a wall beside the</description>
-      <pubDate>Sun, 26 Jul 2026 18:38:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/One-killed-as-bus-crashes-into-Kurmitola-General-Hospital-wall-6a664cc82f398.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Courtois welcomes Van Bommel's appointment</title>
-      <link>https://www.daily-sun.com/sports/888861/courtois-welcomes-van-bommel-s-appointment</link>
-      <description>Belgium goalkeeper Thibaut Courtois has welcomed the appointment of Mark van Bommel as the country’s new coach</description>
-      <pubDate>Sun, 26 Jul 2026 18:38:53 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/26/medium/Screenshot_26-7-2026_235556_www-6a664abe13b3d.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iran halts strikes as Trump gives space to talks</title>
       <link>https://www.daily-sun.com/world/888852/iran-halts-strikes-as-trump-gives-space-to-talks</link>
       <description>Iran and the United States held their fire Sunday, handing Gulf shipping and the oil industry a respite from missile</description>
@@ -3475,6 +3461,20 @@
       <description>Prime Minister Tarique Rahman embarked on an unannounced drive through the capital on Thursday night, to inspect cleanliness activities.</description>
       <pubDate>Thu, 30 Jul 2026 21:38:17 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/medium/PM-drives-capital-cleanliness-6a6bb5fbd2e4a.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Court rejects case against RUCSU leader Ammar, orders probe</title>
+      <link>https://www.daily-sun.com/bangladesh/889727/court-rejects-case-against-rucsu-leader-ammar-orders-probe</link>
+      <description>A Rajshahi court on Thursday turned down a plea to file a lawsuit against Shibir leader and RUCSU General Secretary</description>
+      <pubDate>Thu, 30 Jul 2026 22:43:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/medium/RUCSU-6a6bd13221170.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saudi Arabia unveils plans for multinational maritime defence coalition</title>
+      <link>https://www.daily-sun.com/world/889726/saudi-arabia-unveils-plans-for-multinational-maritime-defence-coalition</link>
+      <description>Saudi Arabia on Thursday unveiled plans for a multinational maritime defence coalition aimed at protecting international shipping</description>
+      <pubDate>Thu, 30 Jul 2026 22:43:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/medium/bab-el-mandeb-6a6bc5aacb3e8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
