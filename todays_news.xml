@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Rodri undergoes back surgery</title>
-      <link>https://www.daily-sun.com/sports/889199/man-city-s-rodri-undergoes-back-surgery</link>
-      <description>Spain midfielder Rodri has undergone minor back surgery, his Premier ​League club Manchester City said on ‌Tuesday</description>
-      <pubDate>Tue, 28 Jul 2026 13:15:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/28/medium/image-(1)-6a68a3e1492fb.png" type="image/png" />
-    </item>
-    <item>
       <title>Greaves sets Test record with five wicket maidens in a row</title>
       <link>https://www.daily-sun.com/sports/889198/greaves-sets-test-record-with-five-wicket-maidens-in-a-row</link>
       <description>Justin Greaves made Test cricket history on Monday by becoming the first bowler in the recorded era to take wickets</description>
@@ -3472,6 +3465,13 @@
       <description>Prime Minister Lecornu reports that wildfires in France, including the largest near Bordeaux, are under control after weeks of devastation.</description>
       <pubDate>Sat, 01 Aug 2026 20:30:33 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/wildfire-6a6e4e2cf32b4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gaza authorities say found 112 bodies in rubble</title>
+      <link>https://www.daily-sun.com/world/890079/gaza-authorities-say-found-112-bodies-in-rubble</link>
+      <description>Gaza authorities recover 112 bodies, including 40 children, after extensive search amidst ongoing humanitarian crisis post Israeli airstrikes.</description>
+      <pubDate>Sat, 01 Aug 2026 23:25:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/02/medium/Gaza_authorities-6a6e744ada080.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
