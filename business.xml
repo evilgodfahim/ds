@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Experts call for real-time accountability in spending</title>
-      <link>https://www.daily-sun.com/business/881382</link>
-      <description />
-      <pubDate>Sun, 21 Jun 2026 05:23:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/21/small/DS-'06'21-21-6a36ce91b579e.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Four STS cranes added to fleet, handling capacity rises to 5 lakh TEUs</title>
       <link>https://www.daily-sun.com/business/881370</link>
       <description />
@@ -3187,6 +3180,12 @@ get air travel perks</description>
       <link>https://www.daily-sun.com/business/890118/md-fazlul-hoque-joins-as-fbcci-administrator</link>
       <description />
       <pubDate>Sun, 02 Aug 2026 11:50:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Green chili imports to begin Monday: Agriculture minister</title>
+      <link>https://www.daily-sun.com/business/890127/govt-allows-green-chili-import</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 12:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
