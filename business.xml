@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>DSE flags 42 firms over survival concerns</title>
-      <link>https://www.daily-sun.com/business/881451</link>
-      <description />
-      <pubDate>Sun, 21 Jun 2026 05:23:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/21/small/DS-'06'21-101-6a36dcadce100.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Can Bangladesh crack Japan’s mango market?</title>
       <link>https://www.daily-sun.com/business/881436</link>
       <description />
@@ -3189,6 +3182,12 @@ get air travel perks</description>
       <link>https://www.daily-sun.com/business/889898/apm-terminals-reveals-550m-laldia-terminal-design-sets-december-construction-start</link>
       <description>APM Terminals reveals the $550M Laldia Container Terminal in Chattogram, set to enhance Bangladesh's port</description>
       <pubDate>Sat, 01 Aug 2026 21:27:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>12-kg LPG cylinder price hiked by Tk70</title>
+      <link>https://www.daily-sun.com/business/890117/12-kg-lpg-cylinder-price-hiked-by-tk70</link>
+      <description />
+      <pubDate>Sun, 02 Aug 2026 10:53:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
