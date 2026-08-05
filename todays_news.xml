@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Google rolls back new satellite image AI tool after backlash</title>
-      <link>https://www.daily-sun.com/sci-tech/889883/google-rolls-back-new-satellite-image-ai-tool-after-backlash</link>
-      <description>Google had described it as a way to 'visualize history, create real estate plans and more'...</description>
-      <pubDate>Sat, 01 Aug 2026 01:14:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/01/medium/In-this-file-photo-taken-on-2-September-2015,--the-Google-logo-is-displayed-at-the-Google-headquarters-in-Mountain-View,-California-6a6d3e1ca5298.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Three of a family killed in Khulna road accident</title>
-      <link>https://www.daily-sun.com/bangladesh/889882/three-of-a-family-killed-in-khulna-road-accident</link>
-      <description>Police seized the truck and legal action was underway...</description>
-      <pubDate>Sat, 01 Aug 2026 01:14:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/01/medium/Road-accident-2-6a6d3b0a1ac5d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Five die after drinking ‘homeopathic liquid’ in Habiganj</title>
       <link>https://www.daily-sun.com/bangladesh/889881/five-die-from-drinking-homeopathic-liquid-in-habiganj</link>
       <description>They fell ill after drinking it on Tuesday night...</description>
@@ -3477,6 +3463,19 @@
       <description>Shawkot Imran of the NCP faces temporary suspension amid allegations of assault and explicit video, raising concerns over party ethics</description>
       <pubDate>Wed, 05 Aug 2026 20:16:22 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/06/medium/Shawkot_Imran-6a7384ded89fb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Conspiracies against elected govt contradict spirit of July Uprising: Prince</title>
+      <link>https://www.daily-sun.com/politics/890763/conspiracies-against-elected-govt-contradict-spirit-of-july-uprising-prince</link>
+      <description>BNP's Syed Emran Saleh Prince condemns conspiracy politics against the elected government, emphasizing unity to uphold July uprising aspirations.</description>
+      <pubDate>Wed, 05 Aug 2026 21:35:12 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/06/medium/Emran_Saleh_Prince-6a739f878aceb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ex-joint secretary Jaglul Pasha arrested</title>
+      <link>https://daily-sun.com/bangladesh/890641/ex-joint-secretary-jaglul-pasha-arrested</link>
+      <description />
+      <pubDate>Wed, 05 Aug 2026 21:35:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
