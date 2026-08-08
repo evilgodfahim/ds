@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Over half of ADP remains unspent</title>
-      <link>https://www.daily-sun.com/business/882466</link>
-      <description />
-      <pubDate>Fri, 26 Jun 2026 01:32:56 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/26/small/DS-'06'26-101-6a3d762388246.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>High interest rates hindering private investment in Bangladesh, economists warn</title>
       <link>https://www.daily-sun.com/business/882512/high-interest-rates-hindering-private-investment-in-bangladesh-economists-warn</link>
       <description />
@@ -3165,6 +3158,12 @@ governance drives post-IPO success</description>
       <link>https://daily-sun.com/business/891132/pakistan-gives-nod-to-import-of-fresh-pineapples-from-bangladesh</link>
       <description />
       <pubDate>Sat, 08 Aug 2026 20:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prices bite as vegetables, eggs and chicken rise together</title>
+      <link>https://www.daily-sun.com/business/891028</link>
+      <description>Consumers in the capital are facing mounting pressure as prices of vegetables, eggs and chicken</description>
+      <pubDate>Sat, 08 Aug 2026 21:50:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
