@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>All staff of Kashimpur land office suspended over irregularities</title>
-      <link>https://www.daily-sun.com/bangladesh/890295/all-staff-of-kashimpur-land-office-suspended-over-irregularities</link>
-      <description>Kashimpur Union Land Office officials suspended due to irregularities found during a surprise inspection by Deputy Commissioner Md Nurul Karim</description>
-      <pubDate>Mon, 03 Aug 2026 11:36:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/03/medium/1785739183-afcb279c93584a098a3926b5e18e90db-6a705a63c6bbf.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iran denies negotiating with US after Trump announces talks</title>
       <link>https://www.daily-sun.com/world/890294/iran-denies-negotiating-with-us-after-trump-announces-talks</link>
       <description>Iran denies negotiations with the US despite Trump’s claims of new talks to end the ongoing war, focusing on Hormuz</description>
@@ -3470,6 +3463,12 @@
       <link>https://daily-sun.com/business/891135/govt-plans-400-acre-industrial-park-in-bogura-commerce-minister</link>
       <description />
       <pubDate>Sat, 08 Aug 2026 19:29:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swedish police officer dies after assault at FIFA World Cup fan zone in Copenhagen</title>
+      <link>https://daily-sun.com/world/884038/swedish-police-officer-dies-after-assault-at-fifa-world-cup-fan-zone-in-copenhagen</link>
+      <description />
+      <pubDate>Sun, 09 Aug 2026 01:42:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
