@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Six sentenced to life for gang-raping two girls in Keraniganj</title>
-      <link>https://www.daily-sun.com/judiciary/890469/six-sentenced-to-life-for-gang-raping-two-girls-in-keraniganj</link>
-      <description>A tribunal in Dhaka sentenced six youths to life imprisonment for abducting and gang-raping two girls, highlighting grave issues of</description>
-      <pubDate>Tue, 04 Aug 2026 06:16:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/04/medium/Court-order-6a71800eebdff.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Status of US-Iran talks uncertain as ship struck in Hormuz</title>
       <link>https://www.daily-sun.com/world/890468/status-of-us-iran-talks-uncertain-as-ship-struck-in-hormuz</link>
       <description>US-Iran tensions rise as conflicting reports on talks surface. Trump cites negotiations, while Iran denies. Strait of Hormuz conflict threatens</description>
@@ -3473,6 +3466,13 @@
       <description>The BNP government will distribute Family Cards among 41 lakh families across the country in the fiscal year ending 30</description>
       <pubDate>Sun, 09 Aug 2026 13:57:54 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/Family-Card-6a787d4a37453.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Riyadh Air launches new flights between Dhaka, KSA</title>
+      <link>https://www.daily-sun.com/business/891331/riyadh-air-launches-new-flights-between-dhaka-ksa</link>
+      <description>The inaugural flight departed King Khalid International Airport (RUH) on 7 August at 9:20pm and touched down at Hazrat Shahjalal International Airport in Dhaka the following day</description>
+      <pubDate>Sun, 09 Aug 2026 14:25:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/WhatsApp-Image-2026-08-09-at-8-6a788b6d20be1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
