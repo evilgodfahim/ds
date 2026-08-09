@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Chhatra Dal, Shibir engage in clash at Dhaka College</title>
-      <link>https://www.daily-sun.com/bangladesh/890494/chhatra-dal-shibir-engage-in-clash-at-dhaka-college</link>
-      <description>Activists from Chhatra Dal, and Chhatra Shibir engaged in a violent chase and counter-chase at the Dhaka College around Tuesday</description>
-      <pubDate>Tue, 04 Aug 2026 11:34:04 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/04/medium/Untitled-(1)-6a71c9ea1feb6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>PM directs completion of comprehensive database for 'Farmer Card' by Dec</title>
       <link>https://www.daily-sun.com/bangladesh/890492/pm-directs-completion-of-comprehensive-database-for-farmer-card-by-dec</link>
       <description>The prime minister also instructed the authorities to ensure that the Farmer Card, featuring the holder's photograph and a QR</description>
@@ -3472,6 +3465,12 @@
       <description>Two motorcyclists were killed and several others injured after a covered van ran over them on Moghbazar Wireless Gate Road</description>
       <pubDate>Sun, 09 Aug 2026 21:51:15 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Accidents-6a78f0a597df3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BNP nominates Fakhrul as presidential candidate</title>
+      <link>https://daily-sun.com/bangladesh/891321/bnp-nominates-fakhrul-as-presidential-candidate</link>
+      <description />
+      <pubDate>Sun, 09 Aug 2026 22:16:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
