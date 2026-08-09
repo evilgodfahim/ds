@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>World Bank approves $1.1b emergency fund for Bangladesh</title>
-      <link>https://www.daily-sun.com/business/882783</link>
-      <description />
-      <pubDate>Sun, 28 Jun 2026 00:17:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/small/World-Bank-6a405df48829d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Power, charging biggest EV adoption barriers: Experts</title>
       <link>https://www.daily-sun.com/business/882772</link>
       <description />
@@ -3162,6 +3155,12 @@ governance drives post-IPO success</description>
       <link>https://www.daily-sun.com/business/891303/probe-report-deferred-again-in-bb-reserve-heist-case</link>
       <description>This marks the 97th postponement of the report's submission</description>
       <pubDate>Sun, 09 Aug 2026 20:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bangladesh's gross forex reserves rise to $36.86bn</title>
+      <link>https://www.daily-sun.com/business/891412/report-2</link>
+      <description />
+      <pubDate>Sun, 09 Aug 2026 21:17:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
