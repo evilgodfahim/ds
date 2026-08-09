@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Bangladesh launches first short-term sovereign Sukuk</title>
-      <link>https://www.daily-sun.com/business/882784</link>
-      <description />
-      <pubDate>Sun, 28 Jun 2026 00:17:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/28/small/sukuk-6a405c3c7e09d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>World Bank approves $1.1b emergency fund for Bangladesh</title>
       <link>https://www.daily-sun.com/business/882783</link>
       <description />
@@ -3163,6 +3156,12 @@ governance drives post-IPO success</description>
       <link>https://www.daily-sun.com/business/891346/bb-declares-four-financial-institutions-non-viable-begins-resolution-process</link>
       <description />
       <pubDate>Sun, 09 Aug 2026 16:59:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Probe report deferred again in BB reserve heist case</title>
+      <link>https://www.daily-sun.com/business/891303/probe-report-deferred-again-in-bb-reserve-heist-case</link>
+      <description>This marks the 97th postponement of the report's submission</description>
+      <pubDate>Sun, 09 Aug 2026 20:48:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

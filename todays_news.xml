@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Train derails in Sirajganj, communication between Dhaka and northern districts disrupted</title>
-      <link>https://www.daily-sun.com/bangladesh/890471/train-derails-in-sirajganj-communication-between-dhaka-and-northern-districts-disrupted</link>
-      <description>Rail communication disrupted as a train derailed at Shaheed M Mansur Ali Station in Sirajganj. Rail police confirm the incident</description>
-      <pubDate>Tue, 04 Aug 2026 09:10:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/04/medium/Train-derails-in-Sirajganj-6a7187d7908de.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>BGMEA refutes report of factory closure over gas, power crisis</title>
       <link>https://www.daily-sun.com/business/890470/bgmea-refutes-report-of-factory-closure-over-gas-power-crisis</link>
       <description>BGMEA refutes claims of garment factory shutdowns in Bangladesh due to gas shortages, calling the reports false and urging for</description>
@@ -3472,6 +3465,13 @@
       <description>Iran's Revolutionary Guards insisted Sunday that they would not reopen the Strait of Hormuz until the United States complied with</description>
       <pubDate>Sun, 09 Aug 2026 19:47:10 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Hormuz-reuters-4-6a78d3c291633.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran names new head of top national security body</title>
+      <link>https://www.daily-sun.com/world/891455/iran-names-new-head-of-top-national-security-body</link>
+      <description>The former commander in chief of Iran's Revolutionary Guards, Mohsen Rezaei, has been named head of the country's highest national</description>
+      <pubDate>Sun, 09 Aug 2026 20:48:13 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Untitled-6a78df1a6ce91.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
