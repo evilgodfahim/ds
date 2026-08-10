@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Zuckerberg apologises to Modi govt over Meta content, errors</title>
-      <link>https://www.daily-sun.com/world/890658/zuckerberg-apologises-to-modi-govt-over-meta-content-and-errors</link>
-      <description>In July, the Indian government ordered Meta to remove advertisements and content promoting child sexual abuse...</description>
-      <pubDate>Wed, 05 Aug 2026 15:31:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/05/medium/Mark-Zuckerberg-Reuters-6a73471c2a348.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Ex-joint secretary Jaglul Pasha sent to jail over attempt on Khaleda’s life</title>
       <link>https://www.daily-sun.com/bangladesh/890657/ex-joint-secretary-jaglul-pasha-sent-to-jail-over-attempt-on-khaleda-s-life</link>
       <description>A Dhaka court on Wednesday sent former joint secretary Syed Jaglul Pasha to jail in a case filed over allegations</description>
@@ -3471,6 +3464,13 @@
       <description>Jishan Alam hopes his explosive 57 off 21 balls against Malaysia earns him more regular chances after Bangladesh sealed a</description>
       <pubDate>Mon, 10 Aug 2026 19:30:00 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/IMG-20260810-WA0089-6a7a18ea5ef0a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>At least 111 killed after powerful earthquake hits western Colombia</title>
+      <link>https://www.daily-sun.com/world/891647/at-least-111-killed-after-powerful-earthquake-hits-western-colombia</link>
+      <description>At least 111 people were killed in a 7.4 magnitude earthquake in western Colombia, forcing the new president Abelardo De</description>
+      <pubDate>Mon, 10 Aug 2026 20:10:17 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/earthquake-hits-western-Colombia_Daily-Sun-6a7a2684600b0.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
