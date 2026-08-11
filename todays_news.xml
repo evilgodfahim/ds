@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Indian High Commission warns of visa scam in Bangladesh</title>
-      <link>https://www.daily-sun.com/diplomacy/890807/news-1</link>
-      <description>The Indian High Commission in Dhaka has warned the public about fraudsters posing as its officials and offering visa and</description>
-      <pubDate>Thu, 06 Aug 2026 15:30:14 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/06/medium/Untitled-6a748d7cc0540.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Air India Phuket-Delhi flight turbulence injures 17; DGCA launches probe</title>
       <link>https://daily-sun.com/world/890771/air-india-phuket-delhi-flight-turbulence-injures-17-dgca-launches-probe</link>
       <description />
@@ -3470,6 +3463,13 @@
       <description>Bangladesh has called upon India to hand over the accused involved in the murder of Hadi</description>
       <pubDate>Tue, 11 Aug 2026 21:01:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/Randhir-Jaiswal---PTI-File-Photo-6a7b82da118af.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US, allies warn against unannounced missile launches</title>
+      <link>https://www.daily-sun.com/world/891829/us-allies-warn-against-unannounced-missile-launches</link>
+      <description>The statement called on all countries to provide at least 24 hours' notice of launches</description>
+      <pubDate>Tue, 11 Aug 2026 22:27:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/Balistic-missile-6a7ba0aa1d458.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
