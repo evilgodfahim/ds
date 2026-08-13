@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM leaves Dhaka for Maheshkhali to inspect deep-sea port, meet flood victims in Ctg</title>
-      <link>https://www.daily-sun.com/bangladesh/891277/pm-leaves-dhaka-for-maheshkhali-to-inspect-deep-sea-port-meet-flood-victims-in-ctg</link>
-      <description>Prime Minister Tarique Rahman visits Maheshkhali to inspect the deep-sea port and flood rehabilitation efforts, enhancing local development in Bangladesh.</description>
-      <pubDate>Sun, 09 Aug 2026 04:44:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/PM-leaves-Dhaka-for-Maheshkhali-to-inspect-deep-sea-port-6a78048f69416.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Iran issues demands for reopening of Hormuz</title>
       <link>https://www.daily-sun.com/world/891276/iran-issues-demands-for-reopening-of-hormuz</link>
       <description>Iran sets preconditions for reopening the Strait of Hormuz, complicating global trade. Key demands include US sanctions lift and war</description>
@@ -3475,6 +3468,13 @@
       <link>https://daily-sun.com/world/892014/death-toll-in-zimbabwe-ferry-disaster-rises-to-44</link>
       <description />
       <pubDate>Thu, 13 Aug 2026 21:42:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Israel tells Palestinians to 'evacuate' before operation to 'remove settler siege'</title>
+      <link>https://www.daily-sun.com/world/892199/palestinians-told-to-leave-homes-in-village-where-israeli-settlers-besieged-houses</link>
+      <description>About a dozen Palestinian households in a village in the occupied West Bank were told to leave their properties during</description>
+      <pubDate>Thu, 13 Aug 2026 22:27:10 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/besieged-palestinian-houses--6a7e425446f2a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
