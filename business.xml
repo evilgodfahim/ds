@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>NBR selects 5,014 income tax returns for audit</title>
-      <link>https://www.daily-sun.com/business/883350</link>
-      <description />
-      <pubDate>Wed, 01 Jul 2026 01:59:01 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/01/small/NBR-6a4422b772edc.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Banking, stock market operations to remain closed today</title>
       <link>https://www.daily-sun.com/business/883348</link>
       <description />
@@ -3142,6 +3135,12 @@ Bank donates laptops to students in northern chars</description>
       <link>https://www.daily-sun.com/business/892015/should-bangladesh-become-a-test-market-for-pakistani-cars</link>
       <description />
       <pubDate>Thu, 13 Aug 2026 04:29:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gold prices jump again: What is new price per bhori?</title>
+      <link>https://www.daily-sun.com/business/892022/gold-prices-jump-again-what-is-new-price-per-bhori</link>
+      <description />
+      <pubDate>Thu, 13 Aug 2026 05:57:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
