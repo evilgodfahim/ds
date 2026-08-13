@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Messi returns to Rosario to bid final farewell to father Jorge Messi</title>
-      <link>https://www.daily-sun.com/sports/891278/messi-returns-to-rosario-to-bid-final-farewell-to-father-jorge-messi</link>
-      <description>Lionel Messi returns to Rosario, Argentina, to mourn his father Jorge Messi. The football world unites in support as tributes</description>
-      <pubDate>Sun, 09 Aug 2026 04:44:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/09/medium/Lionel-Messi-arrives-at-Rosario-6a78027d9dc65.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>PM leaves Dhaka for Maheshkhali to inspect deep-sea port, meet flood victims in Ctg</title>
       <link>https://www.daily-sun.com/bangladesh/891277/pm-leaves-dhaka-for-maheshkhali-to-inspect-deep-sea-port-meet-flood-victims-in-ctg</link>
       <description>Prime Minister Tarique Rahman visits Maheshkhali to inspect the deep-sea port and flood rehabilitation efforts, enhancing local development in Bangladesh.</description>
@@ -3476,6 +3469,12 @@
       <description>Chhatra Dal (JCD) President Rakibul Islam Rakib has hinted that his time in office is set to end soon, and</description>
       <pubDate>Thu, 13 Aug 2026 21:00:07 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/JCD-president-6a7e2ea39df80.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Death toll in Zimbabwe ferry disaster rises to 44</title>
+      <link>https://daily-sun.com/world/892014/death-toll-in-zimbabwe-ferry-disaster-rises-to-44</link>
+      <description />
+      <pubDate>Thu, 13 Aug 2026 21:42:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
