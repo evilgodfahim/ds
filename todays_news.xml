@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BNP nominates Fakhrul as presidential candidate</title>
-      <link>https://daily-sun.com/bangladesh/891321/bnp-nominates-fakhrul-as-presidential-candidate</link>
-      <description />
-      <pubDate>Sun, 09 Aug 2026 22:16:10 +0000</pubDate>
-    </item>
-    <item>
       <title>UK PM Burnham vows to end 'subscription traps' amid cost-of-living crisis</title>
       <link>https://www.daily-sun.com/world/891457/uk-pm-burnham-vows-to-end-subscription-traps-amid-cost-of-living-crisis</link>
       <description>British Prime Minister Andy Burnham has vowed to crack down on hard-to-cancel subscriptions and fake discounts as part of measures</description>
@@ -3469,6 +3463,13 @@
       <link>https://daily-sun.com/bangladesh/892200/54-held-in-capital-on-suspicions-of-plotting-15-aug-sabotage</link>
       <description />
       <pubDate>Fri, 14 Aug 2026 18:04:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jamaat urges president to summon special JS session</title>
+      <link>https://www.daily-sun.com/politics/892285/jamaat-ameer-writes-to-acting-president-to-summon-special-js-session</link>
+      <description>Copies of the letter were also sent to the prime minister and the Parliament Secretariat...</description>
+      <pubDate>Fri, 14 Aug 2026 19:06:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/Jamaat-delegation-to-meet-CA-Wednesday-6a7f6100e2278.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
