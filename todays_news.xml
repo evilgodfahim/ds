@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Sri Lanka arrests Rajapaksa party chief over alleged death threat</title>
-      <link>https://www.daily-sun.com/world/891494/sri-lanka-arrests-rajapaksa-party-chief-over-alleged-death-threat</link>
-      <description>Sri Lankan police arrested SLPP leader Sagara Kariyawasam for allegedly threatening Police Chief Weerasooriya, amidst corruption scandals linked to Rajapaksa</description>
-      <pubDate>Mon, 10 Aug 2026 09:58:01 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Sri_Lanka-6a7993319f1d6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Narendra Modi wants good relations with Bangladesh: Dinesh Trivedi</title>
       <link>https://www.daily-sun.com/diplomacy/891493/narendra-modi-wants-good-relations-with-bangladesh-dinesh-trivedi</link>
       <description>Indian Prime Minister Narendra Modi seeks improved relations with Bangladesh, as envoy Dinesh Trivedi expresses optimism for future ties amid</description>
@@ -3468,6 +3461,13 @@
       <description>A cocktail bomb explosion at Gopalpur Darussunnah Women’s Madrasa in Madaripur injured five students, one critically. Police investigate the shocking</description>
       <pubDate>Sat, 15 Aug 2026 08:39:44 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Cocktail_Blast-6a801e0cbefd4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Power generation resumes at Barapukuria Unit 1 after 30 hours</title>
+      <link>https://www.daily-sun.com/bangladesh/892376/power-generation-resumes-at-barapukuria-unit-1-after-30-hours</link>
+      <description>Barapukuria Thermal Power Plant's Unit 1 in Dinajpur resumes power generation after 30 hours due to a technical fault, supplying</description>
+      <pubDate>Sat, 15 Aug 2026 09:02:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Barapukuria-Thermal-Power-Plant-6a8028078f26b.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
