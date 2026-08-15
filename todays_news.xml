@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Technical Education Board pass rate hits 58.20%</title>
-      <link>https://www.daily-sun.com/bangladesh/891474/technical-education-board-pass-rate-hits-58-20</link>
-      <description>The SSC exam results show a 58.20% pass rate, with Education Minister Dr Ehsanul Hoque Milon announcing 3,951 students achieved</description>
-      <pubDate>Mon, 10 Aug 2026 05:52:54 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Technical_Education_Board-6a79601f64fc5.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Dhaka Board records highest SSC pass rate, Madrasah Board lowest</title>
       <link>https://www.daily-sun.com/bangladesh/891473/dhaka-board-records-highest-ssc-pass-rate-madrasah-board-lowest</link>
       <description>Overall SSC and equivalent pass rate falls to 62.25%; 116,676 students achieve GPA-5</description>
@@ -3469,6 +3462,13 @@
       <description>British racing driver Chris Froggatt marries Malaysian royal Princess Ilyana in a royal wedding in Kuala Lumpur, blending motorsport and</description>
       <pubDate>Sat, 15 Aug 2026 00:35:16 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Malaysian-princess-marries-British-racing-driver-6a7fac15a0fb7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Powerful Indonesian quake kills two</title>
+      <link>https://www.daily-sun.com/world/892350/powerful-indonesian-quake-kills-two</link>
+      <description>A powerful 7.7-magnitude quake struck eastern Indonesia, resulting in two fatalities as damage assessments continue. Updates are expected soon.</description>
+      <pubDate>Sat, 15 Aug 2026 02:01:04 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/_Indonesian-quake_Sun-6a7fc7967bab7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
