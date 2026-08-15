@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>From Degrees to Capabilities: Rethinking Higher Education for Bangladesh</title>
-      <link>https://www.daily-sun.com/opinion/891479/from-degrees-to-capabilities-rethinking-higher-education-for-bangladesh</link>
-      <description>Bangladesh's higher education system faces challenges in preparing graduates for real-world roles. A reform is needed to align degrees with</description>
-      <pubDate>Mon, 10 Aug 2026 07:03:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/10/medium/Kafi-Khan-6a7971b0bb579.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>86,709 religious institutions to receive state honorarium in 2026-27</title>
       <link>https://www.daily-sun.com/bangladesh/891478/86-709-religious-institutions-to-receive-state-honorarium-in-2026-27</link>
       <description>Inaugurated by Prime Minister Tarique Rahman, 86,709 religious institutions will benefit from the government’s honorarium scheme in 2026-27, aiding 256,074</description>
@@ -3467,6 +3460,13 @@
       <link>https://daily-sun.com/sports/892270/what-s-really-going-on-inside-hamza-s-leicester-city</link>
       <description />
       <pubDate>Sat, 15 Aug 2026 04:03:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>14 killed in attack on Sudan town blamed on RSF</title>
+      <link>https://www.daily-sun.com/world/892358/14-killed-in-attack-on-sudan-town-blamed-on-rsf</link>
+      <description>An attack by the Rapid Support Forces in Umm Arda, Sudan, has killed 14 and worsened the humanitarian crisis amid</description>
+      <pubDate>Sat, 15 Aug 2026 04:38:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Sudan_RSF-6a7fe87de3286.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
