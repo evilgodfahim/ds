@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Fortis FC set for historic AFC Challenge League debut</title>
-      <link>https://www.daily-sun.com/sports/891643/fortis-fc-set-for-historic-afc-challenge-league-debut</link>
-      <description>Fortis FC will make their continental debut on Monday against Kyrgyz side Muras United in the AFC Challenge League preliminary</description>
-      <pubDate>Mon, 10 Aug 2026 19:30:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/IMG-20260810-WA0086-6a7a1da463f3b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Banks back BCB</title>
       <link>https://www.daily-sun.com/sports/891642/banks-back-bcb</link>
       <description>BCB ownership plan for three tournaments</description>
@@ -3469,6 +3462,13 @@
       <link>https://daily-sun.com/bangladesh/892367/gas-supply-resumes-from-lng-terminals-as-crisis-expected-to-ease-soon</link>
       <description />
       <pubDate>Sat, 15 Aug 2026 18:34:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>PM mourns loss of lives, destruction caused by Indonesia tremor</title>
+      <link>https://www.daily-sun.com/bangladesh/892497/pm-mourns-loss-of-lives-destruction-caused-by-indonesia-tremor</link>
+      <description>Prime Minister Tarique Rahman expresses condolences to Indonesia after the devastating 7.7 magnitude earthquake, offering support to the affected families.</description>
+      <pubDate>Sat, 15 Aug 2026 19:00:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/PM-mourns-loss-of-lives-6a80b0fee486a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
