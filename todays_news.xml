@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Clash over setting up stalls on New Market footpath leaves 14 injured</title>
-      <link>https://www.daily-sun.com/bangladesh/891827/clash-over-setting-up-stalls-on-new-market-footpath-leaves-14-injured</link>
-      <description>DMCH police camp Inspector Md Faruk, citing doctors, said 14 people had sought treatment at the hospital by 11pm</description>
-      <pubDate>Tue, 11 Aug 2026 20:09:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/12/medium/clash-6a7b7b123064f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Islami Bank suspends official for filing ACC complaint against ex-president</title>
       <link>https://www.daily-sun.com/bangladesh/891826/islami-bank-suspends-official-for-filing-acc-complaint-against-ex-president</link>
       <description>Yasin was suspended pending an investigation by a committee</description>
@@ -3468,6 +3461,13 @@
       <link>https://daily-sun.com/world/892580/iran-offers-30-000-bounty-for-killing-capturing-us-soldiers</link>
       <description />
       <pubDate>Sun, 16 Aug 2026 21:34:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump welcomes defense pact between Saudi Arabia, Turkey and Pakistan</title>
+      <link>https://www.daily-sun.com/world/892691/trump-welcomes-defense-pact-between-saudi-arabia-turkey-and-pakistan</link>
+      <description>US President Donald Trump said Sunday he was pleased Saudi Arabia, Turkey and Pakistan have taken a "BIG, BOLD, IMPORTANT</description>
+      <pubDate>Sun, 16 Aug 2026 22:01:45 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/trump-happy-6a8230a11824f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
