@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US announces $15.5m in aid for quake-hit Colombia</title>
-      <link>https://www.daily-sun.com/earthquake/891652/us-announces-15-5m-in-aid-for-quake-hit-colombia</link>
-      <description>The United States announces a $15.5 million emergency aid package for Colombia following a devastating earthquake that killed over 100</description>
-      <pubDate>Tue, 11 Aug 2026 03:07:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Colombia_earthquake-6a7a8f43aea99.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sourav Ganguly, wife Dona get death threats; police launch probe</title>
-      <link>https://www.daily-sun.com/sports/891651/sourav-ganguly-wife-dona-get-death-threats-police-launch-probe</link>
-      <description>Sourav Ganguly, former Indian cricket captain, faces death threats, prompting Kolkata Police to investigate. His family's safety remains a priority.</description>
-      <pubDate>Tue, 11 Aug 2026 03:07:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Sourav-Ganguly,-wife-Dona-get-death-threats;-police-launch-probe-6a7a8d3b41843.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘Health Express’ campaign launched to expand access to ultrasound technology</title>
       <link>https://www.daily-sun.com/health/891650/health-express-campaign-launched-to-expand-access-to-ultrasound-technology</link>
       <description>A three-month nationwide healthcare campaign titled “Health Express” has been launched</description>
@@ -3468,6 +3454,20 @@
       <link>https://daily-sun.com/world/892445/italian-airport-reopens-as-volcanic-eruption-dies-down</link>
       <description />
       <pubDate>Sun, 16 Aug 2026 01:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Japan aims for the moons of Mars</title>
+      <link>https://www.daily-sun.com/world/892525/japan-aims-for-the-moons-of-mars</link>
+      <description>Japanese scientists prepare the MMX mission to Mars' moons, aiming to uncover Solar System origins and life potential, while facing</description>
+      <pubDate>Sun, 16 Aug 2026 02:47:28 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/moons-of-Mars_Sun-6a8122b4019e1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Miraz claims Smith as Bangladesh sense historic upset in Australia</title>
+      <link>https://www.daily-sun.com/sports/892524/miraz-claims-smith-as-bangladesh-sense-historic-upset-in-australia</link>
+      <description>Mehidy Hasan Miraz's pivotal wicket of Steve Smith puts Bangladesh on the brink of a historic Test victory against Australia</description>
+      <pubDate>Sun, 16 Aug 2026 02:47:28 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Miraz-claims-Smith-as-Bangladesh-sense-historic-upset-in-Australia-6a81204a4f8f4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
