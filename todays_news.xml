@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Gold prices jump again, 22-carat set at Tk235,146</title>
-      <link>https://www.daily-sun.com/business/891659/gold-prices-surge-again</link>
-      <description>Gold prices in Bangladesh rise again as the Jewellers Association raises 22-carat gold by Tk1,108. The new price sets industry</description>
-      <pubDate>Tue, 11 Aug 2026 05:40:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Gold11-6a74174fac0e1-6a7aaa761717b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Student dies two days before SSC results, secures GPA 5</title>
-      <link>https://www.daily-sun.com/sun-campus/891658/student-dies-two-days-before-ssc-results-secures-gpa-5</link>
-      <description>Tragic loss for Shihab's family as he scores GPA 5 in SSC results posthumously after his death from electrocution. A</description>
-      <pubDate>Tue, 11 Aug 2026 05:40:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Shihab_SSC_Examinee-6a7aac921699b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh seeks greater trade, investment and skilled employment cooperation with Singapore</title>
       <link>https://www.daily-sun.com/diplomacy/891666/bangladesh-seeks-greater-trade-investment-and-skilled-employment-cooperation-with-singapore</link>
       <description>Bangladesh seeks stronger economic ties with Singapore, focusing on trade, investment, and employment opportunities for Bangladeshi expatriates.</description>
@@ -3468,6 +3454,20 @@
       <description>Mehidy Hasan Miraz takes three wickets, bringing Bangladesh close to a historic Test win against Australia in Darwin. Australia struggles</description>
       <pubDate>Sun, 16 Aug 2026 04:50:29 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Mehidy_Sun-6a8139dfca7cb.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Tigers roar in Darwin as Bangladesh beat Australia</title>
+      <link>https://www.daily-sun.com/sports/892536/bangladesh-secured-a-historic-test-victory-against-australia</link>
+      <description>Bangladesh achieves a historic Test victory over Australia in Darwin, securing their first win after chasing 57 runs. Mehidy Hasan</description>
+      <pubDate>Sun, 16 Aug 2026 05:15:04 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Shadman-6a814562b455d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Four killed as pickup overturns in Rangamati</title>
+      <link>https://www.daily-sun.com/bangladesh/892535/four-killed-as-pickup-overturns-in-rangamati</link>
+      <description>A tragic accident in Rangamati has claimed four lives and injured two others, revealing the dangers of local transport in</description>
+      <pubDate>Sun, 16 Aug 2026 05:15:04 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Rangamati_Pickup-6a81411aac079.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
