@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Gold prices jump again, 22-carat set at Tk235,146</title>
-      <link>https://daily-sun.com/business/891659/gold-prices-surge-again</link>
-      <description />
-      <pubDate>Tue, 11 Aug 2026 18:15:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Tarique Rahman wishes speedy recovery of Anwar Ibrahim</title>
       <link>https://daily-sun.com/diplomacy/891560/tarique-rahman-wishes-speedy-recovery-of-anwar-ibrahim</link>
       <description />
@@ -3466,6 +3460,13 @@
       <description>The Bangladesh Road Transport Corporation (BRTC) is set to launch a special women-only bus service in Dhaka to make public</description>
       <pubDate>Sun, 16 Aug 2026 20:14:54 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Untitled-6a821891a4b60.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>11 Bangladeshis die at sea while attempting to reach Europe</title>
+      <link>https://www.daily-sun.com/world/892688/11-bangladeshis-die-at-sea-while-attempting-to-reach-europe</link>
+      <description>At least 11 Bangladeshi migrants died in the Mediterranean Sea while attempting to travel from Libya to Greece illegally, reportedly</description>
+      <pubDate>Sun, 16 Aug 2026 20:39:54 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Untitled-(2)-6a821cba96386.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
