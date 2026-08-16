@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Oil prices rise further as hopes for Hormuz deal fade</title>
-      <link>https://www.daily-sun.com/business/891661/oil-prices-rise-further-as-hopes-for-hormuz-deal-fade</link>
-      <description>Oil prices surged amid US-Iran tensions over the Strait of Hormuz, raising inflation fears and interest rate hike bets. Trump's</description>
-      <pubDate>Tue, 11 Aug 2026 05:40:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Oil-price-surge-6a7aadaa573d8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>AI's hunger for power sparks US private gas plant boom</title>
-      <link>https://www.daily-sun.com/world/891660/ai-s-hunger-for-power-sparks-us-private-gas-plant-boom</link>
-      <description>AI data centers drive off-grid gas boom, rivaling Mexico’s power capacity</description>
-      <pubDate>Tue, 11 Aug 2026 05:40:58 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/AI's-hunger-for-power-6a7aab1c53e74.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gold prices jump again, 22-carat set at Tk235,146</title>
       <link>https://www.daily-sun.com/business/891659/gold-prices-surge-again</link>
       <description>Gold prices in Bangladesh rise again as the Jewellers Association raises 22-carat gold by Tk1,108. The new price sets industry</description>
@@ -3468,6 +3454,20 @@
       <description>Heavy rain in eastern Japan has caused nine deaths and unprecedented flooding, impacting homes and transport in Chiba. Authorities continue</description>
       <pubDate>Sun, 16 Aug 2026 04:12:23 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Japan-Floods_Sun-6a8135e1e9274.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh on verge of historic win in Australia as Mehidy takes five</title>
+      <link>https://www.daily-sun.com/sports/892534/bangladesh-on-verge-of-historic-win-in-australia-as-mehidy-takes-five</link>
+      <description>Off-spinner Mehidy Hasan leads Bangladesh to a historic Test victory within reach in Australia, needing just 57 runs after five</description>
+      <pubDate>Sun, 16 Aug 2026 04:50:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Miraz-6a813f1840103.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mehidy takes three as Bangladesh close on historic win in Australia</title>
+      <link>https://www.daily-sun.com/sports/892533/mehidy-takes-three-as-bangladesh-close-on-historic-win-in-australia</link>
+      <description>Mehidy Hasan Miraz takes three wickets, bringing Bangladesh close to a historic Test win against Australia in Darwin. Australia struggles</description>
+      <pubDate>Sun, 16 Aug 2026 04:50:29 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Mehidy_Sun-6a8139dfca7cb.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
