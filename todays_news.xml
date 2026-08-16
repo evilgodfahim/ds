@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Bangladesh seeks greater trade, investment and skilled employment cooperation with Singapore</title>
-      <link>https://www.daily-sun.com/diplomacy/891666/bangladesh-seeks-greater-trade-investment-and-skilled-employment-cooperation-with-singapore</link>
-      <description>Bangladesh seeks stronger economic ties with Singapore, focusing on trade, investment, and employment opportunities for Bangladeshi expatriates.</description>
-      <pubDate>Tue, 11 Aug 2026 06:35:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Shama_Obaed_Islam-6a7ac0ad127d4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>China rocket launch fails after 'flight anomaly', reports of explosion</title>
       <link>https://www.daily-sun.com/world/891665/china-rocket-launch-fails-after-flight-anomaly-reports-of-explosion</link>
       <description>A Long March 7A rocket carrying a satellite exploded shortly after launch in Hainan, China. The cause is under investigation</description>
@@ -3468,6 +3461,13 @@
       <description>A tragic accident in Rangamati has claimed four lives and injured two others, revealing the dangers of local transport in</description>
       <pubDate>Sun, 16 Aug 2026 05:15:04 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Rangamati_Pickup-6a81411aac079.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Everyone lives in fear: Yemenis worry about return to all-out war</title>
+      <link>https://www.daily-sun.com/world/892537/everyone-lives-in-fear-yemenis-worry-about-return-to-all-out-war</link>
+      <description>Renewed hostilities in Yemen spark fears of civil war as the Houthi rebels escalate attacks. Families struggle with violence in</description>
+      <pubDate>Sun, 16 Aug 2026 05:44:37 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Yemen-War-6a814a4618b67.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
