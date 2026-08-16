@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump took secret flight out of Turkey due to Iran threat</title>
-      <link>https://www.daily-sun.com/world/891653/trump-took-secret-flight-out-of-turkey-due-to-iran-threat</link>
-      <description>US President Donald Trump departed Turkey on a secret flight due to an Iranian threat, raising security concerns over the</description>
-      <pubDate>Tue, 11 Aug 2026 03:07:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/11/medium/Trump-took-secret-flight-out-of-Turkey-due-to-Iran-threat-6a7a902bb203c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US announces $15.5m in aid for quake-hit Colombia</title>
       <link>https://www.daily-sun.com/earthquake/891652/us-announces-15-5m-in-aid-for-quake-hit-colombia</link>
       <description>The United States announces a $15.5 million emergency aid package for Colombia following a devastating earthquake that killed over 100</description>
@@ -3469,6 +3462,12 @@
       <description>Iran rejects Trump's claim over the Strait of Hormuz, asserting it will remain Iranian as tensions escalate amid ongoing attacks</description>
       <pubDate>Sat, 15 Aug 2026 22:19:34 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Strait_Hormuz-6a80e346beb58.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Italian airport reopens as volcanic eruption dies down</title>
+      <link>https://daily-sun.com/world/892445/italian-airport-reopens-as-volcanic-eruption-dies-down</link>
+      <description />
+      <pubDate>Sun, 16 Aug 2026 01:36:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
