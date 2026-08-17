@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Bd-India relations: A test of trust</title>
-      <link>https://www.daily-sun.com/editorial/891558</link>
-      <description />
-      <pubDate>Mon, 10 Aug 2026 18:27:16 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Plan now to meet rising electricity demands</title>
       <link>https://www.daily-sun.com/editorial/891557</link>
       <description />
@@ -3553,6 +3546,13 @@ fruit imports</description>
       <description>Report finds top 100 platforms capture nearly 90% of AI web traffic as ChatGPT extends its market lead</description>
       <pubDate>Sun, 16 Aug 2026 18:51:23 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/03/medium/14--03-08-2026-ds-6a6f7b3e4b525.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Gas Prices or Human Lives?</title>
+      <link>https://www.daily-sun.com/editorial/892787</link>
+      <description>The dangerous logic of great-power politics</description>
+      <pubDate>Mon, 17 Aug 2026 17:50:56 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/7--18-08-2026-ds-6a833c0f1ee4a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
