@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Total darkness, then sunset as full eclipse wows spectators in Spain</title>
-      <link>https://www.daily-sun.com/world/892028/total-darkness-then-sunset-as-full-eclipse-wows-spectators-in-spain</link>
-      <description>Spain experienced a breathtaking total solar eclipse, captivating millions as darkness briefly fell. Spectators in Spain and Iceland shared unforgettable</description>
-      <pubDate>Thu, 13 Aug 2026 05:57:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/sunset_Sun-6a7d57e432cee.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HC writ seeks suspension of presidential election schedule</title>
-      <link>https://www.daily-sun.com/bangladesh/892027/hc-writ-seeks-suspension-of-presidential-election-schedule</link>
-      <description>Supreme Court lawyer Yunus Ali Akand files petition challenging constitutional provision on MPs’ voting rights</description>
-      <pubDate>Thu, 13 Aug 2026 05:57:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/High-Court-6a7d569369117.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>US business delegation meets Prime Minister</title>
       <link>https://www.daily-sun.com/bangladesh/892026/us-business-delegation-meets-prime-minister</link>
       <description>Talks focus on boosting trade and investment and strengthening economic ties between the two countries</description>
@@ -3471,6 +3457,20 @@
       <description>Canada's inflation hits 3% due to Middle East conflict, elevated gasoline prices, and looming US tariffs. PM Carney engages in</description>
       <pubDate>Tue, 18 Aug 2026 04:47:49 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Canada-6a83da77e1270.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Govt seeks legal aid, mediation, digital tech to cut case backlog</title>
+      <link>https://www.daily-sun.com/bangladesh/892891/govt-seeks-legal-aid-mediation-digital-tech-to-cut-case-backlog</link>
+      <description>The government is tackling 45 lakh pending cases by enhancing legal aid, introducing mediation, and leveraging digital technology to make</description>
+      <pubDate>Tue, 18 Aug 2026 05:16:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Govt-seeks-legal-aid,-mediation,-digital-tech-to-cut-case-backlog-6a83e91961c1f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>174 more Bangladeshis return from Libya</title>
+      <link>https://www.daily-sun.com/bangladesh/892890/174-more-bangladeshis-return-from-libya</link>
+      <description>Three women, a child and 15 sick people among returnees brought home from Benghazi detention centre</description>
+      <pubDate>Tue, 18 Aug 2026 05:16:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Undocumented-Bangladeshis-return-from-Libya-6a4cd02ed1cb6-6a83e4cda8854.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
