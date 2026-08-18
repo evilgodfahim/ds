@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BNP holds meeting to finalise presidential candidate</title>
-      <link>https://www.daily-sun.com/politics/892024/bnp-holds-meeting-to-finalise-presidential-candidate</link>
-      <description>Party chief Tarique Rahman chairs meeting as BNP prepares to submit nomination for 23rd president</description>
-      <pubDate>Thu, 13 Aug 2026 05:57:22 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/BNP-logo-6a7d4f0049e88.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>More than 30 countries condemn Iran executions</title>
       <link>https://www.daily-sun.com/world/892023/more-than-30-countries-condemn-iran-executions</link>
       <description>More than 30 nations, including France, Britain and Canada, have condemned Iran's use of capital punishment</description>
@@ -3471,6 +3464,13 @@
       <description>Conference to discuss boosting revenue collection, improving tax administration and strengthening fiscal resources</description>
       <pubDate>Tue, 18 Aug 2026 05:47:28 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/nbr-pm-6a83ead62ecfa-6a83ec1263e0b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Philippine student killed in rare school shooting</title>
+      <link>https://www.daily-sun.com/world/892894/philippine-student-killed-in-rare-school-shooting</link>
+      <description>A school shooting at Ateneo de Zamboanga University in the Philippines claims a grade 10 student’s life, as the shooter</description>
+      <pubDate>Tue, 18 Aug 2026 06:06:32 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Philippines-6a83f1c948c65.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
