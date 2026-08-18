@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>UN concerned Al-Qaeda trying to establish cells in Bangladesh</title>
-      <link>https://www.daily-sun.com/bangladesh/892196/un-airs-concern-al-qaeda-trying-establish-cells-in-bangladesh</link>
-      <description>UN investigators have found some concerning signs that Al-Qaeda is trying to exploit Bangladesh and establish cells here</description>
-      <pubDate>Thu, 13 Aug 2026 19:37:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/aqis-6a7e1041c10e1.jfif" type="image/jpeg" />
-    </item>
-    <item>
       <title>BFF extends licensing deadline for fourth time</title>
       <link>https://www.daily-sun.com/sports/892195/bff-extends-licensing-deadline-for-fourth-time</link>
       <description>The Bangladesh Football Federation has extended their club licensing deadline for a fourth time to give top teams facing FIFA</description>
@@ -3473,6 +3466,13 @@
       <description>The Ministry of Public Administration issued separate notifications in this regard on Tuesday night</description>
       <pubDate>Tue, 18 Aug 2026 19:58:20 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Govt-Logo-6a84b5a1efca4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US sanctions ICC chief Tomoko Akane of Japan</title>
+      <link>https://www.daily-sun.com/world/893063/us-sanctions-icc-chief-tomoko-akane-of-japan</link>
+      <description>The ICC retorted Tuesday, saying the US sanctions "undermine the rule of law"</description>
+      <pubDate>Tue, 18 Aug 2026 20:18:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Untitled-6a84babda0ee1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
