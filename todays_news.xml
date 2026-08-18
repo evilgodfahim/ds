@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US ambassador denounces settler siege as Israel dispatches troops</title>
-      <link>https://www.daily-sun.com/world/892048/us-ambassador-denounces-settler-siege-as-israel-dispatches-troops</link>
-      <description>Israeli forces confront rogue settlers blocking Palestinians amid rising US criticism, as tensions escalate ahead of upcoming elections and settlement</description>
-      <pubDate>Thu, 13 Aug 2026 09:48:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/223415-01-02-(2)-6a7d8dacac904.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Mirza Fakhrul set to hold highest constitutional position from grassroots</title>
-      <link>https://www.daily-sun.com/politics/892046/mirza-fakhrul-set-to-hold-highest-constitutional-position-from-grassroots</link>
-      <description>Mirza Fakhrul Islam Alamgir, BNP's secretary general, is nominated for President by PM Tarique Rahman, marking a significant milestone in</description>
-      <pubDate>Thu, 13 Aug 2026 09:48:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/Mirza_Fakhrul-(1)-6a7d84173a27b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mahmudullah Riyad Named Brand Ambassador of Ghorebazar</title>
       <link>https://www.daily-sun.com/business/892045/mahmudullah-riyad-named-brand-ambassador-of-ghorebazar</link>
       <description>Ghorebazar, an organic and safe food brand, works with the aim of making quality and safe food products accessible to</description>
@@ -3470,6 +3456,20 @@
       <link>https://daily-sun.com/bangladesh/892863/new-acc-commission-formed-with-asaduzzaman-as-chairman</link>
       <description />
       <pubDate>Tue, 18 Aug 2026 07:36:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI auto-fine system to be introduced on all highways: Salahuddin</title>
+      <link>https://www.daily-sun.com/bangladesh/892904/ai-auto-fine-system-to-be-introduced-on-all-highways-salahuddin</link>
+      <description>Home Minister Salahuddin Ahmed announces a new AI-based automated fine system for highways, enhancing traffic management and safety across Bangladesh.</description>
+      <pubDate>Tue, 18 Aug 2026 08:06:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/home-minister-(3)-6a840c08e695f-6a840ec33b677.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Women-only pink bus service launched in three cities</title>
+      <link>https://www.daily-sun.com/bangladesh/892903/women-only-pink-bus-service-launched-in-three-cities</link>
+      <description>BRTC launches a women-only pink bus service in Dhaka for safer travel. Minister Shaikh Rabiul Alam emphasizes women's empowerment in</description>
+      <pubDate>Tue, 18 Aug 2026 08:06:43 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Women-only-pink-bus-(1)-6a840bacca9cc.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
