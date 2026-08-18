@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Silent Catastrophe: Hunger</title>
-      <link>https://www.daily-sun.com/opinion/871449</link>
-      <description>Silent Catastrophe: Hunger</description>
-      <pubDate>Wed, 29 Apr 2026 07:10:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Media under Yunus: A period of fear and control</title>
       <link>https://www.daily-sun.com/opinion/871761/media-under-yunus-a-period-of-fear-and-control</link>
       <description />
@@ -3150,6 +3144,13 @@ Defence Pact: Promise and Peril</description>
       <link>https://www.daily-sun.com/opinion/892283</link>
       <description>The recent decision by the Dhaka University Syndicate to systematically investigate 231 faculty members accused</description>
       <pubDate>Mon, 17 Aug 2026 20:38:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why River Pollution Still Pays in Dhaka?</title>
+      <link>https://www.daily-sun.com/opinion/892284</link>
+      <description>A government survey presented in Dhaka on 13 August identified 224 waste-discharge outlets connected to the Buriganga and Turag rivers,</description>
+      <pubDate>Tue, 18 Aug 2026 21:28:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/DS-'08'15-11-6a7f54cf43056.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
