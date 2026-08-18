@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>BFF extends licensing deadline for fourth time</title>
-      <link>https://www.daily-sun.com/sports/892195/bff-extends-licensing-deadline-for-fourth-time</link>
-      <description>The Bangladesh Football Federation has extended their club licensing deadline for a fourth time to give top teams facing FIFA</description>
-      <pubDate>Thu, 13 Aug 2026 19:37:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/BFF-Logo-6a7e0fe49fab1.png" type="image/png" />
-    </item>
-    <item>
       <title>Chayon, Pintu join hockey coaching panel</title>
       <link>https://www.daily-sun.com/sports/892194/chayon-pintu-join-hockey-coaching-panel</link>
       <description>Former national stars Mamunur Rahman Chayon and Imran Hasan Pintu have joined the Bangladesh national hockey team's coaching panel ahead</description>
@@ -3473,6 +3466,12 @@
       <description>The ICC retorted Tuesday, saying the US sanctions "undermine the rule of law"</description>
       <pubDate>Tue, 18 Aug 2026 20:18:25 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Untitled-6a84babda0ee1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Swedish police officer dies after assault at FIFA World Cup fan zone in Copenhagen</title>
+      <link>https://daily-sun.com/world/884038/swedish-police-officer-dies-after-assault-at-fifa-world-cup-fan-zone-in-copenhagen</link>
+      <description />
+      <pubDate>Tue, 18 Aug 2026 22:46:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
