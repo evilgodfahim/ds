@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Malaysian princess marries British racing driver</title>
-      <link>https://www.daily-sun.com/world/892348/malaysian-princess-marries-british-racing-driver</link>
-      <description>British racing driver Chris Froggatt marries Malaysian royal Princess Ilyana in a royal wedding in Kuala Lumpur, blending motorsport and</description>
-      <pubDate>Sat, 15 Aug 2026 00:35:16 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Malaysian-princess-marries-British-racing-driver-6a7fac15a0fb7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Powerful Indonesian quake kills two</title>
       <link>https://www.daily-sun.com/world/892350/powerful-indonesian-quake-kills-two</link>
       <description>A powerful 7.7-magnitude quake struck eastern Indonesia, resulting in two fatalities as damage assessments continue. Updates are expected soon.</description>
@@ -3477,6 +3470,12 @@
       <description>Russian strikes hit Kyiv early Thursday, killing two and injuring six. The attack intensifies amidst ongoing conflict and escalating military</description>
       <pubDate>Wed, 19 Aug 2026 23:12:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Kyiv-6a863680719c3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bayern's Musiala reveals 'neurological disorder' after on-field collapse</title>
+      <link>https://daily-sun.com/sports/893122/bayern-s-musiala-reveals-neurological-disorder-after-on-field-collapse</link>
+      <description />
+      <pubDate>Wed, 19 Aug 2026 23:37:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
