@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>North Korea warns of new 'deterrent' ahead of US-South drills</title>
-      <link>https://www.daily-sun.com/world/892232/north-korea-warns-of-new-deterrent-ahead-of-us-south-drills</link>
-      <description>North Korea warns of a strong deterrent response to upcoming US-South Korea drills, amid heightened military tensions and threats from</description>
-      <pubDate>Fri, 14 Aug 2026 09:53:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/North_Korea-6a7ede58428bc.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh, Thailand discuss stronger bilateral ties, trade and connectivity</title>
       <link>https://www.daily-sun.com/diplomacy/892231/bangladesh-thailand-discuss-stronger-bilateral-ties-trade-and-connectivity</link>
       <description>Bangladesh and Thailand discuss strengthening bilateral ties, focusing on trade, investment, and connectivity. High-level visits are planned for deeper cooperation.</description>
@@ -3472,6 +3465,13 @@
       <link>https://dscdn.daily-sun.com/english/uploads/World+Cup+Magazine+-2026.pdf</link>
       <description />
       <pubDate>Wed, 19 Aug 2026 11:36:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kolkata fire: Bangladesh Deputy High Commission opens helpline</title>
+      <link>https://www.daily-sun.com/diplomacy/893100/kolkata-fire-bangladesh-deputy-high-commission-opens-helpline</link>
+      <description>Bangladesh Deputy High Commission in Kolkata has established a 24/7 helpline for victims of the New Market fire to aid</description>
+      <pubDate>Wed, 19 Aug 2026 11:56:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Kolkata-hotel-fire-19-Aug-2026-Reuters-6a8594c5e3b99.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
