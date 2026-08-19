@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Macron in hot water over jet ski picture</title>
-      <link>https://www.daily-sun.com/world/892346/macron-in-hot-water-over-jet-ski-picture</link>
-      <description>The magazine said Macron's vacation routine also included boxing and running...</description>
-      <pubDate>Fri, 14 Aug 2026 23:15:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/France-President-Emmanuel-Macron-AFP-6a7f9d250adef.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Trump dismisses concerns over conditions on US aircraft carrier</title>
-      <link>https://www.daily-sun.com/world/892347/trump-dismisses-concerns-over-conditions-on-us-aircraft-carrier</link>
-      <description>Trump also rejected the idea that the ship -- now at sea for nine months -- had been deployed for</description>
-      <pubDate>Fri, 14 Aug 2026 23:38:47 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/USS-Abraham-Lincoln-Reuters-6a7fa4a85d65f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Colombia hopes for miracles as search for quake victims goes on</title>
       <link>https://www.daily-sun.com/world/892349/colombia-hopes-for-miracles-as-search-for-quake-victims-goes-on</link>
       <description>At least 287 people are dead, while thousands more are injured, President Abelardo said...</description>
@@ -3477,6 +3463,20 @@
       <link>https://daily-sun.com/bangladesh/892978/workshop-on-accessibility-for-all-bangladesh-railway-held-in-d</link>
       <description />
       <pubDate>Wed, 19 Aug 2026 18:25:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 new DCs appointed in Natore, Gaibandha and Rangpur</title>
+      <link>https://www.daily-sun.com/bangladesh/893239/3-new-dcs-appointed-in-natore-gaibandha-and-rangpur</link>
+      <description>Rajshahi gets new divisional commissioner</description>
+      <pubDate>Wed, 19 Aug 2026 19:01:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/MoPA-6a85f7e06845c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran labels California its ‘new territory’ after Trump’s Hormuz claim</title>
+      <link>https://www.daily-sun.com/world/893238/iran-labels-california-its-new-territory-after-trump-s-hormuz-claim</link>
+      <description>Tehran responds after US president portrayed Strait of Hormuz as ‘new US territory’; California is home to large Iranian diaspora</description>
+      <pubDate>Wed, 19 Aug 2026 19:01:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Iran-labels-California-its-‘new-territory’-after-Trump’s-Hormuz-claim-6a85f99ca98e4.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
