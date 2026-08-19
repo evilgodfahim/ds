@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Colombia hopes for miracles as search for quake victims goes on</title>
-      <link>https://www.daily-sun.com/world/892349/colombia-hopes-for-miracles-as-search-for-quake-victims-goes-on</link>
-      <description>At least 287 people are dead, while thousands more are injured, President Abelardo said...</description>
-      <pubDate>Sat, 15 Aug 2026 00:35:16 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Rescue-workers-help-remove-debris-in-search-of-survivors-in-Cali,-Colombia,-on-13-August-2026,-three-days-after-a-7-6a7fb0bc8984a.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Malaysian princess marries British racing driver</title>
       <link>https://www.daily-sun.com/world/892348/malaysian-princess-marries-british-racing-driver</link>
       <description>British racing driver Chris Froggatt marries Malaysian royal Princess Ilyana in a royal wedding in Kuala Lumpur, blending motorsport and</description>
@@ -3477,6 +3470,13 @@
       <description>Tehran responds after US president portrayed Strait of Hormuz as ‘new US territory’; California is home to large Iranian diaspora</description>
       <pubDate>Wed, 19 Aug 2026 19:01:18 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Iran-labels-California-its-‘new-territory’-after-Trump’s-Hormuz-claim-6a85f99ca98e4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia targets Kyiv in missile attack, at least 2 dead</title>
+      <link>https://www.daily-sun.com/world/893263/russia-targets-kyiv-in-missile-attack-at-least-2-dead</link>
+      <description>Russian strikes hit Kyiv early Thursday, killing two and injuring six. The attack intensifies amidst ongoing conflict and escalating military</description>
+      <pubDate>Wed, 19 Aug 2026 23:12:26 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Kyiv-6a863680719c3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
