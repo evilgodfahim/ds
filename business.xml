@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>FDI hits 5-year high, but lags regional rivals</title>
-      <link>https://www.daily-sun.com/business/885075</link>
-      <description />
-      <pubDate>Thu, 09 Jul 2026 08:44:27 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/09/small/DS-'07'09-102-6a4e9c06476c2.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Govt sets six-year limit on savings certificate profit claims</title>
-      <link>https://www.daily-sun.com/business/885073</link>
-      <description />
-      <pubDate>Thu, 09 Jul 2026 08:44:27 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/09/small/DS-'07'09-103-6a4e9c05d6f9b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Govt suspends vehicle purchases, foreign travel in FY27 austerity drive</title>
       <link>https://www.daily-sun.com/business/884987/govt-suspends-vehicle-purchases-foreign-travel-in-fy27-austerity-drive</link>
       <description />
@@ -3102,6 +3088,18 @@ bancassurance performers</description>
       <description>Citizens Bank joins BB’s 
 agricultural refinance scheme</description>
       <pubDate>Wed, 19 Aug 2026 16:53:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chattogram Build Expo 2026 begins tomorrow</title>
+      <link>https://www.daily-sun.com/business/893038</link>
+      <description>Chattogram Build Expo 2026 begins tomorrow</description>
+      <pubDate>Wed, 19 Aug 2026 17:42:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russia and Ukraine's Black Sea grain exports grind to a virtual halt</title>
+      <link>https://www.daily-sun.com/business/893175/russia-and-ukraine-s-black-sea-grain-exports-grind-to-a-virtual-halt</link>
+      <description />
+      <pubDate>Wed, 19 Aug 2026 17:42:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
