@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>US ambassador says recognises Japan's sovereignty over islands</title>
-      <link>https://www.daily-sun.com/world/892215/us-ambassador-says-recognises-japan-s-sovereignty-over-islands</link>
-      <description>The United States affirms Japan's sovereignty over the Northern Territories amid geopolitical tensions as Putin visits. Support for Indo-Pacific stability</description>
-      <pubDate>Fri, 14 Aug 2026 05:05:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/Aircrafts-patrol-Senkaku-Islands-6a7ea154f3d4f.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Death toll from Colombia quake rises to 281</title>
-      <link>https://www.daily-sun.com/world/892214/death-toll-from-colombia-quake-rises-to-281</link>
-      <description>A powerful 7.4-magnitude earthquake in Colombia has led to 281 deaths, nearly 4,000 injuries, and massive destruction across multiple municipalities.</description>
-      <pubDate>Fri, 14 Aug 2026 05:05:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/14/medium/Colombia-quake_Sun-6a7ea01f45024.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Tanzid first Bangladeshi to score Test century in Australia</title>
       <link>https://www.daily-sun.com/sports/892213/tanzid-first-bangladeshi-to-score-test-century-in-australia</link>
       <description>Tanzid Hasan makes history as the first Bangladeshi to score a Test century in Australia during the first Test in</description>
@@ -3472,6 +3458,20 @@
       <description>A magnitude 5.9 earthquake hit central China's Qinghai province early Wednesday, as reported by the US Geological Survey. Learn more</description>
       <pubDate>Wed, 19 Aug 2026 04:01:10 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Earthquake-6a6ffd5b0e46a-6a852168d0c1a.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Human values and compassion in the Quran</title>
+      <link>https://www.daily-sun.com/sun-faith/893075/human-values-and-compassion-in-the-quran</link>
+      <description>The Holy Quran highlights humanity and compassion, emphasizing dignity, justice, and kindness. Explore its teachings on moral values for a</description>
+      <pubDate>Wed, 19 Aug 2026 04:39:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Quran_Sun-6a85307e57b43.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ecuadoran diplomat enters race to be next UN chief</title>
+      <link>https://www.daily-sun.com/world/893074/ecuadoran-diplomat-enters-race-to-be-next-un-chief</link>
+      <description>Ecuador's Ivonne A-Baki joins the UN secretary-general race, nominated by Tonga, aiming to broker peace amid global divisions and budget</description>
+      <pubDate>Wed, 19 Aug 2026 04:39:09 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/Ivonne-A-Baki-6a852c7f70db5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
