@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Shops, malls must close by 8pm</title>
-      <link>https://www.daily-sun.com/business-print/891999</link>
-      <description />
-      <pubDate>Wed, 12 Aug 2026 18:29:15 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/13/medium/DS-'08'13-102-6a7cba6e3806f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Building Salinity-resilient Agriculture</title>
       <link>https://www.daily-sun.com/editorial/891956</link>
       <description />
@@ -3554,6 +3547,13 @@ keep continuous</title>
       <description>BOA meeting erupts in row</description>
       <pubDate>Tue, 18 Aug 2026 19:19:32 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/22---19-08--26-ds-6a84ac04ebc8e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Saudi tightens anti-crime oversight on UAE-bound bank transfers</title>
+      <link>https://www.daily-sun.com/business-print/893040</link>
+      <description>Saudi tightens, anti-crime, oversight , UAE-bound bank ,transfers</description>
+      <pubDate>Wed, 19 Aug 2026 02:24:22 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
