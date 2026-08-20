@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Powerful Indonesian quake kills two</title>
-      <link>https://www.daily-sun.com/world/892350/powerful-indonesian-quake-kills-two</link>
-      <description>A powerful 7.7-magnitude quake struck eastern Indonesia, resulting in two fatalities as damage assessments continue. Updates are expected soon.</description>
-      <pubDate>Sat, 15 Aug 2026 02:01:04 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/_Indonesian-quake_Sun-6a7fc7967bab7.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Miraz’s fifty puts Bangladesh 200 runs ahead, pressure on Australia</title>
-      <link>https://www.daily-sun.com/sports/892354/miraz-s-fifty-puts-bangladesh-200-runs-ahead-pressure-on-australia</link>
-      <description>Bangladesh's Mehedi Hasan Miraz shines with 51 runs, pushing the team toward a 200-run lead against Australia in Darwin's cricket</description>
-      <pubDate>Sat, 15 Aug 2026 02:53:48 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Untitled-1-Recovered-6a7fd3e9bb69c.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Khaleda Zia’s 82nd birthday today</title>
       <link>https://www.daily-sun.com/politics/892353/khaleda-zia-s-82nd-birthday-today</link>
       <description>The BNP marks the 82nd birthday of Begum Khaleda Zia, former Prime Minister and chairperson, with Doa and milad mahfils</description>
@@ -3476,6 +3462,20 @@
       <link>https://daily-sun.com/sports/893122/bayern-s-musiala-reveals-neurological-disorder-after-on-field-collapse</link>
       <description />
       <pubDate>Wed, 19 Aug 2026 23:37:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump vows 'tremendous' economic costs on Iran partners</title>
+      <link>https://www.daily-sun.com/world/893265/trump-vows-tremendous-economic-costs-on-iran-partners</link>
+      <description>US President Donald Trump said Wednesday he was launching a major new campaign to target Iran's economy, threatening "tremendous" punishment</description>
+      <pubDate>Thu, 20 Aug 2026 02:52:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Trump-Reuters-6a7c89cfc271a-6a851661a6b4a-6a8666b7a04f4.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UK summons Israeli envoy over West Bank settlement project</title>
+      <link>https://www.daily-sun.com/world/893264/uk-summons-israeli-envoy-over-west-bank-settlement-project</link>
+      <description>Britain demands Israel halt E1 West Bank settlement plans, warning it threatens the viability of a two-state solution, says foreign</description>
+      <pubDate>Thu, 20 Aug 2026 02:52:07 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/UK-summons-Israeli-envoy_Sun-6a86631409222.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
