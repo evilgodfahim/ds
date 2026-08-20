@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Everyone lives in fear: Yemenis worry about return to all-out war</title>
-      <link>https://www.daily-sun.com/world/892537/everyone-lives-in-fear-yemenis-worry-about-return-to-all-out-war</link>
-      <description>Renewed hostilities in Yemen spark fears of civil war as the Houthi rebels escalate attacks. Families struggle with violence in</description>
-      <pubDate>Sun, 16 Aug 2026 05:44:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Yemen-War-6a814a4618b67.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh and Turkmenistan to strengthen bilateral ties, cooperation in energy security</title>
       <link>https://www.daily-sun.com/diplomacy/892540/bangladesh-and-turkmenistan-to-strengthen-bilateral-ties-cooperation-in-energy-security</link>
       <description>Bangladesh and Turkmenistan strengthen bilateral relations in Ashgabat, focusing on trade, investment, and cultural cooperation during their August 2026 consultations.</description>
@@ -3478,6 +3471,13 @@
       <description>Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they quit royal</description>
       <pubDate>Thu, 20 Aug 2026 21:46:01 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/BRITAIN-ROYALS-HARRYMEGHAN-6a87732d3d2bb.JPG" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Students to sit for missed HSC exams on Monday: Dhaka Board</title>
+      <link>https://www.daily-sun.com/bangladesh/893463/students-to-sit-for-missed-hsc-exams-on-monday-dhaka-board</link>
+      <description>The students who missed their HSC exams on 13 July due to inclement weather will get the chance to retake</description>
+      <pubDate>Thu, 20 Aug 2026 22:03:11 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/HSC-exam-missed-6a8777237c951.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
