@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Khaleda Zia: An unyielding voice for Bangladesh's democratic journey</title>
-      <link>https://www.daily-sun.com/bangladesh/892351/khaleda-zia-an-unyielding-voice-for-bangladesh-s-democratic-journey</link>
-      <description>Bangladesh honors Begum Khaleda Zia on her 82nd birthday, recognizing her crucial role in advancing democracy and leadership in a</description>
-      <pubDate>Sat, 15 Aug 2026 02:53:48 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Untitled-1-695331005ab68-6a7fcbd10b061.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Babar Azam in injury scare ahead of England opener</title>
-      <link>https://www.daily-sun.com/sports/892355/babar-azam-in-injury-scare-ahead-of-england-opener</link>
-      <description>Pakistan captain Babar Azam injured his hand in a warm-up match before the Test series against England. Is he fit</description>
-      <pubDate>Sat, 15 Aug 2026 03:27:24 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/15/medium/Babar-Azam-6a7fd69ce15ac.png" type="image/png" />
-    </item>
-    <item>
       <title>Businessman flies to Delhi with 31 live rounds after passing through Dhaka airport security</title>
       <link>https://daily-sun.com/bangladesh/892235/businessman-flies-to-delhi-with-31-live-rounds-after-passing-through-dhaka-airport-security</link>
       <description />
@@ -3476,6 +3462,20 @@
       <description>A tourist helicopter crash in Kenya claimed the lives of Ecuadorian intelligence chief Michele Sensi-Contugi and five Americans. Investigations are</description>
       <pubDate>Thu, 20 Aug 2026 03:36:13 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Kenya_helicopter_crash-6a866bd957d4b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US national debt exceeds $40 trillion for first time</title>
+      <link>https://www.daily-sun.com/world/893269/us-national-debt-exceeds-40-trillion-for-first-time</link>
+      <description>US gross national debt surpasses $40 trillion for the first time due to Trump's tariffs and rising obligations, raising inflation</description>
+      <pubDate>Thu, 20 Aug 2026 04:13:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Trump_Debt-6a8678a469611.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladeshi hafiz Zakaria wins top spot in Saudi Qur’an competition</title>
+      <link>https://www.daily-sun.com/sun-faith/893268/bangladeshi-hafiz-zakaria-wins-top-spot-in-saudi-qur-an-competition</link>
+      <description>46th King Abdulaziz International Qur’an Competition held in Makkah</description>
+      <pubDate>Thu, 20 Aug 2026 04:13:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Qur’an-Competition_Sun-6a8675de7fdfb.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
