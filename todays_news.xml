@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Four killed as pickup overturns in Rangamati</title>
-      <link>https://www.daily-sun.com/bangladesh/892535/four-killed-as-pickup-overturns-in-rangamati</link>
-      <description>A tragic accident in Rangamati has claimed four lives and injured two others, revealing the dangers of local transport in</description>
-      <pubDate>Sun, 16 Aug 2026 05:15:04 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Rangamati_Pickup-6a81411aac079.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Everyone lives in fear: Yemenis worry about return to all-out war</title>
       <link>https://www.daily-sun.com/world/892537/everyone-lives-in-fear-yemenis-worry-about-return-to-all-out-war</link>
       <description>Renewed hostilities in Yemen spark fears of civil war as the Houthi rebels escalate attacks. Families struggle with violence in</description>
@@ -3478,6 +3471,13 @@
       <description>The Israeli government has advanced an internationally condemned settlement plan in the occupied West Bank that could split the territory</description>
       <pubDate>Thu, 20 Aug 2026 21:16:02 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Palestinian-Israel-Conflict-Settlements-----6a876a0d5df00.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Prince Harry and Meghan to make shock return to Britain after moving to US</title>
+      <link>https://www.daily-sun.com/world/893462/prince-harry-and-meghan-to-make-shock-return-to-britain-after-moving-to-us</link>
+      <description>Prince Harry and his wife Meghan plan to move back to Britain this month, six years after they quit royal</description>
+      <pubDate>Thu, 20 Aug 2026 21:46:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/BRITAIN-ROYALS-HARRYMEGHAN-6a87732d3d2bb.JPG" type="image/jpeg" />
     </item>
   </channel>
 </rss>
