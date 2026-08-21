@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Mild earthquake jolts Dhaka and surrounding areas</title>
-      <link>https://www.daily-sun.com/earthquake/892697/mild-earthquake-jolts-dhaka-and-surrounding-areas</link>
-      <description>No casualties or damage have been reported so far</description>
-      <pubDate>Mon, 17 Aug 2026 04:14:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Earthquake2-6a8284a696154.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Nearly 13,000 displaced after deadly Indonesian quake</title>
-      <link>https://www.daily-sun.com/world/892696/nearly-13-000-displaced-after-deadly-indonesian-quake</link>
-      <description>Thousands displaced by a 7.7-magnitude earthquake in eastern Indonesia await crucial aid amid fears from aftershocks. The government response has</description>
-      <pubDate>Mon, 17 Aug 2026 04:14:21 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Indonesian_quake-6a82843d14c00.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>At least 7 killed as massive fire erupts at hotel in West Bengal</title>
       <link>https://www.daily-sun.com/world/892703/at-least-7-killed-as-massive-fire-erupts-at-hotel-in-west-bengal</link>
       <description>A devastating hotel fire in Tarapith, West Bengal, claimed at least seven lives and injured four. Investigation by police is</description>
@@ -3480,6 +3466,20 @@
       <description>He was admitted to hospital on Monday due to fluid retention from the cortisone treatment...</description>
       <pubDate>Fri, 21 Aug 2026 18:58:26 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Norway-King-Harald-AFP-6a8895b7c002a.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia congratulates President Fakhrul, wishes him success</title>
+      <link>https://www.daily-sun.com/diplomacy/893607/russia-congratulates-president-fakhrul-wishes-him-success</link>
+      <description>Russia congratulates Mirza Fakhrul Islam Alamgir on his election as Bangladesh's 23rd president, wishing him success in his new role.</description>
+      <pubDate>Fri, 21 Aug 2026 19:44:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/22/medium/President-Fakhrul-sewaring-in-ceremony-courtesy-6a88a62c85e9e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Iran president says time to end war while in position of strength</title>
+      <link>https://www.daily-sun.com/world/893571/iran-president-says-time-to-end-war-while-in-position-of-strength</link>
+      <description>His remarks came weeks after Iran's supreme leader Mojtaba Khamenei said he had approved the deal to end the war</description>
+      <pubDate>Fri, 21 Aug 2026 19:44:34 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Iran's-President-Masoud-Pezeshkian-AFP-6a88a936729f7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
