@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Tigers roar in Darwin as Bangladesh beat Australia</title>
-      <link>https://daily-sun.com/sports/892536/bangladesh-secured-a-historic-test-victory-against-australia</link>
-      <description />
-      <pubDate>Sun, 16 Aug 2026 18:17:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Model ‘kills self’ keeping romantic partner on video call</title>
       <link>https://daily-sun.com/bangladesh/892418/model-kills-self-keeping-romantic-partner-on-video-call</link>
       <description />
@@ -3478,6 +3472,13 @@
       <description>Teachers, students and officials of GUK attended the programme</description>
       <pubDate>Fri, 21 Aug 2026 15:19:05 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Shuvosangho-6a886b45d4bf8.gif" type="image/gif" />
+    </item>
+    <item>
+      <title>Saplings distributed in Lalmonirhat</title>
+      <link>https://www.daily-sun.com/bashundhara-shuvosangho/893530/saplings-distributed-in-lalmonirhat</link>
+      <description>The initiative was organised to help maintain environmental balance</description>
+      <pubDate>Fri, 21 Aug 2026 15:53:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Shuvosangho-6a886cceab2f1.gif" type="image/gif" />
     </item>
   </channel>
 </rss>
