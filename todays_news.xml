@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Keep faith in BNP govt, development initiatives: PM Tarique</title>
-      <link>https://www.daily-sun.com/bangladesh/892546/keep-faith-in-bnp-government-development-initiatives-pm-tarique</link>
-      <description>Want to establish Bangladesh as a welfare state, he says</description>
-      <pubDate>Sun, 16 Aug 2026 07:50:31 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/Prime-Minister-Tarique-Rahman-6a81690b358e3.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Caniggia to grace Dhaka Interschool Champions League final</title>
-      <link>https://www.daily-sun.com/sports/892548/caniggia-to-grace-dhaka-interschool-champions-league-final</link>
-      <description>Argentine legend Claudio Caniggia will attend Monday’s Dhaka Interschool Champions League final as Guest of Honor, inspiring young footballers</description>
-      <pubDate>Sun, 16 Aug 2026 08:06:31 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/16/medium/toolxox-6a816c7ea44e4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladesh, IOM launch project to combat cyber-enabled human trafficking</title>
       <link>https://www.daily-sun.com/bangladesh/892549/bangladesh-iom-launch-project-to-combat-cyber-enabled-human-trafficking</link>
       <description>Bangladesh and IOM's new project targets cyber-enabled human trafficking, enhancing community awareness and law enforcement to combat digital exploitation.</description>
@@ -3477,6 +3463,20 @@
       <link>https://daily-sun.com/bangladesh/893303/mirza-fakhrul-elected-president</link>
       <description />
       <pubDate>Fri, 21 Aug 2026 02:49:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>US hits Hezbollah with more sanctions, says Iran controls it</title>
+      <link>https://www.daily-sun.com/world/893473/us-hits-hezbollah-with-more-sanctions-says-iran-controls-it</link>
+      <description>The United States imposes new sanctions on Hezbollah's financing network tied to Iran's Revolutionary Guards, amid ongoing Israel-Lebanon negotiations.</description>
+      <pubDate>Fri, 21 Aug 2026 03:39:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/Hezbollah-6a87c5d35fd11.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US says it will impose 'toughest sanctions in history' on Iran</title>
+      <link>https://www.daily-sun.com/world/893472/us-says-it-will-impose-toughest-sanctions-in-history-on-iran</link>
+      <description>US Treasury chief Scott Bessent said the United States will impose "the toughest sanctions in history" on Iran</description>
+      <pubDate>Fri, 21 Aug 2026 03:39:21 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/21/medium/street-in-Tehran_Day_Sun-6a87c44e9e603.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
