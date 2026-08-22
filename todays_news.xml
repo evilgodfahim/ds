@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Myanmar's leader heads to Russia</title>
-      <link>https://www.daily-sun.com/world/892705/myanmar-s-leader-heads-to-russia</link>
-      <description>Myanmar leader Min Aung Hlaing visits Russia to meet President Putin, aiming to strengthen ties amid ongoing civil unrest and</description>
-      <pubDate>Mon, 17 Aug 2026 06:04:20 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Myanmar-6a8298f730e39.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Why do earthquakes occur? A lesson in spiritual reflection</title>
       <link>https://www.daily-sun.com/sun-faith/892704/why-do-earthquakes-occur-a-lesson-in-spiritual-reflection</link>
       <description>What do the Holy Quran and The Hadith say about natural disasters?</description>
@@ -3479,6 +3472,13 @@
       <link>https://daily-sun.com/bangladesh/893487/dhaka-eye-a-new-world-of-thrills-takes-shape-in-bashundhara-central-park</link>
       <description />
       <pubDate>Fri, 21 Aug 2026 23:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>US VP Vance campaigns in hometown with eye on 2028</title>
+      <link>https://www.daily-sun.com/world/893613/us-vp-vance-campaigns-in-hometown-with-eye-on-2028</link>
+      <description>Vance gave a speech at the steel plant where his grandfather worked for 40 years in Middletown...</description>
+      <pubDate>Sat, 22 Aug 2026 00:28:02 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/22/medium/US-Vice-President-JD-Vance-delivers-remarks-on-the-Trump-Administration's-economic-agenda-at-the-Cleveland-Cliffs-Middletown-Works-steel-mill-in-Middletown,-Ohio,-on-21-August-2026-6a88e52083a06.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
