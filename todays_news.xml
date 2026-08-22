@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Two more Air India pilots found positive for marijuana</title>
-      <link>https://www.daily-sun.com/world/892722/two-more-air-india-pilots-found-positive-for-marijuana</link>
-      <description>Air India pilots face drug testing after Phuket-Delhi flight incident. Two failed preliminary tests, raising concerns about safety and pilot</description>
-      <pubDate>Mon, 17 Aug 2026 09:24:01 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/17/medium/Two-more-Air-India-pilots-found-positive-for-marijuana-6a82c9e56582f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Mild earthquake jolts Dhaka and surrounding areas</title>
       <link>https://daily-sun.com/earthquake/892697/mild-earthquake-jolts-dhaka-and-surrounding-areas</link>
       <description />
@@ -3479,6 +3472,13 @@
       <description>India's economy is set to grow 7% to 7.2% in Q1 FY 2026-27, driven by strong manufacturing and services, according</description>
       <pubDate>Sat, 22 Aug 2026 06:00:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/22/medium/Indian-GDP-growth-6a8935ba02ee7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US hits Canadian goods with 50% tariffs after trade talks fail</title>
+      <link>https://www.daily-sun.com/world/893631/us-hits-canadian-goods-with-50-tariffs-after-trade-talks-fail</link>
+      <description>US imposes 50% tariffs on Canadian goods after failed trade talks. Tensions rise as Canada suspends negotiations. What’s next for</description>
+      <pubDate>Sat, 22 Aug 2026 06:32:58 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/22/medium/US_Canada_Flags-6a8518e2b4b7d-6a893e01ae00f.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
