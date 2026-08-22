@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Canada inflation hits 3% as new US tariffs loom</title>
-      <link>https://www.daily-sun.com/world/892885/canada-inflation-hits-3-as-new-us-tariffs-loom</link>
-      <description>Canada's inflation hits 3% due to Middle East conflict, elevated gasoline prices, and looming US tariffs. PM Carney engages in</description>
-      <pubDate>Tue, 18 Aug 2026 04:47:49 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Canada-6a83da77e1270.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Govt seeks legal aid, mediation, digital tech to cut case backlog</title>
-      <link>https://www.daily-sun.com/bangladesh/892891/govt-seeks-legal-aid-mediation-digital-tech-to-cut-case-backlog</link>
-      <description>The government is tackling 45 lakh pending cases by enhancing legal aid, introducing mediation, and leveraging digital technology to make</description>
-      <pubDate>Tue, 18 Aug 2026 05:16:32 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/18/medium/Govt-seeks-legal-aid,-mediation,-digital-tech-to-cut-case-backlog-6a83e91961c1f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>174 more Bangladeshis return from Libya</title>
       <link>https://www.daily-sun.com/bangladesh/892890/174-more-bangladeshis-return-from-libya</link>
       <description>Three women, a child and 15 sick people among returnees brought home from Benghazi detention centre</description>
@@ -3480,6 +3466,19 @@
       <description>He was previously serving as a joint secretary at the Local Government Division</description>
       <pubDate>Sat, 22 Aug 2026 21:29:12 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/Abu-Awal-6a8a132d6f3aa.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BFA directs dealers to sell fertilizer at govt-fixed prices</title>
+      <link>https://www.daily-sun.com/bangladesh/893796/bfa-directs-dealers-to-sell-fertilizer-at-govt-fixed-prices</link>
+      <description>The Bangladesh Fertilizer Association urges dealers to ensure government-fixed prices for farmers. Compliance avoids dealership cancellation and legal action.</description>
+      <pubDate>Sat, 22 Aug 2026 22:44:40 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/BFA-6a8a22e654b4c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>12 dead in UK, Irish 'wrong-side' crashes</title>
+      <link>https://daily-sun.com/world/893682/12-dead-in-uk-irish-wrong-side-crashes</link>
+      <description />
+      <pubDate>Sat, 22 Aug 2026 22:44:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
