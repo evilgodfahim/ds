@@ -5,19 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Women-only pink bus service launched in three cities</title>
-      <link>https://daily-sun.com/bangladesh/892903/women-only-pink-bus-service-launched-in-three-cities</link>
-      <description />
-      <pubDate>Tue, 18 Aug 2026 18:04:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tail turns the tide</title>
-      <link>https://www.daily-sun.com/sports/893052/tail-turns-the-tide</link>
-      <description>How Bangladesh's lower order turned resistance into art form</description>
-      <pubDate>Tue, 18 Aug 2026 18:45:44 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/19/medium/WhatsApp-Image-2026-08-18-at-10-6a84a4b0347a9.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Al-Amin, Mirajul punished over Maldives clash</title>
       <link>https://www.daily-sun.com/sports/893051/al-amin-mirajul-punished-over-maldives-clash</link>
       <description>FIFA bans Bangladesh forward Al-Amin for 15 matches and suspends Mirajul Islam for two after a chaotic confrontation during a</description>
@@ -3481,6 +3468,20 @@
       <description>Sanjay Leela Bhansali wraps 'Love and War' to start the Madhubala biopic starring Sara Arjun, set to film in September.</description>
       <pubDate>Sun, 23 Aug 2026 16:26:04 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/Sara-Arjun-6a8b18e1b374e.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Shakib-Arshad-Himel reunites in New York, sparking new film buzz</title>
+      <link>https://www.daily-sun.com/entertainment/893876/shakib-arshad-himel-reunites-in-new-york-sparking-new-film-buzz</link>
+      <description>Shakib Khan reunites with Arshad Adnan and Himel Ashraf in New York, fueling buzz for a potential Eid 2027 film</description>
+      <pubDate>Sun, 23 Aug 2026 16:50:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/Shakib-Arshad-Himel-6a8b226dbbfd8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Two teenagers killed in motorcycle crash in Rangpur</title>
+      <link>https://www.daily-sun.com/bangladesh/893875/two-teenagers-killed-in-motorcycle-crash-in-rangpur</link>
+      <description>Two teenage friends were killed when their motorcycle collided head-on with a minibus in Rangpur sadar upazila on Sunday.</description>
+      <pubDate>Sun, 23 Aug 2026 16:50:01 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/23/medium/car---bike-accident-6a8b21cf715ae.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
