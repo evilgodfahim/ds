@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Banking set to bite harder</title>
-      <link>https://www.daily-sun.com/business/886060</link>
-      <description />
-      <pubDate>Tue, 14 Jul 2026 00:06:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/14/small/21--14-07-2026-ds-6a5521d7e4d1f.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Gold prices fall again</title>
       <link>https://www.daily-sun.com/business/886143/today-s-gold-price-update</link>
       <description />
@@ -3076,6 +3069,12 @@ State minister</description>
       <link>https://www.daily-sun.com/business/894048/iran-s-currency-hits-record-low-ahead-of-worst-ever-us-sanctions</link>
       <description />
       <pubDate>Mon, 24 Aug 2026 15:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Star Cancer center launches free second opinion clinic</title>
+      <link>https://www.daily-sun.com/business/894133/star-cancer-centre-launches-free-cancer-second-opinion-clinic</link>
+      <description />
+      <pubDate>Mon, 24 Aug 2026 18:03:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
