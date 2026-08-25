@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Ecuador intel chief, five Americans killed in Kenya helicopter crash</title>
-      <link>https://www.daily-sun.com/world/893266/ecuador-intel-chief-five-americans-killed-in-kenya-helicopter-crash</link>
-      <description>A tourist helicopter crash in Kenya claimed the lives of Ecuadorian intelligence chief Michele Sensi-Contugi and five Americans. Investigations are</description>
-      <pubDate>Thu, 20 Aug 2026 03:36:13 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Kenya_helicopter_crash-6a866bd957d4b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>US national debt exceeds $40 trillion for first time</title>
-      <link>https://www.daily-sun.com/world/893269/us-national-debt-exceeds-40-trillion-for-first-time</link>
-      <description>US gross national debt surpasses $40 trillion for the first time due to Trump's tariffs and rising obligations, raising inflation</description>
-      <pubDate>Thu, 20 Aug 2026 04:13:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/20/medium/Trump_Debt-6a8678a469611.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Bangladeshi hafiz Zakaria wins top spot in Saudi Qur’an competition</title>
       <link>https://www.daily-sun.com/sun-faith/893268/bangladeshi-hafiz-zakaria-wins-top-spot-in-saudi-qur-an-competition</link>
       <description>46th King Abdulaziz International Qur’an Competition held in Makkah</description>
@@ -3484,6 +3470,20 @@
       <description>The two countries deepen strategic partnership with 21 agreements and MoUs</description>
       <pubDate>Mon, 24 Aug 2026 21:40:50 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Saudi-Arabia,-France-push-diplomacy-6a8cb669beabf.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Netanyahu got his Iran war, but maybe not his desired result</title>
+      <link>https://www.daily-sun.com/world/894167/netanyahu-got-his-iran-war-but-maybe-not-his-desired-result</link>
+      <description>Israeli PM Benjamin Netanyahu's long-desired conflict with Iran may backfire as the Islamic republic emerges emboldened amid U.S. shifting tactics</description>
+      <pubDate>Tue, 25 Aug 2026 02:46:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Netanyahu-6a8cfe4759cfd.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>MAF urges Cyber Security Act changes to curb online abuse, gender violence</title>
+      <link>https://www.daily-sun.com/bangladesh/894166/maf-urges-cyber-security-act-changes-to-curb-online-abuse-gender-violence</link>
+      <description>TFGBV is not merely a cybercrime but a serious threat to human rights, personal safety, speakers say</description>
+      <pubDate>Tue, 25 Aug 2026 02:46:25 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/25/medium/Untitled-1-Recovered-6a8cfcca172e5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
