@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM Tarique Rahman to visit US in September</title>
-      <link>https://www.daily-sun.com/bangladesh/893996/pm-tarique-rahman-to-visit-us-in-september</link>
-      <description>Nine-day US visit will mark his first UNGA appearance and address as prime minister</description>
-      <pubDate>Mon, 24 Aug 2026 03:43:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/Official-photo-of-Prime-Minister-Tarique-Rahman-6a8bb7dd71657.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>7 killed in bus-truck collision in Cameroon</title>
       <link>https://www.daily-sun.com/world/893995/7-killed-in-bus-truck-collision-in-cameroon</link>
       <description>Seven killed and 10 injured in a bus-truck collision in Cameroon, as officials warn of ongoing road safety issues after</description>
@@ -3468,6 +3461,13 @@
       <link>https://daily-sun.com/world/894789/97-yr-old-woman-rescued-alive-from-rubble-after-nepal-disaster</link>
       <description />
       <pubDate>Sat, 29 Aug 2026 19:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rain, thundershowers forecast in 17 districts</title>
+      <link>https://www.daily-sun.com/weather/894931/rain-thundershowers-forecast-in-17-districts</link>
+      <description>River ports in affected areas advised to hoist Local Cautionary Signal No 1</description>
+      <pubDate>Sat, 29 Aug 2026 22:05:24 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/30/medium/rainfall-6a933d0014ae9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
