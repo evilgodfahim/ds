@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>7 killed in bus-truck collision in Cameroon</title>
-      <link>https://www.daily-sun.com/world/893995/7-killed-in-bus-truck-collision-in-cameroon</link>
-      <description>Seven killed and 10 injured in a bus-truck collision in Cameroon, as officials warn of ongoing road safety issues after</description>
-      <pubDate>Mon, 24 Aug 2026 03:43:33 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/Accident-(1)-6a8bb33db2fa9.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fines should be waived to help offset financial losses</title>
-      <link>https://www.daily-sun.com/opinion/893998/fines-should-be-waived-to-help-offset-financial-losses</link>
-      <description>The government of Bangladesh is addressing business penalties and loan recovery by supporting affected groups, ensuring economic stability and job</description>
-      <pubDate>Mon, 24 Aug 2026 04:28:56 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/Md-Fazlul-Hoque-6a8bc62bc6f62.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Oil falls as Trump pledges economic war on Iran</title>
       <link>https://www.daily-sun.com/business/893997/oil-falls-as-trump-pledges-economic-war-on-iran</link>
       <description>Oil prices fell as investors brace for Trump's plan to isolate Iran. Asian stocks drop, with Nvidia's AI earnings in</description>
@@ -3468,6 +3454,20 @@
       <description>River ports in affected areas advised to hoist Local Cautionary Signal No 1</description>
       <pubDate>Sat, 29 Aug 2026 22:05:24 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/30/medium/rainfall-6a933d0014ae9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US announces $3.6m in humanitarian aid for Nepal</title>
+      <link>https://www.daily-sun.com/world/894933/us-announces-3-6m-in-humanitarian-aid-for-nepal</link>
+      <description>The United States is providing $3.6 million in humanitarian aid to Nepal after devastating floods killed hundreds and left thousands</description>
+      <pubDate>Sun, 30 Aug 2026 00:08:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/30/medium/Nepal_mudslide-6a9361157232f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>UN, Nepal warn of climate threat after deadly floods</title>
+      <link>https://www.daily-sun.com/world/894932/un-nepal-warn-of-climate-threat-after-deadly-floods</link>
+      <description>Nepal's Foreign Minister warns of climate change's threat to the Himalayas as rescuers search for thousands missing after devastating floods</description>
+      <pubDate>Sun, 30 Aug 2026 00:08:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/30/medium/Nepal-6a935d5850c7a.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
