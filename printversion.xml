@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>HC verdict today on 16 death sentences</title>
-      <link>https://www.daily-sun.com/metropolis/893936</link>
-      <description />
-      <pubDate>Sun, 23 Aug 2026 18:55:46 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/24/medium/24-08-2026-p5-7-6a8b35e011b9d.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Why Murders Becoming Commonplace Incidents?</title>
       <link>https://www.daily-sun.com/editorial/893923</link>
       <description />
@@ -3518,6 +3511,13 @@ US midterm politics</description>
       <description>Tom Cruise’s ‘Days of Thunder’sequel adds Anne Hathaway</description>
       <pubDate>Sun, 30 Aug 2026 21:14:22 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/08/31/medium/5---31-08-2026-ds-6a94660570b20.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>ZRF seeks future scientists</title>
+      <link>https://www.daily-sun.com/news/895070</link>
+      <description>ZRF seeks future scientists</description>
+      <pubDate>Mon, 31 Aug 2026 07:22:41 +0000</pubDate>
+      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
