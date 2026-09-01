@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Sudden Flood from Tibet Ravages Rasuwa, Nepal Steps Up Emergency Response</title>
-      <link>https://daily-sun.com/opinion/894397/sudden-flood-from-tibet-ravages-rasuwa-nepal-steps-up-emergency-response</link>
-      <description />
-      <pubDate>Wed, 26 Aug 2026 21:50:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Anu Muhammad calls for renewed movement to scrap Phulbari coal mine project</title>
       <link>https://daily-sun.com/bangladesh/894409/anu-muhammad-calls-for-renewed-movement-to-scrap-phulbari-coal-mine-project</link>
       <description />
@@ -3465,6 +3459,13 @@
       <link>https://daily-sun.com/sports/895330/uzbekistan-cruise-past-bangladesh-in-u-20-qualifier</link>
       <description />
       <pubDate>Tue, 01 Sep 2026 20:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>US strikes Iran in latest tit-for-tat attacks</title>
+      <link>https://www.daily-sun.com/world/895511/us-strikes-iran-in-latest-tit-for-tat-attacks</link>
+      <description>Iran's President Masoud Pezeshkian meanwhile vowed Tuesday to match any US move to return to a deal aimed at ending the wa</description>
+      <pubDate>Tue, 01 Sep 2026 22:36:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/02/medium/US-Iran-conflict-6a9747cb206d7.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
