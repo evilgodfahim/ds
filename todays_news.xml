@@ -5,24 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>World Cup Magazine 2026</title>
-      <link>https://dscdn.daily-sun.com/english/uploads/World+Cup+Magazine+-2026.pdf</link>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 18:19:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Malaysia to start recruiting 200,000 workers from September: State Minister</title>
-      <link>https://daily-sun.com/bangladesh/894947/malaysia-to-start-recruiting-200-000-workers-from-september-state-minister</link>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 18:19:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thailand introduces new visa application rules from Monday</title>
-      <link>https://daily-sun.com/diplomacy/894950/thailand-introduces-new-visa-application-rules-from-monday</link>
-      <description />
-      <pubDate>Sun, 30 Aug 2026 18:19:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Rain, thundershowers forecast in 17 districts</title>
       <link>https://daily-sun.com/weather/894931/rain-thundershowers-forecast-in-17-districts</link>
       <description />
@@ -3474,6 +3456,27 @@
       <description>Dil Chahta Hai celebrates 25 years as Aamir Khan and cast recall iconic slap scene. Discover behind-the-scenes stories from the</description>
       <pubDate>Fri, 04 Sep 2026 23:29:57 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/04/medium/Aamir-Khan-Saif-Ali-Khan-and-Akshaye-Khanna-in-Dil-Chahta-Hai-6a9b49218bd1f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Russia hits HQ of Ukraine's security services in daylight attack</title>
+      <link>https://www.daily-sun.com/world/896056/russia-hits-hq-of-ukraine-s-security-services-in-daylight-attack</link>
+      <description>Both Russia and Ukraine have intensified long-range strikes in recent months...</description>
+      <pubDate>Sat, 05 Sep 2026 01:14:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/05/medium/Firefighters-work-at-the-site-of-a-warehouse-hit-by-a-Russian-drone-strike,-amid-Russia's-attack-on-Ukraine,-in-Kyiv-region,-4-September-2026-6a9b62eb16a54.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US judge extends block on Trump bid to curb mail-in ballots</title>
+      <link>https://www.daily-sun.com/world/896055/us-judge-extends-block-on-trump-bid-to-curb-mail-in-ballots</link>
+      <description>A federal judge blocks Trump's mail-in ballot restrictions, safeguarding voting rights ahead of the midterms. Legal battles intensify as elections</description>
+      <pubDate>Sat, 05 Sep 2026 01:14:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/05/medium/US-mail-in-ballot-Reuters-6a9b60adf0e06.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>48 terrorists killed in military operations in Pakistan</title>
+      <link>https://www.daily-sun.com/world/895970/48-terrorists-killed-in-military-operation-in-sw-pakistan</link>
+      <description>According to the military’s media wing, the operations were carried out in Mastung, Quetta, Kalat and Sibi districts...</description>
+      <pubDate>Sat, 05 Sep 2026 01:14:52 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/04/medium/Pakistani-security-forces-Dawn-6a9b5716a9612.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
