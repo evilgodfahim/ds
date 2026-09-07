@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Printversion</description>
     <item>
-      <title>Exports surge 13.14% in August</title>
-      <link>https://www.daily-sun.com/business-print/895476</link>
-      <description />
-      <pubDate>Tue, 01 Sep 2026 20:13:46 +0000</pubDate>
-      <enclosure url="https://www.daily-sun.com/uploads/settings/thumbnailmedium.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Qatar extends LNG disruption, worries grow</title>
       <link>https://www.daily-sun.com/business-print/895475</link>
       <description />
@@ -3528,6 +3521,13 @@ alumni to Frankfurt</description>
       <description>Bangla QR payments surging as banks, MFS providers bring millions of merchants into digital economy</description>
       <pubDate>Mon, 07 Sep 2026 19:55:21 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/08/medium/21---08-09-2026-ds-6a9ef4ac8fb48.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Why Bombs and Sanctions Cannot Break Iran</title>
+      <link>https://www.daily-sun.com/post-logu/895237</link>
+      <description>Why Bombs and Sanctions Cannot Break Iran</description>
+      <pubDate>Mon, 07 Sep 2026 22:21:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/01/medium/18---01-09-2026-ds-6a95b4bc52394.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
