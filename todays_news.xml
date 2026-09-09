@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>399 arrested in special drive across Ctg</title>
-      <link>https://daily-sun.com/bangladesh/895642/399-arrested-in-special-drive-across-ctg</link>
-      <description />
-      <pubDate>Thu, 03 Sep 2026 19:23:14 +0000</pubDate>
-    </item>
-    <item>
       <title>After reforms, opposition would get fair share of leadership roles at standing committees: Minister</title>
       <link>https://daily-sun.com/bangladesh/895712/after-reforms-opposition-would-get-fair-share-of-leadership-roles-at-standing-committees-minister</link>
       <description />
@@ -3471,6 +3465,13 @@
       <link>https://daily-sun.com/diplomacy/896628/bangladesh-india-plan-to-resume-cross-border-train-services-by-october</link>
       <description />
       <pubDate>Tue, 08 Sep 2026 22:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rubio vows to continue attacks on Iranian tankers after Iran hits US warship</title>
+      <link>https://www.daily-sun.com/world/896806/rubio-vows-to-continue-attacks-on-iranian-tankers-after-iran-hits-us-warship</link>
+      <description>US forces destroyed five Iranian oil carriers on Tuesday</description>
+      <pubDate>Wed, 09 Sep 2026 00:35:55 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/09/medium/First-loaded-Iranian-oil-tankers-exit-Gulf-since-US-blockade-6aa09174bd8b2.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
