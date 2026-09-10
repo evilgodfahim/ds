@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>48 terrorists killed in military operations in Pakistan</title>
-      <link>https://www.daily-sun.com/world/895970/48-terrorists-killed-in-military-operation-in-sw-pakistan</link>
-      <description>According to the military’s media wing, the operations were carried out in Mastung, Quetta, Kalat and Sibi districts...</description>
-      <pubDate>Sat, 05 Sep 2026 01:14:52 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/04/medium/Pakistani-security-forces-Dawn-6a9b5716a9612.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Taiwan condemns China's 'wolf warrior' behaviour at Pacific forum</title>
       <link>https://www.daily-sun.com/world/896069/taiwan-condemns-china-s-wolf-warrior-behaviour-at-pacific-forum</link>
       <description>Taiwan's Foreign Minister Lin Chia-lung condemns China's 'wolf warrior' diplomacy at the Pacific Islands Forum, highlighting espionage concerns.</description>
@@ -3471,6 +3464,13 @@
       <link>https://daily-sun.com/diplomacy/896829/bangladesh-india-seek-to-strengthen-bilateral-defence-cooperation</link>
       <description />
       <pubDate>Wed, 09 Sep 2026 22:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meghmallar Basu on life support</title>
+      <link>https://www.daily-sun.com/bangladesh/896982/meghmallar-basu-on-life-support</link>
+      <description>Former Bangladesh Chhatra Union leader undergoing treatment at Dhaka Medical College Hospital</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:14 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/Meghmallar-Basu-6aa1d7b83edf3.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
