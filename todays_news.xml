@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Small plane crash in California leaves 2 dead, 2 critically injured</title>
-      <link>https://www.daily-sun.com/world/896251/small-plane-crash-in-california-leaves-2-dead-2-critically-injured</link>
-      <description>A small plane crash near Sierra Sky Park Airport in Fresno, California, kills two and injures two critically. Authorities investigate</description>
-      <pubDate>Sun, 06 Sep 2026 05:12:20 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Plane-crash_Daily-Sun-6a9cee31c4526.png" type="image/png" />
-    </item>
-    <item>
-      <title>Dhaka ranks 13th among cities with worst air quality</title>
-      <link>https://www.daily-sun.com/weather/896250/dhaka-ranks-13th-among-cities-with-worst-air-quality</link>
-      <description>Dhaka ranks 13th in the world for poor air quality with an AQI of 107. Health risks are heightened for</description>
-      <pubDate>Sun, 06 Sep 2026 05:12:20 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/06/medium/Dhaka-city-6a9ced79e3463.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Fire breaks out at furniture warehouse in Badda</title>
       <link>https://www.daily-sun.com/bangladesh/896249/fire-breaks-out-at-furniture-warehouse-in-badda</link>
       <description>A fire at a furniture warehouse in Satarkul, Badda, was controlled by Baridhara Fire Station. Officer Lima Khanam confirms no</description>
@@ -3470,6 +3456,20 @@
       <link>https://daily-sun.com/world/896907/singapore-students-top-global-reading-rankings-second-in-maths-and-science-pisa</link>
       <description />
       <pubDate>Thu, 10 Sep 2026 19:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Freedom of speech must not cross limits of decency: PM</title>
+      <link>https://www.daily-sun.com/bangladesh/897167/freedom-of-speech-must-not-cross-limits-of-decency-pm</link>
+      <description>Prime Minister Tarique Rahman on Thursday called upon all to unite against the culture of abusive language, saying that freedom</description>
+      <pubDate>Thu, 10 Sep 2026 21:42:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/11/medium/tarique-rahman-6aa30d2b5d226.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>NBR transfers, appoints 266 officials</title>
+      <link>https://www.daily-sun.com/bangladesh/897074/nbr</link>
+      <description>A total of 266 assistant revenue officers of the National Board of Revenue (NBR) have been transferred and posted, said</description>
+      <pubDate>Thu, 10 Sep 2026 21:42:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/10/medium/nbr-6aa322e850622.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
