@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Ex-lawmaker ASM Firoz shown arrested in two more cases</title>
-      <link>https://www.daily-sun.com/bangladesh/896830/ex-lawmaker-asm-firoz-shown-arrested-in-two-more-cases</link>
-      <description>Former Patuakhali-2 lawmaker ASM Firoz has been ordered arrested in two cases involving an armed attack on student protesters in</description>
-      <pubDate>Wed, 09 Sep 2026 09:41:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/09/medium/WhatsApp-Image-2026-09-09-at-1-6aa1071d783c3.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Bangladesh, India seek to strengthen bilateral defence cooperation</title>
-      <link>https://www.daily-sun.com/diplomacy/896829/bangladesh-india-seek-to-strengthen-bilateral-defence-cooperation</link>
-      <description>The two sides discuss military training, disaster management, regional peace and maritime security during a meeting in Dhaka</description>
-      <pubDate>Wed, 09 Sep 2026 09:41:34 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/09/medium/Trivedi_Shamsul-6aa105f9c37bb.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>UK flights resume amid ongoing disruption from air traffic outage</title>
       <link>https://www.daily-sun.com/world/896828/uk-flights-resume-amid-ongoing-disruption-from-air-traffic-outage</link>
       <description>Flights from British airports resumed after a major air traffic control failure caused over 1,000 cancellations. NATS faces pressure amid</description>
@@ -3461,6 +3447,19 @@
       <description>A teacher, Tasfia Ahmed Tisha, was tragically killed by two buses in Khilgaon, Dhaka. The incident highlights road safety concerns</description>
       <pubDate>Wed, 16 Sep 2026 21:20:55 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/17/medium/Teacher-6aaadd1b7d51f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>US Congress passes sweeping Russia sanctions bill</title>
+      <link>https://www.daily-sun.com/world/898269/us-congress-passes-sweeping-russia-sanctions-bill</link>
+      <description>US Congress passes sweeping Russia sanctions bill</description>
+      <pubDate>Wed, 16 Sep 2026 23:41:41 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/17/medium/US-Congress-passes-sweeping-Russia-sanctions-bill-6aab1eb307885.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dhaka condemns ‘drone attack’ on Makkah Al-Mukarramah</title>
+      <link>https://daily-sun.com/diplomacy/898126/dhaka-condemns-drone-attack-on-makkah-al-mukarramah</link>
+      <description />
+      <pubDate>Wed, 16 Sep 2026 23:41:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
