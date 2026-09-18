@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Egypt keen to invest in country's industrial sector</title>
-      <link>https://www.daily-sun.com/business/891513/egypt-keen-to-invest-in-country-s-industrial-sector</link>
-      <description />
-      <pubDate>Mon, 10 Aug 2026 12:34:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>BB allows international card payments for overseas education fees</title>
-      <link>https://www.daily-sun.com/business/891512/bb-allows-international-card-payments-for-overseas-education-fees</link>
-      <description />
-      <pubDate>Mon, 10 Aug 2026 12:34:54 +0000</pubDate>
-    </item>
-    <item>
       <title>Jet fuel prices rise after four consecutive cuts</title>
       <link>https://www.daily-sun.com/business/891339/jet-fuel-prices-rise-after-four-consecutive-cuts</link>
       <description>Domestic price rises by Tk28.53 per litre, international rate increases to $1.0358</description>
@@ -3118,6 +3106,20 @@ Articles amendment</description>
       <link>https://www.daily-sun.com/business/898586/news-14</link>
       <description />
       <pubDate>Fri, 18 Sep 2026 19:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Record US diesel prices squeeze farmers</title>
+      <link>https://www.daily-sun.com/business/898569/news-4</link>
+      <description />
+      <pubDate>Fri, 18 Sep 2026 21:52:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/18/small/Diesel-Reuters-6aad97155ce9f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Asian stocks boosted by falling oil, yen weakens after BoJ rate hike</title>
+      <link>https://www.daily-sun.com/business/898515/asian-stocks-boosted-by-falling-oil-yen-weakens-after-boj-rate-hike</link>
+      <description />
+      <pubDate>Fri, 18 Sep 2026 21:52:20 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/18/small/Asian_stock-6aacf90058061.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
