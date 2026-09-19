@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Jet fuel prices rise after four consecutive cuts</title>
-      <link>https://www.daily-sun.com/business/891339/jet-fuel-prices-rise-after-four-consecutive-cuts</link>
-      <description>Domestic price rises by Tk28.53 per litre, international rate increases to $1.0358</description>
-      <pubDate>Mon, 10 Aug 2026 14:57:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Milk Vita hikes consumer prices by 10%</title>
-      <link>https://www.daily-sun.com/business/891530/milk-vita-hikes-consumer-prices-by-10</link>
-      <description />
-      <pubDate>Mon, 10 Aug 2026 14:57:01 +0000</pubDate>
-    </item>
-    <item>
       <title>LightCastle Partners, Meta join hands to support SMEs</title>
       <link>https://www.daily-sun.com/business/891526/lightcastle-partners-meta-join-hands-to-support-smes</link>
       <description />
@@ -3120,6 +3108,20 @@ Articles amendment</description>
       <description />
       <pubDate>Fri, 18 Sep 2026 21:52:20 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/18/small/Asian_stock-6aacf90058061.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>From trade gap to gateway</title>
+      <link>https://www.daily-sun.com/business/898554</link>
+      <description />
+      <pubDate>Sat, 19 Sep 2026 01:34:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/19/small/DS-'09'19-3-6aad74a368259.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Dhaka markets see vegetable price hike</title>
+      <link>https://www.daily-sun.com/business/898581</link>
+      <description />
+      <pubDate>Sat, 19 Sep 2026 01:34:46 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/19/small/Vegetables-file-6aadcf0335634.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
