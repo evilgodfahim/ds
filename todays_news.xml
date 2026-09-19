@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Leeds thrash Newcastle 4-1 to climb to third in Premier League</title>
-      <link>https://www.daily-sun.com/sports/897945/leeds-thrash-newcastle-4-1-to-climb-to-third-in-premier-league</link>
-      <description>Leeds United climbed to third in the Premier League after a dominant 4-1 victory over Newcastle ​United on Monday</description>
-      <pubDate>Tue, 15 Sep 2026 11:56:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/15/medium/leeds-6aa92dd6857c3.png" type="image/png" />
-    </item>
-    <item>
       <title>Coutinho reunites with former Brazil teammate Neymar at Santos</title>
       <link>https://www.daily-sun.com/sports/897944/coutinho-reunites-with-former-brazil-teammate-neymar-at-santos</link>
       <description>Philippe Coutinho has reunited with his former Brazil teammate Neymar at Santos ​for the rest of the season</description>
@@ -3468,6 +3461,13 @@
       <link>https://daily-sun.com/feature/898713/chest-pain-is-it-gastric-or-a-heart-attack</link>
       <description />
       <pubDate>Sat, 19 Sep 2026 21:32:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Denmark hails ‘binding’ Greenland deal with Trump</title>
+      <link>https://www.daily-sun.com/world/898831/denmark-hails-binding-greenland-deal-with-trump</link>
+      <description>Denmark hails a 'binding' deal with the US, granting control over Greenland's security to prevent Russian and Chinese bases in</description>
+      <pubDate>Sat, 19 Sep 2026 23:26:27 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/20/medium/Denmark_Greenland-6aaf15f00bbb9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
