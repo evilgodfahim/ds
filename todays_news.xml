@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>23 suspects detained over secret meeting at Tejgaon mosque</title>
-      <link>https://www.daily-sun.com/bangladesh/898542/23-suspects-detained-over-secret-meeting-at-tejgaon-mosque</link>
-      <description>Police say their possible links to militant activities are being verified</description>
-      <pubDate>Fri, 18 Sep 2026 17:17:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/18/medium/23-suspects-detained-over-secret-meeting-at-Tejgaon-mosque-6aad46753ea39.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>BNP standing committee meeting underway</title>
-      <link>https://www.daily-sun.com/politics/898539/srb</link>
-      <description>The meeting of the BNP’s highest policymaking body, the National Standing Committee, is underway.</description>
-      <pubDate>Fri, 18 Sep 2026 17:17:42 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/18/medium/bnp-6aad4e0c14193.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘Will protect national interests’: India on Bangladesh’s review of 101 pacts</title>
       <link>https://www.daily-sun.com/diplomacy/898536/jaiswal</link>
       <description>India on Friday said New Delhi would take “all necessary actions to protect its interests” amid Bangladesh’s review of 101</description>
@@ -3477,6 +3463,20 @@ The government plans to install solar panels at 6,544 local government instituti
       <link>https://dscdn.daily-sun.com/english/uploads/World+Cup+Magazine+-2026.pdf</link>
       <description />
       <pubDate>Wed, 23 Sep 2026 21:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xi arrives in US to personal Trump welcome</title>
+      <link>https://www.daily-sun.com/world/899540/xi-arrives-in-us-to-personal-trump-welcome</link>
+      <description>Trump and First Lady Melania shook hands with Xi and his wife Peng Liyuan after the Chinese president descended from</description>
+      <pubDate>Wed, 23 Sep 2026 23:57:38 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/24/medium/Xi-6ab4583160ce9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>At UN, tech chiefs urge caution in AI development</title>
+      <link>https://www.daily-sun.com/world/899539/at-un-tech-chiefs-urge-caution-in-ai-development</link>
+      <description>Altman, Amodei and several other leading AI executives have been calling for global oversight of the technology.</description>
+      <pubDate>Wed, 23 Sep 2026 23:57:38 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/24/medium/Altman,-Amodei-6ab44a9a3cddb.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
