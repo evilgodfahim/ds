@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Spain beat England in Nations League to extend unbeaten run</title>
-      <link>https://www.daily-sun.com/sports/900123/spain-beat-england-in-nations-league-to-extend-unbeaten-run</link>
-      <description>World champions Spain came from behind to beat England 3-2 in an entertaining Nations League encounter at Wembley</description>
-      <pubDate>Sun, 27 Sep 2026 12:59:26 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/27/medium/spain-6ab8f3097635e.png" type="image/png" />
-    </item>
-    <item>
       <title>Floods, landslides kill 56 in India, 12 in Nepal</title>
       <link>https://www.daily-sun.com/world/900122/floods-landslides-kill-56-in-india-12-in-nepal-officials</link>
       <description>Floods and landslides kill 56 in India and 12 in Nepal after heavy rain, damaging homes, crops and infrastructure and</description>
@@ -3467,6 +3460,13 @@
       <link>https://daily-sun.com/bangladesh/901139/journalist-toufique-imrose-passes-away</link>
       <description />
       <pubDate>Fri, 02 Oct 2026 23:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tense standoff between Dhaka College students, Zigatola residents after hostel vandalised</title>
+      <link>https://www.daily-sun.com/bangladesh/901240/tense-standoff-between-dhaka-college-students-zigatola-residents-after-hostel-vandalised</link>
+      <description>students from Dhaka College and locals of the capital’s Zigatola area engaged in a tense standoff past midnight on Saturday</description>
+      <pubDate>Sat, 03 Oct 2026 02:06:08 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/03/medium/Dhaka-college-zigatola-6ac04c2cd90b1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
