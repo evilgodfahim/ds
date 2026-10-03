@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>DU releases survey on China's modernisation</title>
-      <link>https://www.daily-sun.com/sun-campus/900360/china-releases-survey-on-modernisation-at-du</link>
-      <description>A research team from ACCWS conducted and prepared the survey</description>
-      <pubDate>Mon, 28 Sep 2026 15:52:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/28/medium/China-6aba6deca2ea7.gif" type="image/gif" />
-    </item>
-    <item>
-      <title>Two more sent to jail over Radda health centre vandalism</title>
-      <link>https://www.daily-sun.com/bangladesh/900359/two-more-sent-to-jail-over-radda-health-centre-vandalism</link>
-      <description>Four accused were sent to jail on Saturday</description>
-      <pubDate>Mon, 28 Sep 2026 15:52:07 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/28/medium/Prison-6aba6c4ae14a4.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Dengue claims eight more lives in 24 hours</title>
       <link>https://www.daily-sun.com/bangladesh/900358/dengue-claims-eight-more-lives-in-24-hours</link>
       <description>In the 24-hour span, 2,036 more patients were hospitalised with viral fever, raising the total caseload to 75,730 in 2026...</description>
@@ -3468,6 +3454,20 @@
       <link>https://daily-sun.com/bangladesh/901281/garment-factory-catches-fire-in-gazipur</link>
       <description />
       <pubDate>Sat, 03 Oct 2026 19:51:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Three earthquakes in 75 minutes jolt parts of Bangladesh</title>
+      <link>https://www.daily-sun.com/earthquake/901430/three-earthquakes-in-90-minutes-jolt-parts-of-bangladesh</link>
+      <description>Tremors felt in Dhaka, Chattogram and several other areas after quakes hit Myanmar, Mizoram and Tripura</description>
+      <pubDate>Sat, 03 Oct 2026 22:28:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/04/medium/earthquack-6a3c5ded3af21-6ac16d42db9e3.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>39 LPG cylinder businesses fined Tk4.26 lakh for irregularities</title>
+      <link>https://www.daily-sun.com/bangladesh/901429/39-lpg-cylinder-businesses-fined-tk4-26-lakh-for-irregularities</link>
+      <description>The Directorate of National Consumer Rights Protection (DNCRP) has fined 39 businesses Tk426,500 for various irregularities during nationwide drives to</description>
+      <pubDate>Sat, 03 Oct 2026 22:28:47 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/04/medium/DNCRP-6ac1647db98b9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
