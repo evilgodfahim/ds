@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Conscious Living: From Cadmium and Lead-free Dinnerware to SDGs</title>
-      <link>https://www.daily-sun.com/opinion/880505</link>
-      <description>Conscious Living: From Cadmium and Lead-free Dinnerware to SDGs</description>
-      <pubDate>Wed, 17 Jun 2026 22:21:37 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/06/16/medium/62--16-06-2016-ds-6a30623bd7e50.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Football and Waiting for Godot</title>
       <link>https://www.daily-sun.com/opinion/880638</link>
       <description>Rumination</description>
@@ -3186,6 +3179,12 @@ UN Mission</description>
       <link>https://www.daily-sun.com/opinion/901666/political-parties-should-not-interfere-in-sub-judice-matters</link>
       <description />
       <pubDate>Mon, 05 Oct 2026 08:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>A bailout state?</title>
+      <link>https://www.daily-sun.com/opinion/901120/a-bailout-state</link>
+      <description>Pakistan’s external liquidity rests shakily on the two crutches of endless IMF loans and rollovers</description>
+      <pubDate>Mon, 05 Oct 2026 17:31:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
