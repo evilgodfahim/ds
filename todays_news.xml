@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Opposition following ‘fugitive fascist govt’s’ approach: Ruman</title>
-      <link>https://www.daily-sun.com/bangladesh/900741/events-staged-to-overshadow-pm-s-successful-new-york-visit-ruman</link>
-      <description>Prime Minister’s Additional Press Secretary Atikur Rahman Rumman on Wednesday alleged that various events were created to overshadow the success</description>
-      <pubDate>Wed, 30 Sep 2026 13:42:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/09/30/medium/Untitled-6abcf8549117b.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>FIFA boss Infantino blasted as would-be 'emperor' by UEFA's Ceferin</title>
       <link>https://www.daily-sun.com/sports/900740/fifa-boss-infantino-blasted-as-would-be-emperor-by-uefa-s-ceferin</link>
       <description>UEFA chief Aleksander Ceferin on Tuesday attacked FIFA president Gianni Infantino, saying "football has no need for emperors"</description>
@@ -3469,6 +3462,13 @@
       <link>https://daily-sun.com/sports/901618/bangladeshi-origin-sullivan-becomes-youngest-us-goalscorer</link>
       <description />
       <pubDate>Mon, 05 Oct 2026 23:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Questions Gandhi Left Behind</title>
+      <link>https://www.daily-sun.com/bangladesh/901854/the-questions-gandhi-left-behind</link>
+      <description>Reflecting on Mahatma Gandhi’s 1946 Noakhali peace mission and barefoot journey, exploring non-violence, communal dialogue, and modern Bangladesh...</description>
+      <pubDate>Tue, 06 Oct 2026 03:05:33 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/06/medium/Gandhi-6ac4604b54806.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
