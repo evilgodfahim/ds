@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>PM Tarique Rahman set to visit Feni today</title>
-      <link>https://www.daily-sun.com/bangladesh/900881/pm-set-to-visit-feni-today</link>
-      <description>During the visit, he will inaugurate several government programmes, including the Family Card and Farmer Card initiatives</description>
-      <pubDate>Thu, 01 Oct 2026 07:32:02 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/01/medium/Prime-Minister-Tarique-Rahman-6abb3fa9108c7-6abdcddf90dab.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Saudi Arabia won’t compromise on security amid Houthi ‘chaos’: Mohammed bin Salman</title>
       <link>https://www.daily-sun.com/world/900880/saudi-arabia-won-t-compromise-on-security-amid-houthi-chaos-mohammed-bin-salman</link>
       <description>Saudi Arabia’s Crown Prince Mohammed bin Salman (MBS) has promised not to compromise on the kingdom’s security in the face</description>
@@ -3472,6 +3465,13 @@
       <link>https://daily-sun.com/world/901860/turkey-pakistan-to-deploy-forces-to-saudi-amid-houthi-attacks</link>
       <description />
       <pubDate>Tue, 06 Oct 2026 21:17:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump to speak to Putin on plague as US steps up pressure</title>
+      <link>https://www.daily-sun.com/world/902052/trump-to-speak-to-putin-on-plague-as-us-steps-up-pressure</link>
+      <description>Plague is a bacterial disease that can occur in several forms</description>
+      <pubDate>Wed, 07 Oct 2026 00:46:22 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/07/medium/TRump---Putin-6ac57813250e5.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
