@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Major fire erupts at building in Chawkbazar</title>
-      <link>https://www.daily-sun.com/bangladesh/903062/fire-erupts-at-building-in-chawkbazar</link>
-      <description>Fire Service and Civil Defence deploys ten units to the spot</description>
-      <pubDate>Mon, 12 Oct 2026 17:08:30 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/12/medium/fire-chawkbazar-6accda1285b53.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Two former army officers placed on four-day remand</title>
       <link>https://www.daily-sun.com/bangladesh/903061/court-places-retd-army-officers-gulshan-ara-debashish-on-4-day-remand</link>
       <description>A Dhaka court places retired army officers Gulshan Ara and Debashish on a 4-day remand in a sedition case over</description>
@@ -3468,6 +3461,13 @@ Home Minister Salahuddin Ahmed has directed the hospital authorities and police.
       <link>https://daily-sun.com/world/903950/trump-mocks-popularity-of-name-mohammad</link>
       <description />
       <pubDate>Sat, 17 Oct 2026 20:57:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>BNP sets 19 Oct for interviews of aspirants for reserved women’s seats</title>
+      <link>https://www.daily-sun.com/politics/904129/bnp-sets-19-oct-for-interviews-of-aspirants-for-reserved-women-s-seats</link>
+      <description>BNP will interview female candidates for the by-election to reserved women's seats in the Jatiya Sangsad on October 19 at</description>
+      <pubDate>Sat, 17 Oct 2026 22:47:54 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/18/medium/BNP-Logo-6ad3e3805025c.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
