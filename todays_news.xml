@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>New anthem fuels excitement for SAFF return</title>
-      <link>https://www.daily-sun.com/sports/903729/new-anthem-fuels-excitement-for-saff-return</link>
-      <description>Bangladesh will host the SAFF Championship 2026 after eight years, with the official theme song unveiled 19 days before kickoff</description>
-      <pubDate>Thu, 15 Oct 2026 19:25:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/16/medium/TECNO_SAFF_Logo_RGB-6ad11d36a2ac7.png" type="image/png" />
-    </item>
-    <item>
-      <title>Dhaka to host four-nation women’s handball tournament</title>
-      <link>https://www.daily-sun.com/sports/903728/dhaka-to-host-four-nation-women-s-handball-tournament</link>
-      <description>Dhaka will host the IHF Nations Trophy from October 18-22, with Bangladesh, India, Nepal and Maldives competing in women’s handball</description>
-      <pubDate>Thu, 15 Oct 2026 19:25:17 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/16/medium/WhatsApp-Image-2026-10-15-at-7-6ad11b6d3b49d.jpeg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Resignation wave rocks BOA</title>
       <link>https://www.daily-sun.com/sports/903717/resignation-wave-rocks-boa</link>
       <description>A sweeping resignation rally is deepening the leadership crisis at the BOA, with eight executive members stepping down in less</description>
@@ -3457,6 +3443,19 @@
       <link>https://daily-sun.com/world/903609/two-bangladeshi-nationals-executed-in-saudi-arabia</link>
       <description />
       <pubDate>Wed, 21 Oct 2026 19:26:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Judge orders Meta to pay $25b to New Mexico in Cambridge Analytica case</title>
+      <link>https://www.daily-sun.com/world/904809/judge-orders-meta-to-pay-25b-to-new-mexico-in-cambridge-analytica-case</link>
+      <description>A New Mexico judge orders Meta to pay $25 billion over Cambridge Analytica deception, affecting millions. AG Raul Torrez calls</description>
+      <pubDate>Wed, 21 Oct 2026 22:33:10 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/22/medium/Meta-6ad91d0fb3faa.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>BAGHDAD: The Cradle of civilization calls back</title>
+      <link>https://daily-sun.com/opinion/904651/baghdad-the-cradle-of-civilization-calls-back</link>
+      <description />
+      <pubDate>Wed, 21 Oct 2026 22:33:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
