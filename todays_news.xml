@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>A cultural bridge connecting Bangladesh and India</title>
-      <link>https://www.daily-sun.com/opinion/903828/a-cultural-bridge-connecting-bangladesh-and-india</link>
-      <description>A 25-member delegation of students and teachers from the Hindi Language Department of Dhaka University’s Institute of Modern Languages has</description>
-      <pubDate>Fri, 16 Oct 2026 14:07:39 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/16/medium/Dinesh-Trivedi-6ad1fb7a8e717.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Jamaat dissolves Cumilla city committee after crude bomb attack, vandalism</title>
       <link>https://www.daily-sun.com/bangladesh/903857/jamaat-dissolves-cumilla-city-committee-after-crude-bomb-attack-vandalism</link>
       <description />
@@ -3453,6 +3446,12 @@
       <link>https://daily-sun.com/business/904822/gold-prices-fall-what-is-new-price-per-bhori</link>
       <description />
       <pubDate>Thu, 22 Oct 2026 22:28:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Russian strikes kill 7 in Ukraine after US envoy meets Putin</title>
+      <link>https://daily-sun.com/world/904826/russian-strikes-kill-7-in-ukraine-after-us-envoy-meets-putin</link>
+      <description />
+      <pubDate>Fri, 23 Oct 2026 00:49:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
