@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>As Long as Hunger Exists, Agricultural Research Must Continue</title>
-      <link>https://www.daily-sun.com/opinion/884208</link>
-      <description />
-      <pubDate>Sun, 05 Jul 2026 18:51:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/05/small/DS-'07'5-52-6a4945be0337a.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>The Open Border Paradox</title>
-      <link>https://www.daily-sun.com/opinion/883983</link>
-      <description />
-      <pubDate>Sun, 05 Jul 2026 18:51:25 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/04/small/DS-'07'4-41-6a47f2a21fba8.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Cristiano Ronaldo Deserves the Final Crown</title>
       <link>https://www.daily-sun.com/opinion/884558/cristiano-ronaldo-deserves-the-final-crown</link>
       <description />
@@ -3174,6 +3160,18 @@ on Palestinian Survival</description>
       <link>https://www.daily-sun.com/opinion/905157/lottery-system-can-be-an-effective-initiative-in-preventing-corruption</link>
       <description />
       <pubDate>Sat, 24 Oct 2026 09:17:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Why Decentralisation Matters for Bangladesh’s Democracy and SDG Future</title>
+      <link>https://www.daily-sun.com/opinion/905128</link>
+      <description>Democracy in a country isn’t defined solely by the vitality of its national legislature, the</description>
+      <pubDate>Sat, 24 Oct 2026 13:23:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>China cannot remain the world’s factory. What comes next?</title>
+      <link>https://www.daily-sun.com/opinion/905165/china-cannot-remain-the-world-s-factory-what-comes-next</link>
+      <description />
+      <pubDate>Sat, 24 Oct 2026 13:23:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
