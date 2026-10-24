@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>EC to publish final updated voter list on 25 Nov</title>
-      <link>https://daily-sun.com/bangladesh/904061/ec-to-publish-final-updated-voter-list-on-25-nov</link>
-      <description />
-      <pubDate>Sun, 18 Oct 2026 18:57:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Kolkata Durga Puja pandal stampede kills 17</title>
       <link>https://daily-sun.com/world/904046/kolkata-durga-puja-pandal-stampede-kills-17</link>
       <description />
@@ -3454,6 +3448,13 @@
       <link>https://daily-sun.com/world/905024/china-s-stock-market-crashes-20-3-reasons-why-the-dragon-is-losing-its-fire</link>
       <description />
       <pubDate>Sat, 24 Oct 2026 21:30:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clashes break out in Paris, other French cities amid fresh protests</title>
+      <link>https://www.daily-sun.com/world/905287/clashes-break-out-in-paris-other-french-cities-amid-fresh-protests</link>
+      <description>Clashes erupted in Paris as thousands protested against rising living costs. President Macron's government faces backlash over police actions amid</description>
+      <pubDate>Sat, 24 Oct 2026 23:34:03 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/25/medium/France-riots-6add303b3b430.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
