@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Kolkata Durga Puja pandal stampede kills 17</title>
-      <link>https://daily-sun.com/world/904046/kolkata-durga-puja-pandal-stampede-kills-17</link>
-      <description />
-      <pubDate>Sun, 18 Oct 2026 18:57:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Bangladesh slump to 99-run defeat against Zimbabwe in tri-nation ODI opener</title>
       <link>https://daily-sun.com/sports/904127/bangladesh-slump-to-99-run-defeat-against-zimbabwe-in-tri-nation-odi-opener</link>
       <description />
@@ -3455,6 +3449,12 @@
       <description>Clashes erupted in Paris as thousands protested against rising living costs. President Macron's government faces backlash over police actions amid</description>
       <pubDate>Sat, 24 Oct 2026 23:34:03 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/25/medium/France-riots-6add303b3b430.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Young cricketer dies on way to Dhaka for cancer treatment</title>
+      <link>https://daily-sun.com/sports/905205/young-cricketer-dies-on-way-to-dhaka-for-cancer-treatment</link>
+      <description />
+      <pubDate>Sun, 25 Oct 2026 01:31:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
