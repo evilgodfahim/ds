@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Trump loses legal battle over Epstein-linked Wall Street Journal case</title>
-      <link>https://www.daily-sun.com/world/906545/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case</link>
-      <description>A federal judge permanently dismisses Donald Trump's $10bn defamation lawsuit against The Wall Street Journal over its Jeffrey Epstein report.</description>
-      <pubDate>Sun, 01 Nov 2026 09:39:29 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/01/medium/Trump-6ae6c7a7d46a6.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Rooppur eyes power supply to national grid within five weeks</title>
       <link>https://www.daily-sun.com/bangladesh/906544/rooppur-eyes-power-supply-to-national-grid-within-five-weeks</link>
       <description>The Rooppur Nuclear Power Plant is expected to begin supplying around 300 megawatts of electricity to the national grid on a trial basis</description>
@@ -3473,6 +3466,13 @@
       <link>https://daily-sun.com/sports/907777/speculation-mounts-over-eric-taking-charge-of-national-women-s-football-team</link>
       <description />
       <pubDate>Sat, 07 Nov 2026 22:41:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>National Revolution and Solidarity Day observed in Rome</title>
+      <link>https://www.daily-sun.com/diplomacy/907894/national-revolution-and-solidarity-day-observed-in-rome</link>
+      <description>The Bangladesh Embassy in Rome on Saturday observed National Revolution and Solidarity Day with due solemnity, highlighting the importance of</description>
+      <pubDate>Sun, 08 Nov 2026 01:49:18 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/08/medium/National-Revolution-and-Solidarity-Day-observed-in-Rome-6aefa8e3b1333.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
