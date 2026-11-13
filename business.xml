@@ -5,12 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>British and Chinese firms propose $23m to reopen Beximco factory</title>
-      <link>https://www.daily-sun.com/business/902255/foreign-firms-propose-23m-to-reopen-beximco-factory</link>
-      <description>two British and Chinese companies proposing a combined investment of $23 million.</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Holy Quran provides comprehensive guidance on business and trade</title>
       <link>https://www.daily-sun.com/business/902252/holy-quran-provides-comprehensive-guidance-on-business-and-trade</link>
       <description>The Quran outlines essential principles for lawful trade and financial dealings, emphasizing consent, honesty, and balance with religious obligations.</description>
@@ -3118,6 +3112,12 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/908800/govt-eyes-10-gdp-contribution-from-tourism-more-jobs</link>
       <description>The initial target is to increase the sector’s GDP contribution to 7%, before taking it</description>
       <pubDate>Fri, 13 Nov 2026 15:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aman paddy, potato crops battered by hailstorm in Thakurgaon</title>
+      <link>https://www.daily-sun.com/business/908875</link>
+      <description>A sudden hailstorm has damaged ripe Aman paddy, early-season potatoes and other vegetables in several</description>
+      <pubDate>Fri, 13 Nov 2026 21:41:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
