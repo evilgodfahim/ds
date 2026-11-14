@@ -5,32 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Govt to sign deal with DP World today amid protests</title>
-      <link>https://www.daily-sun.com/business/902225</link>
-      <description>Bangladesh is set to sign a 15-year DP World deal to operate Chattogram Port’s NCT amid protests and threats to</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/08/medium/15----08--10---26--ds-6ac685c624a1b.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Energy shock, growing debt, AI risks threaten global growth</title>
-      <link>https://www.daily-sun.com/business/902217</link>
-      <description>Warns IMF chief</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/08/medium/12----08--10---26--ds-6ac6856740fd8.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Oil surges, stocks sink as US reportedly eyes new Iran strikes</title>
-      <link>https://www.daily-sun.com/business/902328/oil-surges-stocks-sink-as-us-reportedly-eyes-new-iran-strikes</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>NCT deal safeguards Bangladesh's interests: Rabiul</title>
-      <link>https://www.daily-sun.com/business/902325/nct-deal-safeguards-bangladesh-s-interests-rabiul</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-    </item>
-    <item>
       <title>PM seeks DP World investment in free trade zones, rail-based ICDs</title>
       <link>https://www.daily-sun.com/business/902322/pm-seeks-dp-world-investment-in-free-trade-zones-rail-based-icds</link>
       <description />
@@ -3116,6 +3090,32 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/908912</link>
       <description>Around 200 Bangladeshi small and medium enterprises (SMEs), including women-led businesses, will receive support to</description>
       <pubDate>Sat, 14 Nov 2026 08:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Special OMS begins for garment workers</title>
+      <link>https://www.daily-sun.com/business/908998/special-oms-begins-for-garment-workers</link>
+      <description>Workers can buy up to 10kg of rice per month at Tk30 per kg</description>
+      <pubDate>Sat, 14 Nov 2026 14:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tenth edition of Super Sale Car Bazaar held at ICCB</title>
+      <link>https://www.daily-sun.com/business/908994/tenth-edition-of-super-sale-car-bazaar-held-at-iccb</link>
+      <description>The 10th edition of the weekly Super Sale Car Bazaar was held at the International</description>
+      <pubDate>Sat, 14 Nov 2026 14:57:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>BB expands Tk1,500cr loans to remittance recipients</title>
+      <link>https://www.daily-sun.com/business/908919</link>
+      <description>Revised policy offers loans at up to 7% interest, reserves 25% for women and extends scheme for five years</description>
+      <pubDate>Sat, 14 Nov 2026 14:57:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/13/medium/DS-'11'13-101-6af6063ad3876.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Foreign currency, non-resident account rules eased</title>
+      <link>https://www.daily-sun.com/business/908917</link>
+      <description>New guidelines simplify account operations, clarify deposit facilities and cross-border transactions</description>
+      <pubDate>Sat, 14 Nov 2026 14:57:48 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/13/medium/forex-6af65065bbdc9.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
