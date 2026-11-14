@@ -5,36 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>PM seeks DP World investment in free trade zones, rail-based ICDs</title>
-      <link>https://www.daily-sun.com/business/902322/pm-seeks-dp-world-investment-in-free-trade-zones-rail-based-icds</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Govt signs 15-year deal with DP World to operate NCT</title>
-      <link>https://daily-sun.com/business/902281/dp-world</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 21:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh economy raises concerns among businesses, economists</title>
-      <link>https://daily-sun.com/business/902265/bangladesh-economy-raises-concerns-among-businesses-economists</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 21:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>British and Chinese firms propose $23m to reopen Beximco factory</title>
-      <link>https://daily-sun.com/business/902255/foreign-firms-propose-23m-to-reopen-beximco-factory</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 21:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>BMCCI moves to deepen Bangladesh-Malaysia semiconductor cooperation</title>
-      <link>https://daily-sun.com/business/902247/bmcci-moves-to-deepen-bangladesh-malaysia-semiconductor-cooperation</link>
-      <description />
-      <pubDate>Thu, 08 Oct 2026 21:53:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Govt working to ensure adequate supply, reasonable prices of essentials during Ramadan: Minister</title>
       <link>https://www.daily-sun.com/business/902308/govt-working-to-ensure-adequate-supply-reasonable-prices-of-essentials-minister</link>
       <description>The minister also highlighted several government initiatives to facilitate business operations</description>
@@ -3116,6 +3086,37 @@ sub-branch in Khulna</description>
       <description>New guidelines simplify account operations, clarify deposit facilities and cross-border transactions</description>
       <pubDate>Sat, 14 Nov 2026 14:57:48 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/13/medium/forex-6af65065bbdc9.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Bangladesh’s Kazi Fahad elected JCI Vice President for 2027</title>
+      <link>https://www.daily-sun.com/business/909098/bangladesh-s-kazi-fahad-elected-jci-vice-president-for-2027</link>
+      <description>Bangladeshi entrepreneur Kazi Fahad elected JCI Vice President for 2027 aims to boost youth leadership</description>
+      <pubDate>Sat, 14 Nov 2026 19:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tenth edition of Super Sale Car Bazaar held at ICCB</title>
+      <link>https://www.daily-sun.com/business/909027</link>
+      <description>Super Sale Car Bazaar held its 10th edition at ICCB in Dhaka, featuring new and</description>
+      <pubDate>Sat, 14 Nov 2026 19:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jamalpur chilli farmers struggle as wholesale prices plunge</title>
+      <link>https://www.daily-sun.com/business/909071</link>
+      <description>Green chilli farmers in Madarganj upazila of Jamalpur are facing losses as wholesale prices have</description>
+      <pubDate>Sat, 14 Nov 2026 19:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vegetable prices fall in Dhaka, but chicken remains expensive</title>
+      <link>https://www.daily-sun.com/business/909039</link>
+      <description>Prices of winter vegetables have fallen in the capital’s kitchen markets, while chicken remains expensive and fish prices are stable</description>
+      <pubDate>Sat, 14 Nov 2026 19:39:45 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/14/medium/kitchen-market-Mokto-6af7892a1c96f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Third of bank loans are default, 80% deemed irrecoverable: Study</title>
+      <link>https://www.daily-sun.com/business/909185/third-of-bank-loans-are-default-80-deemed-irrecoverable-study</link>
+      <description />
+      <pubDate>Sat, 14 Nov 2026 19:39:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
