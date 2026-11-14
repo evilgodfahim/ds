@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Holy Quran provides comprehensive guidance on business and trade</title>
-      <link>https://www.daily-sun.com/business/902252/holy-quran-provides-comprehensive-guidance-on-business-and-trade</link>
-      <description>The Quran outlines essential principles for lawful trade and financial dealings, emphasizing consent, honesty, and balance with religious obligations.</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/08/medium/Untitled-1-6ac7175f3bcf1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Businesses seek faster disbursement of incentive loans</title>
-      <link>https://www.daily-sun.com/business/902251/businesses-seek-faster-disbursement-of-incentive-loans</link>
-      <description>They also demand withdrawal of 2% cash deposit requirement to regularise defaulted loans</description>
-      <pubDate>Thu, 08 Oct 2026 17:00:38 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/08/medium/Mostaqur-Rahman-6ac70b0b4c322.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Govt to sign deal with DP World today amid protests</title>
       <link>https://www.daily-sun.com/business/902225</link>
       <description>Bangladesh is set to sign a 15-year DP World deal to operate Chattogram Port’s NCT amid protests and threats to</description>
@@ -3118,6 +3104,18 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/908875</link>
       <description>A sudden hailstorm has damaged ripe Aman paddy, early-season potatoes and other vegetables in several</description>
       <pubDate>Fri, 13 Nov 2026 21:41:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eligibility criteria set for CFOs, CTOs, company secretaries</title>
+      <link>https://www.daily-sun.com/business/908915</link>
+      <description>New guidelines specify experience, academic qualifications and integrity requirements for senior appointments</description>
+      <pubDate>Sat, 14 Nov 2026 08:03:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>DCCI, TFO Canada join hands to boost SME exports</title>
+      <link>https://www.daily-sun.com/business/908912</link>
+      <description>Around 200 Bangladeshi small and medium enterprises (SMEs), including women-led businesses, will receive support to</description>
+      <pubDate>Sat, 14 Nov 2026 08:03:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
