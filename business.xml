@@ -5,30 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>DP World seals 15-yr NCT deal</title>
-      <link>https://www.daily-sun.com/business/902336</link>
-      <description>Global port operator to run, maintain and modernise NCT while govt retains ownership</description>
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>WTO hikes 2026 trade growth forecast on AI boom</title>
-      <link>https://www.daily-sun.com/business/902311/wto-hikes-2026-trade-growth-forecast-on-ai-boom</link>
-      <description>The WTO on Thursday sharply raised its global trade growth forecast for 2026, with merchandise</description>
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>PM seeks DP World investment in free trade zones, rail-based ICDs</title>
-      <link>https://daily-sun.com/business/902322/pm-seeks-dp-world-investment-in-free-trade-zones-rail-based-icds</link>
-      <description />
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Govt moves to strengthen internal audit to safeguard public funds</title>
-      <link>https://www.daily-sun.com/business/902465/govt-moves-to-strengthen-internal-audit-to-safeguard-public-funds</link>
-      <description />
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Bangladesh PMI drops to 48.6 as key sectors shrink</title>
       <link>https://www.daily-sun.com/business/902459/economic-momentum-slows-further-as-businesses-cite-five-key-concerns-pmi</link>
       <description />
@@ -3117,6 +3093,30 @@ sub-branch in Khulna</description>
       <description>Mobile financial services provider upay joins Dhaka Discount Fest 2026 as strategic partner, facilitating digital payments at the three-day shopping</description>
       <pubDate>Sat, 14 Nov 2026 23:24:36 +0000</pubDate>
       <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/14/medium/upay-6af82c00c2532.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Taka depreciates 60% since 2015, contributing to inflation: Cenbank chief</title>
+      <link>https://www.daily-sun.com/business/909177/taka-depreciates-60-since-2015-contributing-to-inflation-cenbank</link>
+      <description>The local currency has depreciated nearly 60% over the past ten years contributing to the</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>NRB Bank holds cashless Bangladesh awareness programme in Chattogram</title>
+      <link>https://www.daily-sun.com/business/909168/nrb-bank-holds-cashless-bangladesh-awareness-programme-in-chattogram</link>
+      <description>NRB Bank PLC organised a cashless banking awareness programme at Southern University Bangladesh in Chattogram</description>
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bangladesh targets trillion-dollar economy by 2034: Finance Minister</title>
+      <link>https://www.daily-sun.com/business/909286/bangladesh-targets-trillion-dollar-economy-by-2034-finance-minister</link>
+      <description />
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills gap keeps Bangladesh’s garment industry dependent on foreign talent</title>
+      <link>https://www.daily-sun.com/business/909275/skills-gap-keeps-bangladesh-s-garment-industry-dependent-on-foreign-talent</link>
+      <description />
+      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
