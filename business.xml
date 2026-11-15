@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Bangladesh PMI drops to 48.6 as key sectors shrink</title>
-      <link>https://www.daily-sun.com/business/902459/economic-momentum-slows-further-as-businesses-cite-five-key-concerns-pmi</link>
-      <description />
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Super Sale Car Bazar enters sixth week on strong response</title>
-      <link>https://www.daily-sun.com/business/902456/super-sale-car-bazar-enters-sixth-week-on-strong-response</link>
-      <description />
-      <pubDate>Fri, 09 Oct 2026 07:53:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Dutch companies to take part in int’l maritime expo at ICCB</title>
       <link>https://www.daily-sun.com/business/902376/netharlands</link>
       <description>A delegation of Dutch companies will take part in the Bangladesh International Marine and Offshore</description>
@@ -3117,6 +3105,18 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/909275/skills-gap-keeps-bangladesh-s-garment-industry-dependent-on-foreign-talent</link>
       <description />
       <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Banking sector needs structural reforms: KHI</title>
+      <link>https://www.daily-sun.com/business/909210</link>
+      <description>Review flags mounting bad loans, capital shortfalls despite 266 regulatory measures</description>
+      <pubDate>Sun, 15 Nov 2026 16:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>BB plans to cap corporate lending at 45%, boost SME and retail credit</title>
+      <link>https://www.daily-sun.com/business/909182/bb-plans-to-cap-corporate-lending-at-45-boost-sme-and-retail-credit</link>
+      <description>Central bank may set lending targets for banks next year; seeks to attract more foreign currency through expatriate accounts and bonds</description>
+      <pubDate>Sun, 15 Nov 2026 16:50:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
