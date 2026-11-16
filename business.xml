@@ -5,18 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Govt moves to strengthen internal audit to safeguard public funds</title>
-      <link>https://daily-sun.com/business/902465/govt-moves-to-strengthen-internal-audit-to-safeguard-public-funds</link>
-      <description />
-      <pubDate>Fri, 09 Oct 2026 23:35:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>StanChart confirms plan to sell retail banking business</title>
-      <link>https://www.daily-sun.com/business/902434</link>
-      <description>Sale process could take 18-24 months; bank assures customers of uninterrupted services</description>
-      <pubDate>Sat, 10 Oct 2026 02:40:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Beximco eyes revival with new boards, $23m investment</title>
       <link>https://www.daily-sun.com/business/902416</link>
       <description>Foreign investors propose reopening closed garment factory as group struggles with Tk50,000cr debt burden</description>
@@ -3117,6 +3105,18 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/909208</link>
       <description>Six international expos at Dhaka’s ICCB brought together over 200 companies from 20 countries to</description>
       <pubDate>Mon, 16 Nov 2026 01:10:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>BB weighs 45% cap on corporate lending</title>
+      <link>https://www.daily-sun.com/business/909224</link>
+      <description>Seeks to boost SME and retail credit</description>
+      <pubDate>Mon, 16 Nov 2026 07:57:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Owners threaten lockout from today if workers stay away</title>
+      <link>https://www.daily-sun.com/business/909221</link>
+      <description>BGMEA and BKMEA warn of indefinite factory closures without wages if garment workers stay away</description>
+      <pubDate>Mon, 16 Nov 2026 07:57:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
