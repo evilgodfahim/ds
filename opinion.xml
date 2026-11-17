@@ -5,13 +5,6 @@
     <link>https://www.daily-sun.com/opinion/</link>
     <description>Daily Sun Opinion</description>
     <item>
-      <title>Have CMSMEs Got Attention in FY2027 Budget?</title>
-      <link>https://www.daily-sun.com/opinion/889677</link>
-      <description />
-      <pubDate>Sat, 01 Aug 2026 09:16:03 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/07/31/small/DS-'07'31-51-6a6b91d6a93df.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>Inside China’s grassroots machine: How local governance actually works</title>
       <link>https://www.daily-sun.com/opinion/889642</link>
       <description />
@@ -3137,6 +3130,12 @@ from Toxic Cookware?</description>
       <link>https://www.daily-sun.com/opinion/909123/pakistan-s-polio-paradox</link>
       <description>Pakistan reports its 9th polio case of 2026, highlighting challenges in eradication efforts despite extensive</description>
       <pubDate>Tue, 17 Nov 2026 01:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>When Patients Look Abroad: What Bangladesh Must Learn</title>
+      <link>https://www.daily-sun.com/opinion/909656/when-patients-look-abroad-what-bangladesh-must-learn</link>
+      <description />
+      <pubDate>Tue, 17 Nov 2026 09:02:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
