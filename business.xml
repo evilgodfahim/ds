@@ -5,24 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>Trump’s suit made in Bangladesh as garment makers eye US growth</title>
-      <link>https://www.daily-sun.com/business/902701</link>
-      <description>A navy-blue suit worn by US President Donald Trump at a rally in Nebraska last</description>
-      <pubDate>Sun, 11 Oct 2026 01:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Savers turn to certificates amid banking uncertainty</title>
-      <link>https://www.daily-sun.com/business/902711</link>
-      <description>Bangladesh savings certificate investment rose 57% year-on-year in July-August FY27 as savers seek safer options</description>
-      <pubDate>Sun, 11 Oct 2026 07:11:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>REHAB president proposes 5% home loans to revive housing sector</title>
-      <link>https://www.daily-sun.com/business/902813/rehab-president-proposes-5-home-loans-to-revive-housing-sector</link>
-      <description />
-      <pubDate>Sun, 11 Oct 2026 07:11:46 +0000</pubDate>
-    </item>
-    <item>
       <title>China adds 10.52m urban jobs in Jan-Sep</title>
       <link>https://www.daily-sun.com/business/902797</link>
       <description>Will roll out services jobs policy</description>
@@ -3116,6 +3098,26 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/909649/minimum-wage-board-to-hold-3rd-meeting-on-23-november</link>
       <description />
       <pubDate>Tue, 17 Nov 2026 09:02:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Int’l expos on furniture production, interior design to begin at ICCB on Thursday</title>
+      <link>https://www.daily-sun.com/business/909520/int-l-expos-on-furniture-production-interior-design-to-begin-at-iccb-on-thursday</link>
+      <description>Three international exhibitions focusing on furniture manufacturing, interior design and signage technology will be held</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>China's economy falters as factory output, retail sales undershoot expectations</title>
+      <link>https://www.daily-sun.com/business/909514/china-s-economy-falters-as-factory-output-retail-sales-undershoot-expectations</link>
+      <description>Industrial output in October expanded 4.8% from a year earlier...</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:12 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/16/medium/China-business-Reuters-6afb09aebbb9f.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Default loans reach Tk5.97 lakh crore till September</title>
+      <link>https://www.daily-sun.com/business/909503/default-loans-reach-tk5-97-lakh-crore-till-september</link>
+      <description>Defaulted loans in the country's banking sector reached Tk5.97 lakh crore in September, accounting for 32.17% of total disbursed loans,</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:12 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/16/medium/default-loan-6afaedc2db6e8.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
