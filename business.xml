@@ -5,31 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Business</description>
     <item>
-      <title>ONE Bank launches Bangla QR payments at UIU</title>
-      <link>https://www.daily-sun.com/business/902677/one-bank-launches-bangla-qr-payments-at-uiu</link>
-      <description />
-      <pubDate>Sat, 10 Oct 2026 15:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tk60,000cr needed annually to restructure banking sector: BB Governor</title>
-      <link>https://www.daily-sun.com/business/902674/tk60-000cr-needed-annually-to-restructure-banking-sector-bb-governor</link>
-      <description />
-      <pubDate>Sat, 10 Oct 2026 15:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bangladesh Fintech Summit discusses next phase of digital finance</title>
-      <link>https://www.daily-sun.com/business/902667/bangladesh-fintech-summit-discusses-next-phase-of-digital-finance</link>
-      <description />
-      <pubDate>Sat, 10 Oct 2026 15:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vegetable and fish prices rise, meat rates steady</title>
-      <link>https://www.daily-sun.com/business/902545</link>
-      <description>Vegetable and fish prices have risen in Dhaka’s kitchen markets, adding to consumers’ food costs, while beef, mutton and broiler</description>
-      <pubDate>Sat, 10 Oct 2026 22:33:51 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/10/10/medium/kitchen-market-Mokto-6ac94e1d992f7.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>‘Super Sale Car Bazaar’ hosted at ICCB for sixth week</title>
       <link>https://www.daily-sun.com/business/902541</link>
       <description>Super Sale Car Bazaar holds its sixth weekly event at ICCB in Dhaka, offering new, used and reconditioned cars, motorcycles</description>
@@ -3119,6 +3094,30 @@ sub-branch in Khulna</description>
       <link>https://www.daily-sun.com/business/909523/bangladesh-becomes-dfc-eligible-country</link>
       <description />
       <pubDate>Mon, 16 Nov 2026 17:40:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Minimum Wage Board’s 3rd meeting postponed</title>
+      <link>https://www.daily-sun.com/business/909471/minimum-wage-board-s-3rd-meeting-postponed</link>
+      <description>The meeting cancelled due to unavoidable circumstances; new date to be announced later</description>
+      <pubDate>Tue, 17 Nov 2026 01:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Save garment industry, save private sector</title>
+      <link>https://www.daily-sun.com/business/909392</link>
+      <description>Bangladesh’s garment industry unrest threatens export earnings, jobs and private investment as 147 factories shut</description>
+      <pubDate>Tue, 17 Nov 2026 01:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Third meeting of minimum wage board for RMG workers due Monday</title>
+      <link>https://daily-sun.com/business/909466/third-meeting-of-minimum-wage-board-for-rmg-workers-due-monday</link>
+      <description />
+      <pubDate>Tue, 17 Nov 2026 01:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Millat leads Bangladesh delegation to ICAO aviation conference</title>
+      <link>https://www.daily-sun.com/business/909584/jica</link>
+      <description />
+      <pubDate>Tue, 17 Nov 2026 01:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
