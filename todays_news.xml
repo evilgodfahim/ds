@@ -5,20 +5,6 @@
     <link>https://www.daily-sun.com/</link>
     <description>Daily Sun Todays News</description>
     <item>
-      <title>Two passengers killed after being thrown from moving bus in Rangpur</title>
-      <link>https://www.daily-sun.com/bangladesh/909281/two-passengers-killed-after-being-thrown-from-moving-bus-in-rangpur</link>
-      <description>Police subsequently detained the bus driver and supervisor</description>
-      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/15/medium/Two-Passengers-Killed-After-Being-Thrown-from-Moving-Bus-in-Rangpur-6af95906d3125.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Fuel oil to flow from Maheshkhali to Patenga through subsea pipeline in February</title>
-      <link>https://www.daily-sun.com/bangladesh/909280/fuel-oil-to-flow-from-maheshkhali-to-patenga-through-subsea-pipeline-in-february</link>
-      <description>Bangladesh's Single Point Mooring system will begin operations in February 2027, revolutionizing fuel imports, reducing costs, and eliminating vessel delays.</description>
-      <pubDate>Sun, 15 Nov 2026 10:00:00 +0000</pubDate>
-      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/15/medium/Fuel-oil-to-flow-from-Maheshkhali-to-Patenga-through-subsea-pipeline_Daily-Sun-6af9532816e63.jpg" type="image/jpeg" />
-    </item>
-    <item>
       <title>The Banking Sector Crisis: Who Is Paying the Social Cost?</title>
       <link>https://www.daily-sun.com/opinion/909279/the-banking-sector-crisis-who-is-paying-the-social-cost</link>
       <description>Public trust in financial institutions, people's savings, the rights of bank employees, and the question of social justice…!!</description>
@@ -3466,6 +3452,19 @@
       <link>https://daily-sun.com/world/910419/trump-says-international-criminal-court-out-of-control</link>
       <description />
       <pubDate>Sat, 21 Nov 2026 20:57:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gold prices fall by Tk6,182 per bhori</title>
+      <link>https://www.daily-sun.com/business/910600/gold-prices-fall-by-tk6-182-per-bhori</link>
+      <description>22-carat gold now costs Tk194,964 per bhori across Bangladesh</description>
+      <pubDate>Sun, 22 Nov 2026 00:48:00 +0000</pubDate>
+      <enclosure url="https://dscdn.daily-sun.com/english/uploads/news_photos/2026/11/22/medium/Gold12-6b021f41d30b7.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ex-MP’s residence, 15 other houses attacked, set on fire in Narail</title>
+      <link>https://daily-sun.com/bangladesh/910454/ex-mp-s-residence-15-other-houses-attacked-set-on-fire-in-narail</link>
+      <description />
+      <pubDate>Sun, 22 Nov 2026 00:48:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
